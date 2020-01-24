@@ -1,0 +1,63 @@
+https://arxiv.org/abs/1901.04985
+
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:1901.04985
+Search...
+Help | Advanced Search
+
+Search
+Download:
+PDF
+Other formats
+(license)
+Current browse context:
+cs.DC
+< prev  |  next >
+new | recent | 1901
+Change to browse by:
+cs
+cs.AI
+References & Citations
+NASA ADS
+DBLP - CS Bibliography
+listing | bibtex
+MyungJoo Ham
+Ji Joong Moon
+Geunsik Lim
+Wook Song
+Jaeyun Jung
+…
+Export citation
+Google Scholar
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Computer Science > Distributed, Parallel, and Cluster Computing
+NNStreamer: Stream Processing Paradigm for Neural Networks, Toward Efficient Development and Execution of On-Device AI Applications
+MyungJoo Ham, Ji Joong Moon, Geunsik Lim, Wook Song, Jaeyun Jung, Hyoungjoo Ahn, Sangjung Woo, Youngchul Cho, Jinhyuck Park, Sewon Oh, Hong-Seok Kim
+(Submitted on 12 Jan 2019)
+We propose nnstreamer, a software system that handles neural networks as filters of stream pipelines, applying the stream processing paradigm to neural network applications. A new trend with the wide-spread of deep neural network applications is on-device AI; i.e., processing neural networks directly on mobile devices or edge/IoT devices instead of cloud servers. Emerging privacy issues, data transmission costs, and operational costs signifies the need for on-device AI especially when a huge number of devices with real-time data processing are deployed. Nnstreamer efficiently handles neural networks with complex data stream pipelines on devices, improving the overall performance significantly with minimal efforts. Besides, nnstreamer simplifies the neural network pipeline implementations and allows reusing off-shelf multimedia stream filters directly; thus it reduces the developmental costs significantly. Nnstreamer is already being deployed with a product releasing soon and is open source software applicable to a wide range of hardware architectures and software platforms.
+Comments:	This is a technical report from Samsung Electronics, which will be published via conference proceedings (ACM/IEEE/USENIX, to be determined) later
+Subjects:	Distributed, Parallel, and Cluster Computing (cs.DC); Artificial Intelligence (cs.AI)
+Cite as:	arXiv:1901.04985 [cs.DC]
+ 	(or arXiv:1901.04985v1 [cs.DC] for this version)
+Bibliographic data
+[Enable Bibex(What is Bibex?)]
+Submission history
+From: MyungJoo Ham [view email]
+[v1] Sat, 12 Jan 2019 06:00:05 UTC (2,705 KB)
+Which authors of this paper are endorsers? | Disable MathJax (What is MathJax?)Browse v0.2.1 released 2019-04-18   Feedback?
+About arXiv
+Leadership Team
+ Contact Us
+ Follow us on Twitter
+Help
+Privacy Policy
+Blog
+Subscribe
+arXiv® is a registered trademark of Cornell University.
+
+If you have a disability and are having trouble accessing information on this website or need materials in an alternate format, contact web-accessibility@cornell.edu for assistance.

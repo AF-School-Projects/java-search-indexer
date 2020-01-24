@@ -1,0 +1,127 @@
+https://www.investopedia.com/terms/d/datamining.asp
+
+EDUCATION
+MARKETS
+SIMULATOR
+YOUR MONEY
+ADVISORS
+ACADEMY 
+Business
+BUSINESS ESSENTIALS
+MARKETING ESSENTIALS
+BUSINESS LEADERS
+CORPORATE FINANCE & ACCOUNTING
+SMALL BUSINESS
+COMPANY PROFILES
+BUSINESS  MARKETING ESSENTIALS
+Data Mining
+REVIEWED BY ALEXANDRA TWIN  Updated Aug 18, 2019
+What Is Data Mining?
+Data mining is a process used by companies to turn raw data into useful information. By using software to look for patterns in large batches of data, businesses can learn more about their customers to develop more effective marketing strategies, increase sales and decrease costs. Data mining depends on effective data collection, warehousing, and computer processing.
+
+ Data mining processes are used to build machine learning models that power applications including search engine technology and website recommendation programs.
+How Data Mining Works
+Data mining involves exploring and analyzing large blocks of information to glean meaningful patterns and trends. It can be used in a variety of ways, such as database marketing, credit risk management, fraud detection, spam Email filtering, or even to discern the sentiment or opinion of users.
+
+The data mining process breaks down into five steps. First, organizations collect data and load it into their data warehouses. Next, they store and manage the data, either on in-house servers or the cloud. Business analysts, management teams and information technology professionals access the data and determine how they want to organize it. Then, application software sorts the data based on the user's results, and finally, the end-user presents the data in an easy-to-share format, such as a graph or table.
+
+Data Warehousing and Mining Software
+Data mining programs analyze relationships and patterns in data based on what users request. For example, a company can use data mining software to create classes of information. To illustrate, imagine a restaurant wants to use data mining to determine when it should offer certain specials. It looks at the information it has collected and creates classes based on when customers visit and what they order.
+
+In other cases, data miners find clusters of information based on logical relationships or look at associations and sequential patterns to draw conclusions about trends in consumer behavior.
+
+Warehousing is an important aspect of data mining. Warehousing is when companies centralize their data into one database or program. With a data warehouse, an organization may spin off segments of the data for specific users to analyze and use.
+
+However, in other cases, analysts may start with the data they want and create a data warehouse based on those specs. Regardless of how businesses and other entities organize their data, they use it to support management's decision-making processes.
+
+Example of Data Mining
+Grocery stores are well-known users of data mining techniques. Many supermarkets offer free loyalty cards to customers that give them access to reduced prices not available to non-members. The cards make it easy for stores to track who is buying what, when they are buying it and at what price. After analyzing the data, stores can then use this data to offer customers coupons targeted to their buying habits and decide when to put items on sale or when to sell them at full price.
+
+Data mining can be a cause for concern when a company uses only selected information, which is not representative of the overall sample group, to prove a certain hypothesis.
+
+KEY TAKEAWAYS
+Data mining is the process of analyzing a large batch of information to discern trends and patterns.
+Data mining can be used by corporations for everything from learning about what customers are interested in or want to buy to fraud detection and spam filtering.
+Data mining programs break down patterns and connections in data based on what information users request or provide.
+Related Terms
+Data Warehousing: Understanding Electronic Storage
+Data warehousing is the electronic storage of a large amount of information by a business, in a manner that is secure, reliable, easy to retrieve, and easy to manage. more
+Inside Data Science and Its Applications
+Data science focuses on the collection and application of big data to provide meaningful information in industry, research, and life contexts. more
+Understanding Visual Basic for Applications
+Visual Basic for Applications (VBA) is part of Microsoft Corporation's (NASDAQ: MSFT) legacy software, Visual Basic, which the company built to help write programs for the Windows operating system. more
+How Business Intelligence (BI) Works
+Business intelligence (BI) refers to the procedural and technical infrastructure that collects, stores, and analyzes data produced by a company. more
+Customer Relationship Management - CRM goes beyond just software
+Customer relationship management (CRM) is a term for the principles, practices, and guidelines an organization abides by when dealing with customers. more
+Machine Learning
+Machine learning is the idea that a computer program can adapt to new data independently of human action. Machine learning is a field of artificial intelligence (AI) that keeps a computer’s built-in algorithms. more
+Partner Links
+Related Articles
+
+FINANCIAL TECHNOLOGY
+
+The Future of Fintech
+
+ACCOUNTING
+
+Introduction to Accounting Information Systems – AIS
+
+DEGREES & CERTIFICATIONS
+
+Data Analyst: Career Path & Qualifications
+
+CYBERSECURITY
+
+7 Ways Amazon Uses Big Data to Stalk You
+
+BANKING FRAUD
+
+5 ATM Scams That Can Break the Bank
+
+SALARIES & COMPENSATION
+
+Data Analyst: Job Description & Average Salary
+TRUSTe
+About Us
+Editorial Policy
+Privacy Policy
+Terms of Use
+Advertise
+Contact Us
+Dictionary
+News
+Careers
+#
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Investopedia is part of the Dotdash publishing family.
+The Balance 
+Lifewire 
+TripSavvy 
+The Spruce
+and more

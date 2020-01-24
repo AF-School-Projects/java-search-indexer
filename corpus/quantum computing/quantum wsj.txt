@@ -1,0 +1,194 @@
+https://www.wsj.com/articles/amazon-rolls-out-quantum-computing-service-11575314729
+
+
+DOW JONES, A NEWS CORP COMPANY
+DJIA27686.88 0.67%▲	Nasdaq8568.86 0.57%▲	U.S. 10 Yr-27/32 Yield1.774%▼	Crude Oil58.44 4.17%▲	Euro1.1088 0.06%▲
+SubscribeSign In
+Cyber Monday Sale Try 2 Months for $1
+The Wall Street Journal
+English Edition
+December 4, 2019
+
+Print EditionVideo
+Home
+World
+U.S.
+Politics
+Economy
+Business
+Tech
+Markets
+Opinion
+Life & Arts
+Real Estate
+WSJ. Magazine
+YOU HAVE BEEN SELECTEDWSJ wants to hear from you. Take part in this short survey to help shape The Journal. Take Survey
+SHARE
+TEXT
+CIO JOURNAL
+Amazon Rolls Out Quantum-Computing Service
+Select customers will be able to test quantum algorithms, hardware
+
+
+Amazon Web Services said the new service, Amazon Braket, is ‘in preview’ as of Monday. PHOTO: JASON ALDEN/BLOOMBERG NEWS
+By Sara Castellanos
+Dec. 2, 2019 2:25 pm ET
+Amazon. com Inc.’s cloud-services division is offering select enterprise customers the ability to experiment with early-stage quantum-computing services over the cloud, following other companies racing to commercialize the emerging technology.
+
+Amazon Web Services Inc. said the new service, Amazon Braket, is “in preview” as of Monday. The platform lets enterprise customers explore how they could benefit from quantum computers by developing and testing quantum algorithms in simulations. Clients will also have access to different early-stage quantum-computing hardware from providers including D-Wave Systems Inc., IonQ Inc. and Rigetti Computing.
+
+“Customers are asking for ways to experiment with quantum computers and explore the technology’s potential,” Charlie Bell, a senior vice president at AWS, said in a statement.
+
+Braket refers to “bra-ket,” a standard notation for describing quantum states. The service is expected to launch to all customers in 2020.
+
+MORE FROM CIO JOURNAL
+Amazon Rolls Out Quantum-Computing Service December 2, 2019
+Blockchain, 3-D Printing Combine to Make Aircraft Parts November 26, 2019
+Older IT Workers Left Out Despite Tech Talent Shortage November 25, 2019
+The tech giant joins Microsoft Corp. , Alphabet Inc. ’s Google and International Business Machines Corp. in announcing quantum-computing efforts. Microsoft and IBM are also allowing companies to experiment with quantum-computing hardware over their respective clouds. Amazon and Microsoft dominate in cloud computing. Together, the companies held 60% of the cloud market last year.
+
+Boeing Co. said it plans to collaborate with AWS in exploring potential applications for quantum computing, including how the technology could potentially speed up materials-science research and how it could secure communications.
+
+Quantum computing could also be useful for transportation and logistics companies, including Amazon, said Bill Vass, vice president of technology at AWS. The technology could help find more efficient routes to get deliveries from one place to another while avoiding traffic, all in near real-time, he said. “Quantum computing has the potential to solve some complicated problems that are hard to get done with current algorithms on existing computers,” he said.
+
+He declined to disclose how much AWS is investing in the technology, but said it is a significant amount.
+
+Amazon Web Services also said in a blog post Monday that as part of its quantum push, it is establishing the AWS Center for Quantum Computing near the California Institute of Technology campus in Pasadena, Calif., bringing together experts from the company, Caltech and other institutions. The goal is to research technology that might enable quantum computers to be mass-produced and to identify applications that are best solved on quantum computers, according to the AWS blog post.
+
+By harnessing the properties of quantum physics, quantum computers have the potential to sort through a vast number of possibilities in nearly real time and come up with a probable solution. While traditional computers store information as either zeros or ones, quantum computers use quantum bits, or qubits, which represent and store information as both zeros and ones simultaneously.
+
+No commercial-grade quantum computer has been built yet. IBM has offered customers access to early-stage quantum-computing machines over its cloud since 2016. Google in October announced a quantum-computing experiment that generated about 1 million random strings of numbers in roughly three minutes, a task the company said would have taken the world’s fastest conventional supercomputer 10,000 years—though scientists at IBM disagreed, saying the task could be handled by a traditional computer in 2½ days.
+
+Microsoft in November unveiled cloud-based quantum-computing tools that companies can use to speed up calculations on classical computers, among other things.
+
+Related Video
+How Cloud Computing Became a Big Tech Battleground
+YOU MAY ALSO LIKE
+
+UP NEXT
+
+
+How Cloud Computing Became a Big Tech Battleground
+How Cloud Computing Became a Big Tech Battleground
+Big tech firms are investing in data centers as they compete for the $214 billion cloud computing market. WSJ explains what cloud computing is, why big tech is betting big on future contracts.
+While new innovations in quantum computing are happening daily, it is hard to predict when a commercial-grade quantum computer will be built that can add real business value, said Simone Severini, director of quantum computing at AWS.
+
+“We believe a substantial amount of work will need to be done for the promise of quantum computing to become real,” he said.
+
+Write to Sara Castellanos at sara.castellanos@wsj.com
+
+Copyright ©2019 Dow Jones & Company, Inc. All Rights Reserved. 87990cbe856818d5eddac44c7b1cdeb8
+RECOMMENDED VIDEOS
+https://m.wsj.net/video/20190703/070419gasprices/070419gasprices_115x65.jpg
+Why Gas Prices Vary From Pump to Pump
+https://m.wsj.net/video/20191203/120319nato/120319nato_115x65.jpg
+Alliance Divided: NATO’s Identity Crisis, Explained
+https://m.wsj.net/video/20191126/112619dresdenheist1/112619dresdenheist1_115x65.jpg
+Thieves Smash Jewelry Case, Steal Nearly 100 Pieces in German Museum Heist
+https://m.wsj.net/video/20191126/20191125ansari/20191125ansari_115x65.jpg
+In the Elevator with The First Female Space Tourist
+https://m.wsj.net/video/20191203/seib120419v2/seib120419v2_115x65.jpg
+Why the 2020 Election Calendar May Help Trump in Impeachment Inquiry
+MOST POPULAR ARTICLES
+Chew on This: Gum That Promises to Help You Sleep and Make You Skinny
+Chew on This: Gum That Promises to Help You Sleep and Make You Skinny
+The Rock, From Strength to Strength
+The Rock, From Strength to Strength
+Kamala Harris to Drop Out of Presidential Race
+Kamala Harris to Drop Out of Presidential Race
+An NBA Player Wanted to Lose Weight. He Drank Beer.
+An NBA Player Wanted to Lose Weight. He Drank Beer.
+Why Bloomberg’s Candidacy Is Terminal
+Opinion: Why Bloomberg’s Candidacy Is Terminal
+WSJ opens select articles to reader conversation to promote thoughtful dialogue. See the 'Join the Conversation' area to the right for stories open to conversation. For more information, please reference our community guidelines. Email feedback and questions to moderator@wsj.com.
+WHAT TO READ NEXT...
+
+BUSINESS
+U.S. Tech Giants Bet Big on India. Now It’s Changing the Rules.
+
+TECH
+Google Co-Founders Page, Brin Give Up Management Roles
+
+CIO JOURNAL
+Amazon Introduces ‘Plug and Play’ AI Tools
+
+POLITICS
+Trump to Leave NATO Summit Early After Video Flap
+
+FEATURE
+The Gem of the French Riviera—For 150 Years
+
+Independent of The Wall Street Journal newsroom
+INDUSTRIES
+Peloton’s viral ad captures a ‘116 lb woman’s YEARLONG fitness journey to becoming a 112 lb woman’
+ 
+
+MANSION GLOBAL ARTICLE
+Hedge Fund Billionaire Buys Priciest House in Palm Beach History for $111 Million
+SPONSORED OFFERS
+MACY'S:
+Macy's promo code: Extra 30% off + 15% off BeautyNIKE:
+Cyber Week Nike coupon code: $30 off $150COACH:
+50% off women's styles + free shipping with COACH promo codeEASTBAY:
+Save 25% off with Eastbay promo codeTRAVELOCITY:
+Get $150 off with a Travelocity coupon on Cyber WeekFOOT LOCKER:
+15% off $75+ with this Foot Locker coupon
+JOIN THE CONVERSATION
+Trump to Leave NATO Summit Early After Video FlapTrump Risks Further Isolation as Macron Relationship SoursCelebrities Seek Her Advice. M.B.A.s, Executives Line Up for Her Harvard Class.Celebrities Seek Her Advice. M.B.A.s, Executives Line Up for Her Harvard Class.Trump Administration to Stiffen Food-Stamp Work RequirementTrump Administration to Curb States’ Control of Food AidGoogle Co-Founders Page, Brin Give Up Management RolesSundar Pichai to replace Larry Page as CEO of AlphabetSongbirds Are Shrinking in Size, Study FindsSongbirds Are Shrinking in Size, Study FindsHospital Groups Sue to Block Price-Transparency RuleHospital Groups Sue to Block Price-Transparency RuleNYC Coffee Startup Tamps Down Bro Culture by Hiring PhilosopherNYC Coffee Startup Tamps Down Bro Culture by Hiring PhilosopherU.S. Tech Giants Bet Big on India. Now It’s Changing the Rules.U.S. Tech Giants Bet Big on India. Now the Rules Are Changing.Chew on This: Gum That Promises to Help You Sleep and Make You SkinnyChew on This: Gum That Promises to Help You Sleep and Make You SkinnyHere Comes the Merch: Sony Strikes Deal for Beatles MemorabiliaHere Comes the Merch: Sony Strikes Deal for Beatles Memorabilia
+The Wall Street Journal
+English Edition
+Subscribe NowSign In
+BACK TO TOP«
+WSJ Membership
+
+WSJ+ Membership Benefits
+Subscription Options
+Why Subscribe?
+Corporate Subscriptions
+Professor Journal
+Student Journal
+WSJ High School Program
+WSJ Amenity Program
+Customer Service
+
+Customer Center
+Contact Us
+Tools & Features
+
+Emails & Alerts
+Guides
+My News
+RSS Feeds
+Video Center
+Watchlist
+Podcasts
+Ads
+
+Advertise
+Commercial Real Estate Ads
+Place a Classified Ad
+Sell Your Business
+Sell Your Home
+Recruitment & Career Ads
+More
+
+About the Newsroom
+Content Partnerships
+Corrections
+Jobs at WSJ
+Masthead
+News Archive
+Register for Free
+Reprints
+Buy Issues
+Facebook
+Twitter
+Instagram
+YouTube
+Podcasts
+Snapchat
+Google Play
+App Store
+Dow Jones ProductsBarron'sBigChartsDow Jones DNADow Jones NewswiresFactivaFinancial NewsMansion GlobalMarketWatchPrivate Marketsrealtor.comRisk & ComplianceVenturesourceWSJ ConferenceWSJ Pro Central BankingWSJ VideoWSJ Wine
+Privacy PolicyCookie PolicyCopyright PolicyData PolicySubscriber Agreement & Terms of UseYour Ad Choices
+Copyright ©2019 Dow Jones & Company, Inc. All Rights Reserved.

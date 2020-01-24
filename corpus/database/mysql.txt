@@ -1,0 +1,85 @@
+https://www.mysql.com/
+
+
+Contact MySQL  |  Login  |  Register
+The world's most popular open source database 
+   
+MYSQL.COMDOWNLOADSDOCUMENTATIONDEVELOPER ZONE
+ Developer Zone
+Products Cloud Services Partners Customers Why MySQL? News & Events How to Buy
+MySQL Enterprise Edition
+The most comprehensive set of advanced features, management tools and technical support to achieve the highest levels of MySQL scalability, security, reliability, and uptime.
+Learn More »
+
+Oracle MySQL Cloud Service
+Built on MySQL Enterprise Edition and powered by the Oracle Cloud, Oracle MySQL Cloud Service provides a simple, automated, integrated and enterprise ready MySQL cloud service, enabling organizations to increase business agility and reduce costs.
+Learn More »
+
+MySQL Cluster CGE
+MySQL Cluster enables users to meet the database challenges of next generation web, cloud, and communications services with uncompromising scalability, uptime and agility.
+Learn More »
+
+MySQL for OEM/ISV
+Over 2000 ISVs, OEMs, and VARs rely on MySQL as their products' embedded database to make their applications, hardware and appliances more competitive, bring them to market faster, and lower their cost of goods sold.
+Learn More »
+
+ Free Webinars
+MySQL Replication: Contingency, Scalability, Partial Replication, etc.
+On Demand
+Oracle MySQL Live Webcast: Automatic Upgrade and New Error Logging in MySQL 8.0
+On Demand
+Oracle MySQL Live Webcast: MySQL, NoSQL, JSON, JS, Python: Document Store
+On Demand
+More »
+ White Papers
+MySQL Document Store: Top 10 Reasons
+What's New in MySQL 8.0
+MySQL Enterprise Edition and EU General Data Protection Regulation (GDPR)
+Guide to MySQL High Availability
+MySQL Enterprise Edition Product Guide
+More »
+Some of our customers
+
+                       
+
+Contact MySQL Sales
+USA/Canada: +1-866-221-0634   (More Countries »)   
+PRODUCTS
+Oracle MySQL Cloud Service
+MySQL Enterprise Edition
+MySQL Standard Edition
+MySQL Classic Edition
+MySQL Cluster CGE
+MySQL Embedded (OEM/ISV)
+ 
+SERVICES
+Training
+Certification
+Consulting
+Support
+ 
+DOWNLOADS
+MySQL Community Server
+MySQL NDB Cluster
+MySQL Shell
+MySQL Router
+MySQL Workbench
+ 
+DOCUMENTATION
+MySQL Reference Manual
+MySQL Workbench
+MySQL NDB Cluster
+MySQL Connectors
+Topic Guides
+ 
+ABOUT MYSQL
+Contact Us
+How to Buy
+Partners
+Job Opportunities
+Site Map
+ English   ( Deutsch | Français | Italiana | 日本 | 中文 )
+   © 2019, Oracle Corporation and/or its affiliates
+Legal Policies | Your Privacy Rights | Terms of Use | Trademark Policy | Contributor Agreement | Cookie Preferences
+
+Start chat

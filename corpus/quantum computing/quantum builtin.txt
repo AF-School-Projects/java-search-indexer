@@ -1,0 +1,196 @@
+https://builtin.com/hardware/quantum-computing-applications
+
+
+Skip to main content
+TECH JOBS
+TECH TOPICS
+TECH HUBS
+FOR EMPLOYERS
+SIGN UP
+LOG IN
+APPLYING PARADIGM-SHIFTING QUANTUM COMPUTERS TO REAL-WORLD ISSUES
+Far from commercially scalable but more than mere fantasy, quantum computing will one day be a transformative reality.
+November 18, 2019
+Written by Stephen Gossett
+LinkedInFacebookTwitterlinkEmail
+Slowly but surely, quantum computing is getting ready for its closeup.
+
+Google made headlines in October upon proclaiming that it had achieved the long-anticipated breakthrough of “quantum supremacy.” That’s when a quantum computer is able to perform a task a conventional computer can’t. Not in a practical amount of time, anyway. For instance, Google claimed the test problem it ran would have taken a classical computer thousands of years to complete — though some critics and competitors called that a gross exaggeration. 
+
+IBM, for one, wasn’t having it. The other big player in quantum, it promptly posted a response essentially arguing that Google had underestimated the muscle of IBM supercomputers — which, though blazingly fast, aren’t of the quantum variety. 
+
+Tech-giant head-butting aside, Google’s achievement was a genuine milestone — one that further established quantum computing in the broader consciousness and prompted more people to wonder, What will these things actually do?
+
+10 QUANTUM COMPUTING APPLICATIONS TO KNOW
+Cybersecurity
+Drug Development
+Financial Modeling
+Better Batteries
+Cleaner Fertilization
+Traffic Optimization
+Weather Forecasting and Climate Change
+Artificial Intelligence
+Solar Capture
+Electronic Materials Discovery
+But even once quantum computing reigns supreme, its potential impact remains largely theoretical — hence the hedging throughout in this article. That’s more a reflection, though, of QC’s still-fledgling status than unfulfilled promise.
+
+Before commercial-scale quantum computing is a thing, however, researchers must clear some major hurdles. Chief among them: upping the number of qubits, units of information that quantum computers use to perform tasks. Whereas classical computer “bits” exist as 1s or 0s, qubits can be either — or both simultaneously. That’s key to massively greater processing speeds, which are necessary to simulate molecular-level quantum mechanics.
+
+Despite quantum’s still-hypothetical nature and the long road ahead, predictions and investment abound. Google CEO Sundar Pichai likened his company’s recent proof-of-concept advancement to the Wright brothers’ 12-second flight: though very basic and short-lived, it demonstrated what’s possible. And what’s possible, experts say, is impressive indeed.
+
+From cybersecurity to pharmaceutical research to finance, here are some ways quantum will facilitate major advancements.
+
+ 
+
+post-quantum quantum computing applications examples
+Post-Quantum
+POST-QUANTUM
+Location: London
+
+How it’s using quantum computing: To presidential candidate Andrew Yang, Google’s quantum milestone meant that “no code is uncrackable.” He was referring to a much-discussed notion that the unprecedented factorization power of quantum computers would severely undermine common internet encryption systems.
+
+But Google’s device (like all current QC devices) is far too error-prone to pose the immediate cybersecurity threat that Yang implied. In fact, according to theoretical computer scientist Scott Aaronson, such a machine won’t exist for quite a while. But the looming danger is serious. And the years-long push toward quantum-resistant algorithms — like the National Institute of Standards and Technology’s ongoing competition to build such models — illustrates how seriously the security community takes the threat.
+
+One of just 26 so-called post-quantum algorithms to make the NIST’s “semifinals” comes from, appropriately enough, British-based cybersecurity leader Post-Quantum. Experts say the careful and deliberate process exemplified by the NIST’s project is precisely what quantum-focused security needs. As Dr. Deborah Franke of the National Security Agency told Nextgov, "There are two ways you could make a mistake with quantum-resistant encryption: One is you could jump to the algorithm too soon, and the other is you jump to the algorithm too late.”
+
+ 
+
+proteinqure quantum computing applications examples
+ProteinQure
+PROTEINQURE
+Location: Toronto
+
+How it’s using quantum computing: “The real excitement about quantum is that the universe fundamentally works in a quantum way, so you will be able to understand nature better,” Google’s Pichai told MIT Technology Review in the wake of his company’s recent announcement. “It’s early days, but where quantum mechanics shines is the ability to simulate molecules, molecular processes, and I think that is where it will be the strongest. Drug discovery is a great example.”
+
+One company focusing computational heft on molecular simulation, specifically protein behavior, is Toronto-based biotech startup ProteinQure. Flush with $4 million in recent seed funding, it partners with quantum-computing leaders (IBM, Microsoft and Rigetti Computing) and pharma research outfits (SRI International, AstraZeneca) to explore QC’s potential in modeling protein.
+
+That’s the deeply complex but high-yield route of drug development in which proteins are engineered for targeted medical purposes. Although it’s vastly more precise than the old-school trial-and-error method of running chemical experiments, it’s infinitely more challenging from a computational standpoint. As Boston Consulting Group noted, merely modeling a penicillin molecule would require an impossibly large classical computer with 10-to-the-86th-power bits. For advanced quantum computers, though, that same process could be a snap — and could lead to the discovery of new drugs for serious maladies like cancer, Alzheimer’s and heart disease.
+
+Cambridge, Mass.-based Biogen is another notable company exploring quantum computing’s capacity for drug development. Focused on neurological disease research, the biotech firm announced a 2017 partnership with quantum startup 1QBit and Accenture.
+
+ 
+
+RELATED
+20 Quantum Computing Companies Making Mind-Blowing Breakthroughs
+
+ 
+
+daimler ag quantum computing applications examples
+Daimler AG
+DAIMLER AG
+Location: Stuttgart, Germany
+
+How it’s using quantum computing: QCs’ potential to simulate quantum mechanics could be equally transformative in other chemistry-related realms beyond drug development. The auto industry, for example, wants to harness the technology to build better car batteries. 
+
+In 2018, German car manufacturer Daimler AG (the parent company of Mercedes-Benz) announced two distinct partnerships with quantum-computing powerhouses Google and IBM. Electric vehicles are “mainly based on a well-functioning cell chemistry of the batteries,” the company wrote in its magazine at the time. Quantum computing, it added, inspires “justified hope” for “initial results” in areas like cellular simulation and the aging of battery cells. Improved batteries for electric vehicles could help increase adoption of those vehicles.
+
+Daimler is also looking into how QC could potentially supercharge AI, plus manage an autonomous-vehicle-choked traffic future and accelerate its logistics. It follows in the footsteps of another major Teutonic transportation brand: Volkswagen. In 2017, the automaker announced a partnership with Google focused on similar initiatives. It also teamed up with D-Wave Systems, in 2018.
+
+ 
+
+volkswagen quantum computing applications examples
+Volkswagen Group
+VOLKSWAGEN GROUP
+Location: Wolfsburg, Germany
+
+How it’s using quantum computing: Volkswagen’s exploration of optimization brings up a point worth emphasizing: Despite some common framing, the main breakthrough of quantum computing isn’t just the speed at which it will solve challenges, but the kinds of challenges it will solve.
+
+The “traveling salesman” problem, for instance, is one of the most famous in computation. It aims to determine the shortest possible route between multiple cities, hitting each city once and returning to the starting point. Known as an optimization problem, it’s incredibly difficult for a classical computer to tackle. For fully realized QCs, though, it could be a cakewalk.
+
+D-Wave and VW have already run pilot programs on a number of traffic- and travel-related optimization challenges, including streamlining traffic flows in Beijing, Barcelona and, just this month, Lisbon. For the latter, a fleet of buses traveled along distinct routes that were tailored to real-time traffic conditions through a quantum algorithm, which VW continues to tweak after each trial run. According to D-Wave CEO Vern Brownell, the company’s pilot “brings us closer than ever to realizing true, practical quantum computing.” 
+
+ 
+
+jpmorgan chase quantum computing applications examples
+JPMorgan Chase
+JPMORGAN CHASE
+Location: NYC
+
+How it’s using quantum computing: The list of partners that comprise Microsoft’s so-called Quantum Network includes a slew of research universities and quantum-focused technical outfits, but precious few business affiliates. However, two of the five — NatWest and Willis Towers Watson — are banking interests. Similarly, at IBM’s Q Network, JPMorgan Chase stands out amid a sea of tech-focused members as well as government and higher-ed research institutions.
+
+That hugely profitable financial services companies would want to leverage paradigm-shifting technology is hardly a shocker, but quantum and financial modeling are a truly natural match thanks to structural similarities. As a group of European researchers wrote last year, “[T]he entire financial market can be modeled as a quantum process, where quantities that are important to finance, such as the covariance matrix, emerge naturally.”
+
+A lot of recent research has focused specifically on quantum’s potential to dramatically speed up the so-called Monte Carlo model, which essentially gauges the probability of various outcomes and their corresponding risks. A 2019 paper co-written by IBM researchers and members of JPMorgan’s Quantitative Research team included a methodology to price option contracts using a quantum computer.
+
+Its seemingly clear risk-assessment application aside, quantum in finance could have a broad future. “If we had [a commercial quantum computer] today, what would we do?" Nikitas Stamatopoulos, a co-author of the price-options paper, wondered. "The answer today is not very clear."
+
+ 
+
+microsoft quantum computing applications examples
+Microsoft
+MICROSOFT
+Location: Redmond, Wash.
+
+How it’s using quantum computing: The world has a fertilizer problem that extends beyond an overabundance of poop. Much of the planet’s fertilizer is made by heating and pressurizing atmospheric nitrogen into ammonia, a process pioneered in the early 1900s by German chemist Fritz Haber.
+
+The so-called Haber process, though revolutionary, proved quite energy-consumptive: some three percent of annual global energy output goes into running Haber, which accounts for more than one percent of greenhouse gas emissions. More maddening, some bacteria perform that process naturally — we simply have no idea how and therefore can’t leverage it.
+
+With an adequate quantum computer, however, we could probably figure out how — and, in doing so, significantly conserve energy. In 2017, researchers from Microsoft isolated the cofactor molecule that’s necessary to simulate. And they’ll do that just as soon as the quantum hardware has a sufficient qubit count and noise stabilization. Google’s CEO recently told MIT he thinks the quantum improvement of Haber is roughly a decade away. 
+
+ 
+
+ibm quantum computing applications examples
+IBM
+IBM
+Location: Armonk, New York
+
+How it’s using quantum computing: Recent research into whether quantum computing might vastly improve weather prediction has determined… it’s a topic worth researching! And while we still have little understanding of that relationship, many in the QC field view it as a notable use case. 
+
+Ray Johnson, the former CTO at Lockheed Martin and now an independent director at quantum startup Rigetti Computing, is among those who’ve indicated that quantum computing’s method of simultaneous (rather than sequential) calculation will likely be successful in “analyzing the very, very complex system of variables that is weather.” Futurist Bernard Marr has echoed the sentiment.
+
+While we currently use some of the world’s most powerful supercomputers to model high-resolution weather forecasts, accurate numerical weather prediction is notoriously difficult. In fact, it probably hasn’t been that long since you cursed an off-the-mark meteorologist.
+
+ 
+
+rigetti computing quantum computing applications examples
+Rigetti Computing
+RIGETTI COMPUTING
+Location: Berkeley, Calif.
+
+How it’s using quantum computing: Quantum computing and artificial intelligence may prove to be mutual back-scratchers. As VentureBeat recently explained, advances in deep learning will likely increase our understanding of quantum mechanics while at the same time fully realized quantum computers could far surpass conventional ones in data pattern recognition. Regarding the latter, IBM’s quantum research team recently found that entangling qubits on the quantum computer that ran a data-classification experiment cut the error rate in half compared to unentangled qubits.
+
+“What this suggests,” an essay in the MIT Technology Review noted, “is that as quantum computers get better at harnessing qubits and at entangling them, they’ll also get better at tackling machine-learning problems.”
+
+IBM’s research came in the wake of another promising machine-learning classification algorithm: a quantum-classical hybrid run on a 19-qubit machine built by Rigetti Computing. 
+
+“Harnessing [quantum computers’ statistical distribution] has the potential to accelerate or otherwise improve machine learning relative to purely classical performance,” Rigetti researchers wrote. The hybridization of classical compute and quantum processors overcame “a key challenge” in realizing that aim, they explained. 
+
+Both are important steps toward the ultimate goal of significantly accelerating AI through quantum computing. Which might mean virtual assistants that understand you the first time. Or non-player-controlled video game characters that behave hyper-realistically. The potential advancements are numerous.
+
+“I think AI can accelerate quantum computing," Google's Pichai said, "and quantum computing can accelerate AI.”
+
+RELATED
+Quantum Computers Will Transform How We Make & Play Video Games
+
+LinkedInFacebookTwitterlinkEmail
+Great Companies Need Great People. That's Where We Come In.
+RECRUIT WITH US
+
+
+© Built In 2019
+
+GET INVOLVED
+Recruit With Built In
+Contact Us
+Careers
+STAY CONNECTED
+Facebook
+Twitter
+LinkedIn
+OUR COMMUNITIES
+Built in Austin
+Built in Boston
+Built in Chicago
+Built in Colorado
+Built in LA
+Built in NYC
+Built in Seattle
+Built In San Francisco
+ABOUT
+Our Story
+Our Staff Writers
+Privacy Policy
+Terms of Use
+Copyright Policy
+Live your purpose.
+Work your passion.

@@ -1,0 +1,100 @@
+https://en.wikibooks.org/wiki/Lisp_Programming
+
+
+
+Banner logo	
+Participate in an international science photo competition!
+
+Hide
+Lisp Programming25% developed
+Jump to navigationJump to search
+Lisp is a programming language. It is named after the collapsed phrase List Processing.
+
+If you have programmed before and would like to see a little bit of how Lisp works and is different from other programming languages, you can get an overview.
+
+Dialects
+Because Lisp itself is, technically, just seven operators, to become a useful language, much more needs to be implemented atop it. Common Lisp and Scheme are two such designs to create a useful programming language.
+
+Common Lisp is an ANSI standard, and features an extensive array of library functions. It is the more widely used of the two.
+
+Scheme is designed in a minimalistic fashion, with a very small amount of built in functions. This is probably true, but Scheme lacks many of the time-saving built-in functions of Common Lisp.
+
+Emacs Lisp is an implementation of Lisp in Emacs.
+
+newLISP is a Lisp-like, general-purpose scripting language
+
+Contents
+Introduction
+History
+Overview
+Beginning Lisp
+Syntax
+Features
+Lisp and data
+Functions and interfaces
+Advanced Lisp
+External Links
+See also
+Lush - lisp-like object-oriented programming language
+
+Categories: Book:Lisp ProgrammingShelf:Lisp programming language
+Navigation menu
+Not logged inDiscussion for this IP addressContributionsCreate accountLog inBookDiscussionReadEditView historySearch
+Search Wikibooks
+Main Page
+Help
+Browse
+Cookbook
+Wikijunior
+Featured books
+Recent changes
+Donations
+Random book
+Using Wikibooks
+Community
+Reading room
+Community portal
+Bulletin Board
+Help out!
+Policies and guidelines
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+
+In other languages
+Español
+Français
+Italiano
+日本語
+Polski
+Русский
+Edit links
+Sister projects
+Wikipedia
+Wikiversity
+Wiktionary
+Wikiquote
+Wikisource
+Wikinews
+Wikivoyage
+Commons
+Wikidata
+In other projects
+Wikimedia Commons
+Wikipedia
+Wikiquote
+Wikiversity
+Print/export
+Create a collection
+Download as PDF
+Printable version
+This page was last edited on 18 September 2018, at 06:11.
+Text is available under the Creative Commons Attribution-ShareAlike License.; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policyAbout WikibooksDisclaimersDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki

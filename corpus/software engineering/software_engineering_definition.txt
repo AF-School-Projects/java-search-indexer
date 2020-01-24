@@ -1,0 +1,38 @@
+Definition of 'Software Engineering'
+
+
+Definition: Software engineering is a detailed study of engineering to the design, development and maintenance of software. Software engineering was introduced to address the issues of low-quality software projects. Problems arise when a software generally exceeds timelines, budgets, and reduced levels of quality. It ensures that the application is built consistently, correctly, on time and on budget and within requirements. The demand of software engineering also emerged to cater to the immense rate of change in user requirements and environment on which application is supposed to be working.
+
+Description: A software product is judged by how easily it can be used by the end-user and the features it offers to the user. An application must score in the following areas:-
+
+1) Operational: -This tells how good a software works on operations like budget , usability, efficiency, correctness ,functionality , dependability , security and safety.
+
+2) Transitional: - Transitional is important when an application is shifted from one platform to another. So, portability, reusability and adaptability come in this area.
+
+3) Maintenance: - This specifies how good a software works in the changing environment. Modularity, maintainability, flexibility and scalability come in maintenance part.
+
+Software Development Lifecycle or SDLC is a series of stages in software engineering to develop proposed software application, such as:
+
+1) Communication
+
+2) Requirement Gathering
+
+3) Feasibility Study
+
+4) System Analysis
+
+5) Software Design
+
+6) Coding
+
+7) Testing
+
+8) Integration
+
+9) Implementation
+
+10) Operations and maintenance
+
+11) Disposition
+
+Software engineering generally begins with the first step as a user-request initiation for a specific task or an output. He submits his requirement to a service provider organization. The software development team segregates user requirement, system requirement and functional requirements. The requirement is collected by conducting interviews of a user, referring to a database, studying the existing system etc. After requirement gathering, the team analyses if the software can be made to fulfil all the requirements of the user. The developer then decides a roadmap of his plan. System analysis also includes an understanding of software product limitations. As per the requirement and analysis, a software design is made. The implementation of software design starts in terms of writing program code in a suitable programming language. Software testing is done while coding by the developers and thorough testing is conducted by testing experts at various levels of code such as module testing, program testing, product testing, in-house testing and testing the product at user’s engagement and feedback.

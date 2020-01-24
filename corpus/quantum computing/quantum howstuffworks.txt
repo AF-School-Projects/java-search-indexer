@@ -1,0 +1,93 @@
+https://computer.howstuffworks.com/quantum-computer1.htm
+
+
+    
+Search
+Tech
+Computer Hardware
+Internet
+Computer Software
+Computer Security
+Computer Peripherals
+ HowStuffWorks  Tech  Computer  Computer Hardware  Desktops
+How Quantum Computers Work
+   
+BY KEVIN BONSOR & JONATHAN STRICKLAND
+Defining the Quantum Computer
+ 
+The Bloch sphere is a representation of a qubit, the fundamental building block of quantum computers.
+The Bloch sphere is a representation of a qubit, the fundamental building block of quantum computers.
+IMAGE USED UNDER THE GNU FREE DOCUMENTATION LICENSE 1.2
+The Turing machine, developed by Alan Turing in the 1930s, is a theoretical device that consists of tape of unlimited length that is divided into little squares. Each square can either hold a symbol (1 or 0) or be left blank. A read-write device reads these symbols and blanks, which gives the machine its instructions to perform a certain program. Does this sound familiar? Well, in a quantum Turing machine, the difference is that the tape exists in a quantum state, as does the read-write head. This means that the symbols on the tape can be either 0 or 1 or a superposition of 0 and 1; in other words the symbols are both 0 and 1 (and all points in between) at the same time. While a normal Turing machine can only perform one calculation at a time, a quantum Turing machine can perform many calculations at once.
+
+Today's computers, like a Turing machine, work by manipulating bits that exist in one of two states: a 0 or a 1. Quantum computers aren't limited to two states; they encode information as quantum bits, or qubits, which can exist in superposition. Qubits represent atoms, ions, photons or electrons and their respective control devices that are working together to act as computer memory and a processor. Because a quantum computer can contain these multiple states simultaneously, it has the potential to be millions of times more powerful than today's most powerful supercomputers.
+
+This superposition of qubits is what gives quantum computers their inherent parallelism. According to physicist David Deutsch, this parallelism allows a quantum computer to work on a million computations at once, while your desktop PC works on one. A 30-qubit quantum computer would equal the processing power of a conventional computer that could run at 10 teraflops (trillions of floating-point operations per second). Today's typical desktop computers run at speeds measured in gigaflops (billions of floating-point operations per second).
+
+Quantum computers also utilize another aspect of quantum mechanics known as entanglement. One problem with the idea of quantum computers is that if you try to look at the subatomic particles, you could bump them, and thereby change their value. If you look at a qubit in superposition to determine its value, the qubit will assume the value of either 0 or 1, but not both (effectively turning your spiffy quantum computer into a mundane digital computer). To make a practical quantum computer, scientists have to devise ways of making measurements indirectly to preserve the system's integrity. Entanglement provides a potential answer. In quantum physics, if you apply an outside force to two atoms, it can cause them to become entangled, and the second atom can take on the properties of the first atom. So if left alone, an atom will spin in all directions. The instant it is disturbed it chooses one spin, or one value; and at the same time, the second entangled atom will choose an opposite spin, or value. This allows scientists to know the value of the qubits without actually looking at them.
+
+Next, we'll look at some recent advancements in the field of quantum computing.
+
+QUBIT CONTROL
+Computer scientists control the microscopic particles that act as qubits in quantum computers by using control devices.
+
+Ion traps use optical or magnetic fields (or a combination of both) to trap ions.
+Optical traps use light waves to trap and control particles.
+Quantum dots are made of semiconductor material and are used to contain and manipulate electrons.
+Semiconductor impurities contain electrons by using "unwanted" atoms found in semiconductor material.
+Superconducting circuits allow electrons to flow with almost no resistance at very low temperatures.
+1
+2
+(current)
+3
+NEXT PAGE 
+Print | Citation & Date | Reprint
+
+   
+
+Newsletter
+Get the best of HowStuffWorks by email, keep up to date on:
+Latest Buzz | Stuff Shows & Podcasts | Tour | Weird & Wacky
+Sign Up Now!
+
+Newsletter Policy & Terms
+RELATED
+
+New Quantum Computing Research Plots Safe Journey Through the Past
+
+
+What is the world’s fastest supercomputer used for?
+
+
+Set Your Computer for Energy Savings
+
+RECOMMENDED
+HowStuffWorks
+What's the Difference Between Whiskey and Bourbon?
+7 Key Questions in the U.S. Slavery Reparations Debate
+How the Ancient Land Blob Gondwana Became Today's Continents
+How to Fake a GPS Location on Your Phone
+by Taboola
+HowStuffWorks
+About
+Podcasts
+Privacy Policy
+Ad Choices
+Terms
+Careers
+Contact Us
+Help
+Reprints
+Newsletter
+Get the best of HowStuffWorks by email!
+
+Keep up to date on: Latest Buzz · Stuff Shows & Podcasts · Tours · Weird & Wacky
+
+Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company
+
+What’s the Difference Between a College and a University?
+Read Next Story
+7 Key Questions in the U.S. Slavery Reparations Debate
+Read Next Story
+What's the Difference Between Whiskey and Bourbon?
+Read Next Story

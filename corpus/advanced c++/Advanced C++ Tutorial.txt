@@ -1,0 +1,145 @@
+Cave of Programming
+Subscription
+My Courses
+All Courses
+Homepage
+Login
+Pwxygcrwsvkznuee4iwh
+Advanced C++ Tutorial
+Discover intermediate to advanced C++, including the fantastic new features added in C++ 11
+
+
+
+
+Level Up Your C++ Skills
+Step-up your C++ knowledge. Discover a skill that pays off for life. And explore one of the world’s most popular programming languages.
+
+
+Looking For The Next Step?
+C++ is one of the world’s most in-demand programming languages.
+
+From coding 3D games to high-performance software, it’s an incredibly useful skill.
+
+And with this course, you’ll learn how to take your C++ skills to the next level.
+
+
+
+But advanced doesn’t need to be difficult
+
+I’ve designed this course to break down complex topics into simple tutorials.
+
+With 15 hours of easy-to-use video lessons, you’ll learn how to progress from knowing basic C++ to being able to use advanced C++ syntax.
+
+The Standard Template Library (STL). Move constructors. Smart pointers. Lambda expressions...
+
+...It’s a challenging but incredibly rewarding way to step-up your C++ knowledge.
+
+
+
+Here’s what you’ll learn:
+Learn to use the popular and highly-useful built-in Standard Template Library (STL).
+Use C++ 11's great new features, including lambda expressions and move constructors.
+Learn how to create a program that generates fractal images, with smart pointers and binary file handling.
+We’ll study C++ file handling, template classes, operator overloading, lambda expressions, smart pointers & move constructors.
+Discover how to write high-performance software that uses memory efficiently.
+Test your knowledge with exercises ranging from easy near the start, to quite tricky (but optional!).
+
+Requirements:
+
+Basic knowledge of the C++ programming language
+
+
+Meet some of our happy customers:
+
+“What a fantastic course. This has filled in many knowledge gaps I had, and has brought my C++ knowledge up to date. John explains everything thoroughly and logically in a step-by-step way that makes everything understandable. Make sure you write your code alongside the course! Writing it out is key to making it stick in your mind.”
+
+- Glen R
+
+
+“John goes over the basics just beyond beginning. I've been a C++ programmer for years, and I'm filling in some missing knowledge with this course. I would recommend it for even experienced developers.”
+
+- Sharon V
+
+
+“I have attended both the beginner and advanced course for C++ by Mr. John Purcell. I have never felt confident about my C++ skills earlier, but now I must say I feel very comfortable and confident in C++ programming. Thanks to Mr. John Purcell.”
+
+- Swati S
+
+
+“I wanted a C++ language course which could teach me how to use the STL and C++11's new features in detail. This course fits my requirements to a T. I would recommend this course to anyone who wants to learn and pick up STL, and C++11's new features.
+
+John is amazing! Happy Coding :)"
+
+- Chandrabhatta S
+
+
+
+Inspiring. Challenging. Rewarding.
+Do you want to quickly take your C++ skills to the next level?
+
+
+
+Get Started Today.
+
+
+
+
+Your Instructor
+
+John Purcell
+John Purcell
+After working as a software developer and contractor for over 14 years for a whole bunch of companies including CSC, Proquest, SPSS and AT&T in the UK and Netherlands, I decided to work full-time as a private software trainer. I moved to the beautiful city of Budapest, where I turned Cave of Programming from just a bunch of articles into what you see today. After spending a year in Berlin, I moved back to my roots and I now live in Derby, UK.
+
+
+Course Curriculum
+
+Exceptions
+ PreviewExceptions Basics (13:56)
+ PreviewStandard Exceptions (7:06)
+ PreviewCustom Exceptions (7:41)
+ PreviewException Catching Order (7:23)
+Files
+ PreviewWriting Text Files (6:35)
+ PreviewReading Text Files (7:08)
+ PreviewParsing Text Files (12:12)
+ PreviewStructs and Binary Data (7:59)
+ PreviewReading and Writing Binary Files (13:09)
+The Standard Template Library
+ StartVectors: Resizable Arrays (10:57)
+ StartVectors and Memory (13:36)
+ StartTwo Dimensional Vectors (7:26)
+ StartLists (12:53)
+ StartMaps (13:48)
+ StartCustom Objects as Map Values (8:44)
+ StartCustom Objects as Map Keys (14:02)
+ StartMultimaps (10:53)
+ StartSets (15:20)
+ StartStacks and Queues (16:48)
+ StartSorting Vectors, Deque and Friend (10:23)
+ StartSTL Complex Data Types (6:32)
+
+ Frequently Asked Questions
+
+When does the course start and finish?
+The course starts now and never ends! It is a completely self-paced online course - you decide when you start and when you finish.
+How long do I have access to the course?
+How does lifetime access sound? After purchase, you have unlimited access to this course for as long as you like - across any and all devices you own.
+What if I am unhappy with the course?
+We would never want you to be unhappy! If you are unsatisfied with your purchase, contact us in the first 30 days and we will give you a full refund.
+Get started now!
+ 
+Advanced C++ One-Off Payment Lifetime
+
+$29 
+ 
+ 
+Indian Rupees
+Single payment, lifetime access
+₹300 
+
+
+© Cave of Programming 2019
+
+Terms of Use
+Privacy Policy
+Powered by Teachable

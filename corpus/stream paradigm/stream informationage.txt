@@ -1,0 +1,149 @@
+https://www.information-age.com/stream-processing-data-strategy-123480881/
+
+
+information-age
+Diversity
+Events
+Newsletter
+Whitepapers
+Search news, subjects, authors...
+
+News 
+Data & Insight 
+Sectors 
+Topics 
+The City & Wall Street 
+Careers 
+Regions 
+Data & Insight
+How it Works
+Nick Ismail
+Nick Ismail
+15 March 2019
+IA Logo
+
+
+Stream processing: what is it and how can it help with you data strategy?
+In this Q&A, Aljoscha Krettek, co-founder and Engineering Lead at Ververica (formerly data Artisans), explains the importance of stream processing in any data strategy Stream processing: what is it and how can it help with you data strategy? image
+Stream processing technologies can help organisations deal with their data processing needs.
+What is stream processing?
+Stream processing is the processing of data in motion, or in other words, computing on data directly as it is produced at the source or received by the stream processing system. Before stream processing, data was often stored in a database, a file system, or other forms of mass storage. Applications would periodically run queries on the data or compute over the data as needed.
+
+Stream processing turns this paradigm around: the application logic, analytics, and queries exist continuously, and data flows through them in a continuous way. Upon receiving an event from the stream, a stream processing application reacts to that event: it may trigger an action (like an alert), update a statistic, or “remember” that event for future reference.
+
+Streaming computations can also process multiple data streams jointly, and each computation over the event data stream may produce other event data streams.
+
+Apache Flink is a powerful, open source stream processing framework that solves many of the data processing challenges of the modern enterprise. Flink provides first-class support for stateful stream processing, it is fault-tolerant and provides exactly-once semantics while being easy to operate and having great interoperability with the wider data processing ecosystem.
+
+Aljoscha Krettek is co-founder and Engineering Lead at Ververica (formerly data Artisans).
+Aljoscha Krettek is co-founder and Engineering Lead at Ververica (formerly data Artisans).
+
+How can organisations react to customers in real-time?
+As our worldwide connectivity increases and the products and services we use become smarter, data becomes the lifeblood for the modern enterprise. Customer centricity remains a key competitive advantage for the modern enterprise that is very much defined by its ability to leverage data, discover trends, apply insights, and provide services to its customers in real time.
+
+Stream processing, through open source technology frameworks like Apache Flink, is one of the best-suited approaches for the modern enterprise to take the leap forward and become real time. Stream processing is a company’s best friend when it comes to reacting to the ever-changing customer trends and demands. Adopting stream processing enables a significant reduction of time between when an event is recorded (for instance when a customer is browsing specific products from the company’s catalog or is contacting the customer care division for an inquiry) and when the system and data application reacts to it.
+
+An interesting example of a company benefiting from stream processing to react to the customer in real time is Alibaba. The company uses Apache Flink to incrementally and fully update its catalog ensuring that changes in price or availability are reflected in search rankings as quickly as possible[2]. On top of this, Flink is used to continuously train machine learning models in real-time resulting in a search platform that factors in both the changing product catalog and current or past user preferences, showcasing tailored results for the shopper.
+
+Making cities smart: how stream processing and data analytics can bring smart city projects to life
+Marta Paes Moreira, product evangelist at Ververica (formerly data Artisans), explores how stream processing and data analytics can breath life into smart city projects. Read here
+
+How can companies make better use of their data?
+Companies should focus on the right investments that will transform their data into actionable insights reaching and informing every function of business, from sales and marketing all the way to product development, strategy and operations. Investments and decisions should revolve around building a data infrastructure that is real-time, scalable, consistent and can be easily maintained. In order to better leverage its data, the organisation should make the data available across all teams and functions. Removing legacy systems and data silos and building a data infrastructure capable to manage and process data no matter its type, form or applicable use case should be on CIOs and CDOs priority lists. With the amount and speed of data generated through connected devices, vehicles, mobile phones and other sources, stream processing is the new paradigm in data processing that can help enterprises move forward, and make them truly benefit from the data assets available to them.
+
+
+
+What are the best tools to use?
+As one of the original creators of Apache Flink, I am a firm believer that scalable, distributed stream processing technologies are the best fit for the needs of a modern enterprise dealing with ever-increasing data processing needs, and getting insight from all kinds of data types and formats coming from multiple sources — be it sensor logs, geolocation data, customer interaction data etc.
+
+In order for enterprises to effectively run streaming applications in production and at scale, monitoring and metrics systems are an important tool to ensure your application runs as expected, with no degradations, 24/7.
+
+Tools like Prometheus, Graphite, Elasticsearch or Grafana are some options that will help you get peace-of-mind when observing your streaming applications. Additionally, since the amount of available data increases exponentially, resource management frameworks are an important part that will ensure your streaming applications can adapt to fluctuating workloads. Frameworks like Kubernetes can ensure that your streaming applications adapt and scale to new levels no matter the data load.
+
+Weekly Newsletter
+Technology is moving extremely fast and you don't want to miss anything, sign up to our newsletter and you will get all the latest tech news straight into your inbox!
+
+Email
+I want to recieve updates for the followoing:
+
+Newsletter
+Special Offers
+I accept that the data provided on this form will be processed, stored, and used in accordance with the terms set out in our privacy policy.
+
+Recent Posts
+
+AWS and Verizon partner to deliver 5G edge solutions
+More than mobile: how rapidly diversifying telcos can avoid critical overload and downtime
+How are ASEAN countries leading the digital transformation wave
+Top five automation challenges in 2020, according to Forrester analyst
+10 ways businesses can protect customer data
+Follow Us
+1.9k
+Followers
+15k
+Followers
+1.5k
+Followers
+106
+Followers
+Latest news
+divider
+Cloud & Edge ComputingAWS and Verizon partner to deliver 5G edge solutions
+AWS and Verizon partner to deliver 5G edge solutions
+4 December 2019 / In what’s been touted as a world-first, the solution is set to be deployed on [...]
+
+divider
+Digital TransformationHow are ASEAN countries leading the digital transformation wave
+How are ASEAN countries leading the digital transformation wave
+4 December 2019 / Association of Southeast Asian Nations (ASEAN) has one of the most robust economies in Asia. [...]
+
+divider
+AutomationTop five automation challenges in 2020, according to Forrester analyst
+Top five automation challenges in 2020, according to Forrester analyst
+4 December 2019 / Every enterprise is automating. That’s not the story. The challenge most CTOs face is that [...]
+
+divider
+Cybersecurity10 ways businesses can protect customer data
+10 ways businesses can protect customer data
+3 December 2019 / The Information Commissioners Office (ICO) has warned organisations that they should be doing everything they [...]
+
+divider
+AI & Machine LearningAI and the future of design
+AI and the future of design
+2 December 2019 / The design industry is yet another area where AI is making huge strides. Just recently, [...]
+
+divider
+DiversityWomen in IT Awards New York 2020: Nominations Open!
+Women in IT Awards New York 2020: Nominations Open!
+2 December 2019 / Taking place at the Grand Hyatt, this will be the third annual iteration of New [...]
+
+divider
+Releases & UpdatesDigital evolution leaving boardrooms behind, says study
+Digital evolution leaving boardrooms behind, says study
+2 December 2019 / Below half (47%) of respondents said that their boardrooms had the right skills for digital [...]
+
+divider
+Data Storage & Data LakesWhat does data utopia look like?
+What does data utopia look like?
+2 December 2019 / Once only the remit of cybersecurity and advertising, the fractious public attitude towards data is [...]
+
+divider
+AI & Machine LearningHow can businesses stop AI from going bad?
+How can businesses stop AI from going bad?
+29 November 2019 / Relinquishing complete control over a process and its minutiae is intimidating, but necessary to grow [...]
+
+Contact us
+Privacy Policy
+Cookie Policy
+Terms & Conditions
+About Us
+Media Packs
+Contributor Guidelines
+bonhill group plc
+© Bonhill Group Plc,
+
+46 New Broad Street, EC2M 1JH
+
+T. 0207 250 7010
+
+Privacy

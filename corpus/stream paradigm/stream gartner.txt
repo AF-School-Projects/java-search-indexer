@@ -1,0 +1,75 @@
+https://www.gartner.com/en/documents/3906723/stream-processing-the-new-data-processing-paradigm
+
+
+We use cookies to deliver the best possible experience on our website. To learn more, visit our Privacy Policy.
+By continuing to use this site, or closing this box, you consent to our use of cookies.
+
+logo
+SolutionsInsightsWhat We DoConferencesAboutCareers
+ 1 855 611 0858
+Gartner Research
+Stream Processing: The New Data Processing Paradigm
+Published: 09 April 2019
+
+ID: G00378063
+
+Analyst(s): Sumit Pal
+
+Summary
+Digital businesses must use stream processing to meet their needs for continuous intelligence and real-time analytics. This research helps technical professionals implement stream processing architectures for data integration, event processing and analytics.
+
+Table Of Contents
+Analysis
+
+What Is Stream Processing?
+Batch vs. Stream Processing
+Stream Processing Approaches
+Stream Processing Architectural Components
+Streaming Ingestion and Integration
+Stream Processing Engine
+Streaming Analytics/Streaming ML
+Stream Processing Databases
+Types of Streaming Systems
+Stream Processing Engines and Frameworks
+Stream Processing Libraries
+Streaming Data Flow Systems
+Stream Processing Products
+Stream Processing Selection Criteria
+Major Challenges in Stream Processing
+Strengths
+Weaknesses
+Guidance
+
+Which Streaming Type Should You Use?
+Choosing Frameworks, Engines Libraries or Data Flow Systems
+The Details
+
+Stream Processing Concepts
+Processing Semantics and Delivery Guarantees
+Concept of Multiple Types of Times in a Streaming Application
+Windowing
+Using Watermarks for Managing Time Windows
+Checkpointing
+State Management
+Back Pressure
+Gartner Recommended Reading
+
+©2019 Gartner, Inc. and/or its affiliates. All rights reserved. Gartner is a registered trademark of Gartner, Inc. and its affiliates. This publication may not be reproduced or distributed in any form without Gartner’s prior written permission. It consists of the opinions of Gartner’s research organization, which should not be construed as statements of fact. While the information contained in this publication has been obtained from sources believed to be reliable, Gartner disclaims all warranties as to the accuracy, completeness or adequacy of such information. Although Gartner research may address legal and financial issues, Gartner does not provide legal or investment advice and its research should not be construed or used as such. Your access and use of this publication are governed by Gartner’s Usage Policy. Gartner prides itself on its reputation for independence and objectivity. Its research is produced independently by its research organization without input or influence from any third party. For further information, see Guiding Principles on Independence and Objectivity.
+
+Already have a Gartner Account?
+Become a client
+Learn how to access this content as a Gartner client.
+
+Gartner
+About Gartner
+Careers
+Newsroom
+Ombudsman
+Investor Relations
+Policies
+Gartner Glossary
+Contact Gartner
+Privacy Policy
+Terms of Use
+    
+©2019 Gartner, Inc. and/or its affiliates. All rights reserved.

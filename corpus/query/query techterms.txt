@@ -1,0 +1,38 @@
+https://techterms.com/definition/query
+
+
+ 
+Search
+Advanced Search 
+Browse Quizzes Help Dark
+Home : Software Terms : Query Definition
+Query
+Query is another word for question. In fact, outside of computing terminology, the words "query" and "question" can be used interchangeably. For example, if you need additional information from someone, you might say, "I have a query for you." In computing, queries are also used to retrieve information. However, computer queries are sent to a computer system and are processed by a software program rather than a person.
+
+One type of query, which many people perform multiple times a day, is a search query. Each time you search for something using a search engine, you perform a search query. When you press Enter, the keywords are sent to the search engine and are processed using an algorithm that retrieves related results from the search index. The results of your query appear on a search engine results page, or SERP.
+
+Another common type of query is a database query. Databases store data in a structured format, which can be accessed using queries. In fact, the structured query language (SQL) was designed specifically for this purpose. Users can create SQL queries that retrieve specific information from a database. For example, an human resources manager may perform a query on an employee database that selects all employees in a specific department that were hired between 11 and 12 months ago. The results might be used to provide the department head with current candidates for an annual review.
+
+While you may not always notice them, computer queries are happening all the time. For instance, most dynamic websites query a database each time you visit a new page. Software applications often contain background functions that perform queries based on your input. While many types of computer queries exist, their basic purpose is the same — to receive an answer to a question.
+
+NOTE: The word "query" can be used as either noun or a verb. For example, you can "perform a search query" or "query a database." Both examples are correct uses of the word "query."
+
+Updated: May 13, 2011
+Cite this definition:
+
+APAMLAChicagoHTMLLink
+TechTerms - The Tech Terms Computer Dictionary
+This page contains a technical definition of Query. It explains in computing terminology what Query means and is one of many software terms in the TechTerms dictionary.
+
+All definitions on the TechTerms website are written to be technically accurate but also easy to understand. If you find this Query definition to be helpful, you can reference it using the citation links above. If you think a term should be updated or added to the TechTerms dictionary, please email TechTerms!
+
+‹ Quad-Core | Queue ›
+Tech Factor
+
+4 / 10
+Subscribe to TechTerms
+
+email address
+Receive a daily definition and quiz question in your inbox.
+
+© 2019 Sharpened Productions  |  Terms of Use  |  Privacy Policy  |  About  |  Contact

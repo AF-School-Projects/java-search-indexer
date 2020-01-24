@@ -1,0 +1,181 @@
+Question
+Asked 4th Apr, 2014
+Amulya Sahoo
+International Institute of Information Technology, Bhubaneswar
+What are the advanced topics of C++ that need to be learnt to become an expert C++ coder ?
+I am familiar with topics like classes, pointers, templates and all the basics. But I am unable to do any project using these.
+Computer Applications
+Programming C++
+C++
+Share 
+Popular Answers (1)
+4th Apr, 2014
+Simon Schröder
+Fraunhofer Institute for Industrial Mathematics ITWM
+Maybe I could list a couple of things an expert should know. But, mostly you become an expert by programming C++. If you know the basics about C++, like you have mentioned, you don't need to learn about advanced topics in order to be able to write software. My advice is to learn to use existing libraries to solve your problems. Other than that you are maybe unsure how to tackle your problem. This is not a problem of C++, but seems to be a general modelling problem: How to model your solution so that it is convertible into a program (not necessarily C++). The best way to learn programming is to look for good tutorials (e.g. a tutorial to program a little game) that also tell a little about the design philosophy. Then, don't just download the sources or copy&paste source code. Instead, type in everything on your own. That is more tedious, but you will also learn more.
+Unfortunately, most tutorials (and books) don't use a good style. To become an expert it takes several years so that you can refine your coding style and adapt best practices after you have learned basic programming from bad tutorials. Most important is that you switch to C++11 right now. Every major compiler supports the new standard and it makes things a lot easier. If you are looking for best practices and good coding style look for Herb Sutter and Scott Meyers. They have many great talks on the internet and wrote a couple of excellent books. You might want to start with "Effective C++". Then, learn about advanced topics when you really need them.
+5 Recommendations
+All Answers (9)
+4th Apr, 2014
+Pradeep Gupta
+Jaypee University of Information Technology
+Topics are as follows:
+Template
+multiple Inheritence
+memory management
+Operator overloading
+1 Recommendation
+4th Apr, 2014
+Simone Scardapane
+Sapienza University of Rome
+For me, one of the most important part to master in C++ (apart from the previous answers, of course) is the STL, i.e. containers, iterators and generic algorithms. The STL also contains a functional library, but I have used it less, although it is very interesting.
+You should also grasp very well the various pointers that are present, and the possibilities provided by the language for dynamic memory usage:
+http://en.cppreference.com/w/cpp/memory
+Another important part is the so-called "rule of three" (actually, rule of five in C++11), which pertains to the constructors/destructors:
+http://en.wikipedia.org/wiki/Rule_of_three_(C%2B%2B_programming)
+If you want to master templates, you can also look at template meta-programming:
+http://en.wikipedia.org/wiki/Template_metaprogramming
+It has limited utility (in my opinion) but it is great to understand better how they work.
+2 Recommendations
+4th Apr, 2014
+Simon Schröder
+Fraunhofer Institute for Industrial Mathematics ITWM
+Maybe I could list a couple of things an expert should know. But, mostly you become an expert by programming C++. If you know the basics about C++, like you have mentioned, you don't need to learn about advanced topics in order to be able to write software. My advice is to learn to use existing libraries to solve your problems. Other than that you are maybe unsure how to tackle your problem. This is not a problem of C++, but seems to be a general modelling problem: How to model your solution so that it is convertible into a program (not necessarily C++). The best way to learn programming is to look for good tutorials (e.g. a tutorial to program a little game) that also tell a little about the design philosophy. Then, don't just download the sources or copy&paste source code. Instead, type in everything on your own. That is more tedious, but you will also learn more.
+Unfortunately, most tutorials (and books) don't use a good style. To become an expert it takes several years so that you can refine your coding style and adapt best practices after you have learned basic programming from bad tutorials. Most important is that you switch to C++11 right now. Every major compiler supports the new standard and it makes things a lot easier. If you are looking for best practices and good coding style look for Herb Sutter and Scott Meyers. They have many great talks on the internet and wrote a couple of excellent books. You might want to start with "Effective C++". Then, learn about advanced topics when you really need them.
+5 Recommendations
+4th Apr, 2014
+Simone Scardapane
+Sapienza University of Rome
+I agree with Simon Schroder. In this respect, two things that you should know well in any language (hence also in c++) are design patterns and unitary testing. For the latter, you can see for example cppunit.
+2 Recommendations
+4th Apr, 2014
+Markus Huelsekopf
+Technische Universität Dortmund
+All above is fine, maybe it is a good idea to have a look at the various software development models (waterfall, spiral, agil like XP, and so on). Wikipedia's software-development-process may be a good starting point.
+I really do wonder, why you are unable to adapt your knowledges in projects. IMHO the most important soft skills are: courage and reasonable care, pragmatism and a strong focus to the point.
+2 Recommendations
+4th Apr, 2014
+Stephane Lallee
+Institute for Infocomm Research
+Well, it is through forge work that you become a smith, right ? ;-)
+It seems that you have the basic requirement needed to start implementing. Then find a problem you want to solve, try to tackle it, fail, fail, fail, succeed in a very dirty way, restart from the begining.
+Iterat through this process all along your developper life or until you get bored and decide to grow vegetables in an isolated treehouse with wifi ^^
+More seriously, I would agree that knowing the STL possibilities and trick is fundamental to be an efficient C++ dev.
+3 Recommendations
+5th May, 2014
+Muhammad Sharif
+COMSATS University Islamabad Wah Campus - Pakistan
+There are no special topics for to be learned to become an expert C++ coder or in any Language. Best way is to start any small level Project/Assignment like Scientific Calculator, Game, Paint Brush, Toy Car Controlling System etc. in this way you will also familiar of parallel and serial port programming.
+1 Recommendation
+Can you help by adding an answer?
+Answer
+Add your answer
+Add your answer
+Related Publications
+Managed C++ Basics
+Chapter
+Jan 2003
+Stephen R. G. Fraser
+You have a little work to do before you can have some fun. This chapter covers many basic but important aspects of Managed C++ programming.
+View
+Die C++iostreams-library
+Article
+Bernd Eggink
+View
+Programming C++ with panache: a C++ style manual
+Article
+Mar 2000
+David B. Sher
+View
+Similar questions and discussions
+What are the best plot and charting C++ package which can be used for data visualization?
+Question
+22 answers
+Asked 3rd Mar, 2015
+Behrad Mahboobi
+I am looking for a plot library in C++ that can be used for data visualization mostly of radio signal visualization including power spectral denstiy, FFT, time domain signal, scatter plot. Data is stream processed in real time in a C++ windows form application written in visual studio C++ or QT environment.
+Please assert if your answer is for stream data, batch data, or both ?
+View
+What is the best numerical library c/c++ ?
+Question
+77 answers
+Asked 12th Dec, 2013
+Aissa Boulmerka
+I am using Matlab for my image processing research. In order to speed up my programs i am searching for a scientific numerical library C/C++. So what is the best choice?
+View
+How to find out which conference in Web of Science ?
+Question
+7 answers
+Asked 11th Nov, 2017
+Sanjeev Yadav
+I need to know which conference is indexed through web of Science
+View
+How will channels (RGB) effect convolutional neural network?
+Question
+13 answers
+Asked 12th Dec, 2015
+Zhe Lu
+When training a CNN,how will channels effect convolutional layer. Some say that when finish conv, it will generate 3 feature maps when the sample is RGB,and then 3 feature maps will add up and turn into 1 feature map.What is the process mean.
+View
+How to save an image of type float32 in opencv?
+Question
+8 answers
+Asked 7th Jul, 2014
+Nosheen Choudhary
+i am trying to save an image using cv2.imwrite() which i am obtaining after gabor filter .the image is of type float32.this function is saving a whole black image  in the directory.then i have tried io.imsave() ,but it is saving the image with gray blobs on orignal image. i am not getting the same output if i am not using the image of type float32..i.e image type unit8.
+Can anyone suggest me how can i save the image of type float32 in opencv ,as i am getting in output?
+Below is the output image and the image that is getting saved with gray blobs in directory using io.imsave() function.
+i have also attached the source code file and the orignal image that this file reads..
+View
+What is the efficient way of reading a huge text file (50GB file) and processing it in C++?
+Question
+6 answers
+Asked 11th Nov, 2013
+Nithin C
+Reading line by line is taking too much time for the process to happen. I don't have enough RAM to load the entire file into RAM. So how can I read files as chunks or any other efficient way. Is there any linux header to make this process simpler?
+View
+Best graphics program for making scientific illustrations for journal articles?
+Question
+260 answers
+Asked 11th Nov, 2013
+Muhammad Safdar
+Could anyone comment which are the best graphic designing programs (2D and 3D) used by high impact journals to make colorful scientific illustrations/figures for research articles?
+View
+Does anybody know how can I order figures exactly in the position we call in Latex template?
+Question
+22 answers
+Asked 3rd Mar, 2014
+Iman Rahimi
+When I want to insert figures to my documents with Latex(MikTex) all figures put on the same position at the end of section.
+View
+How do i increase a figure's width/height only in latex?
+Question
+15 answers
+Asked 3rd Mar, 2014
+Muhammad Ahsan
+Increasing a figure's width/height only in latex.
+View
+Got a technical question?
+Get high-quality answers from experts.
+Ask a question
+Search for publications, researchers, or questions
+
+or
+Discover by subject area
+Recruit researchers
+Join for free
+Login
+App Store
+About
+News
+Company
+Careers
+Support
+Help center
+FAQ
+Business solutions
+Recruiting
+Advertising
+© ResearchGate 2019. All rights reserved.
+ImprintTermsPrivacy
+

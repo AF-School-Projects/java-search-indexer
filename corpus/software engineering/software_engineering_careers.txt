@@ -1,0 +1,188 @@
+Software Engineer
+SEARCH COLLEGES
+
+
+
+SPONSORED SCHOOLS
+What Do Software Engineers Do?
+How Much Do Software Engineers Make?
+How Do I Become a Software Engineer?
+Types of Careers in Software Engineering
+Where Can I Work as a Software Engineer?
+Professional Resources for Software Engineers
+SHARE ON SOCIAL
+What Do Software Engineers Do?
+Computer software engineers apply engineering principles and systematic methods to develop programs and operating data for computers. If you have ever asked yourself, “What does a software engineer do?” note that daily tasks vary widely. Professionals confer with system programmers, analysts, and other engineers to extract pertinent information for designing systems, projecting capabilities, and determining performance interfaces. Computer software engineers also analyze user needs, provide consultation services to discuss design elements, and coordinate software installation. Designing software systems requires professionals to consider mathematical models and scientific analysis to project outcomes.
+
+The demand for high-performing computer software engineers continues to grow. According to the Bureau of Labor Statistics (BLS), job growth should increase much faster than the national average at 24% through 2026. Computer software engineers can find employment in almost any industry. In fact, nearly a third of information technology-related positions seek software developers. Furthermore, as software engineering remains synonymous with innovation, new programming tools lead to inexplicable dilemmas that demand professionals with cutting-edge knowledge and skills to solve them.
+
+Online Computer Science Programs For You
+Southern New Hampshire University
+Southern New Hampshire University
+PROGRAM: BS - COMPUTER SCIENCE:SOFTWARE ENGINEERING
+Earn a BS in Software Engineering on your time with flexible online courses built to fit your busy life. As a nonprofit, accredited institution, Southern New Hampshire University is here to help you reach your goals.
+
+VISIT SITE
+Purdue University Global
+Purdue University Global
+PROGRAM: BS - INFORMATION TECHNOLOGY: PROGRAMMING AND SOFTWARE DEVELOPMENT
+Building on Purdue's mission to provide greater access to affordable, world-class education, Purdue University Global delivers a fully personalized online experience that's tailored for working adults.
+
+VISIT SITE
+Capella University
+Capella University
+PROGRAM: BS - DATA MANAGEMENT (ABET-ACCREDITED)
+Capella University offers a minor in data management within its bachelor of science in information technology degree. The program is accredited by the Computing Accreditation Commission of ABET. Coursework is designed to prepare students for Certified Data Management Professional (CMDP) certification offered by DAMA; additional optional CompTIA certifications are also available.
+
+VISIT SITE
+SPONSORED
+
+
+KEY SKILLS
+Since nearly all industries need computer software engineers, students should consider a specialization to gain a competitive advantage. The programming languages listed below hold particular importance, according to PayScale, since most job-related tasks require knowledge of these languages. While specialized programming languages may require coursework beyond what universities offer, schools include standard programming languages in their curriculum.
+
+KEY SKILLS FOR SOFTWARE ENGINEERS
+Java: This programming produces software on multiple platforms without the need for recompilation. The bytecode runs on nearly all operating systems including Mac OS or Windows. Java uses syntax from C and C++ programming. Browser-operated programs facilitate GUI and object interaction from users.
+JavaScript: This scripting programming language allows users to perform complex tasks and is incorporated in most web pages. This language allows users to update content, animate images, operate multimedia, and store variables. JavaScript represents one of the web's three major technologies.
+SQL: Also known as Structured Query Language, SQL queries, updates, modifies, deletes, and inserts data. To achieve this, SQL uses a set number of commands. This computer language remains standard for the manipulation of data and relational database management. Professionals use SQL to manage structured data where relationships between variables and entities exist.
+C++: Regarded as an object-oriented, general purpose programming language, C++ uses both low and high-level language. Given that virtually all computers contain C++, computer software engineers must understand this language. C++ encompases most C programs without switching the source code line. C++ primarily manipulates text, numbers, and other computer-capable tasks.
+C#: Initially developed for Microsoft, this highly expressive program language remains more simple in comparison to other languages yet includes components of C++ and Java. Generic types and methods provide additional safety and increased performance. C# also allows professionals to define iteration behavior, while supporting encapsulation, polymorphism, and inheritance.
+Python: This high-level programing language contains dynamic semantics, structures, typing, and binding that connects existing components; however, the Python syntax remains easy to learn with no compilation step, reducing program maintenance and enhanced productivity. Python also supports module and package use, which allows engineers to use the language for varying projects.
+How Much Do Software Engineers Make?
+While general information on software engineer salary may provide average earning potential, computer software engineer students should consider other factors that influence earning potential. For instance, the industry graduates choose can impact monetary opportunities. While the computer systems design industry employs the most individuals, top-paying industries include radio and television broadcasting, subscription programming, and semiconductor manufacturing. Similarly, students should consider location. California offers some of the highest salaries and job opportunities. Other factors include experience and education levels. Earning an advanced software engineering degree indicates students possess specialized, cutting-edge knowledge and skills, while experience can reflect applied understanding of concepts.
+
+AVERAGE SALARY OF SOFTWARE ENGINEERS BY JOB LEVEL
+Entry-Level (0-5 Years)	$77,000
+Mid-Career (5-10 Years)	$91,000
+Experienced (10-20 Years)	$102,000
+Late-Career (20+ Years)	$110,000
+Source: PayScale
+How Do I Become a Software Engineer?
+EARN YOUR DEGREE
+When considering how to become a software engineer, individuals should note that computer software engineers must hold a bachelor's degree in software engineering. While some organizations accept degrees in computer science, students should examine the curriculum to ensure that coursework adequately prepares them for software engineering roles. Students should also consider programs that hold accreditation by the Accreditation Board for Engineering and Technology, an agency that reviews college programs for quality.
+
+Software engineering degrees at the bachelor's level qualify graduates for entry-level roles; however, students might consider earning an advanced degree, which prepares them to work in nearly any industry. Most students identify concentration areas and capstone courses to acquire hands-on experience working in their field. Similarly, some programs require field hours or internships, which help students network and secure job opportunities while finishing their degree. Currently employed students often receive tuition reimbursement and many programs offer coursework completely online.
+
+GAIN EXPERIENCE
+Emerging computer software engineers should anticipate providing proof of experience when applying for entry-level positions. Most software engineer degrees include a professional portfolio that emphasizes what students learned throughout their program. Professional portfolios exhibit application of pertinent knowledge and skills listed on students' resumes. Students may also continue to develop their portfolios for future opportunities.
+
+To counteract experience inflation, students also engage in internships to acquire experience while in school. Universities often assist students by posting local internship opportunities, which typically last for a summer or a semester. While some voluntary internships include stipends, many internships remain unpaid and competitive. Most computer software engineer departments offer student chapter memberships to professional organizations that offer volunteer and internship experiences, workshops, and certificates. Popular organizations include the Institution of Electrical and Electronics Engineers (IEEE), Institution of Engineering and Technology, and Computing Research Association.
+
+EARN CREDENTIALS
+As the demand for advanced computer software continues to grow, employers strive to hire employees who possess cutting-edge knowledge and skills. Therefore, graduates should consider earning additional credentials to strengthen their marketability, since certificates indicate applicants possess specialized knowledge in a particular area that extends beyond what students learned in school. Computer software engineers can earn multiple certificates that offer a great return on investment. For instance, the Certified Secure Software Lifecycle Professional certification indicates professionals understand how to design, implement, code, test, and maintain secure software. As with most certificates, students must pay a fee and pass an exam. Other certificates include the Microsoft Certified Solutions Developer, PMI Agile Certified Practitioner, CIW Web Development Professional, and Salesforce Certified Advanced Developer. To select the most beneficial certificate, students must identify their career goals. Some organizations may require applicants to hold certain certificates, while others may prefer applicants who possess training in a particular area.
+
+Types of Careers in Software Engineering
+Earning a degree in computer software engineering opens up multiple opportunities for graduates. While industry and geographic location play a role in earning potential, employers consider education levels and experience to determine salaries. At the associate level, professionals qualify for entry-level support and technician roles. According to BLS data, median salaries hover around $52,810, while professionals with a bachelor's degree earn much more. However, professionals who begin working at the associate level can acquire valuable experience, which can increase their marketability and shorten time commitments while earning their bachelor's.
+
+Similarly, computer software engineers who earn a software engineer degree at the master's level gain access to job roles that offer higher salaries. At the master's level, students practice leadership strategies and study advanced courses that shape them into subject matter experts. Online software engineering degrees allow professionals to retain their full-time jobs, helping them accrue valuable experience.
+.
+
+SOFTWARE ENGINEER
+In this role, professionals focus on different ways software functions operate. Software engineers collaborate with designers, programmers, and coders to plan programming responsibilities and other functions needed for the software to function effectively. Other mandatory skills include acute attention to detail, the ability to collaborate, and analytical thinking.
+
+DEGREE LEVEL AND EXPERIENCE REQUIRED
+Bachelor's Degree
+
+MEDIAN ANNUAL SALARY
+$83,515
+
+PRINCIPAL SOFTWARE ENGINEER
+Principal software engineers lead technical details of projects, which includes efficient scaling and maximizing performance. When necessary, principal software engineers train and mentor other engineers. Professionals must ensure all projects follow standards and run correctly. This role requires professionals to collaborate with information technology managers.
+
+DEGREE LEVEL AND EXPERIENCE REQUIRED
+Bachelor's Degree; Certified Software Development Professional Certification; 7-10 Years Experience
+
+MEDIAN ANNUAL SALARY
+$132,964
+
+PROGRAMMER ANALYST
+Designing, coding, and testing new programs remain the primary role of programmer analysts. Professionals must maintain detailed records of projects, which require flowcharts, diagrams, code comments, and troubleshooting. Customized programs may also require professionals to understand how to deal with computer algorithms and application domains. Programmer analysts also need refined communication skills to interact with vendors.
+
+DEGREE LEVEL AND EXPERIENCE REQUIRED
+Bachelor's Degree; 3-5 Years Experience
+
+MEDIAN ANNUAL SALARY
+$65,152
+
+APPLICATION DEVELOPER
+Application developers focus on the field's cutting-edge technology. Professionals create, oversee, and maintain applications in multiple industries. Most projects require collaborative efforts with information technology departments, other developers, graphic artists, and data specialists. Other responsibilities include flowchart development, superb presentation skills, and effective communication to collaborate with clients.
+
+DEGREE LEVEL AND EXPERIENCE REQUIRED
+Bachelor's Degree; 3-5 Years Experience
+
+MEDIAN ANNUAL SALARY
+$67,538
+
+LEAD SOFTWARE DEVELOPMENT ENGINEER
+Professionals create custom software to meet organizational needs. All software design prioritizes ease of use. Lead software development engineers often manage a team of engineers. Job responsibilities include project management, debugging software, developing multithreaded codes or networked server applications. Professionals also collaborate with content producers. This role requires excellent critical-thinking and analytical skills.
+
+DEGREE LEVEL AND EXPERIENCE REQUIRED
+Master's Degree
+
+MEDIAN ANNUAL SALARY
+$106,650
+
+Where Can I Work as a Software Engineer?
+In an increasingly global society, organizations need skilled computer software engineers. Therefore, professionals can explore opportunities across the world in virtually any industry. Software engineers can work for large organizations or small startups with organic environments. They can also work independently as freelancers; however, freelance computer software engineers should learn about basic business and marketing principles.
+
+LOCATIONS
+While computer software engineers can find employment anywhere, location impacts the number of jobs available and earning potential. The highest-paying states include Washington, California, District of Columbia, New York, and Maryland; however, states with the most opportunities include California, Texas, Washington, New York, and New Jersey. Therefore, states with higher pay may offer fewer opportunities, increasing the level of competition and employer expectations. Furthermore, some of the states mentioned above maintain a high cost of living.
+
+METROPOLITAN AREAS WITH THE HIGHEST EMPLOYMENT LEVEL OF APPLICATIONS SOFTWARE DEVELOPERS
+LOCATION	EMPLOYMENT	ANNUAL MEAN WAGE
+New York-Jersey City-White Plains, NY-NJ Metropolitan Division	57,910	$117,620
+San Jose-Sunnyvale-Santa Clara, CA	48,750	$132,170
+Seattle-Bellevue-Everett, WA Metropolitan Division	47,920	$133,810
+San Francisco-Redwood City-South San Francisco, CA Metropolitan Division	30,120	$147,590
+Washington-Arlington-Alexandria, DC-VA-MD-WV Metropolitan Division	28,820	$114,990
+Source: BLS
+TOP-PAYING METROPOLITAN AREAS FOR APPLICATIONS SOFTWARE DEVELOPERS
+LOCATION	EMPLOYMENT	ANNUAL MEAN WAGE
+San Francisco-Redwood City-South San Francisco, CA Metropolitan Division	30,120	$147,590
+Seattle-Bellevue-Everett, WA Metropolitan Division	47,920	$133,810
+San Jose-Sunnyvale-Santa Clara, CA	48,750	$132,170
+Silver Spring-Frederick-Rockville, MD Metropolitan Division	3,630	$126,260
+Oakland-Hayward-Berkeley, CA Metropolitan Division	10,010	$125,120
+Source: BLS
+SETTINGS
+Computer software engineers work with companies that vary in size and environment. Large organizations often create departments to specifically meet the organization's needs. Incumbents benefit from long-term relationship building with their peers, while becoming subject matter experts in a niche field. Smaller organizations may need to outsource, causing software engineers to experience constant change. For instance, the data below indicates that most computer software engineers work in computer systems design and related services. Because this industry heavily relies on project-based contracts, professionals gain exposure to vastly different organizations.
+
+THE FIVE LARGEST EMPLOYERS OF APPLICATIONS SOFTWARE DEVELOPERS
+SETTING	PERCENT EMPLOYED	MEDIAN ANNUAL SALARY
+Computer Systems Design and Related Services	35	$98,450
+Software Publishers	10	$112,230
+Finance and Insurance	10	$105,170
+Manufacturing	7	$109,070
+Management of Companies and Enterprises	5	$100,430
+Source: BLS
+Continuing Education for Software Engineers
+States do not require computer software engineers to hold a license or continuing education hours; however, this field experiences ongoing advancements, which can cause professionals to become outdated quickly. Many organizations require employees to complete additional coursework to stay current. Employers often provide training or reimburse employees who complete outside coursework. Many professional membership organizations offer continuing education coursework. For instance, IEEE offers online courses through its eLearning Library. Professionals might also consider earning additional certifications to boost earning potential and professional opportunities.
+
+How Do I Find a Job in Software Engineering?
+Unlike established professionals, students approaching graduation typically receive direct support from their school. Depending on the university, students may work with a faculty member from their department or professionals at the school career center to identify local opportunities. Most colleges also host annual career fairs where organizations seeking talent can interview emerging professionals.
+
+Students who join professional organizations usually receive free career support can browse job opportunities on the organization's website. As most organizations offer national membership, posts reflect employment opportunities across the country. Memberships also include ample networking opportunities including annual conferences where organizations search for talent.
+
+Professional Resources for Software Engineers
+PROFESSIONAL ORGANIZATIONS
+Institution of Electrical and Electronics Engineers
+Regarded as a leading organization in engineering, IEEE provides access to a vast network of professionals in more than 160 countries. Membership includes networking opportunities, professional development, and certificate programs.
+Institution of Engineering and Technology
+IET strives to educate and inspire the global engineering community. IET members also focus on solving current dilemmas in the field. Members gain access to digital resources and mentorship.
+Computing Research Association
+CRA collaborates with science and engineering industry professionals, the government, and universities to create impact. Members contribute to research and policy. Membership also includes professional development and networking opportunities.
+Association for Computing Machinery
+As the most developed scientific computing organization, ACM prioritizes the advancement of computing as a science. Members collaborate to conduct research and engage in workshops to learn cutting-edge information.
+PROFESSIONAL DEVELOPMENT
+TechBeacon: TechBeacon educates professionals who wish to develop their coding skills. Coursework focuses on practical knowledge and skills that computer software engineers can apply immediately. TechBeacon offers coursework online.
+Pluralsight: Pluralsight offers online sessions that cover essential processes and methods software engineers need to excel. Web development courses explore additional programming languages including Angular, C#, or Java. Workshops also explore tools that help professionals deploy and secure apps.
+Construx: Construx offers subscriptions that allow professionals to engage in professional development coursework at their own pace. The Construx curriculum gauges learner ability by level of experience. This company also provides organizational memberships.
+FINDING A JOB
+Core Intuition: Many computer software engineers listen to Core Intuition podcasts that focus on indie software development for Apple technologies. The organization also provides access to job opportunities.
+WPhired: WPhired strives to simplify the job search process computer software engineers experience. WPhired retains particular esteem for connecting professionals to employers looking for talented employees. Job postings include opportunities across the globe.
+Toptal: Professionals working independently can find projects by using Toptal, an online site that prioritizes connectivity between computer software engineers and employers. Developer profiles include Back-End, DevOps, Ember, Node.js, and Unity3D.
+CONTINUING EDUCATION
+Devslopes: Devslopes offers hands-on training in code apps, web, and games. Devslopes also offers curriculum for learning blockchain. Professionals interested in condensed, rigorous training can complete one of the Devslopes bootcamps. Participants also receive a free eBook in iOS development.
+Udemy: Udemy allows professionals to engage in multiple classes at a time. Among competitors, Udemy offers affordable pricing. Remote, self-paced learning formats provide optimal flexibility. Top categories include development, IT and software, and design.
+Udacity: Udacity provides online courses to computer software engineers who wish to develop their skills. Learners engage in self-paced coursework. Upon finishing a course, Udacity provides certificates of completion that professionals may add to their portfolio or resume.
+Coursera: Coursera offers a traditional education structure. While coursework does not result in an additional degree, professionals receive completion certificates. Coursera offers free and competitively priced courses.

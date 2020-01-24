@@ -1,0 +1,217 @@
+https://study.com/academy/lesson/what-is-an-algorithm-in-programming-definition-examples-analysis.html
+
+for Teachers for Schools for Working Scholars for College Credit
+Study.com
+1	Log in	
+Search Courses & Lessons
+
+Plans
+Courses
+Credit
+Degrees
+Schools
+ Information Systems: Tutoring Solution  /  Business CoursesNext Lesson 
+What is an Algorithm in Programming? - Definition, Examples & Analysis
+Chapter 11 /  Lesson 18   Transcript
+Video 
+Quiz 
+Course
+ Save  Timeline Autoplay  Speed Normal Audio mode 379K views
+Cheyenne O.
+California, United States
+01/06/2018
+Simple, straight forward learning that can be taken care of on the individuals time, not to mention easy contact when help is needed. I feel extremely fortunate to have found a program I can ...
+Recommended Lessons and Courses for You
+Related LessonsRelated Courses
+What is an Algorithm? - Definition & Examples
+What is an Algorithm? - Definition & Examples
+What is a Computer Algorithm? - Design, Examples & Optimization
+What is a Computer Algorithm? - Design, Examples & Optimization
+Properties of Algorithms
+Properties of Algorithms
+IDE in Software: Definition & Examples
+IDE in Software: Definition & Examples
+Lesson Transcript
+Instructor: Lonny Meinecke
+Lonny teaches psychology classes at King University, and has a bachelor's degree in IT and a doctorate in psychology.
+
+In this lesson, we look at what a programming algorithm is - and what it isn't. We also look at an example of a common algorithm shown as both a numbered list and a flowchart, after which we briefly analyze what it does.
+What Is a Programming Algorithm?
+So, what is a programming algorithm? You can think of a programming algorithm as a recipe that describes the exact steps needed for the computer to solve a problem or reach a goal. We've all seen food recipes - they list the ingredients needed and a set of steps for how to make the described meal. Well, an algorithm is just like that. In computer lingo, the word for a recipe is a procedure, and the ingredients are called inputs. Your computer looks at your procedure, follows it to the letter, and you get to see the results, which are called outputs. A programming algorithm describes how to do something, and your computer will do it exactly that way every time. Well, it will once you convert your algorithm into a language it understands!
+
+However, it's important to note that a programming algorithm is not computer code. It's written in simple English (or whatever the programmer speaks). It doesn't beat around the bush--it has a start, a middle, and an end. In fact, you will probably label the first step 'start' and the last step 'end.' It includes only what you need to carry out the task. It does not include anything unclear, often called ambiguous in computer lingo, that someone reading it might wonder about.
+
+It always leads to a solution and tries to be the most efficient solution we can think up. It's often a good idea to number the steps, but you don't have to. Instead of numbered steps, some folks use indentation and write in pseudocode, which is a semi-programming language used to describe the steps in an algorithm. But, we won't use that here since simplicity is the main thing. Other folks just use a diagram called a flowchart, which we will discuss soon.
+
+Programming Algorithm Example
+Okay, you probably wish you could see an example, right? So, what exactly does an algorithm in programming look like? Well, asking a user for an email address is probably one of the most common tasks a web-based program might need to do, so that is what we will use here for an example. An algorithm can be written as a list of steps using text or as a picture with shapes and arrows called a flowchart. We will make one of each which you will see here:
+
+
+
+
+Wasn't that easy? Notice how the top of our example is just a numbered list of steps using plain English, stating exactly what we want the procedure to do (no more, no less). The bottom is the very same algorithm, but this time, we used shapes and arrows in a flowchart (like a map of the route), so that a reader can visualize the journey. That's a nice thing here, because in one of our steps (step 7) a decision must be made and, depending on the result of that decision, our steps may not go in order from start to end.
+
+Okay! Let's take a quick run through our little recipe:
+
+1. Step 1 is really just a reminder that this is a procedure with a beginning and an end.
+
+2. In step 2, we make a place in the computer to store what the user types in, also called a variable
+
+3. In step 3, we clear this variable because we might need to use it again and don't want the old contents mixed in with the new.
+
+4. In step 4, we prompt the user for an email address
+
+5. In step 5, we stick it in our nifty variable.
+
+6. In step 6, we tell our computer to take a close look at this email address-- is it really an email address?
+
+ To unlock this lesson you must be a Study.com Member. Create your account
+
+Register to view this lesson
+Are you a student or a teacher?
+ 
+ You are viewing lesson 18 in chapter 11 of the course:
+Information Systems: Tutoring Solution
+14 chapters | 255 lessons
+
+Ch 1. Information Systems in...
+Ch 2. Hardware and Systems Technology:...
+Ch 3. Systems Software and Application...
+Ch 4. Internet, Intranet, and Extranet:...
+Ch 5. Network Systems Technology:...
+Ch 6. Enterprise Business Systems:...
+Ch 7. Decision Support Systems: Tutoring...
+Ch 8. Systems Development: Tutoring...
+Ch 9. Data Management: Tutoring...
+Ch 10. Business, Social, and Ethical...
+Ch 11. Introduction to Programming: Tutoring...
+What Is Programming? - Definition & Introduction for Beginning Programmers3:47
+Gathering User Requirements: Meetings, Observation & Surveys7:44
+Using Validation Tools: Prototyping, Survey Review, Document Review & User Requirements12:37
+Analysis and Design Tools: Analysis Definition and Flow Charts Introduction7:37
+Mapping Code Using Outlines and Flow Charts9:11
+5 Basic Elements Of Programming9:16
+Programming Logic & Syntax: The Programming Toolbox7:46
+Using Pseudocode to Map Code6:16
+Data Types in Programming: Numbers, Strings and Others8:00
+How to Organize Data Using Data Structures: Files, Arrays, Lists and Others8:00
+How to Write a Program: Coding, Testing & Debugging7:36
+Object-Oriented Programming vs. Procedural Programming7:17
+Object-Oriented Programming: Objects, Classes & Methods7:34
+Machine Code and High-level Languages: Using Interpreters and Compilers8:55
+Programming Languages: C++, Java, Python and Others8:02
+Metalanguage: Definition & Examples
+Programming Flowcharts: Types, Advantages & Examples
+What is an Algorithm in Programming? - Definition, Examples & Analysis5:21
+5:23
+Next Lesson
+
+What is an HTML Document? - Structure, Types & ExamplesWhat is an HTML Document? - Structure, Types & Examples
+What is COBOL Programming? - History & Examples4:57
+What is JavaScript? - Function & Uses4:31
+What is Programming Language? - Types & Examples5:43
+What Is Stack Overflow? - Errors, Exceptions & Causes5:47
+What is WSDL? - Definition & Example
+Writing Pseudocode: Algorithms & Examples3:49
+XML Schema: Definition & Example
+What is XSD? - Examples & Tutorial
+What is Alphanumeric? - Definition & Characters5:47
+Aspect Oriented Programming: Definition & Concepts
+Aspect-Oriented Programming vs. Object-Oriented Programming
+Application Programming Interface (API): Definition & Example3:36
+APIs in Java
+Applet: Definition & Uses
+Applets in HTML: Definition & Example
+Applets in Java: Definition & Example
+Lifecycle of an Applet
+Importance of Java Applets in Software Development
+Java: Applet vs. Application
+Applets: Advantages & Disadvantages
+Arithmetic Operators in Programming: Definition & Examples4:51
+Array of Pointers in C++3:49
+Array of Pointers to Strings
+Array of Pointers to Structs
+Array of Pointers to Functions
+ASCII Table & Codes
+Background Thread vs. Foreground Thread
+Go toIntroduction to Programming: Tutoring Solution
+Ch 12. Data Visualization & Programming...
+What is Query in SQL?
+How to Create & Run a SQL Script
+SQL Scripts vs. Queries
+SQL Scripts: Uses & Examples
+Rasmus Lerdorf & History of PHP
+What is PHP Used For? - Uses & Advantages4:53
+IDE in Software: Definition & Examples3:33
+History of SQL
+MySQL Commands: List & Examples5:08
+Python Data Visualization: Basics & Examples
+C# vs. C++: Similarities & Differences
+Data Binding in C#
+Go toData Visualization & Programming Languages
+Ch 13. Data Visualization &...
+Ch 14. Displaying Visualization...
+What is an Algorithm in Programming? - Definition, Examples & Analysis Related Study Materials
+RelatedRecently UpdatedPopularExplore Subjects
+Browse by Courses
+Business Courses
+Computer Science Courses
+Information Systems Courses
+Tech Skills Courses
+Information Technology Courses
+Internet & Social Media Marketing: Help & Review
+Senior Professional in Human Resources - International (SPHRi): Exam Prep & Study Guide
+Finance 101: Principles of Finance
+AP Macroeconomics: Homeschool Curriculum
+Financial Accounting Textbook
+Intro to Business for Teachers: Professional Development
+Organizational Behavior Textbook
+Principles of Marketing Textbook
+Principles of Management Textbook
+Introduction to Business Textbook
+Public Speaking Syllabus Resource & Lesson Plans
+Business Law Textbook
+GMAT Prep: Tutoring Solution
+Browse by Lessons
+Laws & Restrictions Around Wage Garnishment
+California's Requirements for Timekeeping at Work
+How The Fair Employment & Housing Act Relates to Employment
+California Labor Code Section 132a: Definition & Significance
+How California Protects Whistleblowers
+Quiz & Worksheet - Self-Aware and Adaptive Communication
+Quiz & Worksheet - Masculine vs. Feminine Cultures
+Quiz & Worksheet - Characteristics of Monochronic & Polychronic Cultures
+Quiz & Worksheet - Communication in Individualistic vs. Collectivistic Cultures
+Quiz & Worksheet - Empathic Communication
+CMMP Exam: Professional Proficiency in Ethics
+CMMP Exam: Critical Relevant Proficiencies
+CMMP Exam Study Guide - Certified Marketing Management Professional Flashcards
+Marketing & the Internet
+Digital Marketing Strategies
+Create an account to start this course today
+Try it risk-free for 30 days!
+Explore our library of over 79,000 lessons
+Search
+Search Courses & Lessons
+BrowseBrowse by subject
+Plans
+Student Solutions
+Teacher Solutions
+Study.com for Schools
+Working Scholars Solutions
+About Us
+Blog
+Careers
+Get Your School Listed
+Teach For Us
+Press Center
+Support
+Contact Support
+FAQ
+Site Feedback
+Download the app
+Get it on Google PlayGet it on the App Store  
+Working ScholarsWorking Scholars Bringing Tuition-Free College to the Community
+© copyright 2003-2019 Study.com. All other trademarks and copyrights are the property of their respective owners. All rights reserved.
+Terms of Use   Privacy Policy   DMCA Notice   ADA Compliance   Honor Code For Students
+Support

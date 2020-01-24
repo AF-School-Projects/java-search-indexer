@@ -1,0 +1,125 @@
+https://www.investopedia.com/terms/a/algorithm.asp
+
+EDUCATION
+MARKETS
+SIMULATOR
+YOUR MONEY
+ADVISORS
+ACADEMY 
+Algorithmic Trading
+ALGORITHMIC/AUTOMATED TRADING BASIC EDUCATION
+HIGH-FREQUENCY TRADING (HFT)
+ALGORITHMIC TRADING  ALGORITHMIC/AUTOMATED TRADING BASIC EDUCATION
+Algorithm
+REVIEWED BY LUCAS DOWNEY  Updated Oct 29, 2019
+What Is an Algorithm?
+An algorithm is set of instructions for solving a problem or accomplishing a task. One common example of an algorithm is a recipe, which consists of specific instructions for preparing a dish/meal. Every computerized device uses algorithms to perform its functions.
+
+KEY TAKEAWAYS
+An algorithm is set of instructions for solving a problem or accomplishing a task. Every computerized device uses algorithms to perform its functions.
+Algo trading, also known as automated trading or black-box trading, uses a computer program to buy or sell securities at a pace not possible for humans. Since prices of stocks, bonds, and commodities appear in various formats online and in trading data, the process by which an algorithm digests scores of financial data becomes easy.
+Computer algorithms make life easier by trimming the time it takes to manually do things. In the world of automation, algorithms allow workers to be more proficient and focused. Algorithms make slow processes more proficient. In many cases, especially in automation, algos save companies money.
+How an Algorithm Works
+Financial companies use algorithms in areas such as loan pricing, stock trading, asset-liability management, and many automated functions. For example, algorithmic trading, known as "algo" trading, is used for deciding the timing, pricing, and quantity of stock orders. Algo trading, also known as automated trading or black-box trading, uses a computer program to buy or sell securities at a pace not possible for humans.
+
+Since prices of stocks, bonds, and commodities appear in various formats online and in trading data, the process by which an algorithm digests scores of financial data becomes easy. The user of the program simply sets the parameters and gets the desired output when securities meet the trader's criteria.
+
+Computer algorithms make life easier by trimming the time it takes to manually do things. In the world of automation, algorithms allow workers to be more proficient and focused. Algorithms make slow processes more proficient. In many cases, especially in automation, algos save companies money.
+
+Types of Algos
+Several types of trading algorithms help investors decide whether to buy or sell. A mean reversion algorithm examines short-term prices over the long-term average price, and if a stock goes much higher than the average, a trader may sell it for a quick profit. Seasonality refers to the practice of traders buying and selling securities based on the time of year when markets typically rise or fall. A sentiment analysis algorithm gauges news about a stock price that could lead to higher volume for a trading period.
+
+Algorithm Example
+The following is an example of an algorithm for trading. A trader creates instructions within his automated account to sell 100 shares of a stock if the 50-day moving average goes below the 200-day moving average.
+
+Contrarily, the trader could create instructions to buy 100 shares if the 50-day moving average of a stock rises above the 200-day moving average. Sophisticated algorithms consider hundreds of criteria before buying or selling securities. Computers quickly synthesize the automated account's instructions to produce the desired results. Without computers, complex trading would be time-consuming and likely impossible.
+
+Algorithms in Computer Science
+In computer science, a programmer must employ five basic parts of an algorithm to create a successful program.
+
+First, he/she describes the problem in mathematical terms before creating the formulas and processes that create results. Next, the programmer inputs the outcome parameters, and then he/she executes the program repeatedly to test its accuracy. The conclusion of the algorithm is the result given after the parameters go through the set of instructions in the program.
+
+For financial algorithms, the more complex the program, the more data the software can use to make accurate assessments to buy or sell securities. Programmers test complex algorithms thoroughly to ensure the programs are without errors. Many algorithms can be used for one problem; however, there are some that simplify the process better than others. 
+
+Related Terms
+Algorithmic Trading Definition
+Algorithmic trading is a system that utilizes very advanced mathematical models for making transaction decisions in the financial markets. more
+Autotrading Definition
+Autotrading is a trading plan based on buy and sell orders that are automatically placed based on an underlying system or program. more
+Fuzzy Logic Definition
+Fuzzy logic is a mathematical logic that attempts to solve problems with an open, imprecise spectrum of data that makes it possible to obtain an array of accurate conclusions. more
+Manual Trading Definition and Tactics
+Manual trading is a trading process that involves human decision-making for entering and exiting trades, rather than computers and algorithms. more
+Quantitative Trading Definition
+Quantitative trading consists of trading strategies which rely on mathematical computations and number crunching to identify trading opportunities. more
+Arbitrage Trading Program (ATP) Definition
+An arbitrage trading program (ATP) is a computer program that seeks to profit from financial market arbitrage opportunities. more
+Partner Links
+Related Articles
+
+ALGORITHMIC/AUTOMATED TRADING BASIC EDUCATION
+
+Basics of Algorithmic Trading: Concepts and Examples
+
+ALGORITHMIC/AUTOMATED TRADING BASIC EDUCATION
+
+Using Genetic Algorithms to Forecast Financial Markets
+
+ALGORITHMIC/AUTOMATED TRADING BASIC EDUCATION
+
+Pick the Right Algorithmic Trading Software
+
+ADVANCED FOREX TRADING CONCEPTS
+
+Forex Automation Software for Hands-Free Trading
+
+ALGORITHMIC/AUTOMATED TRADING BASIC EDUCATION
+
+Pros and Cons of Automated Trading Systems
+
+ALGORITHMIC/AUTOMATED TRADING BASIC EDUCATION
+
+How trading algorithms are created
+TRUSTe
+About Us
+Editorial Policy
+Privacy Policy
+Terms of Use
+Advertise
+Contact Us
+Dictionary
+News
+Careers
+#
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Investopedia is part of the Dotdash publishing family.
+The Balance 
+Lifewire 
+TripSavvy 
+The Spruce
+and more

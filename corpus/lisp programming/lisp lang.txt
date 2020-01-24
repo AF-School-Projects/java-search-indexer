@@ -1,0 +1,110 @@
+https://lisp-lang.org/
+
+
+Learn
+Wiki
+News
+Community
+Common Lisp
+Extensible from the Inside-Out
+Part of what makes Lisp distinctive is that it is designed to evolve. As new abstractions become popular (object-oriented programming, for example), it always turns out to be easy to implement them in Lisp. Like DNA, such a language does not go out of style.
+
+ Paul Graham, ANSI Common Lisp
+An example of SxQL, a macro-based SQL DSL
+
+(select (:title :author :year)
+  (from :books)
+  (where (:and (:>= :year 1995)
+               (:< :year 2010)))
+  (order-by (:desc :year)))
+
+⇒ ((:title "Practical Common Lisp"
+    :author "Peter Seibel"
+    :year 2005)
+   (:title "ANSI Common Lisp"
+    :author "Paul Graham"
+    :year 1995))
+Mature & Stable
+An extensive standard provides a rock-solid foundation that you can confidently build upon. You won't be reinventing the same old wheels ten years from now.
+
+Functional
+Functions are first class objects: you can pass them around, store them, call them dynamically. Build your application by composing small, functional building blocks.
+(reduce #'-
+        (reverse (list 1 2 3)))
+⇒ 0
+
+(mapcar #'string-downcase
+        (list "Hello" "world!"))
+=> ("hello" "world!")
+Object-Oriented
+Build reusable and extensible class hierarchies using the Common Lisp Object System. Design patterns disappear as you adapt the language to your problem domain.
+(defclass book ()
+  ((title :reader book-title
+          :initarg :title)
+   (author :reader book-author
+           :initarg :author))
+  (:documentation "Describes a book."))
+
+(make-instance 'book
+               :title "ANSI Common Lisp"
+               :author "Paul Graham")
+Fast
+Ruby
+Node
+Common Lisp
+0
+1250
+2500
+3750
+5000
+6250
+7500
+8750
+10000
+11250
+12500
+13750
+15000
+16250
+Requests per second using Woo, an HTTP server written in pure Common Lisp.
+Great Tools
+SLIME, an IDE that leverages the power of Common Lisp and the extensibility of Emacs, provides a development environment ahead of anything else.
+
+You can leave the write-compile-debug cycle behind. Everything is interactive: try your code on the REPL as you write it, and a powerful debugger lets you inspect trees of live values, or rewind the stack to undo an exception.
+
+
+Grammarly
+Grammarly is a grammar checking startup, but it’s far more than a simple spell checker. Its grammar engine, written in Common Lisp, finds instances of incorrect tenses and suggests more precise synonyms for common words.
+
+At Grammarly, the foundation of our business, our core grammar engine, is written in Common Lisp. It currently processes more than a thousand sentences per second, is horizontally scalable, and has reliably served in production for almost 3 years.
+
+ Vsevolod Dyomkin
+Ita Software
+Ita Software (now Google) developed Matrix, the flight search engine.
+
+Lisp was the natural language to start with. We needed to write lots of code very quickly; and we needed the higher-level power that only Lisp and Allegro CL provides. Lisp provided us with the ability to write the algorithms that we needed.
+
+We can search thousands of pricing and scheduling options in the time it takes the other airline engines to search several hundred. And, thanks to our lisp-based algorithms, we can adapt our questions to become more narrow or broad depending on the situation.
+
+ Jeremy Wertheimer
+SISCOG
+SISCOG’s Common Lisp rail scheduling system moves millions of passengers across Europe every day.
+
+See more success stories
+Start here
+ABOUT
+News
+About
+View on GitHub
+LEARN
+Getting Started
+Tutorials
+Books
+LANGUAGE
+Specification
+Style Guide
+Success Stories
+COMMUNITY
+Forums
+Social Media
+© 2015–2019 lisp-lang.org — Site design by Fernando Borretti

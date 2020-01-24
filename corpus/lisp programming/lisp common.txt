@@ -1,0 +1,75 @@
+https://common-lisp.net/
+
+
+ Common-Lisp.net
+Getting started
+Documentation
+Community
+Projects 
+Resources 
+Contribute
+About
+Welcome to Common-Lisp.net
+
+Introduction
+Welcome to the amazing world of Common Lisp, the programmable programming language.
+
+This site is one among many gateways to Common Lisp. Its goal is to provide the Common Lisp community with development resources and to work as a starting point for new programmers.
+
+Latest Common-Lisp.net news
+2019-06-01
+The Subversion repository maintenance window completed ahead of schedule at 18:00 on June 1st instead of taking the better part of the weekend. During this maintenance window, Subversion repositories were upgraded to the latest standard (1.9). Some repositories were stored in backward compatible formats as far back as 1.1. With the migration, repository access should benefit from performance work done in the server component. Other features that become available with this maintenance include the storage of merge-tracking information.
+
+2019-05-19
+The site has always been running its own Trac setup, because we were one of the early Trac adopters. While running our own packages, we've also been lenient to install plugins. Due to improved support in both Trac as well as Debian packages, we were able to move to a full-standard setup.
+
+2019-04-28
+On Sunday, April 28th, the common-lisp.net hosting infrastructure experienced an outage of approximately 5 hours when we encountered a unexpected difficulty in upgrading our services. As you know, we take our responsiblity towards the integrity of the data and services associated with common-lisp.net seriously. Part of that responsiblity is owning up to our mistakes, so here’s our deeper explanation of how we inadvertently impinged on the integrity of the main host file system.
+
+2019-02-09 Foundation to host ASDF fundraiser!
+The Common Lisp Foundation hosts an appreciation fundraiser for the ASDF project, with up to $5,000 donation doubler.
+
+Read more...
+
+Latest Lisp news
+Planet Lisp
+Wimpie Nortje: HTTP Routing libraries for Hunchentoot
+Paul Khuong: A Multiset of Observations With Constant-time Sample Mean and Variance
+Quicklisp news: November 2019 Quicklisp dist update now available
+ABCL Dev: Stuffing an @Armedbear
+Lispers.de: Hamburg Lispers Meetup, Monday, 2nd December 2019
+ABCL Dev: Unleashing the Bear past Java 11
+links from lisp.reddit.com
+vote
+copy-readtable: Why do the following codes produce different result?Help
+3 points | 7 comments
+vote
+Are there any advantages to mixing M-Expressions and S-Expressions over just using S-Expressions?
+4 points | 4 comments
+vote
+Archive of the ANSI X3J13 Committee's mailing list
+8 points | 4 comments
+vote
+Any love for some simple ELISP?
+18 points | 13 comments
+vote
+Common Lisp: How to get nested iteration (shorter syntax for it) without explicitly nesting loops? (aka for* from Racket)
+2 points | 2 comments
+What is Common Lisp?
+Common Lisp is the modern, multi-paradigm, high-performance, compiled, ANSI-standardized, most prominent (along with Scheme) descendant of the long-running family of Lisp programming languages.
+
+Common Lisp is known for being extremely flexible, having excellent support for object oriented programming, and fast prototyping capabilities. It also sports an extremely powerful macro system that allows you to tailor the language to your application, and a flexible run-time environment that allows modification and debugging of running applications (excellent for server-side development and long-running critical software). It is a multi-paradigm programming language that allows you to choose the approach and paradigm according to your application domain.
+
+Curious?    
+Services
+Project hosting for open source / free software Common Lisp projects.
+Mailing lists for Common Lisp related topics.
+Support
+If you need technical support, please contact our admins.
+
+About this site
+Check out our about page.
+
+© 2003-2019 Common-Lisp.Net maintainers.
+Creative Commons LicenseThis work is licensed under a Creative Commons Attribution 4.0 International License.
+"[Lisp] has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts."- Edsger Dijkstra, CACM, 15:10

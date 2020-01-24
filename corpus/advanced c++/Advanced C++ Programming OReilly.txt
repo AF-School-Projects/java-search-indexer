@@ -1,0 +1,124 @@
+START FREE TRIAL
+Sign InPricingEnterprise
+Search...
+Advanced C++ Programming
+Advanced C++ Programming
+by Mike McMillan
+Publisher: Infinite Skills
+Release Date: July 2012
+ISBN: 9781771370110
+View table of contents
+START WATCHING
+Video Description
+In this Advanced C++ training course, expert trainer, author and developer Mike McMillan teaches you advanced tools and techniques for developing programs with C++. This tutorial continues where Mike left off with the Beginners Learning C++ training course from Infinite Skills.
+You jump right in to the training with a review of Inheritance. You will learn advanced topics in this training course such as Polymorphism, creating templates, working with exception handling, stream input/output management, associative containers, algorithms, stacks, queues and binary trees, different search and sort methods, namespaces and working with advanced string class methods.
+By the completion of this advanced training course for C++, you will have an in-depth understanding of how to apply advanced programming techniques to achieve your software development needs. Working files are included to allow you to learn using the same files that the author using in this video training course for C++.
+
+Table of Contents
+Introduction/Inheritance
+What This Course Covers 00:04:59
+Review - Building A Base Class 00:07:12
+Creating A Derived Class 00:07:28
+Using Protected Members - Part 1 00:04:57
+Using Protected Members - Part 2 00:04:34
+Constructors And Destructors 00:04:08
+Exercise 1 - Chapter 1 00:05:13
+Exercise 2 - Chapter 1 00:04:18
+Polymorphism
+Understanding Polymorphism 00:04:56
+Base Class Pointers 00:02:50
+Virtual Functions 00:04:21
+Abstract Classes 00:06:15
+Exercise 1 - Chapter 2 00:02:59
+Exercise 2 - Chapter 2 00:03:02
+Generic Programming
+Why Generic Programming? 00:03:47
+Generic Functions 00:05:03
+Defining Class Templates 00:06:40
+Class Template Specialization 00:03:32
+Function Templates With Multiple Data Types 00:05:53
+Class Templates With Multiple Data Types 00:04:23
+Exercise 1 - Chapter 3 00:04:36
+Exercise 2 - Chapter 3 00:04:28
+Exception Handling
+Exception Overview 00:04:11
+Throwing Exceptions 00:04:16
+Catching Exceptions 00:04:28
+Catch-All Exception Handlers 00:02:15
+Exercise 1 - Chapter 4 00:04:11
+Stream Input/Output
+Stream Overview 00:01:39
+Managing Stream Output 00:04:29
+Managing Stream Input 00:04:00
+String Streams 00:03:30
+Exercise 1 - Chapter 5 00:03:00
+Sequential Containers
+Vectors Review 00:03:55
+Using Lists - Part 1 00:04:18
+Using Lists - Part 2 00:04:16
+Using Deques - Part 1 00:04:00
+Using Deques - Part 2 00:05:56
+Exercise 1 - Chapter 6 00:04:05
+Exercise 2 - Chapter 6 00:04:15
+Associative Containers
+Working With The Pair Class 00:03:57
+Using Maps - Part 1 00:04:39
+Using Maps - Part 2 00:06:44
+Using Sets 00:04:39
+Multimaps And Multisets 00:05:56
+Exercise 1 - Chapter 7 00:07:12
+Exercise 2 - Chapter 7 00:06:01
+Generic Algorithms
+Read-Only Algorithms 00:06:54
+Read-Write Algorithms 00:05:31
+Sorting Algorithms 00:03:38
+Iterators - Front/Back Inserter 00:04:18
+Iterators - Reverse 00:04:20
+Exercise 1 - Chapter 8 00:05:20
+Non-STL Data Structures
+Stacks - Part 1 00:04:46
+Stacks - Part 2 00:04:24
+Queues - Part 1 00:05:08
+Queues - Part 2 00:04:51
+Binary Trees - Part 1 00:03:39
+Binary Trees - Part 2 00:10:25
+Linked Lists - Part 1 00:03:31
+Linked Lists - Part 2 00:05:18
+Linked Lists - Part 3 00:03:57
+Exercise 1 - Chapter 9 00:03:23
+Exercise 2 - Chapter 9 00:04:24
+Exercise 3 - Chapter 9 00:04:50
+Non-STL Algorithms
+Linear Search 00:05:42
+Binary Search 00:06:27
+Selection Sort 00:04:29
+Insertion Sort 00:03:59
+Merge Sort 00:04:25
+Quick Sort 00:04:50
+Exercise 1 - Chapter 10 00:05:58
+Namespaces
+Introduction To Namespaces - Part 1 00:04:20
+Introduction To Namespaces - Part 2 00:04:36
+Exercise 1 - Chapter 11 00:02:46
+String Class
+String Assignment And Concatenation 00:05:33
+Comparing Strings 00:04:27
+Searching Strings 00:06:51
+Substring And Replace 00:05:14
+C-Style Strings 00:04:30
+Exercise 1 - Chapter 12 00:05:22
+Our Company
+Teach / Speak / Write
+Press / Media Inquiries
+Careers
+Customer Service
+Contact
+TwitterTwitter
+FacebookFacebook
+LinkedInLinkedIn
+YouTubeYouTube
+EmailEmail
+Terms of Service
+Privacy Policy
+Editorial Independence
+Copyright © 2019 Safari Books Online.

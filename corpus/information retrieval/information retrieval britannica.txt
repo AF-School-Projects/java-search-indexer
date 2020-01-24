@@ -1,0 +1,70 @@
+https://www.britannica.com/technology/information-retrieval
+
+250 thistle logo
+ENCYCLOPÆDIA BRITANNICA
+250 thistle logo
+SUBSCRIBE
+LOG IN · JOIN
+DEMYSTIFIED QUIZZES #WTFACT LISTS ON THIS DAY BIOGRAPHIES EXPLORE
+SEARCH BRITANNICA
+Search
+Search Britannica...
+CLICK HERE TO SEARCH
+Fact-checked results at the top of your browser search. Chrome store logo Britannica Insights
+Information retrieval
+COMPUTER AND INFORMATION SCIENCE
+ ARTICLE
+
+INFO
+PRINT
+
+CITE
+
+FEEDBACK
+FEEDBACK
+Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+Select feedback type: 
+SUBMIT FEEDBACK
+
+SHARE
+SHARE
+Information retrieval
+COMPUTER AND INFORMATION SCIENCE
+WRITTEN BY: The Editors of Encyclopaedia Britannica
+See Article History
+THIS ARTICLE IS A STUB. You can learn more about this topic in the related articles below.
+Information retrieval, Recovery of information, especially in a database stored in a computer. Two main approaches are matching words in the query against the database index (keyword searching) and traversing the database using hypertext or hypermedia links. Keyword searching has been the dominant approach to text retrieval since the early 1960s; hypertext has so far been confined largely to personal or corporate information-retrieval applications. Evolving information-retrieval techniques, exemplified by developments with modern Internet search engines, combine natural language, hyperlinks, and keyword searching. Other techniques that seek higher levels of retrieval precision are studied by researchers involved with artificial intelligence.
+
+This article was most recently revised and updated by William L. Hosch, Associate Editor.
+LEARN MORE in these related Britannica articles:
+database
+Database, any collection of data, or information, that is specially organized for rapid search and retrieval by a computer. Databases are structured to facilitate the storage, retrieval, modification, and deletion of data in conjunction with various data-processing operations. A database management system (DBMS) extracts information from…
+hypertext
+Hypertext, the linking of related pieces of information by electronic connections in order to allow a user easy access between them. Hypertext is a feature of some computer programs that allow the user of electronic media to select a word from text and receive additional information pertaining…
+search engine
+Search engine, computer program to find answers to queries in a collection of information, which might be a library catalog or a database but is most commonly the World Wide Web. A Web search engine produces a list of “pages”—computer files listed on the Web—that contain the terms in a…
+newsletter icon
+HISTORY AT YOUR FINGERTIPS
+Sign up here to see what happened On This Day, every day in your inbox!
+Email address
+By signing up, you agree to our Privacy Notice.
+SpaceNext50
+Information retrieval
+QUICK FACTS
+RELATED TOPICS
+Information system
+Information
+LOAD NEXT ARTICLE
+Inspire your inbox – Sign up for daily fun facts about this day in history, updates, and special offers.
+Enter your email
+SUBSCRIBE
+By signing up for this email, you are agreeing to news, offers, and information from Encyclopaedia Britannica.
+Click here to view our Privacy Notice. Easy unsubscribe links are provided in every email.
+STAY CONNECTED
+
+About Us About Our Ads Partner Program Contact Us Privacy Notice Terms of Use
+
+©2019 Encyclopædia Britannica, Inc.
+close
+Are we living through a mass extinction?
+The 6th Mass Extinction

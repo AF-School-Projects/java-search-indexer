@@ -1,0 +1,127 @@
+https://www.techopedia.com/definition/1185/database-db
+
+
+Techopedia - Where IT and Business MeetTOPICSWEBINARSDOWNLOADSDICTIONARYTUTORIALSQ & ARESOURCES
+TRENDING:
+VIRTUALIZATIONMACHINE LEARNINGBIG DATAENTERPRISEDEVELOPMENTMORE
+Search...
+
+Topics
+Webinars
+Downloads
+Dictionary
+Tutorials
+Q & A
+Resources
+Trending
+More
+Home  Dictionary  Tags  Enterprise  Databases 
+Database (DB)
+Definition - What does Database (DB) mean?
+A database (DB), in the most general sense, is an organized collection of data. More specifically, a database is an electronic system that allows data to be easily accessed, manipulated and updated.
+
+In other words, a database is used by an organization as a method of storing, managing and retrieving information. Modern databases are managed using a database management system (DBMS).
+
+Techopedia explains Database (DB)
+Software programmers are well acquainted with database concepts through relational databases like Oracle, SQL SERVER and MySQL, etc. Typically, a database structure stores data in a tabular format.
+
+Database architecture may be external, internal or conceptual. The external level specifies the way in which every end-user type comprehends the organization of its corresponding relevant data in the database. The internal level deals with the performance, scalability, cost and other operational matters. The conceptual level perfectly unifies the different external views into a defined and wholly global view. It consists of every end-user required generic data.
+Share this:  
+Related Terms
+Database Management System (DBMS)
+Relational Database Management System (RDBMS)
+SQL Server
+Database Column
+Database Row
+Data
+Cursor
+Form
+Pad Character
+Data Bank
+Techopedia - Where IT and Business Meet	
+Tech moves fast! Stay ahead of the curve with Techopedia!
+Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+
+Enter your email address...
+Recommended Resources
+Related Articles
+On Dead Domains and Lapsing Links: Why the Web Is So Fragile 
+On Dead Domains and Lapsing Links: Why the Web Is So Fragile
+Cloud Backup and Disaster Recovery for Small and Medium-Sized Businesses 
+Cloud Backup and Disaster Recovery for Small and Medium-Sized Businesses
+Data, Big and Small: Where's the Real Value? 
+Data, Big and Small: Where's the Real Value?
+The 6 Things You Need to Get World-Changing Results with Data 
+The 6 Things You Need to Get World-Changing Results with Data
+Database Administration Careers 101 
+Database Administration Careers 101
+Data Scientists: The New Rock Stars of the Tech World 
+Data Scientists: The New Rock Stars of the Tech World
++ View More Articles
+Related Tutorials
+Introduction to Databases 
+Introduction to Databases
+Related Questions
+What is TensorFlow’s role in machine learning?
+Can there ever be too much data in big data?
+What are some significant challenges companies are facing when it comes to management reporting?
+Featured Q&A
+What is the difference between a mobile OS and a computer OS?
+What is the difference between security architecture and security design?
+How can passwords be stored securely in a database?
+More of your questions answered by our Experts
+Related Tags
+DatabasesData ManagementEnterpriseData
+Misspellings:
+Data Base
+RESOURCES
+The Ultimate Guide to Applying AI in Business	The Ultimate Guide to Applying AI in Business:
+Free Download: Machine Learning and Why It Matters	Free Download: Machine Learning and Why It Matters:
+FREE DOWNLOAD: AI and ML in the Oil and Gas Industry	FREE DOWNLOAD: AI and ML in the Oil and Gas Industry:
+AI in the Insurance Industry: 26 Real-World Use Cases	AI in the Insurance Industry: 26 Real-World Use Cases:
+FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?	FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?:
+LATEST ARTICLES
+Understanding Biometric Security: The Growing Threats and How to Beat Them 	
+Understanding Biometric Security: The Growing Threats and How to Beat Them
+Neurotechnology Vs. Neural Networks: What’s the Difference? 	
+Neurotechnology Vs. Neural Networks: What’s the Difference?
+The Growing Cybersecurity War on the Healthcare Industry 	
+The Growing Cybersecurity War on the Healthcare Industry
+IoT in 2020: What's Next? 	
+IoT in 2020: What's Next?
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game 	
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game
+
+ABOUT
+About
+Advertising Info
+Contact Us
+Write for Us
+CONTENT
+Topics
+Dictionary
+Q&A
+Tutorials
+TOPICS
+Cloud Computing
+Security
+Big Data
+Online Privacy
+Machine Learning
+IT Business
+Data Management
+All Topics
+CONNECT
+ Facebook
+ Twitter
+ LinkedIn
+ Feed
+MORE
+Webinars
+Downloads
+Newsletters
+Techopedia Terms:    #    A    B    C    D    E    F    G    H    I    J    K    L    M    N    O    P    Q    R    S    T    U    V    W    X    Y    Z   
+
+Copyright © 2019 Techopedia Inc. - Terms of Use - Privacy Policy
+
+Notifications Powered By 

@@ -1,0 +1,154 @@
+https://www.datamation.com/big-data/what-is-data-mining.html
+
+Advertiser DisclosureNEWSLETTER
+  
+  
+  
+  
+
+Big Data
+Cloud
+Data Center
+Artificial Intelligence
+More Topics
+Datamation
+>
+Big Data
+> What Is Data Mining?
+What Is Data Mining?
+What Is Data Mining?
+By Cynthia Harvey, Posted February 7, 2019
+Data mining is the means by which organizations extract value from their data, and it has become increasingly central to maintaining a competitive edge in business.
+
+Download the authoritative guide: Leading Big Data Vendors: Solutions to Power Your Business
+
+Download the authoritative guide: Big Data: Mining Data for Revenue
+
+A popular analogy proclaims that data is "the new oil," so think of data mining as drilling for and refining oil: Data mining is the means by which organizations extract value from their data.
+
+In more practical terms, data mining involves analyzing data to look for patterns, correlations, trends and anomalies that might be significant for a particular business. As such, it is closely related to Big Data, a larger term that encompasses the many uses of data analytics software (for instance, common apps like Zoho Analytics) to understand trends.
+
+Zoho Analytics can transform large amounts of raw data into actionable reports and dashboards. Track key business metrics, see long term trends, determine outliers, and discover hidden insights with a business intelligence platform trusted by some of the world's largest companies. Sign up for a free trial and see how Zoho can help manage your data.
+
+
+For example, data mining can help companies identify their best customers. Organizations can use data mining techniques to analyze a particular customer's previous purchase and predict what a customer might be likely to purchase in the future. It can also highlight purchases that are out of the ordinary for a customer and might indicate fraud.
+
+Companies can use to find inefficiencies in manufacturing processes, potential defects in products or weaknesses in the supply chain. A good master data management strategy includes data mining.
+
+Often, data mining techniques are used to analyze structured data that resides in data warehouses. However, companies also use data mining to help extract insights from their stores of unstructured data that might reside in Hadoop or another type of data repository.
+
+Today, data mining on all types of data has become part of a never-ending quest to gain competitive advantage.
+
+Jump to:
+
+History of Data Mining
+Types of Data Mining
+Concepts Related to Data Mining
+Data Mining Examples
+Data Mining Privacy Issues
+Data Mining Tools
+History of Data Mining
+One of the first articles to use the phrase "data mining" was published by Michael C. Lovell in 1983. At the time, Lovell and many other economists took a fairly negative view of the practice, believing that statistics could lead to incorrect conclusions when not informed by knowledge of the subject matter.
+
+But by the 1990s, the idea of extracting value from data by identifying patterns had become much more popular. Database and data warehouse vendors began using the buzzword to market their software. And companies started to become aware of the potential benefits of the practice.
+
+In 1996, a group of companies that included Teradata and NCR led a project to standardize and formalize data mining methodologies. Their work resulted in the Cross-Industry Standard Process for Data Mining (CRISP-DM). This open standard breaks the data mining process down into six phases:
+
+Business understanding
+Data understanding
+Data preparation
+Modeling
+Evaluation
+Deployment
+Companies like IBM continue to promote the CRISP-DM model to this day, and in 2015, IBM released an updated version that expanded the basic model.
+
+In the early 2000s, Web companies began to see the power of data mining, and the practice really took off. While the phrase "data mining" has since been eclipsed by other buzzwords like "data analytics," "big data" and "machine learning," the process remains an integral part of business practices. In fact, it is fair to say that data mining has become a de facto part of running a modern business.
+
+Types of Data Mining
+Data scientists and analysts use many different data mining techniques to accomplish their goals. Some of the most common include the following:
+
+Clustering involves finding groups with similar characteristics. For example, marketers often use clustering to identify groups and subgroups within their target markets. Clustering is helpful when you don't know what similarities might exist within your data.
+Classification sorts items (or individuals) into categories based on a previously learned model. Classification often comes after clustering (although you can also train a system to classify data based on categories that the data scientist or analyst defines). Clustering identifies the potential groups in an existing data set, and classification puts new data into the appropriate group. Computer vision systems also use classification systems to identify objects in images.
+Association identifies pieces of data that are commonly found near each other. This is the technique that drives most recommendation engines, such as when Amazon suggests that if you purchased one item, you might also like another item.
+Anomaly detection looks for pieces of data that don't fit the usual pattern. These techniques are very useful for fraud detection.
+Regression is a more advanced statistical tool that is common in predictive analytics. It can help social media and mobile app developers increase engagement, and it can also help forecast future sales and minimize risk. Regression and classification can also be used together in a tree model that is useful in many different situations.
+Text mining analyzes how often people use certain words. It can be useful for sentiment or personality analysis, as well as for analyzing social media posts for marketing purposes or to spot potential data leaks from employees.
+Summarization puts a group of data into a more compact, easier-to-understand form. For example, you might use summarization to create graphs or calculate averages from a given set of data. This is one of the most familiar and accessible forms of data mining.
+Common Data Mining Techniques
+Search:
+Data Mining Technique	Definition	Example Use Case
+Clustering	Finding groups and subgroups within data	Target marketing
+Classification	Sorting data into categories	Image recognition
+Association	Identifying related pieces of data	Recommendation engine
+Anomaly Detection	Finding data that doesn't fit the usual patterns	Fraud detection
+Regression	Predicting the most likely outcome from given variables	Predictive analytics and forecasting
+Text Mining	Analyzing written words	Sentiment analysis
+Summarization	Condensing data so that it is easier to understand	Graphing
+
+
+Concepts Related to Data Mining
+Data mining overlaps with several related terms, and people sometimes use these terms in reference to similar concepts. Some of the most common related ideas include the following:
+
+Data mining vs. KDD
+In the late 1980s and early 1990s, academics often discussed knowledge discovery in databases (KDD). The formal definition of the KDD process included five stages:
+
+Selection
+Pre-processing
+Transformation
+Data mining
+Interpretation/evaluation
+Under this framework, data mining is the equivalent of data analysis and is a subcomponent of KDD. In practice, however, people often used data mining and KDD interchangeably. Over time, data mining became the preferred term for both processes, and today, most people use "data mining" and "knowledge discovery" to mean the same thing.
+
+Data mining vs. machine learning
+Machine learning is the branch of deep learning and artificial intelligence that seeks to give computers the ability to learn without being programmed. Several of the techniques used in data mining — particularly clustering, classification and regression — are also used in machine learning. Thus, some people consider machine learning to be a subset of data mining.
+
+However, other people argue that there are subtle differences between the two. They say that data mining finds the patterns in the data, and then machine learning uses the results of data mining to learn something new about the data.
+
+Whichever perspective you prefer, the two concepts clearly overlap one another.
+
+Data mining vs. big data analytics
+People often use the terms "data mining" and "big data analytics" or "data analytics" to mean the same thing. Some people quibble that data mining can be done on small data sets as well as "big data." And others say that data analytics can incorporate techniques other than data mining, so data mining is a subset of analytics.
+
+In practice, these terms are nearly interchangeable. It's just that "data mining" was a popular buzzword in the 1990s and early 2000s, while "analytics" has become the more popular buzzword today.
+
+Data Mining Examples
+Nearly every company on the planet uses data mining, so the examples are nearly endless. One very familiar way that retailers use data mining is to analyze customer purchases and then send customers coupons for items that they might want to purchase in the future.
+
+Retail: In one well-publicized example, Target began sending a teenage girl coupons for baby products, such as diapers, baby food, formula, etc. Her irate father called the company to complain, and the firm apologized. However, several weeks later, the girl discovered that she was, in fact, pregnant. In this case, Target knew her condition before she herself did, based solely on changes in her purchasing habits for items not explicitly related to baby care.
+Media: You also encounter the results of data mining every time you watch a show on a streaming service like Netflix or Hulu. These services not only use viewer data to recommend shows and movies you might like to watch, they have also analyzed their databases to discover the characteristics of programs that are particularly popular and then produce more content with those attributes. Some industry watchers argue that, thanks to this data mining, Netflix has become more successful than Hollywood studios at identifying and creating the kinds of content that viewers want.
+Web publishing: Companies like Facebook and Google also use data mining to help their advertisers reach consumers with targeted content. This process is most obvious when you shop for something on a retail site and then see ads for the same item on Facebook. However, advertisers are also using data mining in much more subtle ways that might not always be obvious to site visitors. For example, Facebook has come under intense criticism for the way advertisers have been able to target voters with messages related to elections. These scandals have resulted in greater concerns over data mining privacy issues.
+Data Mining Privacy Issues
+Company's increasingly sophisticated use of data mining has made many consumers uncomfortable. In the U.S., Congress and the Federal Trade Commission (FTC) have convened hearings on data privacy, although those efforts have not yet led to comprehensive legislation.
+
+Europe has been must faster to act on data privacy concerns. Last May, the General Data Protection Regulation (GDPR) went into effect, and it affects every organization with any data related to EU citizens.
+
+Among other things, the law requires organizations to obtain consent to process data, to delete a subject's data if they request it, to put adequate security measures in place to protect data, and to notify people promptly if their data has been involved in a data breach.
+
+Failing to comply could result in fines of up to 4% of a firm's total global revenue. Industry watchers predict that GDPR and other legislation will have a major impact on data mining, and the EU has already fined Google €50 million for inadequate compliance with the law.
+
+Data Mining Tools
+Organizations have a wide variety of proprietary and open source data mining tools available to them. These tools include data warehouses, ELT tools, data cleansing tools, dashboards, analytics tools, text analysis tools, business intelligence tools and others.
+
+
+
+
+NewsletterDATAMATION DAILY NEWSLETTER
+
+SUBSCRIBE TO OUR IT MANAGEMENT NEWSLETTER
+ENTER YOUR EMAIL ADDRESS
+Most Recent Big Data Articles
+Ask the Experts: Data Analytics 2020
+
+5 Data Analytics Trends Shaping the Future of Analytics
+
+Top Business Intelligence Software
+
+Top 8 Sentiment Analysis Tools
+
+datamation
+An eWEEK Property
+
+TERMS OF SERVICELICENSING AND REPRINTSPRIVACY POLICYCONTACT USADVERTISESITEMAPABOUT US
+Copyright 2019 Quinstreet Inc. All Rights Reserved.
+
+Advertiser Disclosure: Some of the products that appear on this site are from companies from which QuinStreet receives compensation. This compensation may impact how and where products appear on this site including, for example, the order in which they appear. QuinStreet does not include all companies or all types of products available in the marketplace.

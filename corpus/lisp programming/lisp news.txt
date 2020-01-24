@@ -1,0 +1,2231 @@
+https://news.ycombinator.com/item?id=16583572
+
+
+	Hacker News new | past | comments | ask | show | jobs | submit	login
+How knowing Lisp destroyed my programming career (2006) (derkeiler.com)
+454 points by tinderliker on Mar 14, 2018 | hide | past | web | favorite | 419 comments
+
+
+	
+kabdib on Mar 14, 2018 [-]
+
+I learned C and LISP pretty much at the same time (back when rocks were young and you needed a PDP-11 if you wanted to run Unix). Then I went to college and the first course in the Computer Science major was a "killer" they taught in Pascal. Okay, so Pascal is a kind of screwed-up C, and I could deal with that.
+That "killer" course had a semester-long, multi-phase project that was a kind of symbolic calculator (with sets and operations on them). It was maybe a couple hundred lines of LISP . . . so I wrote a LISP interpreter in Pascal (with a garbage collector, natch), then wrote the meat of the project in LISP, embedded in the Pascal source. Was the only person in a class of 300 or so who completed the project that semester, but the professors were not amused with the approach I took. Can't imagine why :-)
+
+I've never used a functional language in production, but I've stolen LISP techniques and used them in quite a few products. I never felt frustrated by the fact that I couldn't use LISP or Scheme or whatever in <product> and had to use C/C++/Pascal/Java/C# instead, but have seen it happen in other engineers (notably when the Apple Newton switched from Dylan -- an object-oriented variant of Scheme -- to C++; there were a bunch of forlorn looking ex-Scheme hackers wandering the hallways, clutching copies of the C++ Annotated Reference Manual and trying not to cry).
+
+
+	
+timbit42 on Mar 14, 2018 [-]
+
+Technically, both Pascal and C are derivatives of Algol. Pascal is a variation on Algol. C is a screwed-up Algol.
+
+	
+kabdib on Mar 14, 2018 [-]
+
+Point taken. Though "call by name" still makes me twitch :-)
+
+	
+mcguire on Mar 14, 2018 [-]
+
+Once upon a time, I used to see forlorn C++ programmers wandering around clutching copies of the ARM.
+Those were the days.
+
+
+	
+phoe-krk on Mar 14, 2018 [-]
+
+The conclusion was inescapable: the problem wasn't Perl or C++ or Java, it was me. I just wasn't a very good programmer any more. Lisp's power had made me complacent, and the world had passed me by.
+Lisp can't help you if you're too smug for your own good.
+
+Disclaimer: I'm a Lisper.
+
+
+	
+rileyphone on Mar 14, 2018 [-]
+
+See http://wiki.c2.com/?SmugLispWeenie for an in depth view of the phenomenon.
+
+	
+quintin on Mar 14, 2018 [-]
+
+Non-English speaker.
+What does "smug" mean?
+
+
+	
+phoe-krk on Mar 14, 2018 [-]
+
+Via Google's dictionary: having or showing an excessive pride in oneself or one's achievements.
+
+	
+YeGoblynQueenne on Mar 14, 2018 [-]
+
+It means "smartass".
+
+	
+rkangel on Mar 14, 2018 [-]
+
+Not quite. "Smartass" generally implies you go around showing off your (perceived) knowledge. "Smug" implies you sit quietly in a corner feeling good about your (perceived) knowledge.
+
+	
+Can_Not on Mar 16, 2018 [-]
+
+Also smug is less specific than knowledge, it's more about thinking you're better (in some or all ways) or more well achieved. The opposite of humble.
+
+	
+b2gills on Mar 21, 2018 [-]
+
+I would say that smugness has almost nothing to do with knowledge, and everything to do with attitude.
+I have seen people being smug that they know nothing about a given subject.
+
+That is smugness is almost exclusively about “thinking you're better…”.
+
+If someone thinks they have more knowledge, or thinks they have achieved more; it is easier for them to become smug in that belief. People can also become smug even if they know that neither is true.
+
+
+	
+Francute on Mar 14, 2018 [-]
+
+The problem wasn't lisp... The problem was he didn't want to leave his comfort zone.
+You can love lisp, Smalltalk, and all those beauty languages, but you should never stick to a single language. NEVER. Go to another, look it's strenghts, and if it's a bit weak on some sides, try to use the nice techniques you learned back to make it better.
+
+To solve any problem, you can use different languages. Of course would be nice to use the nicest languages, but in some contexts they're not the right tool, and in others, you should have to consider outside factors like, how many people will maintain that software. All of them knows how to use the powers of those nice languages? Also, do you think would be easier to rotate people on that project using those languages instead of another ones?
+
+Everyone can learn to use some tool, but experience using others may help you to discover better ways to use new tools.
+
+
+	
+OceansOnPluto on Mar 14, 2018 [-]
+
+Worked at Google Pre IPO, worked at the Jet Propulsion Lab, became an Angel Investor, acquired Startups, founder and CEO of Spark Innovation Labs....
+....I hope to one day have my career destroyed as badly as this.
+
+
+	
+user404d on Mar 14, 2018 [-]
+
+Maybe he didn't leave his mark as a programmer/engineer the way HE wanted to, but you definitely have to admire his ability to identify good opportunities. He laments choosing and then using LISP for so long and in a way seems to blame the language for adversely affecting his perspective on programming, but it really seems like it served him well when it was useful. I think the same intuition that helped him choose LISP for solving problems (because it was a nice set of tools at the time) probably ended up helping him choose good professional opportunities, too. If he's frustrated about the way his perspective changed then I have to agree with the other commenters that he would need to work on changing that perspective and not remain complacent.
+
+	
+submeta on Mar 14, 2018 [-]
+
+Honestly curious why Lisp has so much admiration and praise on HN. I played around with Scheme some long time ago, read SICP, learned a lot. And I know Lisp inspired many programmers like the founder of Ruby. But I would not think of Lisp when it comes to solving day to day problems. I rather pick Python because it helps me solve all kinds of problems. There are many more solutions I can think of (Ruby, Node, Go, even Perl).
+
+	
+bjoli on Mar 14, 2018 [-]
+
+What made it click for me is the nature of scheme: a few, very well thought out abstractions, that compose well to build a really neat language. I never really made friends with other languages. Where scheme composes the primitives for problem solving, I find that languages like python or ruby provide either one way for each different thing, or a very large hammer for every problem you might find, be it list comprehensions or generators or whatever OO voodoo you can come up with.
+The feeling I got when learning scheme was that of liberation. People have that epiphany all the time, but with different languages and techniques. For me it was scheme.
+
+And of course, I could never be bothered with syntax. If something becomes too verbose in scheme, I write a macro to simplify it. The only thing I need to know is whether something is a function or a macro. After 3 years of writing python on and off, I still manage to mess up syntax unless I think very hard before writing.
+
+I am however not a programmer, and of average intelligence. In fact I am on the very top of the bell curve, looking down on the rest of you.
+
+
+	
+jstimpfle on Mar 14, 2018 [-]
+
+> a very large hammer for every problem you might find, be it list comprehensions or generators or whatever OO voodoo you can come up with.
+List comprehensions, to me, are what makes Python a productive (or the most productive) prototyping language. It allows me to think and program in mathematical relations without much fuss. Add to that nice sets and dicts (needed for asymptotic efficiency), and I can easily forgive it that it is built on an everything-is-an-object paradigm (there are few things I detest more than OOP).
+
+I've never truly understood why you need the meta-capabilities of LISP. I much more need a syntax that does not hide what happens (procedure call, list indexing or at least "indexing"). Macros amount to code generation. Code generation is mostly bad, it typically means the problem wasn't thought through, and that there is a lack of clearly defined building blocks. So far I've only ever generated a few C structs and enums, but I'm not sure it was an entirely good idea. It was super easy to generate from Python, anyway.
+
+
+	
+segmondy on Mar 14, 2018 [-]
+
+Code generation is great. If you have a well understood domain, Lisp macros allows you to construct an effective DSL so that your programmers no longer have to write "lisp code" but to program in the new language. We do this today using functions/methods, but the issue tends to be that besides understanding these functions, we need to learn how to orchestrate them and write boiler code all around them. A good DSL hides all that. The issue as I've observed is that when most people create a DSL, they really forget that they have indeed created a new language and don't document it enough. The consumers of the DSL because they can read lisp code, don't focus and live in the DSL layer but wish to peer below then get terrified when they see the macros. Most developers get terrified when they peer one level below. Have you seen the bytecode generated by python or asm code by C? Do you think those are bad because those are code generation that don't look the way you think they ought to?
+
+	
+jstimpfle on Mar 14, 2018 [-]
+
+> We do this today using functions/methods, but the issue tends to be that besides understanding these functions, we need to learn how to orchestrate them and write boiler code all around them.
+No, you need to structure your data in a way that there is almost no boilerplate, and only very little glue code (which effectively amounts to "the macro code", with the difference that it's only executed once per data object).
+
+> Do you think those are bad because those are code generation that don't look the way you think they ought to?
+
+Good point, but I have a strong belief that the abstractions offered by C (function calls and good syntax for arrays and records) are sufficient and going up is detrimental for larger systems. I don't code in assembler because typically there is too much redundancy (function call convention) and it's too specific (architecture dependent) and probably too verbose. That said, I'm not strongly against it, but haven't really tried.
+
+
+	
+bjoli on Mar 14, 2018 [-]
+
+Whatever programming language you are using, at some point or at some representation the compiler will start generating code. The difference is that the default code representation of lisp allows it at source level, making writing (and debugging) them a lot easier. An if statement in python generates a shitload of bytecode that the optimizer then does what it pleases to. With lisp you can watch that process by watching the source->source transformations of macros and the optimizer.
+Macros allow us to extend the language. It is not just C-like code generation. The loop constructs of common lisp, or the for loops of racket (or my own reimplementation for guile scheme) are macros.
+
+With lisp macros we can express zero cost abstractions that in other languages would have a lot of overhead, and make them feel like a regular language construct (CLOS started like that)
+
+My own racket-like loops for guile generate code that the optimizer can then turn into optimal code: https://bitbucket.org/bjoli/guile-for-loops/overview
+
+The downside being that macro expansion slows down compilation. My workstation can expand about 1000 loop macros/s with guile and a couple of orders of magnitude more using my chez scheme prototype (somewhere above 100k)
+
+
+	
+jstimpfle on Mar 14, 2018 [-]
+
+> An if statement in python generates a shitload of bytecode
+To be precise, it will generate something like 'JUMP_IF_FALSE' which is not exactly a shitload. Not saying the execution will be fast. After all, it's an interpreted language.
+
+> Macros allow us to extend the language.
+
+We're on the same page. What I was saying is: if you need more than function calls and records, chances are you're doing something wrong... the program architecture becomes intransparent. Macros and other conveniences allow for hacks put on other hacks, until you don't understand your program anymore and development eventually stalls.
+
+I once added cooperative multithreading by switching stacks in a C program. It was very easy to do and helpful for that project, but small hacks like this are rarely needed. (And in that instance it could have possibly been avoided, but I wasn't in a position to change the dataflow architecture).
+
+
+	
+bjoli on Mar 14, 2018 [-]
+
+I suspect that is just a matter of taste. I find source->source transformations pretty darn useful. You end up writing boilerplate code in all languages. Being able to just abstract that away is comfortable, and I don't really see the problem (together with what I suspect is the vast majority of lispers).
+You can of course provide libraries that "extend" the language, but sometimes you will never be able to lose the feeling of it being bolted on, because the semantics of the la guage doesn't lend itself to that certain way of doing it.
+
+Lisp macros solve that, at least for me. We use them like regular procedures and as long as you keep the simple rule that you sbouldnt make a macro of something you want to compose with procedures, there really isnt much that gets in the way of understanding a program, because most of the time whether something is a macro or not does not matter.
+
+
+	
+vzcx on Mar 15, 2018 [-]
+
+Why do you need the meta-capabilities of lisp? Well, language designers are human and can't predict all the features that you might find useful. Take, for example, list comprehensions.
+I added some basic ones to common lisp in a couple of minutes.
+
+  (defun read-comprehension (stream char)
+    (declare (ignore char))
+    (destructuring-bind (expr for var in list &optional if filter-exp)
+        (read-delimited-list #\] stream)
+      `(loop ,for ,var ,in ,list
+          ,@(when filter-exp `(,if ,filter-exp))
+          collect ,expr)))
+
+  (set-macro-character #\[ #'read-comprehension)
+
+  (eval (read-from-string "[(+ x 1) for x in '(1 2 3) if (> x 2)]"))
+  ;; => (4)
+
+	
+jstimpfle on Mar 15, 2018 [-]
+
+This looks impressive on the first sight (kudos!). But on the other hand it's still a pretty fragile and unreadable macro, no? And it supports only a very limited form of list comprehensions. Can "destructuring-bind" support them fully?
+
+	
+vzcx on Mar 15, 2018 [-]
+
+Yes, it is fragile (less than five minutes, man!) but hardly unreadable to the macro-accustomed eye.
+A "real" implementation would do more processing of the forms in the list read by read-delimited-list and perform appropriate checks. This is more to just give you a sense of how trivial it is to extend the language.
+
+I don't actually know python well enough (I had to look up "list comprehension") to say, but I would estimate that it would only take a page or so of code to give you something fully-featured and robust.
+
+In practice, I would never abuse the reader like this when typical "loop" expressions are enough to do these kind of things (and more).
+
+
+	
+martinflack on Mar 15, 2018 [-]
+
+Anyone who would like to use list comprehension forms, or read about how Lisp enables them, might find these papers interesting:
+Implementation of a "Lisp comprehension" macro by Guy Lapalme http://rali.iro.umontreal.ca/rali/sites/default/files/publis...
+
+Simple and Efficient Compilation of List Comprehension in Common Lisp by Mario Latendresse http://www.ai.sri.com/~latendre/listCompFinal.pdf
+
+
+	
+kazinator on Mar 15, 2018 [-]
+
+> I much more need a syntax that does not hide what happens
+Yes sir!
+
+> (procedure call,
+
+   80febf0:	08 
+   80febf1:	c7 44 24 04 01 00 00 	movl   $0x1,0x4(%esp)
+   80febf8:	00 
+   80febf9:	89 3c 24             	mov    %edi,(%esp)
+   80febfc:	89 44 24 0c          	mov    %eax,0xc(%esp)
+   80fec00:	e8 cb c8 f4 ff       	call   804b4d0 <__fprintf_chk@plt>
+> list indexing or at least "indexing").
+Gotcha covered there too!
+
+    80fd7eb:	8d 7c 0e ff          	lea    -0x1(%esi,%ecx,1),%edi
+
+	
+slededit on Mar 15, 2018 [-]
+
+You won't be indexing sizes >8 bytes with your lea. Super annoying with 128-bit SSE arrays - which is pretty much the only reason I write any assembler anymore.
+
+	
+jstimpfle on Mar 15, 2018 [-]
+
+What's special about that? I can't see anything unexpected. Do I miss something here? I don't know (any) assembler well.
+
+	
+zeveb on Mar 14, 2018 [-]
+
+> I much more need a syntax that does not hide what happens (procedure call, list indexing or at least "indexing").
+Each of those is actually hiding what really happens. E.g. for a procedure call the runtime compares the arity of the call and the called function, inserts each argument into a data structure of some sort, perhaps grafts together environments or does other things on a language-specific basis, performs a jump of some sort, then the called function takes over, and finally stashes its return value(s) in a data structure of some sort and performs another jump.
+
+Even list indexing in a language like Python is relatively complex, involving a lookup of the list length, bounds-checking &c.
+
+> Code generation is mostly bad, it typically means the problem wasn't thought through, and that there is a lack of clearly defined building blocks.
+
+Proper syntactic abstraction is all about building the right blocks for the problem at hand. At the end of the day, all we have are bits of silicon transferring electron: everything above that is an abstraction. A sufficiently-powerful programming language enables the programmer to develop the abstractions he needs for the problem he has.
+
+
+	
+jstimpfle on Mar 14, 2018 [-]
+
+For Python, I agree to an extent. The machinery is hidden of course. That's the price of the convenience of a dynamic scripting language. But one still can see the relevant things. For example, for a subscripting operation, what counts is often only the mathematical aspect of it: It's a right-unique relation (i.e. a mathematical function) applied to the given element. And it's reasonably fast - even in Python with dicts, we can assume O(1) for most purposes.
+It's nice when these important properties are indicated by a visual clue (square brackets).
+
+> A sufficiently-powerful programming language enables the programmer to develop the abstractions he needs for the problem he has.
+
+Sure. And that programming language still happens to be C for many, many purposes.
+
+
+	
+mbrodersen on Mar 16, 2018 [-]
+
+Code generation is brilliant. Remember that a compiler is a code generator. Using your own code generator allows you to declare what you want at a high level and then generate bug free code that implements it. It is like having a super fast automatic programmer at your side making you super productive.
+
+	
+flavio81 on Mar 15, 2018 [-]
+
+>Code generation is mostly bad(...)C structs and enums,
+C macros (or "C code generation" if you prefer) is very, very different from Lisp macros.
+
+Lisp macros are built into the language, the whole language itself is designed around this capability.
+
+
+	
+mbrodersen on Mar 16, 2018 [-]
+
+Macros/Code Generation used correctly is exactly the opposite of what you are saying. Macros/Code Generation used correctly forces you to figure out at a much higher level what it is you want to achieve. And declare it in a formal computer readable way.
+
+	
+b2gills on Mar 21, 2018 [-]
+
+Looking at a page about list comprehensions in Python.
+  S = {x² : x in {0 ... 9}}
+  V = (1, 2, 4, 8, ..., 2¹²)
+  M = {x | x in S and x even}
+Python (from that page)
+  S = [x**2 for x in range(10)]
+  V = [2**i for i in range(13)]
+  M = [x for x in S if x % 2 == 0]
+I did not see 10 or 13 in the original definitions
+Perl 6 closest syntax to original
+
+  my \S = ($_² for 0 ... 9);
+  my \V = (1, 2, 4, 8 ... 2¹²); # almost identical
+  my \M = ($_ if $_ %% 2 for S);
+Perl 6 closest syntax to Python
+  my \S = [-> \x { x**2 } for ^10];
+  my \V = [-> \i { 2**i } for ^13];
+  my \M = [-> \x { x if x % 2 == 0 } for S];
+Perl 6 more idiomatic
+  my \S = (0..9)»²;
+  my \V = 1, 2, 4 ... 2¹²;
+  my \M = S.grep: * %% 2;
+Perl 6 with infinite sequences
+  my \S = (0..*).map: *²;
+  my \V = 1, 2, 4 ... *;
+  my \M = S.grep: * %% 2;
+---
+Python
+
+  string = 'The quick brown fox jumps over the lazy dog'
+  words = string.split()
+  stuff = [[w.upper(), w.lower(), len(w)] for w in words]
+Perl 6
+  my \string = 'The quick brown fox jumps over the lazy dog';
+  my \words = string.words;
+  my \stuff = [[.uc, .lc, .chars] for words]
+I wouldn't say Python's list comprehensions are really that big of a selling point. I mean based on what I've seen to understand it the biggest difference is that feature in Python runs from the inside out.
+  noprimes = [j for i in range(2, 8) for j in range(i*2, 50, i)]
+                         range(2, 8)
+                for i in
+                                              range(i*2, 50, i)
+                                     for j in
+              j
+             [                                                 ]
+Whereas Perl 6 is either left-to-right
+  my \noprimes = (2..^8).map: { |($^i*2, $i*3 ...^ 50).map: { $^j }}
+                 (2..^8)
+                        .map:
+                              { |($^i*2, $i*3 ...^ 50)             }
+                                                      .map:
+                                                            { $^j }
+or right-to-left
+  my \noprimes = ({ $^j } for ({ |($^i*2, $i*3 ...^ 50) } for 2..^8))
+                                                              2..^8
+                                                          for
+                               { |($^i*2, $i*3 ...^ 50) }
+                              (                                    )
+                          for
+                  { $^j }
+                 (                                                  )
+Here are a couple other translations using Set operators
+  primes = [x for x in range(2, 50) if x not in noprimes]
+
+  my \primes = (2..^50).grep: * ∉ noprimes;
+
+  my \prime-set = 2..^50 (-) noprimes; # a Set object
+  my \primes = prime-set.keys.sort;
+Also I'm fairly certain Python doesn't have a way of using them on a Supply concurrently.
+  # create a prime supply and act on it in the background
+  Supply.interval(1).grep(*.is-prime).act: &say;
+
+  say 'main thread still running';
+  # says 'main thread still running' immediately
+
+  # deadlock main thread,
+  # otherwise the program would terminate
+  await Promise.new;
+
+  # waits 2 seconds from the .act call, says 2
+  # waits 1 second , says 3
+  # waits 2 seconds, says 5
+  # waits 2 seconds, says 7
+  # waits 4 seconds, says 11
+  # and so on until it is terminated
+Basically the only selling point of that feature in Python over say Perl6 is that is at times a bit closer to what a mathematician would normally write.
+I'm not a mathematician.
+
+To me it seems a bit verbose and clunky. It probably also only works as a single line, which seems odd in a line oriented programming language. Basically it seems like a little DSL for list generation, sort of like Perl's regexes are a DSL for string operations.
+
+Perhaps you may want to reread the last paragraph from the original article. Maybe in a few years the world will have passed you by. Then again maybe not.
+
+
+	
+Jach on Mar 14, 2018 [-]
+
+Your confusion will go away once you recognize that Scheme is not Lisp. For most purposes, Lisp means Common Lisp, or one of the Lisps that ended up merging into Common Lisp. That means that Lisp does all of these things and more, which you might not expect if you've only seen Scheme/SICP:
+* Multi-paradigm programming (functional programming in the immutable sense is not dominant, the Lisp OOP system is top class, mutable state can be everywhere)
+
+* Rich looping mechanisms that don't require tail call contortions
+
+* Explicit typing that leads to optimized code and compile time warnings! (https://news.ycombinator.com/item?id=13389287)
+
+* Warnings at compile time (not run time!) about things like undefined functions/vars/wrong args/unused vars (https://news.ycombinator.com/item?id=14780381)
+
+* A pretty good set of libraries et al that (once you set up quicklisp) are just a function call away from trying out (https://notabug.org/CodyReichert/awesome-cl)
+
+* (edit: one more since I like it a lot) Out of the box the Lisp system contains features you have to get from IDEs in other languages like breakpoints, tracing, inspection, code location questions like "who calls foo"... of course working with that system via emacs or something is nicer but it's basically all there in the base system (http://malisper.me/debugging-lisp-part-1-recompilation/)
+
+
+	
+mikelevins on Mar 14, 2018 [-]
+
+I think this comment is unhelpful. The meaning of "Lisp" is a little bit complicated, but I think it can be explained better than this.
+"Lisp" has two meanings: (1) ANSI Common Lisp; and (2) the family of programming languages to which ANSI Common Lisp belongs, and which was called "Lisp" many years before ANSI Common Lisp was conceived; that family includes many other languages with quite a bit of variety, including Scheme, Clojure, INTERLISP, T, kernel, picolisp, *Lisp, (the early versions of) Dylan, and many others.
+
+
+	
+Jach on Mar 15, 2018 [-]
+
+I appreciate the feedback. Maybe my approach could have left out the claim of Lisp == Common Lisp, though I still am amused (as I mention near the end of my later comment) and slightly bothered that such a diverse set of languages (Python too, it's sometimes called an acceptable Lisp) can get called "Lisps" or "dialects of" or "members of the family" rather than an explicitly vague "Lisp-like".
+The main direction I was coming from though was that ~10 years ago I was just like the OP, I had read some of SICP and PG's essays and thought I knew Lisp, but no, I just knew a minimal subset of Scheme. Very pretty (https://www.thejach.com/imgs/lisp_parens.png), learned some neat things, but didn't pursue it in favor of practical workhorses like Python et al. I went with the "learn Lisp for the side effects of learning it but don't ever use it" crowd, but I never learned Lisp. It wasn't until much later that I found out Common Lisp was way more than just an ugly syntax change on Scheme that required #' in front of function names. So the features I listed in my comment are really a subset (but a strong one) of the features that would have convinced me ~10 years ago to take a much closer look into actually using Lisp and recognizing I learned something very different.
+
+
+	
+mikelevins on Mar 16, 2018 [-]
+
+I get it; you thought Scheme was Lisp and Lisp was Scheme, and want to prevent others from falling for the same misunderstanding. That's a laudable goal.
+Lisp is an old family of languages, though. It's been around a long time, and it's explored a broad range of language ideas and a lot of nooks and crannies. There are a lot of Lisps that are pretty different from each other. There's a pretty good list at Wikipedia (https://en.wikipedia.org/wiki/List_of_Lisp-family_programmin...), but it still omits some interesting variants (for example, *Lisp, Kernel, Lispkit Lisp, Connection Machine Lisp, and others). There are greater differences between, for example, Common Lisp and kernel than between Common Lisp and Scheme, but all of them are still recognizably Lisp.
+
+So you're right: you don't want to be fooled into thinking that Scheme is all there is to Lisp. But Common Lisp also isn't all there is to Lisp. Scheme plus Common Lisp plus Clojure isn't all there is to Lisp, either. It's a big space, and there's room for it to grow bigger still without losing its essential Lispiness.
+
+"APL is like a beautiful diamond – flawless, beautifully symmetrical. But you can't add anything to it. If you try to glue on another diamond, you don't get a bigger diamond. Lisp is like a ball of mud. Add more and it's still a ball of mud – it still looks like Lisp."
+
+-- attributed to MIT Professor Joel Moses
+
+
+	
+firepoet on Mar 14, 2018 [-]
+
+To add to the confusion, this Wikipedia article says that Scheme is "one of the two main dialects of Lisp." https://en.wikipedia.org/wiki/Scheme_(programming_language)
+
+	
+bjoli on Mar 14, 2018 [-]
+
+Well, it was true, at least until clojure. Now we've got clojure, common lisp and scheme.
+
+	
+kamaal on Mar 14, 2018 [-]
+
+Lisp user base is so small enough that these categories largely look pointless to people outside.
+For all practical purposes CL, Scheme, Clojure and Elisp are all lisps.
+
+
+	
+lispm on Mar 14, 2018 [-]
+
+> For all practical purposes CL, Scheme, Clojure and Elisp are all lisps.
+Since only CL and Emacs Lisp can and do share actual Lisp code, I call only them Lisp for practical purposes.
+
+For 'unpractical' purposes - they share no source code but are influenced by practical Lisp - , Logo, Javascript, Ruby, Clojure ... are also Lisp.
+
+
+	
+kamaal on Mar 14, 2018 [-]
+
+>>Since only CL and Emacs Lisp can and do share actual Lisp code
+But what exactly is 'actual lisp'. I mean what is this strict definition?
+
+Forgive me, I understand calling Scheme and CL as same might feel like saying Java and C++ as same. But one would be right in saying Java and C++ both come from a C based paradigm.
+
+On the same lines one could say CL and Scheme come from lisp paradigm. At this point in time both communities compared to any major language community are so small that one could refer to both as Lisp.
+
+
+	
+lispm on Mar 14, 2018 [-]
+
+The problem is that both CL and Scheme communities have very little to do with each other.
+For practical purposes Lisp dialects are those directly inheriting back to Lisp I from McCarthy. You can run programs from 1960 in Common Lisp with very little changes (unless it uses machine interfaces). To port them to Scheme is possible. To port them to Logo, Clojure, Javascript or other languages considered to be dialects in a wider sense mostly means a rewrite.
+
+Thus for me Lisp means the dialects of Lisp and their respective communities which can share code, libraries, applications by relatively simple ports. For example Emacs Lisp has Common Lisp enhancements, which are semantically very similar. ISLISP could be directly integrated into a Common Lisp - Kent Pitman mentioned that he actually did that to see that they are culturally compatible.
+
+Languages who don't directly share code are maybe part of an abstract family, which has no agreed on definition - thus this is for practical purposes relatively useless.
+
+
+	
+flavio81 on Mar 15, 2018 [-]
+
+>The problem is that both CL and Scheme communities have very little to do with each other.
+At first I thought this was absurd, but after some time learning Lisp this was more obvious.
+
+Scheme and Common Lisp are built around totally different philosophies, and thus not only the languages diverge, but also the way you program in them.
+
+
+	
+Jach on Mar 14, 2018 [-]
+
+It's definitely a confusion. The point seems to come up on HN from time to time... I don't care very much about the distinctions but it's still fun to spell out my case for why maybe one should care. "Lisp" has these nice connotations as old-but-gold going back to 1960 and many success stories in real world applications. Common Lisp has a direct lineage to that Lisp, but even ignoring that there's a syntactical lineage too. e.g. You can take stuff from the Lisp 1.5 manual and with very small rewrites have it run on a modern Common Lisp implementation.
+    DEFINE (( 
+    (LENGTH (LAMBDA (L) 
+    (PROG (U V) 
+        (SETQ V 0) 
+        (SETQ U L) 
+    A   (COND ((NULL U) (RETURN V))) 
+        (SETQ U (CDR U)) 
+        (SETQ V (ADD1 V)) 
+        (GO A) ))) ))
+    LENGTH (((X . Y) A CAR (N B) (X Y Z))) ; ---> 5
+could be rewritten (even if not idiomatic) to
+    (defparameter length-cl (lambda (l)
+        (prog (u v)
+            (setq v 0) 
+            (setq u l) 
+        A   (cond ((null u) (return v))) 
+            (setq u (cdr u)) 
+            (setq v (1+ v)) 
+            (go a))))
+    (length-cl '((x . y) a car (n b) (x y z))) ; ---> 5
+Differences: CL doesn't have a special top-level that doesn't need parens. CL doesn't use 'define' (though Scheme does), you'd usually use defun for a function and not use lambda either. CL uses '1+' instead of 'add1'. CL needs a quote (or something else) before the argument to the function to avoid trying to evaluate it. But that's basically it. You can do this for other examples in that manual too, including more complex ones.
+To me, a "dialect" implies that you're in the same language but some users of that language just say things a bit differently to each other. "Howdy" vs "Yo". So "add1" and "1+" might be an instance of a dialect change from 1960. For Common Lisp, "sb-ext:run-program" would be the SBCL "dialect" / implementation's way of running an external program while "run-shell-command" might be Allegro CL's. Is Scheme's call/cc a dialect of Lisp60's prog and go? Clojure doesn't have goto at all.. Racket is much cooler than standard Scheme and has nice packages like https://docs.racket-lang.org/control-manual/index.html but is that a dialect equivalent? At what point does the C equivalent of all the above just become another dialect on the way Lisp says it? (And if you're using Common Lisp as the basis Lisp... do Clojure and Scheme have regional dialects that let them say what CLOS says, or what the condition system says, with minor changes?)
+
+As I said at the top I don't think it matters that much, when people talk about "a Lisp" I just assume they mean something with an s-exp syntax and macros, when people talk about "implementing Lisp" I assume they mean "implementing [a] Lisp" but I kinda wish they meant Common Lisp. Such a loose definition raises the question why other langs are described as Algol-like or C-like and never "an Algol" or "a C", or a dialect of either, but whatever.
+
+
+	
+dwringer on Mar 14, 2018 [-]
+
+I think perhaps to some degree, people read "Lisp stands for LISt Processing" and internalize this as a kind of shorthand (in spite of any formal naming), so it becomes natural to call any language that operates primarily through lists, and represents source code directly as nested lists, "Lisp".
+
+	
+jesscxc on Mar 17, 2018 [-]
+
+As an essayist I've found the abstraction of thinking in terms of "lisp" being about "list processing" to be very helpful when reasoning about and abstracting ideas precisely.
+Lisp can have almost zero syntax, so can last a long time and be picked back up quickly, I've found.
+
+This doesn't necessarily mean lines-of-code is the most productive immediately; as much as there is resistance to it from current (i.e., 2018March17) mainstream programmers, hyperdimensional programming (i.e., 2D+, and higher in VR) like with Unreal Engine 4's Blueprint, are likely going to win out with pure advancement of results, perhaps (that is, creating effective art quickly).
+
+Imagine finessing functions of different shapes in VR, rather than lines of text code.
+
+
+	
+patrickmay on Mar 14, 2018 [-]
+
+Good list. I'd add macros and the conditions mechanism for error handling. The latter still has no analogue in other languages.
+
+	
+AnimalMuppet on Mar 14, 2018 [-]
+
+> The latter [the conditions mechanism for error handling] still has no analogue in other languages.
+Could you explain this for a non-Lisp person? (I have some understanding of macros already.)
+
+
+	
+vzcx on Mar 14, 2018 [-]
+
+The CL condition system separates the signaling of a condition (of which errors are a subtype), the handling of a condition, and the definition of recovery strategies (restarts).
+Instead of unwinding the stack when a condition is signaled, handler code is invoked in the dynamic context of the signal and thus has much more information available to decide how to recover.
+
+If a decision on how to recover can't be made programmatically, the system kicks out to the user where they are presented with the choices you have given them.
+
+See: http://www.nhplace.com/kent/Papers/Condition-Handling-2001.h... for more.
+
+
+	
+wolfgke on Mar 14, 2018 [-]
+
+> Honestly curious why Lisp has so much admiration and praise on HN.
+Paul Graham and Robert Tappan Morris, two of the founders of YCombinator, love Lisp/Scheme. They got rich by selling their company Viaweb to Yahoo. You guessed it: Viaweb was written in LISP and Paul Graham believes that this was their secret weapon:
+
+> http://www.paulgraham.com/avg.html
+
+Also the software that drives Hacker News is written in Arc, a Lisp dialect that was invented by Paul Graham.
+
+So Hacker News and YCombinator are indeed at least historically very attached to Lisp/Scheme.
+
+
+	
+mattmanser on Mar 14, 2018 [-]
+
+Which promptly got rewritten after pg left.
+EDIT: From the years being here, and having played with LISP myself, it's a language that appeals to a certain type of programmer, who claim to find it very productive compared to other languages.
+
+And everyone else hates it.
+
+So you pick a LISP language you're severely limiting your hire pool.
+
+
+	
+flavio81 on Mar 14, 2018 [-]
+
+>So you pick a LISP language you're severely limiting your hire pool.
+I'd rather have 5 very good Lisp programmers than 50 code monkeys.
+
+
+	
+vzcx on Mar 14, 2018 [-]
+
+I might even prefer 5 average lisp programmers to 50 code monkeys.
+
+	
+mbrodersen on Mar 16, 2018 [-]
+
+I'd rather have 5 very good programmers (using ANY language) than 50 code monkeys (using ANY language). The problem with the Lisp programmers is that they very likely would not be able to work as a team.
+
+	
+lispm on Mar 16, 2018 [-]
+
+I think this claim has no base. I've worked with Lisp programmers and there was no special problem doing so.
+
+	
+kamaal on Mar 14, 2018 [-]
+
+The whole point of picking Lisp as a language for many people is to have a hiring pool of small but good programmers.
+
+	
+hbk on Mar 14, 2018 [-]
+
+Also Y Combinator is a technique to do recursion on lambda calculus which lisp is built upon.
+
+	
+mbrodersen on Mar 16, 2018 [-]
+
+Haskell (and other functional languages) is also built on the lambda calculus. Lisp isn't special in that regard.
+
+	
+mbrodersen on Mar 16, 2018 [-]
+
+So what? 10000+ companies were successful with software not written in Lisp. Biz success is not decided by the programming language you use.
+
+	
+Zak on Mar 14, 2018 [-]
+
+The OP lists several features Lisp had decades before they were common to find in more widely used languages, so some of it is for historical reasons. There are two things lisps, including Scheme and Clojure have that are weak or absent in most popular languages:
+One is macros. Being able to transform code before it is run using the language's built-in data structures provides a solution when the language just doesn't have the abstraction you need. Used properly, this can be invaluable. Used improperly, of course, it can make a mess.
+
+The other is REPL-driven development. Most languages have a REPL, but they don't really embrace it the way Lisp does. I find this frustrating. Why is my editor on my PC not talking to the app running on my Android phone and letting me see its state and make changes in real time?
+
+
+	
+falcolas on Mar 14, 2018 [-]
+
+> Why is my editor on my PC not talking to the app running on my Android phone and letting me see its state and make changes in real time?
+All my opinion, of course: The time (cost) required to create such easily available introspection is too high for the comparatively small gains. REPLs in modern languages (when even implemented) are just so often a completely separate mode of operation.
+
+
+	
+mikelevins on Mar 14, 2018 [-]
+
+The gains from Lisp-like support of live-environment programming are not small, but they are hard to communicate succinctly. The costs are real, but not onerous for a language designed to support such features.
+But a person designing and implementing programming-language tools has to deliberately choose to provide the needed features because implementing them after the fact raises the costs and lowers the benefits. That means such a person must believe that the gains are worth the cost. The only people likely to believe that are people already familiar with those kinds of systems.
+
+
+	
+auganov on Mar 14, 2018 [-]
+
+On a fundamental level, there's not much difference between Lisps and any other language with real runtime eval. It's just that, say, in your average JS project you're going to have a lot of state all over the place, state that depends on side effects. I don't think Lisps do much to solve that. Clojure helps by discouraging state and side-effects, namespaces let you have everything sort of be a global in a manageable way.
+I actually like to use the 'repl' module in nodejs. With a little bit of effort, you can make the dev experience much easier.
+
+
+	
+mikelevins on Mar 14, 2018 [-]
+
+The great Lisp and Smalltalk systems are designed from the ground up with the assumption that a programmer may at any point inspect and possibly change absolutely anything in the dynamic environment of the running program. Everything is designed to facilitate doing that with the reasonable expectation that the program will continue to work correctly. Such systems are designed for writing software by modifying a program while it runs.
+That basic assumption is a giant knife-switch that pervasively affects everything in the language and environment. Consider, for example, the generic functions CHANGE-CLASS and UPDATE-INSTANCE-FOR-CHANGED-CLASS. Those functions are in the Common Lisp language standard. That makes no sense unless the standard assumes that a Common Lisp system can modify a program while it runs.
+
+Only a minority of programmers want such systems, but to be fair, only a minority of programmers have worked with them enough to understand them.
+
+Not everyone prefers that style of programming, but most programmers will probably never have the opportunity to find out whether they prefer it. I did have the opportunity, and I learned that I did prefer it. I still prefer it thirty years later.
+
+Get back to me with a Clojure or JS environment that does what I miss from a great Lisp or Smalltalk environment. Let me trigger an error and walk the call stack to inspect parameters and intermediate results. Give me a keystroke to get a list of every other piece of code that calls the function with the error--don't make me wait more than about a second for the list. Let me interactively edit the values on the stack in the suspended computation or, better yet, change their types (and have them properly reinitialized), then resume the computation. Let me redefine a function that's on the call stack and then restart the call using the new definition. Let me serialize the entire dynamic state of the program to disk, copy it to a colleague's machine, and start it up to show my colleague the same error in the same dynamic environment. Let me do all of that interactively without needing to leave the original break loop triggered by the original error. Oh, and package the tools as a single modest-sized executable that I can run with a simple command line or a double-click, that launches in a couple seconds or less.
+
+I don't know of such a Clojure or JS environment. If you do, I would be grateful to learn of it.
+
+
+	
+mikelevins on Mar 15, 2018 [-]
+
+Sorry to reply to myself, but when I awoke this morning, it occurred to me that above I am describing my daily-driver programming environment from early 1988, Coral Common Lisp (except that who-calls wasn't built in; it was a contrib).
+Besides the previously-mentioned features, I could build a windowing UI by dragging pieces together. I could build the resulting native-code app for delivery by choosing "Save" from a menu. I could write WDEFs (the code resources that defined window shape and behavior) and other low-level stuff interactively in Lisp. I could patch arbitrary calls with assembly code written and debugged interactively in the Lisp environment (one of the SK8 authors was previously an assembly-language video-game programmer; he was ecstatic about this feature of CCL).
+
+Comparing my current daily-driver development machine to the one on which I was using Coral Common Lisp in 1988, the new machine has twice the word size, 400 times the clock speed, 16,000 times as much RAM, and 400,000 times as much disk space.
+
+Meanwhile, the development tools are in many ways worse, rather than better.
+
+
+	
+Zak on Mar 15, 2018 [-]
+
+I haven't used Coral Common Lisp, but I've used SBCL. It does have much of what you're describing, and I do have to wonder why it didn't catch on with a wider audience.
+There's a general belief in the tech community that better tech wins. When something works better, hackers will start using it, and if there are incidental barriers, they get solved. None of the explanations I've seen have been satisfactory; I reject the both the idea that Lisp isn't really that big an advantage and that the average hacker isn't smart enough to see it.
+
+
+	
+mikelevins on Mar 15, 2018 [-]
+
+SBCL is great. I use it often.
+I don't think the proposition that better tech wins passes the laugh test. You could argue that I'm a cynical old curmudgeon, though. I've been writing software for a living for thirty years now.
+
+It's not about hackers being smart enough to see Lisp's advantages. It's about them (1) being the sort of programmer who prefers programming-as-teaching over programming-as-carpentry, and (2) getting enough exposure to live-programming environments to see what the deal is. The important advantages are not immediately obvious. They're whole system synergies, and it takes time and experience to grasp the nature of stuff like that, regardless of how smart you are.
+
+Plus, maybe there are just more carpenters than teachers.
+
+
+	
+lonjil on Mar 14, 2018 [-]
+
+It's not just about having eval(), it's also about having tooling to exploit its capabilities. I'm currently learning OpenGL with CL, and if I make a change to my main loop, I just hit a few buttons to recompile it without interrupting anything. As soon as it's finished compiling my loop silently switches over to it and the output reflects the new version of the loop.
+I have a Discord bot written in CL. If I want to add a new command or feature, I write it, hit a few buttons, and it seamlessly integrates with my bot without interrupting anything it's doing.
+
+If I have a problem with a macro, I can hit a button to have it expand right there in my code, and when I see the problem I hit a button to unexpand it.
+
+The editor will even catch errors and ask what you want to do, without interfering with other threads, which has been very useful while developing my bot.
+
+
+	
+Zak on Mar 15, 2018 [-]
+
+I should point out that clojure-android provides exactly that. The tools are not currently maintained and it is quite difficult to get a development environment set up these days, but once running, it works very well.
+It's strange from my perspective to see REPLs as a separate mode of operation. Yes, there's a little overhead, and it's something you might want to strip or disable from a production build, but the overhead is small in the context of a modern application language. Contrast with something like Electron.
+
+This style of development makes the feedback loop between the programmer's mental model of how things work and a reality check extremely tight. It's one of those things like TDD that often changes what kind of programs you write.
+
+
+	
+agentultra on Mar 14, 2018 [-]
+
+Perhaps it has features that Python, Go, Node, and even Perl do not have. The reader is built in the same language as the rest of the compiler which means you can change it: you don't have to fork and compile a new version of a Lisp compiler to parse a completely different syntax or interpret a new kind of grammar. It has amazing error handling in its conditions and restarts system. It has the best OOP system I've ever used: being able to run the game I'm making, change a class definition of an entity and have all the live instances update while the program is running... is quite awesome. It's still one of the best developer-experience languages out there. The tooling is amazing.
+The fundamental structures underlying Lisp are quite solid. I like the distinction Phil Wadler makes: Lisp was discovered while languages like Python were invented. Everything in Lisp fits well together. Other languages in this vein are Haskell, SML, OCaml, etc. You can spot these languages because all of their features are usually built from the primitives of the language. An invented language forces the inventor to try and remember how a new feature may interact with all of the others... and sometimes it doesn't work out.
+
+
+	
+kamaal on Mar 14, 2018 [-]
+
+Perl 6 has hygienic macros, so you can count Perl out of that list.
+Also Perl 6 is written in itself.
+
+
+	
+weavie on Mar 14, 2018 [-]
+
+We are getting to the stage now where a lot of languages are catching up with the features that lisp had in the 70's, so the huge benefits of lisp aren't quite as obvious as they used to be.
+
+	
+flavio81 on Mar 14, 2018 [-]
+
+>so the huge benefits of lisp aren't quite as obvious as they used to be
+They still haven't caught up. I don't find any other language that gives at least 3 of these features
+
+- Fully interactive development -- i can recompile/redefine a function while the code is running
+
+- Fully interactive OOP development -- i can recompile/redefine a class while the code is running
+
+- OOP system based on multiple dispatch/multimethods
+
+- true metaprogramming done using the same language's syntax, not a special, cumbersome lib.
+
+- execution speed on par with the JVM and sometimes approaching C speed.
+
+
+	
+mikelevins on Mar 14, 2018 [-]
+
+Paul Graham is a Lisper and made his fortune with a Lisp application. Moreover, he wrote a widely-read essay claiming that Lisp was the secret weapon that enabled his startup to outcompete its rivals. In that context, it shouldn't be suprising to find sympathy for Lisp in discussions hosted by Paul Graham's firm.
+Lisp is quite practical for solving day-to-day problems, as long as you are a knowledgeable Lisper.
+
+
+	
+mbrodersen on Mar 16, 2018 [-]
+
+And 10000+ other people/companies have made fortunes using programming languages other than Lisp. So what's your point?
+
+	
+mikelevins on Mar 16, 2018 [-]
+
+I was replying to submeta, who said:
+> Honestly curious why Lisp has so much admiration and praise on HN.
+
+So my point is that Paul Graham says Lisp was important in his success. His success was important in the creation of Y Combinator and therefore of Hacker News. So we should not be particularly surprised that readers of Hacker News include many that are favorably disposed toward Lisp.
+
+submeta also said:
+
+>But I would not think of Lisp when it comes to solving day to day problems.
+
+...so I mentioned that Lisp is quite practical for day-to-day programming, if you know it well. For what it's worth, I've been using it for day-to-day programming for thirty years.
+
+
+	
+segmondy on Mar 14, 2018 [-]
+
+If you find yourself in such a scenario, then you haven't reached the enlightenment level.
+Reaching for a "safe and familiar" procedural/imperative language is like most people reaching for a claw hammer when they wish to hammer and nail something in. To most people, it's the same, they are just hitting something.
+
+To a pro, they know when they reach for their claw hammer, a sledge hammer, a mallet, a ball pein, club hammer or cross and straight pein.
+
+If you have a text file that you just need to slice and dice. The tool to use is awk/sed/tr/cut, or perl. Got rules? prolog. Got massive array data? APL. Got multiple massive array data that you wish to combine and separate in various ways? SQL. Surely, you can use python for all those things. But should you?
+
+
+	
+dragonwriter on Mar 14, 2018 [-]
+
+> If you have a text file that you just need to slice and dice. The tool to use is awk/sed/tr/cut, or perl. Got rules? prolog. Got massive array data? APL. Got multiple massive array data that you wish to combine and separate in various ways? SQL. Surely, you can use python for all those things. But should you?
+Arguably, yes, most especially when several of them apply to the same process, rather than to separate pieces of data.
+
+
+	
+allthesethings on Mar 14, 2018 [-]
+
+Likewise, an argument can be made that developers should reach for Excel more often, because Excel is what the business world knows and uses.
+We have so many great, specialized tools. But the act of development often bifurcates into "problems that don't have to scale, or even present a great interface" and "problems that need extensive customization at every layer and support millions of users" and our stacks reflect that.
+
+So tooling choice is often more dependent on maximizing leverage while setting appropriate cutoff points for scalability - in almost all production scenarios you are better off simply to design the system down to the featureset of available off-the-shelf tooling and anticipate a hard break where it migrates upwards, versus thinking you have to boil the oceans immediately so that all facets can be transitioned smoothly and all features are possible right now.
+
+
+	
+coding123 on Mar 14, 2018 [-]
+
+I'll definitely agree there - especially for admin interfaces. I'm so sick of developers creating extremely rich admin interfaces that use insane amounts or REST services to save and load settings that can really just be an Excel file in the git repo that is loaded by a library. I've seen companies that build $40,000 worth of admin interfaces that ended up being used by a temp to populate some back-end settings. The temp that was hired was probably paid $3000 to do the work, and now the admin interface is going to be retired.
+
+	
+RivieraKid on Mar 14, 2018 [-]
+
+I've been programming for 10+ years, tried many different languages and just don't get the appeal of Lisp. Swift for example is simply more productive and fun to use in most use cases. Same with Haskell.
+I don't believe PG's claim that Lisp made a significant difference in productivity for them.
+
+
+	
+mbrodersen on Mar 16, 2018 [-]
+
+I also don't believe PG's claim. I know Common Lisp, Scheme and Clojure well enough to be able to say that. Also, lots of people/companies made fortunes not using Lisp. So PG's claim proves nothing.
+
+	
+vzcx on Mar 14, 2018 [-]
+
+How well do you know lisp?
+
+	
+RivieraKid on Mar 15, 2018 [-]
+
+Hard to tell, not an expert, not a beginner. Enough to conclude that other languages are more productive for me.
+
+	
+flavio81 on Mar 14, 2018 [-]
+
+>why Lisp has so much admiration and praise on HN. I played around with Scheme some long time ago, read SICP, learned a lot
+Just consider that, while being a very beautiful language, Scheme is different to Common Lisp.
+
+If you are faced with doing a production system, you'll feel the benefits of Common Lisp, particularly now in 2018 where the tooling and libs are much better.
+
+Scheme can do everything that CL can do IF you add a ton of extensions and libraries and stick to a particular scheme implementation. So you would have a "custom" platform. Where as with plain-vanilla Common Lisp you would have all these features but in a totally standardized way.
+
+
+	
+mbrodersen on Mar 16, 2018 [-]
+
+I agree. I understand and have programmed in Common Lisp, Scheme and Clojure. And yes I fully understand macros. I even implemented Lisp style languages just for fun (using C++ and Haskell). But I never wanted to use it for production code.
+
+	
+mbrodersen on Mar 16, 2018 [-]
+
+Lisp seems to be optimum for team sizes of one. Maybe two or three if they are very "world view" compatible or have a dominant "alpha" dog. But using it for large scale development?
+
+	
+lispm on Mar 16, 2018 [-]
+
+'One' seems to be false.
+You can program in teams with ten or in companies with hundred Lisp developers. Usually the team size does not need to be that large.
+
+Lucent for example developed a Lisp based network switch (similar to what Ericsson did later with Erlang) and they had around 100 developers. It was competing with a much larger team developing a similar product in C++.
+
+ITA had around 100 developers for their flight search in Lisp.
+
+Symbolics had at its height around 1000 employees and my guess would be that 40% were Lisp programmers.
+
+Personally I'd say there would be little problem working in a team with ten Lisp developers - you just have to find or educate them.
+
+
+	
+wglb on Mar 14, 2018 [-]
+
+Peter Norvig, a serious lisper, calls Python "an acceptable lisp": https://news.ycombinator.com/item?id=1803815
+
+	
+zeveb on Mar 14, 2018 [-]
+
+Regarding that[0]:
+At ILC 2002 former Lisp giant now Python advocate Peter Norvig was for some reason allowed to give the keynote address like Martin Luther leading Easter Sunday mass at the Vatican and pitching Protestantism because in his talk Peter bravely repeated his claim that Python is a Lisp.
+
+When he finished Peter took questions and to my surprise called first on the rumpled old guy who had wandered in just before the talk began and eased himself into a chair just across the aisle from me and a few rows up.
+
+This guy had wild white hair and a scraggly white beard and looked hopelessly lost as if he had gotten separated from the tour group and wandered in mostly to rest his feet and just a little to see what we were all up to. My first thought was that he would be terribly disappointed by our bizarre topic and my second thought was that he would be about the right age, Stanford is just down the road, I think he is still at Stanford -- could it be?
+
+"Yes, John?" Peter said.
+
+I won't pretend to remember Lisp inventor John McCarthy's exact words which is odd because there were only about ten but he simply asked if Python could gracefully manipulate Python code as data.
+
+"No, John, it can't," said Peter and nothing more, graciously assenting to the professor's critique, and McCarthy said no more though Peter waited a moment to see if he would and in the silence a thousand words were said.
+
+0: http://smuglispweeny.blogspot.com/2008/02/ooh-ooh-my-turn-wh...
+
+
+	
+lispm on Mar 14, 2018 [-]
+
+If you read that post he actually didn't say that. He moved from Lisp to Pseudocode to Python for his co-written AI Book (AIMA).
+If you also look at the pseudocode or the python code, it's not very Lispy. Python more or less is used on a level of an object-oriented BASIC.
+
+
+	
+kamaal on Mar 14, 2018 [-]
+
+https://www.quora.com/Where-did-we-go-wrong-Why-didnt-Common...
+In the above answer to a question in Quora, he seems to suggest that most of the features in lisp eventually got adopted in most other mainstream languages. Or in other words the concept of 'acceptable lisp'.
+
+I get what you are saying, and I feel the same way. But I think what people try to imply here- If you are using Lisp for a certain set of features, most of them are now available else where.
+
+
+	
+lispm on Mar 14, 2018 [-]
+
+> Today, all those features, except for macros, are common in the popular languages.
+But not in the same language and/or less well integrated.
+
+Example: mostly no popular language has flexible macros as tightly integrated in the language as Lisp has. Those who have macros, either have a different view on macros and/or have them as preprocessing steps.
+
+You find very few languages with generic functions. There are lots of attempts to add them to languages like Java, but they are mostly experiments and not used.
+
+Similar for Common Lisp exception handling mechanism. Very few language have that.
+
+More direct influence languages like PERL6, Julia, R etc. look and feel very different from Common Lisp.
+
+Even if you think language have features like Clojure has a REPL - but it lacks the Lisp interpreter, the integrated error handling, the break loops, ...
+
+It's not the number of components, it's the integration. You can bolt wings to a ship, but the thing won't fly well.
+
+
+	
+b2gills on Mar 21, 2018 [-]
+
+Perl is not an acronym, Larry wanted to call it Pearl, but there was already a language by that name.
+Also we tend to prefer Perl 6 to be spelled with a non-breaking space before the 6. [U+A0]
+
+Perl 6 has features from many sources, so it is indeed a departure from Lisp.
+
+
+	
+wglb on Mar 14, 2018 [-]
+
+Sorry, I mis-remembered his position. Thanks for the correction.
+
+	
+TurboHaskal on Mar 14, 2018 [-]
+
+I second this, I actually find the whole s-expr thing a bit lacking, now that the Kool-aid faded off.
+Ultimately, what I really love are expression oriented languages, and the ALGOL/C and APL families have alternatives with a more succinct and expressive syntax (Perl, K).
+
+One might also argue that Scheme is a poor man's Forth.
+
+
+	
+vzcx on Mar 14, 2018 [-]
+
+That depends heavily on what your day to day problems are.
+If you work in a complex or rapidly evolving domain, I cannot think of a better choice than Lisp. If you are doing a lot of text processing or writing CRUD apps, then you will probably not get much benefit.
+
+
+	
+flavio81 on Mar 14, 2018 [-]
+
+>If you work in a complex or rapidly evolving domain,
+or if you are creating a big system that needs to work reliably and be able to be corrected (patched) while it's operating
+
+
+	
+d3ckard on Mar 14, 2018 [-]
+
+For a while now I've had a feeling that all the comments about lack of engineers(especially in software) are vastly underestimated. Probably around 10% of us is capable of doing actual software development. The rest writes plumbing and can handle the project for only as long as abstractions available through libraries can hold the complexity.
+If we assume most of us don't really know what we're doing, that totally explains language preferences. We don't choose the best tools, we choose the best tooling. And best tooling is the one which we can comfortably fit in our minds, so advanced concepts are mostly ignored and the hype wheel constantly turns. To put it shortly - smart people write better and better tools, so the rest can handle bigger and bigger projects writing mediocre code.
+
+Of course, as every programmer, I live in constant fear that I am part of the plumbing crowd waiting to be exposed.
+
+
+	
+pjc50 on Mar 14, 2018 [-]
+
+Maintaining a distinction between "actual software development" and "plumbing" is elitist, even if you're placing yourself on the downside of that comparison and setting yourself up for imposter syndrome.
+You can get an awful lot done by "plumbing". Entire businesses like SAP are built on it. It can also be mission critical; in SpaceX, is the literal plumbing of hydraulic fluid and fuel flow unimportant? No.
+
+
+	
+d3ckard on Mar 14, 2018 [-]
+
+I'm not trying to impose that one is more "noble" than the other. As you said yourself, businesses usually run on plumbing.
+I'm trying to understand the industry, as it appears to be(at least to me) different than what I thought was true. I believe it to be important if we're going to do better and there is a ton of metrics showing we should do better(percent of projects failing, percent on projects exceeding budget and time, percent of projects becoming unmaintainable).
+
+If you could prove that only a handful of people is capable of actually developing software project pass the stage of 'piggy-backing' on libraries, that would probably distinctly change the way we develop software. Maybe we could prevent death marches better. Maybe we could improve our working environments so nobody has to crunch or have a depressing spaghetti-code maintenance job.
+
+It doesn't mean in any way that 'plumbers' should/would be treated worse. If anything, I would expect the opposite.
+
+
+	
+vilhelm_s on Mar 14, 2018 [-]
+
+Indeed, the "plumbing" role is getting more and more important as there are more reusable software out there, so less need to write it from scratch.
+It reminds me of how MIT changed their intro-to-programming course, from the Scheme-based one to a python based one, because "the SICP curriculum no longer prepared engineers for what engineering is like today. Sussman said that in the 80s and 90s, engineers built complex systems by combining simple and well-understood parts. The goal of SICP was to provide the abstraction language for reasoning about such systems. [...] programming today is “More like science. You grab this piece of library and you poke at it. You write programs that poke it and see what it does. And you say, ‘Can I tweak it to do the thing I want?'. The analysis-by-synthesis view of SICP — where you build a larger system out of smaller, simple parts — became irrelevant." (http://www.posteriorscience.net/?p=206)
+
+Also reminds me of Vernor Vinge's "Zones of Thought" novels, where in the far future, the starships don't have exactly programmers, but rather a kind of software archelogists who assemble systems from software components that may be a thousand years old.
+
+
+	
+itronitron on Mar 15, 2018 [-]
+
+Yes, and virtually all software job postings/interviews are tests for experience with specific fittings (abstractions/frameworks)
+
+	
+selimthegrim on Mar 14, 2018 [-]
+
+I was one of the last classes at Caltech that used SICP for the intro to programming class before they switched for similar reasons (this would have been ca. 2005)
+
+	
+bpicolo on Mar 14, 2018 [-]
+
+> only a handful of people is capable of actually developing software project
+Failures here are almost definitely related to lack of adequate mentorship rather than anything else. College doesn't go half the way to prepare you to be a successful engineer.
+
+There are people out there that can be self-motivated to do better, but in almost all those cases they're building skills that do the dirty work but don't feature best-practices necessary in a collaborative engineering environment.
+
+Your first employer/team, and their ability to mentor and develop new engineers, makes a huge impact on your success as an engineer. Really capable engineering mentors are worth their weight in gold (diamonds? printer ink?) and their contribution has an exponential effect.
+
+
+	
+dhimes on Mar 14, 2018 [-]
+
+College doesn't go half the way to prepare you to be a successful engineer.
+This is something I'm hearing alot at the moment, and not just about engineering. What would you say college taught you?
+
+
+	
+pjc50 on Mar 14, 2018 [-]
+
+In general, undergraduate assignments:
+- are well specified and known to be completable
+
+- start from a blank slate
+
+- produce relatively short programs
+
+- once complete and accepted, will never be run or looked at again
+
+- are required to work individually
+
+Whereas in a real software engineering department:
+
+- goals will be to some extent vague and fluid, may be contradictory => requiring negotiation skills with PM, customers etc.
+
+- you will nearly always be adding to an existing project => requiring ability to read code and perform archaeology
+
+- programs end up huge => requiring schemes for better organisation, modularisation etc
+
+- have a long life and a maintenance overhead => requires design for adaptability
+
+- are required to collaborate => requiring use of a VCS, not having complete freedom to choose tools, techniques like CI and branching for managing incomplete vs complete work fragments.
+
+
+	
+malmsteen on Mar 15, 2018 [-]
+
+For whats worth i think that in college you mostly learn to learn... So what u learn Isn't that important, to me you are just proving that u can learn fast.
+
+	
+q845712 on Mar 14, 2018 [-]
+
+It's a little trite but the best thing college taught me was how to read critically and teach myself as needed. The second best thing was providing plentiful examples of good pedagogy (I went to a teaching college, not a research U.) which turned into models for how I try to mentor.
+others comments about the difference between school work and real work are spot-on.
+
+It's funny how much I hated group projects as an undergrad, but how in some ways they were the best preparation: How do you still get things done when everyone has different ideas, varying levels of competency, available time, and motivation?
+
+
+	
+tech2 on Mar 15, 2018 [-]
+
+For me it was "How to learn more" with a fair bit of "how to work with others" and a lot of the theory.
+The how to learn bit is (and has been, for the last 20 years for me) massively helpful. It's rare that I think back to a particular thing I learned about (it still happens though), but I cherish knowing how to move from one subject to another when trying to work out how I should solve something and where I should look next.
+
+
+	
+bpicolo on Mar 14, 2018 [-]
+
+I imagine this varies, but for me most of college was very much about the pure bits of computer science - how things tick, so to speak. But very little of your day to day at most enterprises is about writing new versions of data structures, or academic-level operating systems/database work (obviously there are some roles in the industry where this is the task, but it's not the majority). That's not to say learning it wasn't important - I'd argue that it's a crucial foundational aspect of being a very capable software engineer, it's just not the whole picture.
+What learning those things does do is drastically increase your future flexibility as a developer - new databases, new languages, new jobs entirely, whatever. It's all built on the same primitives and if you have that fundamental understanding it makes it easy to ramp up on new technologies given you have the willpower and motivation. There's still a learning curve for specialized fields (of course) but that's fine.
+
+Colleges may well be adapting since I left, but the main issue is that people aren't really holding you to the standards of software that exist at capable software firms. Correctness is about all that matters in university. Students don't know how to optimize for testability, maintainability, deployability, monitorability, etc etc. And learning and developing those skills makes you far better at the 'correctness' bit too.
+
+There are some courses that are collaborative, but in industry the code you write can affect hundreds or thousands of other engineers and there can be real economic consequences of issues in your work (see: plenty of interns/new hires that have had the opportunity to kill $100,000-$1,000,000 or more in revenue by taking down a site - not blaming them, it's just an issue that actually exists in the real world). The order of magnitude is just so different.
+
+This isn't a problem per se, I don't think universities should be expected to perfectly prepare you for this (this is why internships are crucial, and are one of the strongest interview signals for new grads). But somebody does have to - the onus is really on employers of new grads to raise functional engineers if they want to have top notch engineering teams.
+
+I'll be honest - I didn't really grok CS until my first internship had passed, but that one summer really changed both my existing knowledge and my desire to build those skills further. I'm really grateful to have worked with some people that sparked that interest in me. I was at a 2-fulltime-dev startup with a ton of opportunity to work on different pieces of the stack, and it was just tremendously fun.
+
+Side note: an interesting note on taking down applications is that as software enterprises get more mature and taking down a site is that much harder, it feels like (to me) that new engineers in your organization actually have a less opportunity to learn-by-doing for the foundational pieces. This is a very bizarre catch-22 that I suspect has real consequences for the growth of new engineers in software organizations. Very hard to calculate that effect though.
+
+
+	
+ptero on Mar 14, 2018 [-]
+
+I agree with what you say for both the college (goal, value) and much of the real work on actual systems. To me, this splits pretty neatly into "prototyping" vs "operations".
+Prototyping mindset allows you to try many things due to low cost of failure; operations does not. Most software work and in general engineering work outside of academia has at least a touch of ops flavor (i.e., high cost of errors), so to be successful (e.g., not to be labeled a loose cannon) one must be able to impose self discipline required for this. But most organizations have systems and environments for prototyping (or will gladly set up one if you clearly express your wishes and articulate some benefits).
+
+Engineer that wants to work on new ideas then must learn to wear multiple hats (prototyping vs ops) and switch them as needed: the moment one glues one on he is limiting himself to either a rigid ops work (no, we cannot try new things) or a junior level dev (he cannot touch the real systems; his code does not work well enough).
+
+
+	
+bpicolo on Mar 14, 2018 [-]
+
+I agree that that's one really interesting way to consider the split, good call on that! Being able to experience those multiple hats is definitely important.
+
+	
+dhimes on Mar 14, 2018 [-]
+
+Thank you for your thorough reply. Colleges are under fire, even from their own ranks, by people whom I believe confuse training with education, but it's clear that's not your issue.
+It sounds to me like there needs to be some sort of deep-dive "onboarding" program where new hires can work on a curriculum of projects and learn the SOPs of the organization.
+
+Colleges could take some of it on, of course (testability and maintainability for example), but one of the complaints I heard even ten years ago is that they can't keep up with the changes in the field. No true fundamental best-practice principles have evolved, it's largely company-dependant.
+
+
+	
+AnimalMuppet on Mar 14, 2018 [-]
+
+It seems to me that, out of ten graduates from a CS program, only one is going to go on to do academic computer science; the other nine are going to become computer programmers. CS programs are doing a poor job of preparing those nine.
+Now, in other areas, we have a distinction. We have physics departments that teach people theory, and we have separate engineering departments that prepare people for careers putting the theory to useful work. Well, where does the CS program live? At least where and when I went to college, the CS program was part of the Engineering department.
+
+So I think it's fair to say that colleges should take on considerably more of the job of preparing software engineers for real-world careers in software engineering. Hiding behind "we teach CS, not software engineering" is a cop-out, especially if CS is within the College of Engineering.
+
+
+	
+TheOtherHobbes on Mar 14, 2018 [-]
+
+There are still different levels of expertise and talent in engineering, broadly dependent on mathematical ability and skill for abstraction.
+This is maybe more obvious in hardware design.
+
+At the top of the tree you have people like Maxwell, Heaviside, and Shannon, who invent entirely new possibilities out of pure math.
+
+At the other extreme you have technicians who don't truly understand math or theory, but can build a circuit that will probably work if handed a cookbook.
+
+In the middle are people who can work with abstractions like DSP and filter design as long as the ground has been broken for them. They understand enough math to find their own way through a problem from first principles, but aren't creative enough to invent anything truly original.
+
+CS is more amorphous, the levels are maybe harder to separate, and it's cursed by not having a truly consistent practical mathematical foundation analogous to the applied physics that underlies engineering of all kinds.
+
+But IMO there are similar skill levels - although at the higher levels, abstraction can become a bad thing rather than a good one.
+
+The problem is that although there's math in CS, after Church/Turing - which is pretty elementary compared to most physics - there isn't anything that passes for a formal theory of problem/solution specification and computation.
+
+Without that objective basis, a lot of CS is academic opinion instantiated in a compiler. And a lot practical commercial CS is a mountain of hacks built on language and tooling traditions with no empirical foundation.
+
+Commercially, the most productive people will be middle-rankers - not so clever they'll be thinking of new applications for category theory in an iPhone app, but clever enough to be able to think beyond cookbook development.
+
+
+	
+dhimes on Mar 15, 2018 [-]
+
+So, you're suggesting that computer engineering be separated from computer science, with CS being in the Math department. And you would expect CS to be a relatively small major.
+
+	
+AnimalMuppet on Mar 15, 2018 [-]
+
+I think that would be reasonable, yes. It would parallel other science/engineering splits.
+
+	
+alistairSH on Mar 14, 2018 [-]
+
+It sounds to me like there needs to be some sort of deep-dive "onboarding" program where new hires can work on a curriculum of projects and learn the SOPs of the organization.
+My employer does exactly this, both within the R&D organization and within our services/consulting group. All new hires from college do a 3-4 week "boot camp" where they do all the common indoctrination stuff, from HR paperwork, to learning the shared tools, to a mini programming project.
+
+Expecting a college graduate to show up ready to contribute like a 5 year veteran is ridiculous. As the parent message says, college is mostly for education, not training. Internships and co-ops fill some of the gaps, but high quality internships are few and far between.
+
+
+	
+AnimalMuppet on Mar 14, 2018 [-]
+
+I know of a company that hires fresh graduates, and doesn't expect them to really be able to contribute for two years. They're in Indianapolis, though, so they may have considerably fewer problems with their employees getting poached by others before they can contribute enough to pay back the training period.
+
+	
+bpicolo on Mar 14, 2018 [-]
+
+It would be interesting to see a course than spanned multiple years building upon the same project with the same team, emphasizing different aspects year-by-year, but I imagine that would be pretty nightmarish on the scheduling front.
+
+	
+dhimes on Mar 14, 2018 [-]
+
+It's also a problem of how much you can ask a student to do. There was a time when the expected time to complete a "4-year degree" was approaching 6 years in the engineering-ish fields, and the tuition-check-writers got pissed and called their state legislators to put a stop to it. So adding some sort of multi-semester capstone project would have to be woven into what is already in place, but I would imagine it wouldn't entirely fit into the curriculum without increasing the student level-of-effort (meaning, all of the stuff being taught would still have to be taught, but in addition the extra bits special to the scale of the project would add to the overall workload).
+
+	
+AnimalMuppet on Mar 14, 2018 [-]
+
+It wouldn't have to be that big. Even if part of one semester was to take a month as a class and try to add some features and fix some bugs to a codebase that the previous decade of classes had worked on, that would be an eye-opener to most students.
+
+	
+groby_b on Mar 14, 2018 [-]
+
+Death marches are caused by the people who project the image that they understand software development better than others. Spaghetti code is caused by them as well, they just pretend it's so brilliant you can't understand it. (After their departure, the RDF usually fades)
+We don't need a cult of brilliance. What we do need is an atmosphere of humility. Modern software/hardware systems are of breathtaking complexity. It turns out that's simply hard for humans to hold in their minds as a whole, but we still develop software like we actually could.
+
+For a while, we had a glimpse on what a simpler world could look like. (The early days of the web - when everything was GET/PUT/POST). We promptly proceeded to layer complexity on top of that.
+
+And that's OK, because it gave us a lot more power. But we pay a price for that power. And every time we attribute that price to lack of brilliant people, we mostly show that we haven't even come close to understanding what it even is that makes projects succeed.
+
+The genius myth is just magical thinking in disguise.
+
+
+	
+pjc50 on Mar 14, 2018 [-]
+
+> If you could prove that only a handful of people is capable of actually developing software project pass the stage of 'piggy-backing' on libraries, that would probably distinctly change the way we develop software
+Could you explain how such proof would lead to those changes?
+
+> death marches better. Maybe we could improve our working environments so nobody has to crunch or have a depressing spaghetti-code maintenance job
+
+These aren't software problems, they're business and social problems. No concievable level of productivity improvement will eliminate the death march.
+
+
+	
+mjburgess on Mar 14, 2018 [-]
+
+I've experienced death marches occurring precisely because the team didn't chose the right abstractions up-front because, roughly, they weren't skilled enough to have done so. Though, more than skilled enough to understand it when handed to them.
+If we split it into "framework writers" and "application writers" then organizing teams along these lines might improve efficiency.
+
+I train in machine learning and other areas, and I often make a "framework/application" skill level distinction made here -- where framework just means the meta-development activity.
+
+What the op comment appears to be saying here aligns along my experience of working & teaching pretty exactly.
+
+
+	
+noxToken on Mar 14, 2018 [-]
+
+> If you could prove that only a handful of people is capable of actually developing software project pass the stage of 'piggy-backing' on libraries, that would probably distinctly change the way we develop software. Maybe we could prevent death marches better. Maybe we could improve our working environments so nobody has to crunch or have a depressing spaghetti-code maintenance job.
+I don't think it would matter.
+
+In one instance, you're debugging and Apache server, in the other it's an in-house server implementation. You handjam a CSS file or you can use a preprocessor to help. You can create your own SPA implementation (as I painstakingly and naively did) or use any of the hundreds of existing ones. So do you want to debug business logic or debug all of your in-house implementations and your business logic? External tools are not perfect, but the idea is that they've been battle tested to know where they shine and edge cases that were missed. On top of that, decisions about the tooling must still be made. Relational or NoSQL? You must still know the difference when choosing.
+
+
+	
+soundwave106 on Mar 14, 2018 [-]
+
+For many programming jobs, the ultimate goal is not the code, but solving a business problem. So to me it's fine to just "piggy-back on libraries" if the library doesn't get in the way, doesn't lead to poor performing code, and saves time.
+Even as a business programmer, I agree that I do think it's a good idea to occasionally step into some places that are a little more low level. Yet from what I've seen (playing around with embedded systems and VSTs and the like), the actual coding process is, more or less, more similar than different. Both in process ("the basics" of Javascript translate to some degree to "the basics" of C), and even at the "lower level", libraries are also used quite frequently. For instance, JUCE is a package pretty frequently used for developing VSTs (VSTs itself are an SDK). These packages save time and allow developers to focus on the meat of the audio plugin, the DSP algorithms.
+
+At a certain level, what happens is that you get into the realm of math / engineering problems. And there definitely is mindset and focus differences between engineers and business -- one that's good at one is not necessarily good at the other. I just don't think the coding aspect of that separation is as stark as you make it out.
+
+
+	
+watwut on Mar 14, 2018 [-]
+
+Crunch has zero to do with quality of programmers or tooling.
+It has everything to do with management practices, organization, anxiety, fear or personal wish to be seen as hero.
+
+
+	
+ThrowawayR2 on Mar 14, 2018 [-]
+
+> Maintaining a distinction between "actual software development" and "plumbing" is elitist...
+Is the distinction between an aerospace engineer and aircraft mechanic "elitist"? Which would you prefer to have designed the next aircraft you fly in?
+
+Plumbing is really what the vast majority of us do. With varying levels of skill, we glue various pre-written libraries and packages together with a bit of business logic, solving problems that a million others have solved before.
+
+
+	
+VonGallifrey on Mar 14, 2018 [-]
+
+I could go and say that the aerospace engineer is also just doing "plumbing". The engineer is not going to design an engine for instance. "All" he does is specify what kind of engine he would use and then plug it to the fuel system and the wing structure. The engine was designed by someone else at a different company most likely. (Example: the Airbus A320neo uses PW1000G turbofan engines made by Pratt & Whitney. "neo" stands for "New Engine Option" by the way). This happens with a lot of the parts of an aircraft. Dismissing that as "plumbing" would be absolutely insulting to the engineer.
+The same is true for a lot of software development. It is true that I am not going to design and develop ALL of the components of my software. For some things I will use libs and frameworks someone else made. I don't see a reason to be dismissive about that.
+
+For instance I will be using the libs our hardware manufacturer provides to talk to the avionics bus of the A320. I don't see a reason to redesign our own ARINC429 avionics bus libs, but I also don't see a reason why this would make what I do not "actual software development".
+
+
+	
+badpun on Mar 14, 2018 [-]
+
+From what I read on /r/engineering, a lot of engineers complain that their jobs look like what you described - compiling together parts from different vendors' catalogs. A lot of people are resentful that they get to use maybe 2% of the cool math-based knowledge they got in university. It looks very similar to the resentment a lot of CS grads working in software engineering are experiencing.
+
+	
+mcguire on Mar 14, 2018 [-]
+
+A better question: Which would you rather have doing the inspections an your aircraft?
+
+	
+oldandtired on Mar 14, 2018 [-]
+
+As I know as couple of people who either build aircraft for a living or build aircraft for their personal use, neither of them is an aerospace engineer. But I'd happily fly in their aircraft.
+Irrespective of the title, can they design and build the object in question. This applies to all fields.
+
+The point that we must look at is whether or not the problem before us can be solved by us. It doesn't matter if you build from the ground up or use some pre-built parts. Is the solution going to work and solve the problem at hand. If it does then you have success, if it doesn't then you have failure.
+
+It is a matter of understanding the problem (in terms of the problem space), what solutions you use only matters if you can't solve the problem.
+
+
+	
+Confusion on Mar 14, 2018 [-]
+
+People who build aircraft are not people who design aircraft.
+Moreover, the point of the comment isn't about the titles assigned to these people by someone external: it's about the actual skills they have that would cause you to assign such titles to them.
+
+If you know people who can design new aircraft, then they are, by definition, aircraft engineers. They may have a job as an aircraft mechanic, but that's besides the point. That doesn't mean the average aircraft engineer is capable of designing aircraft.
+
+
+	
+oldandtired on Mar 15, 2018 [-]
+
+My point is that the aircraft fly. An awful lot of designs fail to fly and these are deigned by aeronautical engineers.
+My other point is that solving the problems at hand is the more important function, irrespective of what title is attributed to you.
+
+
+	
+matte_black on Mar 14, 2018 [-]
+
+In general plumbing is considered the “blue collar work”. No one would put a boot camp front-end JavaScript grunt in the same league as an MS or PHD guy doing artificial intelligence research, compiler assembly, or reverse engineering malware.
+And it seems ridiculous at times to even throw around the title of “Software Engineer” when the field has no standards of certification or regulation like other engineers. The only distinction from the programmer and engineer is the engineer makes architectural decisions, and the larger the scale the more accurate the title. “Plumbers” are cheap and no one cares if you fire them.
+
+
+	
+pjc50 on Mar 14, 2018 [-]
+
+Interesting that you put those three together; while cutting edge AI research might require that level of academic background, I wouldn't say that compiler work does. It's more within the reach of an undergraduate degree course. And malware (for and against) is a completely different field altogether, full of people with unconventional backgrounds and a large chunk of poachers-turned-gamekeepers.
+I think it will be a long time before the field slows down enough that standardising it will be viable.
+
+
+	
+blt on Mar 14, 2018 [-]
+
+I don't agree. The typical undergrad CS program doesn't prepare people for AI research, but that's because it dedicates lots of time to discrete/combinatorial stuff and low level systems knowledge. Drop/condense architecture, OS, compiler, exotic data structures and algorithms, networking, programming languages. Add more calculus, linear algebra, probability, optimization, statistics, symbolic AI. That undergrad would be equally good at AI work as a traditional undergrad would be at compiler work. AI field is rarefied now but will not be so forever.
+
+	
+matte_black on Mar 14, 2018 [-]
+
+The point is there was once a time when sprinkling some HTML and putting a site on the web automatically made you a wizard, and if you were young enough you might even be hailed as “the next Bill Gates”.
+Those days are over. When society was illiterate, people who could simply read and write might have been held in the same prestige as those who write novels or manuscripts. As literacy grew however, so did society’s ability to distinguish between skill levels. The same will happen with code.
+
+I remember when mobile development was at its hottest peak, declaring I was an iOS developer practically made people bow down in awe and throw offers my way for help with developing their mobile app idea (usually in exchange for equity or “revenue share”). Nowadays the field is so commoditized I don’t even mention my 8 years experience with iOS except in passing conversation.
+
+A computer science degree is enough to call yourself a software engineer because most people can’t tell the difference these days. But for people who know the industry, a front end dev whose job is to basically push pixels on to a page is hardly an engineer, and I’d say is our modern version of a mid ‘00s website designer.
+
+Having a timeless standard for what makes someone a Software Engineer that we can all agree on and can be verified by third parties would be helpful. Naturally, this will be met with resistance because there are many people who will not qualify, and who do not want an engineering license that would require them to be liable for their work.
+
+
+	
+cr0sh on Mar 14, 2018 [-]
+
+> Having a timeless standard for what makes someone a Software Engineer that we can all agree on and can be verified by third parties would be helpful.
+I would think that if this were possible, it would have happened by now.
+
+Programming as a profession - while not as old as other "engineering professions" - is much older than what you are insinuating here; for instance, COBOL dates from 1959, FORTRAN is a couple years older, and there are a few older languages before that.
+
+https://en.wikipedia.org/wiki/History_of_programming_languag...
+
+But let's use COBOL as a "standard" - since there is a ton of COBOL out there still running and being maintained (and probably more than a bit being created "new"). That's almost 60 years worth of commercial software development (using various languages starting with COBOL).
+
+If a standard could be considered and developed, it would have likely been done by now.
+
+There are more than a few arguments as to why it hasn't, but one of the best ones I have read about has to do with the fact that our tools, techniques, etc - seem to change and are updated so quickly, that standards for testing would become outdated at an insane pace. An engineer certified on a set of standards might be obsolete before he left the building!
+
+Ok - somewhat hyperbolic, but you get the idea. For the "classic" engineers, their tools and techniques don't change much if at all over long periods of time - so certification is more straightforward. For some engineering professions, you can pretty much take someone who was certified in 1970, and be pretty certain that he or she would be able to do the same kind of work today. That would definitely not be the case for a proverbial "software engineer" certified to the standards of that time...
+
+
+	
+jknoepfler on Mar 15, 2018 [-]
+
+I don't consider it elitist at all. Someone with a solid knowledge of fundamentals can often accomplish more, faster, and more maintainably in vanilla Go (for example) than an engineer who is trained in frameworks. The former can write a pretty solid pubsub/distributed queue/disruptor/stream parser/load balancer/etc. that will outperform most off-the-shelf solutions, cost very little to host, and be tailored to a specific application. The latter generally cannot.
+Don't get me wrong - I run a very small programming shop and I make judgment calls every day about whether to borrow or build. My operating system, hardware drivers, compiler, dependency manager, email server (etc.) I borrow these because it seems obviously practical and I have an appreciation for the complexity underneath (although I have some unkind things to say about hosting tiny apps on full-blown linux virts, the waste is unbelievable). I use Unity for client side development for games, which is probably the decision I'm least happy about, but I simply don't have the bandwidth to deal with the monstrous complexity of client-side programming (especially in a gaming context).
+
+Frameworks are generally bloated monstrosities that conceal performance problems behind walls of configuration and impenetrable cruft that has developed over decades of trying to make the "out of the box" experience configurable while pleasing myriad experts. They do more than one thing relatively badly, and the engineers who work with them often haven't developed the ability to deep dive into them to solve real scaling problems.
+
+You don't get simplicity, you never get zero-touch, and your learning when working with a framework often doesn't generalize, so you're basically renting a knowledge black-hole rather than paying down a mortgage on a knowledge library.
+
+Anyway, that's my two cents on why I think having solid fundamentals is important, at least in my line of work.
+
+
+	
+jxub on Mar 17, 2018 [-]
+
+Good points. You could go with Alpine Linux if you're looking to use a lean distro.
+
+	
+boomlinde on Mar 14, 2018 [-]
+
+> Maintaining a distinction between "actual software development" and "plumbing" is elitist
+Maintaining distinctions like this is necessary to have the right people do the right jobs. Some developers like being puzzled by hard problems and will get bored writing adapters for Java classes or connecting A to B in some set of Javascript frameworks. Others are motivated by seeing their high level design realized and don't like having to give too much thought about the lower abstraction layers. Giving these people the wrong jobs is a waste of time and money.
+
+
+	
+sedachv on Mar 14, 2018 [-]
+
+> Maintaining a distinction between "actual software development" and "plumbing" is elitist
+I don't think it is. Someone that is slapping together libraries from npm, but has no idea how to debug with gdb or use strace/ktrace/dtrace etc to diagnose problems with the resulting system, or does not have the skills to fix bugs or add new features to the "plumbing" - that person is not an actual software developer. There is a huge gap in skills, knowledge, and as a consequence the capabilities of these two camps of people.
+
+
+	
+blablabla123 on Mar 14, 2018 [-]
+
+I think this is going into the wrong direction. In my world "plumbing" means realizing ways to do things. When you want to write a simple web app that shows a Hello and has a contact form: even in 2018 that's still a reasonable amount of work. It's really not a lot of code but every line needs to be chosen wisely. That's what I call "plumbing". Most people new to Software Development become desperate at such tasks and to the rest it becomes embarrassing quickly... :-)
+Yeah and then there's actual code writing: the heavy lifting has been done, all the functions/classes/modules/... are still small and wait to be stretched with a lot of nice code. In well sorted projects the latter is a trivial tasks for simple features.
+
+But yes, I agree with the sentiment that there is a lack of general "understanding of stuff". I'm not sure if you must be able to use strace to be productive but it sure helps if you're able to get to know tools that are installed on most systems. Coming back to the OP's topic: LISP is a language that uses formalisms (ways to plumb ;)), tools (ever heard of asdf?) and syntax complete alien to even long-term computer addicts. It always puzzled me how people can be comfortable using this kind of stuff.
+
+
+	
+sedachv on Mar 14, 2018 [-]
+
+> I'm not sure if you must be able to use strace to be productive
+You will be productive until whatever runtime/library you are using has a serious bug or performance issue. Then you either use tools like strace or your productivity drops to 0. It is not a matter of marginal or order-of-magnitude productivity differences. You don't "understand stuff" for sentimental reasons, you "understand stuff" because the alternative is your manager has to call in people like me that "understand stuff" and pay them tens of thousands of dollars to fix things that you can't.
+
+> It always puzzled me how people can be comfortable using this kind of stuff.
+
+It's called learning.
+
+
+	
+blablabla123 on Mar 15, 2018 [-]
+
+Wow nice. I want to do this one day too ;)
+> It's called learning.
+
+Haha
+
+
+	
+mannykannot on Mar 14, 2018 [-]
+
+Call it what you will, there are ranges of skills needed in technical activity, and those of the engineer are not the same as those of the technician, though it is much more of a continuum than any two words suggest. In many branches of technology, there are certain tasks that need an understanding of calculus, but it is not so clear that there is an equivalent in software development, and I certainly do not think that programming in Lisp as opposed to C (or any other language choice) counts as such.
+
+	
+agumonkey on Mar 14, 2018 [-]
+
+That's a misinterpretation of parent's comment.
+I think he meant fidgeting with pre made solutions hoping they will work, instead of having principled ways to craft things.
+
+If SpaceX were to "plumb" as he meant it, they would use of the shelf modules and ideas for quick results. Instead they actually designed their rockets mostly from scratch (very rare in space, where it's often a rule not to go off what's provent to work).
+
+
+	
+osrec on Mar 14, 2018 [-]
+
+I think you have misunderstood OPs remarks. The way I see it, the distinction is between the innovators and the regurgitators. Very few people can innovate well when writing software. Others rely on the work of existing innovators to piece together their solutions. Both have their place, but one takes more practice to attain a high level of proficiency. Not elitist - just observing reality.
+
+	
+Bromskloss on Mar 14, 2018 [-]
+
+> is elitist
+I know I'm supposed to think that that is bad, but I can't come up with why it would be.
+
+
+	
+threatofrain on Mar 14, 2018 [-]
+
+It really depends on some pretty subjective values held on faith, that position, power, and profit ought to be shared.
+
+	
+TeMPOraL on Mar 14, 2018 [-]
+
+Or, as seems more accurate in this example, subjective belief that anyone should get arbitrary amount of praise for just showing up, instead of having to earn it through the process of honing and applying their skills.
+
+	
+chrstphrhrt on Mar 14, 2018 [-]
+
+In my experience the innovators must toil in obscurity because they see a vision that others cannot yet see, until the thing is realized.
+Then the prototypes get handed off to the main engineers to run with, and support is provided. By the time the thing sees production usage, the original inventor has long since moved onto solving other problems on the horizon.
+
+Praise is attributed to the last and loudest to have touched a project. Innovators are deeply satisfied by that and don't need the praise because it actually gets in the way.
+
+
+	
+threatofrain on Mar 14, 2018 [-]
+
+Presumably, though, in the hypothetical presented in the thread, the "top" 10% wouldn't be people who just showed up? And the "plumbers" are the ones who cannot build on their own?
+The question is why elitism is wrong. Your statements rest on whether that perception of elite status is wrong. Well, if that is ever resolved, is elitism wrong or not? Ought power, profit, and position be shared?
+
+
+	
+segmondy on Mar 14, 2018 [-]
+
+It's not elitist. It's exactly what it is. Plumbers make great money, especially ones who plumb oil pipelines underwater and such. So SAP might be a big money cow, and plumbing, but what OP was saying is that such things are not employing the "best principles" of computer science, to write well thought and efficient programs.
+
+	
+andai on Mar 14, 2018 [-]
+
+Nor indeed the plumbing in your house! It would be a very gross world indeed without it.
+
+	
+linkmotif on Mar 14, 2018 [-]
+
+What if reality is elitist? Are you saying that because you don’t like a certain thing, then it can’t be reality?
+> Entire businesses like SAP
+
+Companies like SAP mostly waste people’s money by extracting huge sums from municipalities.
+
+
+	
+Angostura on Mar 14, 2018 [-]
+
+> "actual software development" and "plumbing" is elitist,
+Perhaps, but you are the person who prepended 'mere' in front of plumbing.
+
+
+	
+pjc50 on Mar 14, 2018 [-]
+
+I'll take it out again if people are going to argue by string matching rather than reading the tone of the original post.
+
+	
+Angostura on Mar 14, 2018 [-]
+
+It might be best.
+
+	
+golergka on Mar 14, 2018 [-]
+
+> Maintaining a distinction between "actual software development" and "plumbing" is elitist
+You are correct - however, it doesn't mean that this statement is necessarily wrong.
+
+Usually when I see a statement that reeks of elitism, I immediately assume lower probability of it being true, because elitism of a statement correlates with falsehood - but it's worth remembering that this correlation is not absolute, and sometimes (although rare), elitism is indeed deserved and true. And in this particular case, out of my personal professional experience, elitism is absolutely deserved. There are a lots and lots of software engineers out there that can't or just won't fit more complex ideas into their minds.
+
+And yet, you are of course, correct: these developers can, and will, do good work. They can have different skills, like knowing the users, or creating beautiful animations, or having a great game design sense. These developers don't need to be looked down upon. And yet it would be very useful for all of us to acknowledge that these developers think in a different way and require different tools - they're not "worse" than "real" engineers, but they are different.
+
+
+	
+mercer on Mar 14, 2018 [-]
+
+I'd say you're basically redefining elitism to mean something it doesn't mean (or at least not how it's used here).
+That said, I do agree with you. I think that 1) it can be be very important to make distinctions between types of programmers, because 2) it makes it easier to actively explore the field and finding what suits your 'type'.
+
+For example, for many people, someone who 'does' HTML/CSS with some jQuery plugins, is a programmer. But personally I'd not really call such a person a programmer. I don't mean that as a value judgment, but rather to make a distinction between 'types' of work.
+
+Making that distinction earlier in my career could've helped me (whether the label it programmer/non-programmer is used or not), because I spent more time than I'd have liked being such a HTML/CSS/JS guy. I learned tons of very specific rules/tricks/lore that were necessary, but did not help as a programmer, and spent countless hours doing this kind of work, not really enjoying it all that much.
+
+It was only when I started doing 'proper' javascript stuff that I realized how much fun programming is, and how my relative enjoyment of the whole front-end stuff depended on the bits of 'real programming' I would occasionally get to do. In hindsight I wish I'd figured that out earlier, and not spent so many brain cycles and storage on CSS layout tricks and discussing how much 'semantic HTML' matters.
+
+(thankfully those things are still useful when I do full-stack type stuff, but still)
+
+
+	
+TeMPOraL on Mar 14, 2018 [-]
+
+> Usually when I see a statement that reeks of elitism, I immediately assume lower probability of it being true, because elitism of a statement correlates with falsehood
+Ironically, I do the precisely opposite, due to my personal experiences. Over the years I lived on this planet, I've been both in the "elitist" groups and the groups that accuse someone else of being "elitist" - and I universally found it that it's the "elitist" group that was always right. I've learned to recognize accusations of elitism as ways to cater to one's feelings of insecurity (and I was guilty of that in the past, too).
+
+
+	
+pjc50 on Mar 14, 2018 [-]
+
+> developers think in a different way and require different tools
+Yes, I think this is very much underappreciated. When people find a language or system that matches their way of thinking, it works a lot better for them. But not necessarily for the next person. So you get small communities of people who find that e.g. Lisp has been amazing for them, who can't see that other people think differently about programs and systems.
+
+
+	
+segmondy on Mar 14, 2018 [-]
+
+I sort of agree, but I also disagree. I think 90% of us are capable of doing "actual software development."
+However the market does't care for that. The market prefers short term gains over long term gains. Perhaps we can blame wallstreet? Due to the demand for short term gains, the ask from most developers is "how fast can you build this" not "how can you build this to be most efficient and cheapest in the long run and lifetime of the product" To move quick, developers must then employ abstractions layered upon abstractions.
+
+The short term winners get lots of money for demonstrating wins quickly. The losers conform to keep up.
+
+
+	
+pritambarhate on Mar 14, 2018 [-]
+
+> However the market does't care for that. The market prefers short term gains over long term gains.
+I agree with this. For example, Sun was sold for $5.6B in 2009. [1] While Skype was sold for $8.5B in 2011 [2].
+
+Sun had Solaris, Java, SPARC, and MySQL. Skype was a chat tool.
+
+Even today many popular databases find it hard to get billion-dollar valuations, while multiple Social Companies has done it.
+
+The market doesn't care about core CS. It cares about monetary gains.
+
+[1] https://en.wikipedia.org/wiki/Sun_acquisition_by_Oracle [2] https://en.wikipedia.org/wiki/Skype
+
+
+	
+cmdkeen on Mar 14, 2018 [-]
+
+Skype is / was not "a chat tool" - Skype was an opportunity to own the IP telephony space for both the business and consumer markets. That is potentially a huge revenue base, and fits neatly into a company like Microsoft that sits astride both.
+Solaris, Java, SPARC and MySQL had all demonstrated that they weren't going to acquire major revenue streams, at least under the ownership of Sun. Their valuations reflect two different types of company, something the market is very able to understand.
+
+
+	
+Bartweiss on Mar 14, 2018 [-]
+
+Skype is basically the Type I error offsetting "passed on Google" style Type II errors. It's a crappy investment in retrospect, but it was a strong player in an obviously valuable market. IP telephony remains enormously valuable - Skype just didn't win the contest.
+And ironically, a shortage of "core CS" was a major factor in that failure. Usable, high-fidelity, encrypted VOIP is an enormously difficult challenge, and after some early successes Skype failed to offer a quality product. Claiming the valuation as an argument that core CS doesn't matter looks pretty backwards to me.
+
+
+	
+michaelmrose on Mar 14, 2018 [-]
+
+The fact that it wasn't going to win the contest ought to have been obvious to anyone who actually used skype.
+Their android app was a horror story. There desktop app was ho hum, chat reminded me of icq and it was completely obvious that the major players were going to be people who had hip social networks or were well positioned like say google with all android users and apple with all iphone users.
+
+Skype was a tool to talk to grandma and I didn't forget the fact that they tied the number of people in a group chat to less than 10 if you didn't use an intel processor and resolution to buying a logitech camera.
+
+Turns out even grandma has a facebook account now in fact she had one when lunatics decided it was a good idea to buy skype.
+
+
+	
+golergka on Mar 14, 2018 [-]
+
+> Skype was a chat tool.
+> The market doesn't care about core CS.
+
+Yeah, implementing a peer-to-peer voice over IP with Skype's late 00s quality (which fell significantly since then) is not "core CS" and is just "plumbing", right.
+
+
+	
+Bartweiss on Mar 14, 2018 [-]
+
+Skype seems to have floundered not on lack of features, but on app stability and call quality. Honestly, it looks to me like an example of a technically-challenging product that failed by underperforming on core CS.
+I'm not sure why it would be framed as low-difficulty, except that consumer-facing tools tend to get written off as simple.
+
+
+	
+jihadjihad on Mar 14, 2018 [-]
+
+The issue I have with this view is that unless you have people on your team with fundamental, "core CS" capability, creating a behemoth like Skype or Snap just isn't possible. Of course, there's a balance, and who knows, maybe it's Pareto with 80% of the team focused on engineering and 20% focused on math/CS/R&D.
+The monetary gains the market sees are the direct result of clever math and CS, not bolt-on solutions that can be lifted from libraries on GitHub.
+
+
+	
+piva00 on Mar 14, 2018 [-]
+
+I don't agree with this view.
+Most jobs working with software development is about creating business value. Either as an end-user product that your customers are going to use or with internal tooling that will help the business have more access to data, streamline processes, increase efficiency, etc.
+
+This "no true Scotsman" approach to software development is actually quite funny after a while being a professional, it's a huge industry, there are terrible companies, there are terrible managers, product managers, etc., but there are also great ones. You can work for good ones if your current gig is mostly being pushed around by unreal expectations from your stakeholders.
+
+The demand is not for short-term gains, how can you justify that it's going to take a year to build your perfectly architected software if the business really needs that done in 3 months and you assess it's quite doable if you decide on some constraints? Your job as a professional engineer is to be able to find ways to do your work as best as possible given constraints, to design something to be improved on over time, to communicate with stakeholders and, given your area of expertise (software), give valuable input to the business decision so they can be the best as possible at that moment.
+
+Seeing software engineering as some grandiose goal by itself is quite wrong, software exists MOSTLY to fulfil business purposes.
+
+It's not about "conforming", there is software that is fun to work, that are intellectual challenges by themselves but that really have no way to be justified on a business level.
+
+This defensiveness against "business" is part of a mindset that should be broken among engineers, we should embrace we are part of a much larger process, not that we are the golden nugget and the top of the crop at a company. Our work is to enable others' work.
+
+
+	
+segmondy on Mar 14, 2018 [-]
+
+I actual agree with you. However when business claims to need it done in 3 months, do they? Lots of business software projects don't meet the deadline, they end up taking longer, not having complete feature and worse still ridden with bugs. They try to meet deadline, cut corners and end up with flaws. When the deadline is missed, more pressure is placed on developers and things get worse. Business tries to have their cake and eat it too. A business that exerts demand for a deadline, can't also demand for all features, cheap cost, and high quality. There are trade offs and these trade offs are often ill defined. The idea of lean software and agile is great and hopefully with time will solve this for the industry.
+BTW, I'm now part of the business side now and a manager. If you give me time constraints, you don't get to give me feature demands, you can give me your prioritized feature list and I can tell you what we can deliver given all other constraints. If you demand all the features, then I take away the time constraint.
+
+
+	
+theptip on Mar 14, 2018 [-]
+
+Agree with all of this -- I'd just like to add that I think there's a second order point here that doesn't get much discussion; technical debt is often considered as something that's always bad, but sometimes the correct decision is to trim "quality" (from your trifecta) and get something out to the market faster.
+I think that the debt analogy is a sound one; if you are buried under credit card debt then you might not even be able to make the interest payments. But if you take on debt in a considered and thoughtful fashion, then you can achieve things you wouldn't otherwise be able to do (e.g. buy a house, in the debt analogy). I have found that the debt analogy is very useful for communicating these tradeoffs to the business stakeholders.
+
+So sometimes it actually is reasonable for the stakeholders to request you to compress the timeline on a sequence of features, if there's an external deadline that must be hit; we just have to make sure we get buy-in to come back and repay our debts (preferably immediately after the deadline).
+
+
+	
+mywittyname on Mar 14, 2018 [-]
+
+> "how can you build this to be most efficient and cheapest in the long run and lifetime of the product"
+I couldn't answer this question accurately. I can't even give remotely accurate time estimates for projects larger than "build a CLI tool to do this one thing," much less give an informed estimate about the tool's TCO. I feel like I'm just floating down the river, incrementally improving upon the stuff that we've already built and that nothing we planned to accomplish ever is.
+
+I'm sure lots of people here have executed their Grand Vision for a project. But I'm also certain many of us never have.
+
+
+	
+cmdkeen on Mar 14, 2018 [-]
+
+You are forgetting opportunity costs in besmirching "build fast" over optimising for TCO. If I can use the code to gain an immediate business advantage it is entirely possible that I'll take something in 3 months than 6, even if it costs more in the long term. The language, and negotiation, required is of the Engineer, not the Scientist - there is still optimisation going on.
+
+	
+crispyambulance on Mar 14, 2018 [-]
+
+AFAIK, the guy has had a marvelous and productive career.
+When he says "...knowing Lisp destroyed my programming career" he just means that at some point in time he switched to other things. There was no "destruction". It was "a pivot"-- to use HN lingo.
+
+I think anyone who makes programming (let alone programming in a particular tool/language) the absolute focus of their career is in for a major disappointment. The OP was NOT crushed by his realization. He just moved on and appears to have been very successful regardless. Not a big deal unless one is obsessed with Lisp.
+
+
+	
+DanielBMarkham on Mar 14, 2018 [-]
+
+Nerds screw up everything we touch. I don't think we mean to. Whatever the system, we make it more complicated, er featureful. Then we add an abstraction layer. Then we make that layer more complicated. Repeat and rinse. Some abstraction layers help more than they hurt, but the ratio is about 1-in-10 or so. For any given project, there are probably a dozen cool-sounding frameworks or layers, one of which is absolutely needed. The rest are there because somebody wants to be promised that even crappy programmers can use this to make cool stuff happens.
+The sales pitch is clear: don't become a better programmer, get a better toolkit.
+
+I have been quite fortunate to have come into computers before this cloud of marketing madness overtook us. I got to watch the layers roll out one-by-one.
+
+Honestly I have no idea how I would learn programming if I had to do it again today. It's just too much of a byzantine mess. Hell if I would start with the top layers, though. I'd rather know how to write simple code in BASIC than have a grasp of setting up a CRUD website using WhizBang 4.7 When you learn programming, well you should be learning how to program. Not how to breeze through stuff. Breezing through stuff is great when you already know what's going on -- but by the time you already know what's going on, it's unlikely you'll need the layer or framework. (Sadly, the most likely scenario is that you've invented yet another framework and are busy evangelizing it to others.)
+
+This guy's story strikes me as poignant and indicative of where the industry is. They don't care if you can solve people's problems. They care if you're one of the cool kids. It's nerd signaling.
+
+
+	
+jakelazaroff on Mar 14, 2018 [-]
+
+Being able to solve people's problems doesn't mean you need to be able to program.
+What is a "real programmer", anyway? Is it knowing how a CPU works? Managing memory? If you rely on the garbage collector, do you really know what you're doing? If you write a Rails app without fully understanding HTTP, are you just plumbing?
+
+Does it matter?
+
+The reason we build tools and abstractions is to allow us to accomplish higher-level tasks without worrying about lower-level ones. Does it help if you understand lower level ones? Sure. But for millions of apps and websites that aren't Facebook or Hacker News or Firefox, the only problems are high level.
+
+
+	
+vbezhenar on Mar 14, 2018 [-]
+
+I think that it matters if you can dig into anything. Given reasonable timespan being able to learn x64 machine code, debug and fix buggy driver if necessary, for example. If you're program has GC issues, being able to read papers, read GC source code if necessary and find right set of parameters or change some lines of code. If your Rails app has vulnerability because of underlying HTTP issues, being able to learn more about those HTTP issues, read RFC if necessary, read Ruby http code if necessary and provide required fix. If your manager heard about Meltdown issue and wonders whether our services are vulnerable, real programmer should be able to read papers, understand vulnerability and whether it's important (to shut down services, for example) or not.
+Abstractions are leaky. I've yet to encounter one which doesn't leak.
+
+Though if you're working in a team, it's not necessary for everyone to be real programmer. One or two is enough. Those tasks which require real programming are rare, most of tasks are mundane.
+
+
+	
+jakelazaroff on Mar 14, 2018 [-]
+
+Sure, I'll concede all of those points! But I think they fundamentally change the question, because now you're presenting a different set of problems to solve.
+Understanding one level of abstraction doesn't mean that you understand the levels above or below it. It's perfectly possible (likely, even!) that a team will have someone who can build a good Rails app and someone else who can make sure the HTTP code and infrastructure is secure, yet those people won't have many skills that overlap.
+
+Yes, there are definitely good programmers and bad programmers. IMO, that has to do with how effectively you can solve problems you care about, not (as the comment to which I was replying suggests) the level of abstraction you're comfortable with.
+
+
+	
+mercer on Mar 14, 2018 [-]
+
+I'd say the world 'real' muddles things up and injects too much value judgment, and with little purpose I can see other than making oneself feel special (or inferior).
+I'd much prefer 'highly skilled' or 'advanced', if at all necessary.
+
+
+	
+cousin_it on Mar 14, 2018 [-]
+
+Without low level knowledge you can't tell which feature requests are easy or hard to implement. https://xkcd.com/1425/
+
+	
+contingencies on Mar 14, 2018 [-]
+
+The XKCD is a bad example in this case, as it is mostly about domain specific knowledge of computational theory or standardized algorithmic approaches to the problem spaces presented within those domains, whereas "low-level" is something different ... primarily referring to common layers underlying many domains.
+Most programmers never have to write low-level code.
+
+This is a good thing.
+
+It doesn't mean they can't, it just means we've moved on from wasting our time re-implementing solutions to problems already adequately solved for a general case. Finally.
+
+Manual memory management is frankly insane outside of extreme edge cases today.
+
+
+	
+d3ckard on Mar 14, 2018 [-]
+
+I'd put it differently. Software development severely lacks any objective metrics of performance and quality. We just haven't invented any(at least any practical enough to become mainstream). As a result, we quite often misjudge our(and others') skill and make bad decisions.
+It's the goal of software to provide more and more features. The problem is, we usually achieve those features by abusing abstractions we are using. Once the problem becomes apparent, somebody writes a library, which allows us to write a couple of times more crappy code before everything collapses. Rinse and repeat.
+
+Since we are unable on scale to choose right abstractions when necessary, we quite often get ourselves in situations, when it's actually preferable to rewrite everything using lessons learnt. Rewriting comes with its own set of new problems and cycle is complete.
+
+As a result, we are fundamentally unable to reuse already written code on scale, crumbling development and putting the whole industry in constant early-stage.
+
+
+	
+pjc50 on Mar 14, 2018 [-]
+
+> we are fundamentally unable to reuse already written code on scale
+Actually I disagree - it's just that when something does become reusable it immediately vanishes from people's consciousness. You can see this both in things that become standard library features, and open source components that end up ubiquitous. The list of "incorporates software from" in licenses gets ever longer as people embed copies of SQLite, logging libraries, ORMs, serialisers, and so on.
+
+One of the original article's points was that the things he loved in Lisp became features of other languages, and so ceased to be special.
+
+http://uk.businessinsider.com/how-many-lines-of-code-it-take...
+
+
+	
+d3ckard on Mar 14, 2018 [-]
+
+Good point. I would like to point out however that all of your examples appear to do well in abstracting mostly technical problems, not business problems. Technical problems are problems common across our field and natural areas of interests of those '10 %'. Business code is something written by majority of us(or at least I would expect it to be so) and it doesn't appear to scale and grow so nicely.
+
+	
+alehul on Mar 14, 2018 [-]
+
+Sorry to interject, but I'm curious: as someone who is in their first semester of a CS education, could you elaborate on what you mean by abstraction?
+So far, I just know it to mean making your function more widely applicable. I'm assuming there's a better definition I'm missing?
+
+
+	
+d3ckard on Mar 14, 2018 [-]
+
+Nope, that's pretty much it. It just have very far reaching consequences.
+To illustrate, let's use a simple example. Let's assume you need a logging feature in your application and your language/framework doesn't provide one(pretty much impossible nowadays).
+
+The simplest solution is to just append to a hard-coded file. It solves the imminent problem. It's also very bad solution unless you will never write log again.
+
+Instead, you build a Logger class/module/whatever. The logger provides 'write' functionality, which is abstracted away - client(i.e. code using logger) does not know or care how data is going to be logged. It's a responsibility of the logger to do that and make decisions on how to do that. Now you have abstraction - you depend on ability of Logger module/class/whatever to do its job, without knowing/caring/influencing actual implementation.
+
+Now, let's talk about leaking abstractions. Let's assume you're need to differentiate between different log levels(info/warning/error). Logger is provided as a library(so not easily modifiable) and only has generic 'write' method. Proper solution would be to create a new abstraction, LoggerWithLevels, which would provide methods like 'write_warning', 'write_error' etc. Underneath, it would probably call just call Logger, prepending severity string to logged message. The important thing though is the fact, that we still base our code on abstraction - we don't know how our new logger represents different levels - we use appropriate methods and we assume it's handled alright.
+
+What will likely happen though is that programmer will not create new abstraction layer. Instead, he will start manually or semi manually format strings sent to a logger. Effect will be the same, but abstraction will be now 'leaking', because severity level is now dependent on implementation(prepared log messages), not on logger API. Therefore, any change in the process(like saving logs to online service instead of disk file) will now require changing code in multiple places instead of just one.
+
+
+	
+dancek on Mar 14, 2018 [-]
+
+This is not what I understand a leaking (or more commonly 'leaky') abstraction to mean.
+Instead, assume the previously mentioned Logger does internally write to a file. Now, when the disk becomes full, Logger throws an exception and the caller must do something about it. The abstraction of just writing anything to log is broken and the underlying complexity leaks through.
+
+This example also demonstrates the difficulty of keeping abstractions from leaking. You can't exactly make the code automatically free up disk space or sign up to a remote logging service when disk space runs out.
+
+
+	
+d3ckard on Mar 15, 2018 [-]
+
+Well, you're right, I misused the term a bit. I used 'leaky', because it well describes that abstraction cannot hide implementation details(and in the second example those implementation details are used to achieve new functionality). However, it is because of the user abusing abstraction, not because abstraction is inherently leaky in that regard(and that is the reason the term was coined).
+I definitely need a new word for situations like this.
+
+
+	
+lostcolony on Mar 14, 2018 [-]
+
+Most marketing solutions are abstractions of business problems. CRMs, tracking, automated reporting tools, etc.
+Of course, they also require a fair bit of custom code that is purely plumbing to hook them up (translate data from one source and stick it into the tool).
+
+
+	
+DanielBMarkham on Mar 14, 2018 [-]
+
+That's a great point.
+I watch teams a lot. When I listen to them, I notice how much they talk about tooling instead of solutions. The more they talk about the tooling, the more they're sucking wind.
+
+The truly good stuff just disappears from awareness. That's how you know if a framework or abstraction layer is working for you (instead of you working for it.) It's invisible.
+
+
+	
+DanielBMarkham on Mar 14, 2018 [-]
+
+>>It's the goal of software to provide more and more features.
+That's the goal. The key question is: are we writing features that users find valuable or are we writing features that developers find valuable? They're two different things. What's happened is that the community has become incestuous. Instead of focusing on value to the user we're focusing on selling frameworks to one another.
+
+>>Software development severely lacks any objective metrics of performance and quality.
+
+Agreed here as well. But this is related to my first point. Nobody wants to focus on the users. It's far too easy to focus on the technology (or other developers). You write a feature for a user, you can instrument it and see whether users use it or not. You write a feature for a developer, even if nobody uses it you can argue that somewhere, somehow, that feature is going to be critical. It's an abstract value argument -- which is intractable.
+
+>>As a result, we are fundamentally unable to reuse already written code on scale, crumbling development and putting the whole industry in constant early-stage.
+
+It's a sad state of affairs. I suggest that your conclusion continues the broken thinking I'm describing above. We shouldn't be striving for reusable code at scale. We should be striving for people who have strong basic programming skills and are experts in some business domain. Then we would shoot for the minimum amount of technological abstraction necessary for these programmers to solve problems in that particular domain. Because that's really what the whole point is, not creating large codebases that last twenty years, creating tiny bits of code almost instantly that solve business problems for twenty years. We've got our head stuck in the wrong bucket.
+
+
+	
+mercer on Mar 14, 2018 [-]
+
+> That's the goal. The key question is: are we writing features that users find valuable or are we writing features that developers find valuable? They're two different things. What's happened is that the community has become incestuous. Instead of focusing on value to the user we're focusing on selling frameworks to one another.
+I think a deeper problem is that we're not really doing such a great job writing features for developers either. I'm amazed at how much of what I do is still done in the terminal or a bare-bones REPL, not so different from how they worked a few decades ago, when there's so much that could actually improve my day-to-day in small but very noticeable ways.
+
+For example, I make almost constant use of the autocomplete feature when I work with the BEAM REPL (Elixir). I was amazed to find out that this was a relatively new feature. I can't count how many keystrokes it saves me throughout the day.
+
+Of course, I still can't use VIM-style keybindings, and I'm being forced to write my REPL-code line by line instead of a Chrome Devtools style snippets. But, as you say, I do have tons of frameworks to choose from that all do mostly the same thing, and yet none of them do the relatively common thing that I need, so each of them requires me to read documentation and figure out how to configure it 'just-so'...
+
+
+	
+vbezhenar on Mar 14, 2018 [-]
+
+Objective metrics of performance are easy to come with: speed, memory usage, latency, throughput, energy efficiency, depending on type of your software. I can launch Windows Task Manager and those metrics are right there. Those metrics can be measured and compared. Quality isn't hard either, just count bugs. Many customers don't want to pay for performance or quality, they want features, delivery speed, shiny UI and listen to marketing too much. Slack is a joke when it comes to memory consumption. But it has smiles and marketing campaigns, so everyone's using it anyway even if chatting was a solved problem 30 years ago in kilobytes of memory.
+
+	
+d3ckard on Mar 14, 2018 [-]
+
+Don't agree. Metrics you provided allow to compare two projects. They also allow to see progress in the project(or regression).
+What they don't allow though is assessing code quality in terms of single project(i.e. judging if it's good or not). Since in many cases we do not have a good baseline, we are unable to consistently evaluate work. That leaves us with aforementioned problems.
+
+
+	
+nradov on Mar 14, 2018 [-]
+
+It's rather disappointing how the industry hasn't made any progress on CRUD application development productivity in the past 20+ years. Microsoft Visual Basic 4.0 allowed low-skilled developers to build working client/server CRUD applications far faster than any modern web development framework. Of course it's easier to distribute web applications than thick client Windows applications, but other than that we haven't gained anything.
+
+	
+meredydd on Mar 14, 2018 [-]
+
+We're trying to move this forward at https://anvil.works - the usability of Visual Basic, with the ease of distribution of the web. Biased I may be, but I'd call that progress :)
+
+	
+kbwt on Mar 14, 2018 [-]
+
+Reminds me of this picture entitled Life of a game programmer: https://i.imgur.com/sBih7ol.jpg
+
+	
+ubermonkey on Mar 14, 2018 [-]
+
+There's a real tension in this field between capital-C Computer Science and the work of writing code for businesses.
+The business doesn't care about your toolset, probably. What they care about is solving a problem.
+
+I've met no small number of very gifted, very creative developers that had this same mindset -- didn't give a crap about the Cool New Language or pure CS, but really DID get excited about building connections and features within existing systems to solve business problems.
+
+These two visions of development are in tension. Few folks can get jobs writing Haskell or Lisp, but there are LOTS of jobs for .NET developers.
+
+Neither path necessarily makes a better developer, though.
+
+
+	
+threatofrain on Mar 14, 2018 [-]
+
+It's like saying a doctor isn't doing interesting things if they're just content to apply medical knowledge to improve community health. The doctor is just using tools developed by other people.
+
+	
+Bartweiss on Mar 14, 2018 [-]
+
+I'd feel better about this if it weren't for the growing evidence that an awful lot of what we actually get is cargo-cult medicine - procedures that have been supplanted or invalidated, but are still widely used by non-research doctors who don't know better.
+Obviously doctors are still good, and don't need to be doing research to make the world a better place. I agree that dismissing 'plumbing' programmers or 'rote' doctors would be a serious mistake. But... well, I can't help drawing some connections between programmers implementing already-broken security, and doctors putting in heart stents that don't actually help patients.
+
+I don't think we're just being metaphorical here, I think research vs practice doctors often show the same patterns as programmers, for the same reasons. Creating new knowledge is neither necessary nor sufficient for keeping up with other people's knowledge, but we seem to be worryingly bad at keeping people who implement that knowledge up to date.
+
+(Context on the doctors: https://www.theatlantic.com/health/archive/2017/02/when-evid...)
+
+
+	
+agumonkey on Mar 14, 2018 [-]
+
+I agree 80% with this, I'll add something. I always had a lispy side, I hated Java, PHP, C and others prevalent languages that most companies would bet their money on, I like APL, I like Forth.
+That said I found something weird, sometimes, and with a little bit of adequate libraries (guava for instance) I enjoy doing some Java. It's verbose, way more than lisp, clojure, kotlin (not even mentionning mr Haskell of course). But I find a little pleasure in doing code there. It's manual, it requires doing a lot of things but even though its slower and more "work" it's another kind of stimulation, that I think is one large factor of people doing code in subpar languages. They're just happy doing things and solving things their own way.
+
+Some say that lisp and haskell can't be mainstream because their power is best fit for complex problems, and I think that hints to my previous point. People who need more than mainstream have the brain power and desire to solve non mainstream things.
+
+ps: about the plumbing thing, you might have heard that MIT switched to python exactly for that reason. I was and still am stumped that the people would brought SICP decided that plumbing was the way to go.
+
+
+	
+Waterluvian on Mar 14, 2018 [-]
+
+"actual software engineering" is like saying that you're not doing "actual farming" unless you're using some oxen and an iron plough.
+
+	
+barrkel on Mar 14, 2018 [-]
+
+I reckon all software is plumbing. Plumbing as in taking data in, processing it, and pushing the data out. Doesn't matter if it's a database, a compiler, or a CRUD app; it's all just plumbing.
+
+	
+segmondy on Mar 14, 2018 [-]
+
+No, plumbing is taking prebuilt pieces like pipes and elbows, joints, valves and just putting them together.
+There are plenty of software that is not about taking pre-existing packages and gluing them together, but rather involves construction from the ground up. Building a CRUD app using an existing framework, and an existing rest API with little to no custom business logic is plumbing.
+
+Using sci-kit for your ML app is plumbing. Writing your own novel ML/deep learning algorithm, shoving the data in and out of GPUs is not plumbing.
+
+
+	
+VonGallifrey on Mar 14, 2018 [-]
+
+> Writing your own novel ML/deep learning algorithm, shoving the data in and out of GPUs is not plumbing.
+This is plumbing as well by your definition. Writing your own novel ML/deep learning algorithm also take "pre-existing packages" and glues them together. Unless you are actually going to write your own custom OS, Language and drivers you are going to reuse stuff.
+
+I don't think there is anything wrong with using pre-existing packages and the like. We all are doing that anyways unless your are Terry A. Davis off course.
+
+
+	
+contingencies on Mar 14, 2018 [-]
+
+Your distinction doesn't hold up to analysis: at some level any system can be said to consist of elbow joints - eg. "processor opcodes are just elbow joints." The same can be said not only of the subsystems but also the intellectual heritage of so-called "original" systems. Nothing and everything is new. News at nine. Someone watches the news. They create a new system ever so subtly influenced by yours. Ad infinitum.
+
+	
+astine on Mar 14, 2018 [-]
+
+I think that no matter where you are as a programmer, you're part of the plumbing crowd whether you like it or not. If you hack together websites using a web framework like Rails or whatever, then that web framework is likely your plumbing. If however you write a web framework, then the language (Ruby, etc) is your plumbing. Those who write languages have operating systems and those who write operating systems have hardware. Even hardware has different levels of abstraction in it from folks designing instruction sets down to folks who have to actually deal with the physics of circuits on silicon. The things is though, a lot of those folks wouldn't be able to deal with the stuff that a typical web developer deals with because they don't understand the domain. Writing a highly performant web server is a different task from writing a complete web application that uses that web server. I think that's it's useful to have a deeper understanding of the tools we use, but ultimately we all have to work at the level of abstraction that makes sense for the work we do and that's not a problem.
+
+	
+swat535 on Mar 14, 2018 [-]
+
+Sigh.. I for one will never understand why everyone is obsessed about titles.
+Is doing front end not actual software development? What does that even mean?
+
+Are you considered a real software engineer if you can write code in a certain language? .. Or does it mean you are really good at O(1) problems?
+
+I think we should all agree that software development is a team effort, it requires vast knowledge and skills that different individuals bring to the table.
+
+Doing CSS adds just as much value as writing the backend API.
+
+Here is a good analogy. For an aircraft to function, pilots, aircraft mechanists, aerospace engineers all come together. Does that mean one is doing "plumbing"?
+
+Certainly not, they all add value.
+
+
+	
+wglb on Mar 14, 2018 [-]
+
+So let's think about this in a different way. Rather than classify programmers in buckets, e.g., plumber, non-plumber. Instead, the tasks of vast teams of programmers has grown to include a significantly richer environment. Skills beyond pure programming that we all need to do include connecting vast sets of existing environments together to build the next thing that we are working on. Few environments that we work on don't have networking, acres of existing APIs, already built ecosystems of data.
+In today's environment, 'pure programming' is a small fraction of what needs to get done.
+
+As a long-time programmer, the most leverage I have had is when my work connected to some business objective and produced a result. My engineering background, which emphasized a "problem-solving attitude" helps.
+
+
+	
+JustSomeNobody on Mar 15, 2018 [-]
+
+The 10% of developers you mention are the ones who don't cargo cult program. They don't seek "Neo" architectures. They are the ones who knuckle down and solve actual, real problems, not some fantasy generalized version of it. They are the ones who code and hone their craft. They don't spend any time arguing over React vs VueJs, Rust vs C++, etc.
+I think the average developer can do this too if they'd just get out of the programming echo chambers and trust their gut.
+
+
+	
+Pokepokalypse on Mar 15, 2018 [-]
+
+The real problem is that the majority of us probably are actually capable of doing actual software development right when we come out of school. Most of us get slotted into crappy plumbing and middleware jobs, and after 5-10 years those skills get rusty. They can come back; but if you end up out on the job market, being asked some of the advanced questions in interviews. . . well good luck. That situation exposes one fairly quickly.
+
+	
+pulsarpietro on Mar 14, 2018 [-]
+
+>Of course, as every programmer, I live in constant fear that I am part of the plumbing crowd waiting to be exposed.
+How true, the 50% of jobs I see are actually semi-skilled overpayed jobs which won't last. In many cases you configure somebody's else product and you manage it at best, it won't last. It is already happening.
+
+
+	
+lr4444lr on Mar 14, 2018 [-]
+
+Your post resonates, but let's be fair: the business of a lot of the money in software now - users downloading deploys that change daily or more frequently, on multiple devices, with expectations to interoperate with so much other software - has really changed the incentives of what to focus on.
+
+	
+YeGoblynQueenne on Mar 14, 2018 [-]
+
+>> Of course, as every programmer, I live in constant fear that I am part of the plumbing crowd waiting to be exposed.
+Well, the cheapest, safest assumption is that your skill level is about average and the majority of the programmers you 'll meet are going to have the same kind of skills as you.
+
+
+	
+watwut on Mar 14, 2018 [-]
+
+Why do you think that writing those tools is harder? Oftentimes it is not. A lot of it is easy.
+Yes, well done abstractions are how we keep large projects manageable. No one can learn all of them at once. Neither those writing "plumbing" nor those doing libraries.
+
+
+	
+kamaal on Mar 14, 2018 [-]
+
+Plumbing does get very complicated when your building size increases. And after a while its not just plumbing. Ensuring no pipe leaks in a skyscraper is no easy task.
+
+	
+_xzxj on Mar 14, 2018 [-]
+
+For the past four years I've architected, built, and maintained a system largely designed using the pipes and filters pattern. Does that make me Mario?
+
+	
+flarg on Mar 14, 2018 [-]
+
+As someone not even worthy of the status of a plumber, I quite agree. But the wonder of it all is that we can attend on the shoulders of giants so easily.
+
+	
+shanxS on Mar 14, 2018 [-]
+
+for any given level we use abstractions, those abstractions maybe in form of algorithms or tools - so isn't everything plumbing?
+
+	
+rjhallsted on Mar 14, 2018 [-]
+
+So how does one make sure they're not plumbing?
+
+	
+bhargav on Mar 14, 2018 [-]
+
+Any suggestions on how I can get into that 10%?
+
+	
+eropple on Mar 14, 2018 [-]
+
+Write more code. Stretch yourself. Learn how other people work and figure out how you can improve what they do, because that tends to be the bailiwick of what he's referring (mistakenly, IMO, but the bucket is probably fine even if the label isn't) as "real software development".
+I didn't write Auster[0] for me, I wrote it because other people needed a tool and it fit the parameters. I'm not writing Modern[1] for me, I'm writing it because there's a hole in the ecosystem that somebody has to solve, and I'm a someone.
+
+[0] - https://github.com/eropple/auster
+
+[1] - https://github.com/modern-project/modern-ruby
+
+
+	
+d3ckard on Mar 14, 2018 [-]
+
+If I knew, I would do it myself and wouldn't be afraid ;)
+Probably the best advise is to learn as much as possible, but focus on basics. I feel people often mistake knowledge for skill and that harms them in the long run.
+
+If you learn a concept, you can use it in anything you create. If you learn a framework, you will have to learn a new one in 5 years. Focus on transferable skills.
+
+
+	
+vijaybritto on Mar 14, 2018 [-]
+
+You seem to be experienced and ignorant at the same time
+
+	
+contingencies on Mar 14, 2018 [-]
+
+You can accurately attribute that quote to any external culture, re: another culture.
+Hunter-gatherers on capitalist democracy, Capitalist democracy on hunter-gatherers, China on India, India on China, US on India, India on Iran, Iran on Israel...
+
+You get the picture.
+
+Perhaps what it really means is "communications failure: exception thrown in cultural assumptions".
+
+
+	
+jack6e on Mar 14, 2018 [-]
+
+It's easy to differentiate: real software developers use butterflies [0].
+[0] https://www.xkcd.com/378/
+
+
+	
+garganzol on Mar 14, 2018 [-]
+
+I came to Lisp (Scheme/Racket) from that another side (C++, Java, Perl) and it was an enlightening experience.
+Now I use Lisp nearly everywhere in a form of a small .NET runtime module.
+
+Lisp is excellent at templating tasks. Just for comparison: StringTemplate for .NET is a whooping 400 kB of compiled binary code while my implementation of Lisp is just 35 kB (!). Sure enough, Lisp does the very same thing as StringTemplate, but in just 1/10 of the code. There is more: Lisp is Turing-complete while StringTemplate doesn't. I can add a .NET function to Lisp environment and then call it in my template. I cannot do that with StringTemplate. I repeat, this is a 35 kB Lisp David vs 400 kB StringTemplate Goliath.
+
+Isn't Lisp beautiful?
+
+But wait, there is more. Lisp is excellent for natural language processing because you can intersperse a human text with Lisp. Suppose the first % character enters into Lisp mode and subsequent % character exits back to text. The example of Lisp NLP would then look like:
+
+    "Hello %name%. It is time to do some math. Assume A + B = %(+ a b)%. What is the value of A when B is %b% ?"
+You then fill Lisp environment with desirable values:
+    env["name"] = "David";
+    env["a"] = 15;
+    env["b"] = 85;
+Evaluating aforementioned template will produce the following result:
+    "Hello David. It is time to do some math. Assume A + B = 100. What is the value of A when B is 85 ?"
+With that tool at hand, you can build a user-configurable quiz system in no time. Or maybe a configurable Virtual Assistant. Or a chat bot. Or anything else, you name it.
+Lisp is small as the Universe before Big Bang. Nevertheless it provides nearly endless possibilities when you have a need, a fit and imagination for them.
+
+
+	
+zelos on Mar 14, 2018 [-]
+
+Although that approach to string creation tends to fall apart quickly in non-English languages: adjectival agreement, plural rules etc.
+
+	
+garganzol on Mar 14, 2018 [-]
+
+No, no, it doesn't fall apart! Lisp is Turing-complete. You can do (in English):
+  "David has %n% apple%(when (> n 1) "s")%."
+You can move that rule to function etc. You can tweak that for the language you use in an endless number of ways.
+
+	
+chii on Mar 14, 2018 [-]
+
+so you're going to ask your translater to learn Lisp?
+
+	
+kazinator on Mar 14, 2018 [-]
+
+No; you just give an example about how to customize the suffix based on the number, but don't say that it is "programming" or "software development" or anything like that.
+https://www.gnu.org/gnu/rms-lisp.en.html
+
+"Multics Emacs proved to be a great success — programming new editing commands was so convenient that even the secretaries in his office started learning how to use it. They used a manual someone had written which showed how to extend Emacs, but didn't say it was a programming. So the secretaries, who believed they couldn't do programming, weren't scared off. They read the manual, discovered they could do useful things and they learned to program.
+
+
+	
+garganzol on Mar 14, 2018 [-]
+
+A generic translator cannot realistically cope with Lisp. It has to be a translator + NLP guy working together in conjunction to bring a high quality localization for the given textual model.
+
+	
+RivieraKid on Mar 14, 2018 [-]
+
+Many languages have string interpolation. It's a nice feature, but absence of it doesn't make your life hell.
+
+	
+tigershark on Mar 14, 2018 [-]
+
+Since when string interpolation is a such mysterious and arcane feature?
+
+	
+wglb on Mar 14, 2018 [-]
+
+Ok, this is seriously intriguing.
+Are more details about this magic thing available?
+
+
+	
+kazinator on Mar 14, 2018 [-]
+
+If you like that, you will probably enjoy the a language that I made called TXR. It's a Lisp dialect (TXR Lisp) plus a whole-document pattern recognition and generation language. These can be used independently or in combination.
+This example shows generation (with some very light extraction: munging a copyright header from existing files to stick into a generated file):
+
+http://www.kylheku.com/cgit/txr/tree/gencadr.txr
+
+gencadr.txr generates all those caar, cadr, caddr, ... functions down to five levels deep, in C. Plus it generates the Lisp defplace definitions for all of them so they are assignable, as in (set (caddar x) new-value).
+
+That part could have been done in Lisp rather than textual generation, but I said what the heck.
+
+Generated results:
+
+http://www.kylheku.com/cgit/txr/tree/cadr.c
+
+http://www.kylheku.com/cgit/txr/tree/share/txr/stdlib/cadr.t...
+
+
+	
+dahauns on Mar 14, 2018 [-]
+
+>Lisp is Turing-complete while StringTemplate doesn't.
+Well...C# String interpolation is.
+
+
+	
+garganzol on Mar 14, 2018 [-]
+
+C# string interpolation is fast and preferable solution that works great at smaller scale (which is probably close to 99.99% of all use cases).
+Having said that, C# string interpolation is not user-configurable, and you cannot realistically use it to generate, say, 300 lines of highly sophisticated text that is a subject to frequent modifications during product development.
+
+One of the popular tasks for a larger scale templating is email generation. Text templates, HTML templates, for signup, for email confirmation, for password reset, for subscription renewal, for ... you name it. As you can see, it quickly goes wild. Not sure one would prefer string.Format() or C# string interpolation to do all of that.
+
+
+	
+dahauns on Mar 14, 2018 [-]
+
+Ah...! Sorry, I misunderstood you there. (Ok,ok. I admit I only skimmed your reply :) ).
+But why would you want Turing completeness in a user facing templating engine? This is generally considered harmful, leading to all kinds of maintenance horrors. (And that's why StringTemplate deliberately isn't.)
+
+
+	
+kqr on Mar 14, 2018 [-]
+
+I'm not so sure it's the turing completeness that is harmful, rather the inscrutibility of code. Lisp doesn't have that problem since code is data!
+
+	
+dahauns on Mar 14, 2018 [-]
+
+OK, now you're just messing with me. :)
+
+	
+mattmanser on Mar 14, 2018 [-]
+
+Err, or just use Razor cshtml?
+
+		More
+
+
+Guidelines | FAQ | Support | API | Security | Lists | Bookmarklet | Legal | Apply to YC | Contact
+
+Search: 

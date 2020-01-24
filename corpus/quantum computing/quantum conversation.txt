@@ -1,0 +1,143 @@
+http://theconversation.com/a-quantum-computing-future-is-unlikely-due-to-random-hardware-errors-126503
+
+
+
+Edition:Available editions
+United States
+Donate
+Become an author
+Sign up as a reader
+Sign in
+Help create a stronger public debate with your donation today
+
+The Conversation
+Search analysis, research, academics…
+Academic rigor, journalistic flair
+Arts + CultureEconomy + BusinessEducationEnvironment + EnergyEthics + ReligionHealth + MedicinePolitics + SocietyScience + Technology
+Will quantum computers ever reliably best classical computers? Amin Van/Shutterstock.com
+A quantum computing future is unlikely, due to random hardware errors
+December 3, 2019 7.58am EST
+Author
+Subhash Kak
+Regents Professor of Electrical and Computer Engineering, Oklahoma State University
+
+Disclosure statement
+Subhash Kak does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.
+
+Partners
+Oklahoma State University
+
+Oklahoma State University provides funding as a member of The Conversation US.
+
+View all partners
+
+CC BY ND
+We believe in the free flow of information
+Republish our articles for free, online or in print, under a Creative Commons license.
+ Email
+ Twitter57
+ Facebook187
+ LinkedIn
+ Print
+
+Artist’s rendition of the Google processor. Forest Stearns, Google AI Quantum Artist in Residence, CC BY-ND
+Google announced this fall to much fanfare that it had demonstrated “quantum supremacy” – that is, it performed a specific quantum computation far faster than the best classical computers could achieve. IBM promptly critiqued the claim, saying that its own classical supercomputer could perform the computation at nearly the same speed with far greater fidelity and, therefore, the Google announcement should be taken “with a large dose of skepticism.”
+
+This wasn’t the first time someone cast doubt on quantum computing. Last year, Michel Dyakonov, a theoretical physicist at the University of Montpellier in France, offered a slew of technical reasons why practical quantum supercomputers will never be built in an article in IEEE Spectrum, the flagship journal of electrical and computer engineering.
+
+So how can you make sense of what is going on?
+
+As someone who has worked on quantum computing for many years, I believe that due to the inevitability of random errors in the hardware, useful quantum computers are unlikely to ever be built.
+
+What’s a quantum computer?
+To understand why, you need to understand how quantum computers work since they’re fundamentally different from classical computers.
+
+A classical computer uses 0s and 1s to store data. These numbers could be voltages on different points in a circuit. But a quantum computer works on quantum bits, also known as qubits. You can picture them as waves that are associated with amplitude and phase.
+
+Qubits have special properties: They can exist in superposition, where they are both 0 and 1 at the same time, and they may be entangled so they share physical properties even though they may be separated by large distances. It’s a behavior that does not exist in the world of classical physics. The superposition vanishes when the experimenter interacts with the quantum state.
+
+Due to superposition, a quantum computer with 100 qubits can represent 2100 solutions simultaneously. For certain problems, this exponential parallelism can be harnessed to create a tremendous speed advantage. Some code-breaking problems could be solved exponentially faster on a quantum machine, for example.
+
+There is another, narrower approach to quantum computing called quantum annealing, where qubits are used to speed up optimization problems. D-Wave Systems, based in Canada, has built optimization systems that use qubits for this purpose, but critics also claim that these systems are no better than classical computers.
+
+Regardless, companies and countries are investing massive amounts of money in quantum computing. China has developed a new quantum research facility worth US$10 billion, while the European Union has developed a €1 billion ($1.1 billion) quantum master plan. The United States’ National Quantum Initiative Act provides $1.2 billion to promote quantum information science over a five-year period.
+
+Breaking encryption algorithms is a powerful motivating factor for many countries – if they could do it successfully, it would give them an enormous intelligence advantage. But these investments are also promoting fundamental research in physics.
+
+Many companies are pushing to build quantum computers, including Intel and Microsoft in addition to Google and IBM. These companies are trying to build hardware that replicates the circuit model of classical computers. However, current experimental systems have less than 100 qubits. To achieve useful computational performance, you probably need machines with hundreds of thousands of qubits.
+
+
+Google’s Sycamore processor has only 54 qubits. Erik Lucero, Research Scientist and Lead Production Quantum Hardware, Google, CC BY-ND
+Noise and error correction
+The mathematics that underpin quantum algorithms is well established, but there are daunting engineering challenges that remain.
+
+For computers to function properly, they must correct all small random errors. In a quantum computer, such errors arise from the non-ideal circuit elements and the interaction of the qubits with the environment around them. For these reasons the qubits can lose coherency in a fraction of a second and, therefore, the computation must be completed in even less time. If random errors – which are inevitable in any physical system – are not corrected, the computer’s results will be worthless.
+
+In classical computers, small noise is corrected by taking advantage of a concept known as thresholding. It works like the rounding of numbers. Thus, in the transmission of integers where it is known that the error is less than 0.5, if what is received is 3.45, the received value can be corrected to 3.
+
+Further errors can be corrected by introducing redundancy. Thus if 0 and 1 are transmitted as 000 and 111, then at most one bit-error during transmission can be corrected easily: A received 001 would be a interpreted as 0, and a received 101 would be interpreted as 1.
+
+Quantum error correction codes are a generalization of the classical ones, but there are crucial differences. For one, the unknown qubits cannot be copied to incorporate redundancy as an error correction technique. Furthermore, errors present within the incoming data before the error-correction coding is introduced cannot be corrected.
+
+Quantum cryptography
+While the problem of noise is a serious challenge in the implementation of quantum computers, it isn’t so in quantum cryptography, where people are dealing with single qubits, for single qubits can remain isolated from the environment for significant amount of time. Using quantum cryptography, two users can exchange the very large numbers known as keys, which secure data, without anyone able to break the key exchange system. Such key exchange could help secure communications between satellites and naval ships. But the actual encryption algorithm used after the key is exchanged remains classical, and therefore the encryption is theoretically no stronger than classical methods.
+
+Quantum cryptography is being commercially used in a limited sense for high-value banking transactions. But because the two parties must be authenticated using classical protocols, and since a chain is only as strong as its weakest link, it’s not that different from existing systems. Banks are still using a classical-based authentication process, which itself could be used to exchange keys without loss of overall security.
+
+Quantum cryptography technology must shift its focus to quantum transmission of information if it’s going to become significantly more secure than existing cryptography techniques.
+
+Commercial-scale quantum computing challenges
+While quantum cryptography holds some promise if the problems of quantum transmission can be solved, I doubt the same holds true for generalized quantum computing. Error-correction, which is fundamental to a multi-purpose computer, is such a significant challenge in quantum computers that I don’t believe they’ll ever be built at a commercial scale.
+
+[ You’re smart and curious about the world. So are The Conversation’s authors and editors. You can get our highlights each weekend. ]
+
+IBM
+Google
+Quantum physics
+Quantum computing
+Computers
+Quantum encryption
+Quantum science
+Qubits
+ Tweet Share Get newsletter
+Sign in to comment6Comments
+Oldest Newest
+Show all comments
+Most popular on The Conversation
+Jimmy Hoffa disappeared – and then his legacy took on a life of its own
+Why the Pilgrims were actually able to survive
+‘The Wall’ cemented Pink Floyd’s fame – but destroyed the band
+Why saying ‘OK boomer’ at work is considered age discrimination – but millennial put-downs aren’t
+How to tell if your digital addiction is ruining your life
+Tons of acorns? It must be a mast year
+Light versus dark – the color of the turkey meat is due to the job of the muscle
+A quantum computing future is unlikely, due to random hardware errors
+Is winter miserable for wildlife?
+5 ways Trump and his supporters are using the same strategies as science deniers
+Expert Database
+
+Find experts with knowledge in:*
+e.g. Cyber Security
+
+Want to write?
+Write an article and join a growing community of more than 93,600 academics and researchers from 3,059 institutions.
+
+Register now
+Community standards
+Republishing guidelines
+Friends of The Conversation
+Research and Expert Database
+Analytics
+Our feeds
+Donate
+Who we are
+Our charter
+Our team
+Partners and funders
+Resource for media
+Contact us
+En Español
+Get our free daily newsletter
+Email address
+Your email address
+Privacy policy Terms and conditions CorrectionsCopyright © 2010–2019, The Conversation US, Inc.

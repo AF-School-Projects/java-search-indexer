@@ -1,0 +1,114 @@
+https://en.wiktionary.org/wiki/query
+
+
+
+query
+Jump to navigationJump to search
+See also: Query
+
+Contents
+1	English
+1.1	Alternative forms
+1.2	Etymology
+1.3	Pronunciation
+1.4	Noun
+1.4.1	Hyponyms
+1.4.2	Derived terms
+1.4.3	Translations
+1.4.4	References
+1.5	Verb
+1.6	Related terms
+1.6.1	Translations
+English
+Alternative forms
+quæry (archaic)
+Etymology
+An anglicisation of quere, an obsolete variant form of Latin quaere, second-person singular present active imperative of quaerō (“seek, look for; ask”). Cognate with French quérir, Italian chiedere, Portuguese querer, Romanian cere, and Spanish querer. Compare question.
+
+Pronunciation
+(Received Pronunciation) IPA(key): /ˈkwɪə.ɹi/
+(General American) IPA(key): /ˈkwɪ.ɹi/, /ˈkwɛ.ɹi/
+Rhymes: -ɪəɹi, -ɛɹi
+Noun
+query (plural queries)
+
+A question, an inquiry (US), an enquiry (UK). 
+The teacher answered the student’s query concerning biosynthesis.
+A question mark. 
+(computing, databases) A set of instructions passed to a database.
+The database admin switched on query logging for debugging purposes.
+Hyponyms
+subquery
+Derived terms
+non-query
+query-by-query
+query language
+Translations
+±question or inquiry
+±computing: set of instructions passed to a database
+References
+Wikipedia-logo-v2.svg Query on Wikipedia.
+Verb
+query (third-person singular simple present queries, present participle querying, simple past and past participle queried)
+
+(intransitive) To ask a question.
+(transitive) To ask, inquire.
+(transitive) To question or call into doubt. 
+(computing, databases) To pass a query to a database to retrieve information. 
+(transitive, Internet) To send a private message to (a user on IRC). 
+Related terms
+inquiry
+querent
+quest
+question
+Translations
+±inquire
+±ask a question
+±question
+±computing: search database
+Categories: English terms derived from LatinEnglish 2-syllable wordsEnglish terms with IPA pronunciationEnglish lemmasEnglish nounsEnglish countable nounsEnglish terms with usage examplesEnglish terms with quotationsen:Computingen:DatabasesEnglish verbsEnglish intransitive verbsEnglish transitive verbsen:Internet
+Navigation menu
+Not logged inTalkContributionsPreferencesCreate accountLog inEntryDiscussionCitationsReadEditHistorySearch
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Visibility
+Show translations
+Show quotations
+
+In other languages
+Čeština
+Esperanto
+Français
+한국어
+Nederlands
+Português
+Русский
+Tiếng Việt
+中文
+21 more
+Print/export
+Create a book
+Download as PDF
+Printable version
+If you have time, leave us a note.
+
+This page was last edited on 24 November 2019, at 22:26.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policyAbout WiktionaryDisclaimersDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki

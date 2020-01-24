@@ -1,0 +1,69 @@
+ 
+ 
+
+  Login
+Home
+Training
+Consulting
+Software
+About Us
+Resources
+Search Courses...
+Advanced C++ Programming
+Catalog Home  Java/Java EE, Open-Source & Web Application Servers  C/C++ Development
+Advanced C++ Programming
+
+
+
+Delivery Options & Status:
+There are no scheduled dates for this course.
+
+Summary
+Our advanced C++ course moves the student from a functional programming mode to an extended mode. We will revisit, to a higher level, all topics that make C++ the preferred language for object developers. Primarily, this class will explore the makeup and usage of the Standard Template Library's Container Classes, Functions Objects, Iterators, and Algorithms. This class is platform neutral.
+
+Prerequisites
+Students should have a C++ programming background or attendance in ProTech's Introduction to C++ Programing.
+
+Duration
+5 Days/Lecture & Lab
+
+Audience
+This course is designed for C++ Programmers wanted to extend their capabilities and utilize the STL.
+
+Topics
+A quick tour of the environment::Review of C concepts::OOP concepts::C++ enhancements to C::C/C++ keywords::Introductory concepts::Function overloading::Classes::Inheritance::Operator overloading::Input/output::Memory allocation::Templates::Exception handling::Solutions
+
+
+
+
+Related Scheduled Courses
+<<>>
+Advanced C Programming
+Advanced C++ Programming
+Introduction to C Programming
+Introduction to C++ Programming
+Advanced C Programming
+Advanced C++ Programming
+Introduction to C Programming
+Introduction to C++ Programming
+Advanced C Programming
+Advanced C++ Programming
+Introduction to C Programming
+Introduction to C++ Programming
+
+MyProTech Home
+MyCourses
+MyWatchList
+MyAccount
+Help
+Recently Viewed Courses:
+Advanced C++ Programming
+Search our catalog of over 500 course titles!
+
+Site Links
+HomeTrainingConsultingSoftwareAbout UsPartnersLegal NoticePrivacy PolicyLoginContact
+ProTech Professional Technical Services, Inc.
+Toll Free: 800-373-9188
+GSA #GS-35F-0486W
+Email: info@protechpts.com
+Copyright © 2019 ProTech. All Rights Reserved.

@@ -1,0 +1,551 @@
+https://www.whoishostingthis.com/resources/lisp/
+
+
+Skip to content
+WhoIsHostingThis
+Best Hosts of 2019
+Reviews
+
+
+
+
+
+Comparisons
+
+
+
+
+
+Deals & Discounts
+
+Resources
+
+Blog
+
+
+
+
+
+
+English
+Learn Lisp Programming: Intro, Versions, and More
+Disclosure: Your support helps keep the site running! We earn a referral fee for some of the services we recommend on this page. Learn more
+Adam Michael Wood
+by Adam Michael Wood
+Last updated: July 8, 2019
+Lisp Programming
+Lisp is a family of programming languages, first conceived in 1958 and finally implemented in 1961. This makes it is the second oldest language still in common use, after Fortran.
+
+But while Fortran continues to slowly fade away, Lisp is still a very important part of the computer science landscape.
+
+Lisp is unique in several ways. For one thing, every expression in Lisp is a list, one of two primary data types in the language. (This is why it is called “Lisp.”)
+
+Since the code itself can be evaluated as a datatype in the language, Lisp lends itself to recursion and introspection.
+
+Moreover — unlike most other languages — Lisp code is a human-readable version of the actual data structure as it is processed by the underlying Lisp system.
+
+This means there is a high-degree of similarity between how a programmer thinks about a program, and what the program is actually doing “under the hood.”
+
+Lisp can be used for any number of applications and problem domains, but it is especially useful for Artificial Intelligence and Machine Learning.
+
+Lisp Standalone Implementations
+It is a sign of Lisp’s usefulness that there are so many different versions of it. These include standalone languages and well as languages built inside applications. We’ll discuss both below.
+
+Common Lisp
+Common Lisp is one of the most popular dialects of Lisp. It was first released in 1984, and became an ANSI standard one decade later.
+
+It was an improvement on Maclisp. But it wasn’t the only Lisp version working off Maclisp; there were several others. But Common Lisp’s commitment to standardization made it ultimately the most successful.
+
+Common Lisp Resources
+If you are interested in Common Lisp, there are many ways to learn it.
+
+Books
+There are very few online tutorials for Common Lisp, so if you really want to learn the language you’ll need to consult one or more books. Fortunately, there are online editions of many of these.
+
+Common Lisp: A Gentle Introduction to Symbolic Computation
+ANSI Common Lisp
+Practical Common Lisp
+On Lisp: Advanced Techniques for Common Lisp
+Successful Lisp: How to Understand and Use Common Lisp
+Object-Oriented Programming in COMMON Lisp: A Programmer’s Guide to CLOS
+The Art of the Metaobject Protocol
+Lisp in Small Pieces
+The Elements of Artificial Intelligence Using Common Lisp
+Let Over Lambda
+Many of the most important and influential books on Lisp were written in the 1970s and 1980s, and are now out of print and hard to find. Several of these books have been made available online, and you can find links to them below.
+
+Online Resources
+Of Historic Interest
+Lisp is a historically interesting language. Its development is closely tied to the development of Artificial Intelligence and machine learning. It is also one of the most unique languages in common use, with a syntax and internal logic wildly different than most other languages.
+
+These differences are part of ongoing debates within the computer science community about the nature of computation and the proper grammar for programming.
+
+Anyone who is taking the time to learn Common Lisp today should make it a point to explore some of the language’s history.
+
+Recursive Functions of Symbolic Expressions and Their Computation by Machine — Written in 1960, by John McCarthy. This is the original paper describing what would become Lisp.
+A Basis for a Mathematical Theory of Computation — A paper written by McCarthy in 1961, exploring many of the ideas from the “Recursive Functions” paper. Also see the companion paper, Towards a Mathematical Science of Computation.
+Lisp — Notes on its Past and Future — McCarthy wrote this article in 1980, 20 years after Lisp was released.
+VIDEO: Artificial Intelligence
+John McCarthy (1927-2011) was a long-time Professor of Computer Science at Stanford University. His home page is a treasure-trove of interesting articles on AI, Lisp, theoretical computer science, and related topics.
+
+Learn Lisp
+There are not very many online tutorials for Common Lisp, as there are for more popular languages like PHP or Ruby. However, there are a lot of books on Lisp which have been released as online editions.
+
+Many of these were written in the 1970s and 80s, though there are certainly some more contemporary resources as well.
+
+On Lisp — Online edition of the excellent book by Paul Graham.
+Common Lisp: A Gentle Introduction to Symbolic Computation
+Lisp in Small Parts — A series of short tutorials
+Practical Common Lisp — A complete online edition of the classic introductory book of the same name.
+Land of Lisp — A funny, idiosyncratic website and book, teaching people how to use Lisp.
+Learn Common Lisp — Learn X in Y minutes, where X = Common Lisp.
+ELM-ART Lisp Course — Learn to use Lisp with the Episodic Learner Model at the Adaptive Remote Tutor
+Lisp Quickstart
+LispTutor Jr
+Casting Spels in Lisp
+Common Lisp: An Interactive Approach
+Lisp Style Tips for the Beginner
+Pascal Costanza’s Highly Opinionated Guide to Lisp
+Required reading:
+
+State of the Common Lisp Ecosystem.
+Lisp Reference and Documentation
+More than even most other languages, if you start working with Lisp you will find yourself needing to consult reference material on a frequent basis. Here are some of the more commonly used Common Lisp reference works available online.
+
+Common Lisp Wikibook
+Common Lisp HyperSpec
+Cliki: The Common Lisp Wiki
+LispWorks Common Lisp Documentation
+Common Lisp Cookbook
+Google Common Lisp Style Guide — How to write Common Lisp the way Google writes Common Lisp. (Did you even know that Google was writing Common Lisp?)
+Common Lisp the Language
+Special Topics in Lisp Programming
+Lisp is, on its own merits, a fairly specialized language. Here are a few resources on particularly specialized issues in Common Lisp.
+
+Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp — Also check out the book.
+Common Lisp Object System
+Lisp Tools
+If you want to accomplish anything of major substance with Common Lisp, you’ll need a larger ecosytem of language support — libraries, plugins, development tools, frameworks.
+
+Here are some of the most popular tools that Lispers use to get things done.
+
+ACL2 — A Computational Logic for Applicative Common Lisp
+Reader Macros in Common Lisp — Reader macros allow you to create entirely new syntax on top of Lisp
+Quicklisp — Library manager for Common Lisp
+Clack — A web application environment for Common Lisp. Several web application frameworks have been built on top of it:
+Caveman
+Ningle
+Lucerne
+Parenscript — Translates Common Lisp to Javascript
+jscl — Another Common Lisp to JavaScript compiler
+Roswell — Command line installer for Common Lisp
+CommonQT — An Common Lisp extension for QtTools, providing a GUI solution.
+CLML — Common Lisp Machine Learning library
+MGL — Anoth machine-learning library
+Antik — library providing tools for scientific and engineering computation
+Crane — an ORM for Common Lisp.
+cl-dbi — Database abstraction layer
+CEPL — Graphics library. (Check out their extensive video tutorial series.)
+Iron Clad — Cryptography tools.
+SLIME — The standard IDE for Common Lisp.
+Lisp Culture and Community
+More than any other language, Lisp has its own culture — unique lore, humor, and tradition. Some of this goes back to its roots in computer science departments of universities.
+
+Additionally, some of it is related to early geek hacker culture, and some of it is a result of the peculiarities of the language itself and the types of applications it is commonly used for.
+
+If you really want to understand Lisp, you can’t just learn the language — you have to learn the culture and become a part of this (weird and wonderful) community.
+
+Lisp Forum
+Workshop on the Psychological Reality of Lisp
+Quotes about Lisp
+A conversation with Alan Kay
+Eternal Flame
+Lisp Humor
+Common Lisp Movie
+Land of Lisp Music Video
+Planet Lisp
+Lisp Meetings — also check out [@lispmeetings on Twitter](https://twitter.com/lispmeetings)
+Required Reading:
+
+Gödel, Escher, Bach: An Eternal Golden Braid, by Douglas R. Hofstadter — This book is not directly related to Lisp (though it does talk about it a little bit). But it’s a hugely important cultural and intellectual touchstone for people in a number of different domains that Lisp inhabits: artificial intelligence, machine learning, mathematical logic, and recursion. This book will change the way you think, and you’ll end up thinking more like the kind of person who uses Lisp.
+Common Lisp Implementations
+Lisp is an idea, and Common Lisp is a language — it is not a specific technology. The following are some of the more popular implementation of Common Lisp.
+
+Clisp — GNU Clisp, an implementation of ANSI Common Lisp
+GCL — Another Common Lisp implementation
+CMUCL — a high-performance, free Common Lisp implementation. The Hemlock editor is included.
+Allegro CL
+Clozure Common Lisp
+Steel Bank Common Lisp
+Videos
+Learn about Lisp by watching. These videos run the gamut from basic tutorials to in-depth explorations of Lisp logic and philosophy.
+
+Thinking Like a Lisp Programmer
+Practical Common Lisp — Google Tech Talk
+A Brief Introduction to Lisp
+Lisp — Google Tech Talk
+Common Lisp: why macros are great
+Common Lisp – How to Start a New Project
+Interactive game development with common lisp
+LiveCoding in CommonLisp
+Patrick Stein on Vimeo
+Common Lisp Tutorials by Baggers
+Related Languages and Dialects
+Lisp is not a single language, but a family of languages — an idea about how to do computer programming. Common Lisp is the most popular implementation of Lisp, but several others exist.
+
+The major dialects of Lisp are:
+
+Scheme — Scheme is the leading “competitor” to Common Lisp.
+Clojure — Clojure is a Lisp dialect that is currently gaining popularity. It is built to run in the Java Virtual Machine.
+Common Lisp FAQ
+What is Lisp?
+Lisp is a family of computer programming languages which were first developed in the late 1950s. Lisp stands for List Processing, a name referring to the fact that the languages uses lists as its primary data structure, and also for its programming syntax.
+
+What is Common Lisp?
+Common Lisp is a dialect of Lisp that was developed in the early 1980s, as an attempt to create a single (common) version of Lisp. It is one of the two most popular versions of the language (along with Scheme).
+
+What is Lisp used for?
+Lisp can be used for any type of application, but it is of particular interest for Artificial Intelligence, machine learning, and other forms of advanced programming which require recursive logic.
+
+Why is Lisp popular with Artificial Intelligence?
+There are at least two reasons for this.
+
+First, Lisp’s primary data structure (the list) is also the structure of its programming syntax. That is, data and instructions about data take the same form. (This is called homoiconicity.)
+
+This means that Lisp can be used to analyse its itself, or to modify itself. Many experts in the field of Artificial Intelligence, as well as many philosophers and thinkers in related domains, consider this type of recursive introspection to be the foundation for real, self-aware intelligence. Moreover, the ability for a program to change itself based on input is the essence of machine learning.
+
+A second reason for Lisp’s popularity in AI is that the control syntax for the language is closely analogous to the computational logic underlying it. This gives Lisp programmers a much deeper insight into how a computer is actually interpreting the logic and syntax of the program than is possible with other languages.
+
+Clojure
+Clojure is a relatively new (2007) programming language. It is a dialect of Lisp, designed to run on the Java Virtual Machine.
+
+What is the Java Virtual Machine?
+The JVM is a virtual computer that compiles and runs Java and other languages. JVM is an idea, not a specific piece of software — one of the most popular implementations of the JVM is HotSpot from Oracle.
+
+The idea behind Java and the JVM is that you can write a program in Java (or another supported language), and compile it for the JVM. Then, you can run it on any computer that runs a JVM. This makes it extremely portable — you can write code once, and run it anywhere.
+
+Clojure: Lisp on the JVM
+Java is everywhere, which means that Java Virtual Machines are everywhere. Creating a version of Lisp that runs on the JVM made it possible to run Lisp anywhere. That was the primary motivation for creating Clojure, and a great reason to learn the language.
+
+Another benefit is that Clojure provides access, via the JVM, to countless tools and third-party libraries written in Java. This gives Clojure a development ecosystem that is more powerful than those previously available to any Lisp dialect.
+
+Clojure Tutorials
+Getting Started with Clojure and Introduction to Clojure provide a clear, quick introduction to the language.
+Clojure Programming is an extensive open source wikibook on the language.
+Learn X in Y minutes, Where X=clojure is a good one-sitting intro to the language, for people with existing programming skills in other languages.
+Clojure — Functional Programming for the JVM is a detailed tutorial aimed at Java developers.
+The Clojure Language is a 25-part video tutorial series introducing the language.
+Clojure Distilled is a must-read tutorial/essay that covers not just the syntax and vocabulary of the language, but the philosophy behind it; it attempts to distill how Clojure developers think about problems, and explores a way of solving problems that will likely be new for developers coming from other languages.
+Other Resources for Learning Clojure
+Try Clojure, is an online Clojure interpreter, letting you get some experience Clojure in the browser before installing it locally.
+ClojureTV has video tutorials and live talks about a variety of Clojure development topics.
+4clojure is an interactive learning site with programing exercises in Clojure.
+Full Disclojure is another video channel with tons of great Clojure tutorial videos.
+A Clojure Newbie Guide is a helpful resource pointing the new Clojure developer to all the essential tools and resources that form the Clojure ecosystem.
+Clojure Reference Material
+The Clojure Style Guide is a community-written guide to best practices for writing clear, maintainable Clojure code.
+ClojureDocs and Grimoire are both unofficial companions to the official documentation, providing community-sourced commentary and examples.
+Clojure Cheatsheet is a quick reference page for all the little things you just have to remember.
+Community and Ongoing Learning
+Clojure Subreddit is a very active forum for asking questions and interacting with the Clojure community;
+Clojure Google Group and Mailing List is a good place to ask questions and get support for Clojure development;
+Disclojure is a popular site for Clojure news and events;
+Planet Clojure aggregates the most important articles from the top Clojure blogs.
+Books about Clojure
+There are a lot of books about Clojure. Here are the ones that the Clojure community recommends again and again:
+
+Clojure for the Brave and True (2015), by Daniel Higginbotham, is a must-read guide to the language. It is also available to read free online, and forms the basis for a fantastic website full of Clojure resources.
+Clojure Cookbook (2014), by VanderHart and Neufeld, is a crowd-sourced compendium of Clojure recipes and ideas. It is available as a printed book and an open source project at GitHub.
+The Pragmatic Bookshelf has several excellent books on Clojure:
+Programming Clojure (2012), by Halloway and Bedra;
+Mastering Clojure Macros: Write Cleaner, Faster, Smarter Code (2014), by Colin Jones;
+Clojure Applied: From Practice to Practitioner (2015), by Vandgrift and Miller;
+Web Development with Clojure: Build Bulletproof Web Apps with Less Code (2016), by Dmitri Sotnikov.
+Practical Clojure (2010), by VanderHart and Sierra, and Pragmatic Bookshelf’s Programming Clojure (mentioned above) were the first two books published about the Clojure language. The Pragmatic book contains more and better code samples, while this book from Apress has more coherent explanations. These two books set the tone for how most Clojure developers think about the language, and should therefore be read by anyone serious about learning it.
+Clojure Programming (2012), by Emerick, Carper, and Grand, is a very clear introduction to the language, especially for people coming from web-oriented programming and scripting languages like PHP and Python.
+Living Clojure (2015), by Carin Meier, is a very practical guide to the language, with the helpful assumption that the reader understands programming in general. The book includes a structured learning plan designed for either self-study or corporate training.
+Should I learn Clojure?
+Probably.
+
+It is a widely-accepted truism that every developer should learn Lisp, even though you probably won’t use it. But now that the power of Lisp has been combined with the ubiquity of Java, its a language that is both good to learn and exceptionally useful.
+
+Good Clojure developers are highly sought after and well paid, and the language is growing in popularity.
+
+If you’re looking for programming skills to set you apart from other developers, Clojure is one of the best tools to add to your kit — and to your resume.
+
+Scheme
+If you are a bit older, and you attended an introductory computer science course at high school or university, it is likely that you used the good old Scheme programming language in that course.
+
+Brief History of Scheme
+In order to better understand the history of Scheme, we have to look at the very early stages of modern computing. The development of Scheme was influenced by two earlier, very different predecessors: Lisp and ALGOL programming languages.
+
+Lisp was created in 1958 by Massachusetts Institute of Technology’s (MIT) John McCarthy. Scheme was derived from Lisp, using its general semantics and syntax. In addition, Scheme borrowed from ALGOL. It had been developed by a committee of European and American computer scientists at a meeting in 1958, at ETH Zurich. Scheme used its block structure and lexical scope.
+
+In 1973, MIT’s Guy L Steele and Gerald Jay Sussman started an attempt to implement Carl Hewitt’s Actor model in the Lambda calculus. They did this by writing a tiny Lisp interpreter in MacLisp and adding mechanisms for creating actors and sending messages. During their work, they realized that they created a very small and capable dialect of Lisp, and they named it Scheme.
+
+In 2003, the Scheme workshop began a new standardization process for Scheme, and eventually released ratified standard R6RS in 2006. The last stable release of Scheme is ratified standard R7RS from 2013.
+
+Scheme Features
+Scheme is a primarily functional programming language, with lists as the main data structure, and support for first-class functions. It is a simple, minimalistic, and easy to implement programming language. This minimalist philosophy has led to wide divergence between practical Scheme implementations, to the extent that the Scheme Steering Committee calls it “the world’s most unportable programming language” and “a family of dialects” rather than a single language. Unlike earlier derivatives of Lisp with dynamic scoping, Scheme is lexically scoped (an influence from ALGOL).
+
+In Scheme, blocks are implemented with the following constructs: let, let* and letrec. This block structure is also inherited from ALGOL. Iteration construct do is used in Scheme, and support for iteration using tail recursion is also provided. Continuations in Scheme are first-class objects and they are supported by the call-with-current-continuation Scheme procedure (also known as call/cc). In Scheme, all data and procedures share a common namespace, and input and output are based on the port datatype.
+
+Numerical tower is a set of complex and rational numerical datatypes specified and implemented in Scheme. Delayed evaluation is supported in Scheme through the delay form and the force procedure.
+
+Scheme Implementations and Uses
+Because of its simplicity and minimalism, Scheme libraries became very popular with programming language designers, educators, and hobbyists. This resulted in many different implementations and dialects of Scheme. The traditional Lisp-style read-eval-print loop is supported in most Scheme implementations, and some also compile scheme programs to executable binaries.
+
+The simplicity of Scheme implementations also makes it a popular choice for adding scripting capabilities to larger systems. In addition, JScheme and Kawa implementations of Scheme provide integration with Java classes.
+
+Scheme is primarily used in education. In many introductory computer science and program design courses to demonstrate the basics of computer programming. Other notable uses of Scheme include Google App inventor for Android, GIMP graphics editor, Document Style Semantics and Specification Language (DSSSL), and so on.
+
+Learning Scheme
+Because of the widespread educational use of Scheme, learning it and finding resources for learning should not pose a problem. There are many available learning resources, both free and commercial, and we singled out a few of them.
+
+Scheme Courses and Resources
+Since Scheme is a minimalistic and streamlined programming language, it is relatively easy to master. With these courses and tutorials, you will probably be able to start programming in Scheme in no time.
+
+Structure and Interpretation of Computer Programs is MIT’s introductory course 6.001 with many useful resources for Scheme including video lectures, online textbooks, projects, transcripts, and selected lecture notes.
+DrScheme is an integrated development environment (IDE) for writing, debugging and analyzing Scheme programs, also used in education.
+Pilo Visual Tools for Scheme (PVTS) is a basic Scheme interpreter implementation with visualization tools. It is written in Java and it has very limited interpreter capabilities, with the sole purpose to display Scheme code graphically as a learning aid.
+Schemers.org has a nice collection of documentation and introductory texts for Scheme.
+Scheme Books
+Numerous Scheme books are available, and many of them are free and used in educational courses. These can be very helpful if you are just starting to learn the Scheme programming language.
+
+Structure and Interpretation of Computer Programs by Abelson, Sussman and Sussman is an excellent computer science book used in introductory courses at MIT. This is one of the bibles of the Lisp and Scheme world and it is available online for free, from MIT Press.
+How to Design Programs: An Introduction to Computing and Programming by Felleisen, Findler, Flatt and Krishnamurthi provides a very nice introduction to programming logic. It is free and available online, published by MIT Press.
+The Scheme Programming Language, Fourth Edition by R Kent Dybvig is intended to provide an introduction to the Scheme programming language, but not an introduction to programming in general. It is free and available online, published by MIT Press.
+The Little Schemer – 4th Edition by Friedman and Felleisen introduces computing as an extension of arithmetic and algebra, and programs as recursive functions. This book is not free.
+The Seasoned Schemer also by Friedman and Felleisen, informs the reader about additional dimensions of computing: functions as values, change of state, and exceptional cases. This book is not free.
+How to Use Scheme: Writing Scripts and Programs with PLT Scheme by Felleisen, Findler, Flatt, Krishnamurthi, Steckler will introduce you to some pretty basic ideas, such as file input and output, to more advanced things, like simple GUI design and Web scripting aspects of Scheme. It is freely available online.
+Is Scheme Right for You?
+Scheme is not only a good way to learn how to program, but also a good way to begin studying computer science. These reasons should get you heading in the right direction.
+
+Lisp Application Implementations
+Lisp is so useful that it is often used as the scripting language for applications. The two biggest are the text editor Emacs and the computer-aided design (CAD) application AutoCAD. We’ll look at both of them below.
+
+AutoLISP
+If you use computer-aided design (CAD) software, such as AutoCAD, Bricscad or IntelliCAD, at some point you are likely to need additional customization or automation features in your CAD environment.
+
+This is where AutoLISP steps in. AutoLISP is a simple, lightweight programming language built specifically for use with CAD software.
+
+A Brief History of AutoLISP
+AutoLISP is a dialect of the Lisp programming language, customized and streamlined for use in the AutoCAD environment.
+
+Lisp is a family of programming languages dating back to 1958. The name Lisp is derived from “List Processor,” and linked lists are one of Lisp’s major data structures.
+
+AutoLISP was first introduced in Autodesk’s AutoCAD version 2.18 in 1986, and was continuously improved in new releases up to release 13 in 1995, when Autodesk halted AutoLISP development in favor of more modern development environments like VBA or .NET.
+
+Despite this, AutoLISP has remained the primary customization language for many AutoCAD users.
+
+In 1997 Autodesk released AutoCAD 14, and introduced Visual Lisp as a commercial add-on for AutoCAD. Visual Lisp includes an integrated development environment (IDE), debugger and compiler, and ActiveX support.
+
+With the release of AutoCAD 2000 in 1999, Visual Lisp was incorporated in AutoCAD as a replacement for AutoLISP. Since then, major enhancements to Visual Lisp have been halted by Autodesk in order to focus on VBA, .NET, and C++.
+
+Visual Lisp and AutoLISP remain supported in AutoCAD to this day, while support for VBA versions older than 7.1 has been dropped as of January 31, 2014.
+
+Many other CAD software vendors also adopted support for AutoLISP in their own products, due to the big user base, as well as many utilities and applications available in AutoLISP.
+
+Why Do People Still Use AutoLISP Instead of C++?
+If you use the full version of Autodesk AutoCAD, the AutoLISP compiler is already included in AutoCAD and ready to use. There is also a nice IDE onboard — Visual Lisp. Please note that AutoCAD LT editions do not have built-in support for AutoLISP.
+
+Most AutoCAD users, or users of similar CAD solutions, are not familiar with programming and programming languages, so learning C++ to create a simple program or a function for automation in AutoCAD would not be practical.
+
+AutoLISP is simple, streamlined, and much easier to use and learn than C++ or Visual Basic, and everything you need to start programming is already included in AutoCAD.
+
+Programs and utilities written in AutoLISP are easily accessed and executed from AutoCAD. These are the main reasons that make AutoLISP the best option for customizing AutoCAD by its users.
+
+AutoLISP Features
+AutoLISP is an interpretive language, it is not compiled, so it can be stored in an ASCII text file, loaded, and then executed directly within AutoCAD.
+
+Almost all operations that you perform manually in AutoCAD can be performed automatically using AutoLISP.
+
+AutoLISP has a rich set of functions that you can use to perform any activity in AutoCAD, like general programming functions for variable manipulation, decision control, loops, arithmetic operations, error handling and function handling.
+
+It also has specialized functions in a number of areas such as: geometry, display control, query and command, user input, and object handling.
+
+AutoLISP also features a Dialog Control Language, a built-in GUI mini-language for creating modal dialog boxes with the automated layout in AutoCAD. All platforms that can run AutoCAD support AutoLISP as well.
+
+Learning AutoLISP
+There are certain factors that can make learning AutoLISP easier.
+
+If you are an experienced AutoCAD user, learning AutoLISP will be easier for you. AutoLISP is essentially a way to control AutoCAD, so the better you know AutoCAD, the better you will know what needs to be done to control it automatically.
+
+AutoLISP Tutorials
+AutoLISP is a very simple language to learn, and probably the most productive out of different Application Programming Interfaces (APIs) built into AutoCAD. With these tutorials, you will probably be ready to write your own useful programs in no time.
+
+AfraLISP has an excellent collection of AutoLISP free learning tutorials, and resources for beginners, intermediate and advanced users.
+Autodesk’s official AutoLISP Developer’s Guide provides a step-by-step overview of the main topics and workflows for using the AutoLISP programming language. Also of interest is their official AutoLISP function reference, which will surely come in handy while programming in AutoLISP.
+Mastering AutoLISP in 80 Minutes is a Power Point presentation from Augi CAD Camp 2005, free to download. It covers the basics of AutoLISP and is intended for intermediate AutoCAD users.
+AutoLISP Quick Start at CADTutor.net is aimed at AutoCAD users who would like to start learning AutoLISP.
+Your First AutoLISP Program: Zoom to Origin is a short tutorial showing the basics of writing a short AutoLISP program in Visual Lisp Editor in AutoCAD.
+Lee Mac Programing has interesting resources for AutoLISP, like tutorials and many functional AutoLISP programs that you can download and study.
+AutoLISP Books
+Numerous books dealing with AutoLISP and its use in AutoCAD are widely available. You may find some of these books very helpful in learning how to program in AutoLISP, although we would suggest going through the online tutorials first.
+
+AutoLISP Programming: Principles and Techniques by Rawis and Hagen provides practical and easy-to-follow instruction in mastering the AutoLISP programming language.
+AutoCAD Platform Customization: User Interface, AutoLISP, VBA, and Beyond by Lee Ambrosius is a comprehensive guide to streamlining and personalizing the AutoCAD platform. The AutoLISP and VBA programming languages open up a myriad of customization options, and this book provides expert guidance toward applying them to AutoCAD, Civil 3D, Plant 3D, and other programs based on the Autodesk AutoCAD platform.
+AutoCAD expert’s Visual LISP by Reinaldo Togores: shows Lisp programming techniques, including the use of the Visual Lisp Integrated Development Environment, explained starting from scratch.
+Are You Ready for AutoLISP?
+Even though AutoLISP is derived from Lisp, a very old programming language, AutoLISP still remains a very valuable tool for AutoCAD users.
+
+AutoLISP is still the tool of choice for customization and automation in AutoCAD and other CAD software with AutoLISP support.
+
+Emacs Lisp
+If you use GNU Emacs or any other similar Emacs text editor, you have probably heard of Emacs Lisp. Emacs Lisp is the programming language used to develop and code most of the editing capabilities of the GNU Emacs text editor. Emacs Lisp is also referred to as Elsip.
+
+Essentially, Emacs Lisp is used to customize and extend the capabilities of the GNU Emacs text editor.
+
+Brief History of Emacs Lisp
+Emacs Lisp is a minimalist dialect of the Lisp programming language used in the GNU Emacs and XEmacs text editors. Lisp stands for “List Processor,” and represents a family of programming languages dating back to 1958.
+
+Richard Stallman, the founder of the GNU Project, created the GNU Emacs text editor.
+
+First released in 1985, GNU Emacs version 13 introduced the use of Emacs Lisp as its own extension language. Emacs Lisp was largely inspired by the Maclisp dialect of the Lisp programming language.
+
+The latest stable release of GNU Emacs is version 24.5, and it was released in April 2015.
+
+Emacs Lisp is an integral part of the GNU Emacs and it runs on all platforms supported by GNU Emacs — GNU, GNU/Linux, FreeBSD, NetBSD, OpenBSD, Mac OS X, Microsoft Windows, and Solaris.
+
+Both Emacs Lisp and GNU Emacs are open source and free. They are published under the GNU General Public License, and the source code is freely available for examination, modification, and redistribution.
+
+Who Uses Emacs Lisp and GNU Emacs?
+With today’s modern Integrated Development Environments (IDEs), writing code in a specialized text editor like GNU Emacs can seem very odd at first glance.
+
+However, for a seasoned user, GNU Emacs has many powerful code editing capabilities that most modern IDEs do not have.
+
+GNU Emacs is described as an extensible, customizable, self-documenting, real-time display editor, and almost all of these powerful features come from its integrated Emacs Lisp interpreter.
+
+Modern IDEs focus on GUI and visual elements, and are primarily mouse controlled. Unlike them, GNU Emacs focuses on keyboard input and powerful text editing features, so it is better suited for programmers writing pure code than most modern IDEs.
+
+Every popular programming language is supported in GNU Emacs. What’s more, Emacs Lisp kicks-in as a powerful tool for expanding and customizing GNU Emacs.
+
+Emacs Lisp Features
+Since the Emacs Lisp programming language was specifically designed to be used in an editor, it provides special features for parsing and scanning text, handling sub-processes, buffers, displays, files, and so on. Editing commands are functions that can be called from Emacs Lisp programs.
+
+Emacs Lisp features show a close relation to the Maclisp dialect. Emacs Lisp uses a dynamic scope by default, with support for both imperative and functional programming methods, focusing on providing data structures and features specific to its use in a powerful text editor.
+
+Static scope is available as an option as of version 24. It can be activated by setting the variable lexical-binding. Note that Emacs Lisp does not support tail-call optimization, so tail recursions can lead to stack overflow errors.
+
+Emacs Lisp can also be used as a scripting language for GNU Emacs, called from the command line or from an executable file, with all editing functions available to the program.
+
+The GNU Emacs user interface is not displayed when it is running in batch mode with Emacs Lisp used for scripting, so it behaves more like a standard Unix tool.
+
+Your Development Environment
+To start using Emacs Lisp, you will need to install the GNU Emacs text editor. It is a very simple process.
+
+Just head over to the Gnu.org Emacs download page and follow the instructions on downloading and installing GNU Emacs on your system. GNU Emacs supports the following platforms: GNU, GNU/Linux, FreeBSD, NetBSD, OpenBSD, Mac OS X, Microsoft Windows, and Solaris.
+
+Learning Emacs Lisp
+Naturally, learning Emacs Lisp will be easier if you have previous programming experience, especially in some of the functional programming languages derived from Lisp.
+
+General programming experience is welcome as well, because veteran coders tend to know their text/code editors inside out.
+
+Emacs Lisp Tutorials and Resources
+Emacs Lisp is a minimalistic and easy-to-learn programming language, but due to its relatively limited, niche appeal, there aren’t that many online resources. We chose a few tutorials and learning resources that should be useful if you are just getting started with Emacs Lisp:
+
+An Introduction to Programming in Emacs Lisp from Gnu.org is aimed at new users with no previous programming experience.
+GNU Emacs Lisp Reference Manual is a full description and reference of Emacs Lisp. This manual presumes that you are comfortable using Emacs for editing.
+Elisp Cookbook contains lots of code examples demonstrating basic Emacs Lisp programming operations.
+Emacs Lisp Wiki has links to good resources to get you started with Emacs Lisp programming.
+Emacs Lisp Books
+There are also a number of Emacs Lisp books out there. Some of them can be very useful, but we still suggest that you try online tutorials and resources free of charge. If you need more resources, you can buy a book or two.
+
+An Introduction to Programming in Emacs Lisp by Robert J Chassell is an elementary tutorial for non-programmers to show them how to customize GNU Emacs using the Emacs Lisp programming language.
+Emacs Lisp — An Introduction by Robert J Chassell is designed to get you started with Emacs Lisp and to guide you in learning the basic principles of programming.
+Writing GNU Emacs Extensions: Editor Customizations and Creations with Lisp by Bob Glickstein will show you everything from simple customizations to extensive mods in Emacs Lisp with realistic examples.
+If You Use Emacs, You Need Emacs Lisp
+GNU Emacs was designed as a text editor with support for customizations using Emacs Lisp.
+
+However, GNU Emacs became an almost full-blown IDE thanks to the power and extensibility provided by the Emacs Lisp programming language.
+
+It’s a powerful, but highly specialized programming language. It’s not something the average developer needs to master, but in some niche applications, Emacs Lisp is still widely used, and this is unlikely to change anytime soon.
+
+Conclusion
+We’ve barely scratched the surface of the world of Lisp. But as you can see, it is an extremely useful language to know, whether you are building applications or just trying to make your text editing easier.
+
+Other Interesting Stuff
+We have more guides, tutorials, and infographics related to coding and development:
+
+F# Programming: find out about functional programming in the .NET framework.
+Erlang Programming Introduction and Resources: an early functional language used for creating parallel code.
+Java: Introduction, How to Learn, and Resources: check out our detailed guide on becoming a Java programmer.
+What Code Should You Learn?
+Confused about what programming language you should learn to code in? Check out our infographic, What Code Should You Learn?
+
+It not only discusses different aspects of the languages, it answers important questions such as, “How much money will I make programming Java for a living?”
+
+What Code Should You Learn?
+What Code Should You Learn?
+Main text written by Adam Michael Wood with additional material by Nermin Hajdarbegovic. Compiled and edited by Frank Moraes.
+
+Adam Michael Wood
+About Adam Michael Wood
+Adam specializes in developer documentation and tutorials. In addition to his writing here, he has authored engineering guides and other long-form technical manuals. Outside of work, Adam composes and performs liturgical music. He lives with his wife and children in California.
+◀ Smalltalk: The Original Object-Oriented Programming Language? What Are Domain Names? Everything A Website Owner Need To Know [Updated 2019] ▶
+Table of Contents
+－
+Lisp Standalone Implementations
+Common Lisp
+Clojure
+Scheme
+Lisp Application Implementations
+AutoLISP
+Emacs Lisp
+Conclusion
+Other Interesting Stuff
+Search our site...
+SEARCH
+Most Popular Blog Posts
+Become Your Own Private ISP Today
+2,271 views
+Cyber Monday 2019: The Biggest Web Hosting Deals [Live Updates]
+1,465 views
+How Much Money Should A Web Designer For A Basic Website Cost?
+1,351 views
+Here’s How To Buy A Domain That’s Already Registered In 2019.
+824 views
+What Is A Nameserver And Why Are They So Important? We Explain
+730 views
+Black Friday Deals are Here!
+If you're in the market for a new web hosting provider, be sure to check out our Black Friday Deals on Web Hosting, Domains, WordPress themes and more!.
+
+Need Web Hosting?
+If you're in the market for a new web hosting provider, be sure to check out our user reviews, our A-Z hosting guide and our top three popular hosting picks:-
+
+
+2,020 Reviews
+
+480 Reviews
+
+435 Reviews
+Comments
+
+Your email address will not be published. Required fields are marked *
+
+Share your thoughts
+Name * 
+
+Email * 
+
+We've helped millions of webmasters around the world find their perfect web hosting provider.
+WhoIsHostingThis
+Hosting Reviews
+The Best Hosting
+Compare
+Deals & Discounts
+FAQ
+About Us
+User Agent Tool
+Contact
+ABOUT WHOISHOSTINGTHIS.COM
+In 2007, WhoIsHostingThis.com launched the world's first tool to discover which web host a website uses. Since then, we have published 1+ million words of real-user reviews, 2+ million words of content from our experts and helped millions of webmasters around the world find their perfect web hosting provider, whether it is for a personal website, blog or small business. Read more...
+
+Terms & Privacy Sitemap
+WhoIsHostingThis.com is operated by Quality Nonsense Ltd, a company registered in England and Wales. Company No. 05889123. VAT No. 879480072. Registered office: 27 Mortimer Street, London, W1T 3BL, UK. © 2007-2019 WhoIsHostingThis.com.
+
+
+We would like to send you push notifications.
+Notifications can be turned off anytime from browser settings.
+
+Don't AllowAllow

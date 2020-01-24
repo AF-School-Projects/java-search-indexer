@@ -1,0 +1,136 @@
+https://www.techopedia.com/definition/1181/data-mining
+
+
+Techopedia - Where IT and Business MeetTOPICSWEBINARSDOWNLOADSDICTIONARYTUTORIALSQ & ARESOURCES
+TRENDING:
+VIRTUALIZATIONMACHINE LEARNINGBIG DATAENTERPRISEDEVELOPMENTMORE
+Search...
+
+Topics
+Webinars
+Downloads
+Dictionary
+Tutorials
+Q & A
+Resources
+Trending
+More
+Home  Dictionary  Tags  Enterprise 
+Data Mining
+Definition - What does Data Mining mean?
+Data mining is the process of analyzing hidden patterns of data according to different perspectives for categorization into useful information, which is collected and assembled in common areas, such as data warehouses, for efficient analysis, data mining algorithms, facilitating business decision making and other information requirements to ultimately cut costs and increase revenue.
+
+Data mining is also known as data discovery and knowledge discovery.
+
+Techopedia explains Data Mining
+The major steps involved in a data mining process are:
+
+Extract, transform and load data into a data warehouse
+Store and manage data in a multidimensional databases
+Provide data access to business analysts using application software
+Present analyzed data in easily understandable forms, such as graphs
+The first step in data mining is gathering relevant data critical for business. Company data is either transactional, non-operational or metadata. Transactional data deals with day-to-day operations like sales, inventory and cost etc. Non-operational data is normally forecast, while metadata is concerned with logical database design. Patterns and relationships among data elements render relevant information, which may increase organizational revenue. Organizations with a strong consumer focus deal with data mining techniques providing clear pictures of products sold, price, competition and customer demographics.
+For instance, the retail giant Wal-Mart transmits all its relevant information to a data warehouse with terabytes of data. This data can easily be accessed by suppliers enabling them to identify customer buying patterns. They can generate patterns on shopping habits, most shopped days, most sought for products and other data utilizing data mining techniques.
+
+The second step in data mining is selecting a suitable algorithm - a mechanism producing a data mining model. The general working of the algorithm involves identifying trends in a set of data and using the output for parameter definition. The most popular algorithms used for data mining are classification algorithms and regression algorithms, which are used to identify relationships among data elements. Major database vendors like Oracle and SQL incorporate data mining algorithms, such as clustering and regression tress, to meet the demand for data mining.
+
+Share this:  
+Related Terms
+Online Analytical Processing (OLAP)
+Business Intelligence (BI)
+Data Analytics
+Big Data Analytics
+Data Audit
+Email Extractor
+Web Mining
+Small Data
+Predictive Data Mining
+Knowledge Discovery in Databases (KDD)
+Techopedia - Where IT and Business Meet	
+Tech moves fast! Stay ahead of the curve with Techopedia!
+Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+
+Enter your email address...
+Recommended Resources
+Related Articles
+Data Analytics: Experts to Follow on Twitter 
+Data Analytics: Experts to Follow on Twitter
+What the $#@! Is Data Discovery? 
+What the $#@! Is Data Discovery?
+7 Things You Must Know About Big Data Before Adoption 
+7 Things You Must Know About Big Data Before Adoption
+The Key to Quality Big Data Analytics: Understanding 'Different' - TechWise Episode 4 Transcript 
+The Key to Quality Big Data Analytics: Understanding 'Different' - TechWise Episode 4 Transcript
+5 Insights About Big Data (Hadoop) as a Service 
+5 Insights About Big Data (Hadoop) as a Service
+The Growing Cybersecurity War on the Healthcare Industry 
+The Growing Cybersecurity War on the Healthcare Industry
++ View More Articles
+Related Tutorials
+Introduction to Databases 
+Introduction to Databases
+Related Questions
+What is the difference between big data and data mining?
+How can I learn big data analytics?
+What is TensorFlow’s role in machine learning?
+Can there ever be too much data in big data?
+What are some significant challenges companies are facing when it comes to management reporting?
+Featured Q&A
+What is the difference between big data and data mining?
+What is the difference between big data and Hadoop?
+What does big data do?
+More of your questions answered by our Experts
+Related Tags
+DatabasesData ManagementEnterpriseDataAnalyticsBig Data
+Synonyms:
+Knowledge Discovery
+RESOURCES
+The Ultimate Guide to Applying AI in Business	The Ultimate Guide to Applying AI in Business:
+Free Download: Machine Learning and Why It Matters	Free Download: Machine Learning and Why It Matters:
+FREE DOWNLOAD: AI and ML in the Oil and Gas Industry	FREE DOWNLOAD: AI and ML in the Oil and Gas Industry:
+AI in the Insurance Industry: 26 Real-World Use Cases	AI in the Insurance Industry: 26 Real-World Use Cases:
+FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?	FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?:
+LATEST ARTICLES
+Understanding Biometric Security: The Growing Threats and How to Beat Them 	
+Understanding Biometric Security: The Growing Threats and How to Beat Them
+Neurotechnology Vs. Neural Networks: What’s the Difference? 	
+Neurotechnology Vs. Neural Networks: What’s the Difference?
+The Growing Cybersecurity War on the Healthcare Industry 	
+The Growing Cybersecurity War on the Healthcare Industry
+IoT in 2020: What's Next? 	
+IoT in 2020: What's Next?
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game 	
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game
+ABOUT
+About
+Advertising Info
+Contact Us
+Write for Us
+CONTENT
+Topics
+Dictionary
+Q&A
+Tutorials
+TOPICS
+Cloud Computing
+Security
+Big Data
+Online Privacy
+Machine Learning
+IT Business
+Data Management
+All Topics
+CONNECT
+ Facebook
+ Twitter
+ LinkedIn
+ Feed
+MORE
+Webinars
+Downloads
+Newsletters
+Techopedia Terms:    #    A    B    C    D    E    F    G    H    I    J    K    L    M    N    O    P    Q    R    S    T    U    V    W    X    Y    Z   
+
+Copyright © 2019 Techopedia Inc. - Terms of Use - Privacy Policy
+
+Notifications Powered By 

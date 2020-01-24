@@ -1,0 +1,170 @@
+https://en.wikiquote.org/wiki/Lisp_(programming_language)
+
+
+
+[hide]
+Your continued donations keep Wikiquote running!
+Lisp (programming language)
+Jump to navigationJump to search
+This article needs cleanup.
+Please review Wikiquote:Templates to determine how to edit this article to conform to a higher standard of article quality.
+Lisp is a family of computer programming languages based on formal functional calculus. Lisp (for "List Processing Language") stores and manipulates programs in the same manner as any other data, making it well suited for "meta-programming" applications. One of the oldest "high level" programming languages (second only to Fortran), Lisp continues to be popular in the field of artificial intelligence down to the present day.
+
+
+Contents
+1	Quotes
+1.1	About Lisp
+1.2	Comparing Lisp to other languages
+1.3	Lisp macros
+1.4	Attitude of Lisp programmers
+1.5	Parentheses
+2	External links
+Quotes
+About Lisp
+Lisp has jokingly been called "the most intelligent way to misuse a computer". I think that description is a great compliment because it transmits the full flavor of liberation: it has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+Edsger W. Dijkstra, The Humble Programmer, 1972 Turing Award Lecture, Communications of the ACM 15 (10), (October 1972): pp. 859–866.
+Lisp is a programmable programming language.
+John Foderaro, CACM, September 1991.
+SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.
+Philip Greenspun, blog, 07-03-2005.
+One of the most important and fascinating of all computer languages is Lisp (standing for "List Processing"), which was invented by John McCarthy around the time Algol was invented.
+Douglas Hofstadter, Gödel, Escher, Bach: an Eternal Golden Braid.
+God wrote in Lisp code
+When he filled the leaves with green.
+The fractal flowers and recursive roots:
+The most lovely hack I've seen.
+Bob Kanefsky, "Eternal Flame" [1]
+The greatest single programming language ever designed.
+Alan Kay, about LISP. Quoted in Daniel H. Steinberg, "Daddy, Are We There Yet? A Discussion with Alan Kay", openP2P, 3 April 3 2003.
+I finally understood that the half page of code on the bottom of page 13 of the Lisp 1.5 manual was Lisp in itself. These were "Maxwell’s Equations of Software!"
+Alan Kay, A Conversation with Alan Kay, ACM Queue 2 (9), (Dec/Jan 2004-2005).
+LISP is now the second oldest programming language in present widespread use (after FORTRAN)... Its core occupies some kind of local optimum in the space of programming languages given that static friction discourages purely notational changes. Recursive use of conditional expressions, representation of symbolic information externally by lists and internally by list structure, and representation of program in the same way will probably have a very long life.
+John McCarthy (1974) "History of Lisp," as quoted in: Avron Barr, Edward Feigenbaum. The Handbook of artificial intelligence, Volume 2. Addison-Wesley, 1986. p. 5.
+One can even conjecture that Lisp owes its survival specifically to the fact that its programs are lists, which everyone, including me, has regarded as a disadvantage.
+John McCarthy, "History of Lisp," 12 February 1979; republished at www-formal.stanford.edu.
+The conception of list processing as an abstraction created a new world in which designation and dynamic symbolic structure were the defining characteristics. The embedding of the early list processing systems in languages (the IPLs, LISP) is often decried as having been a barrier to the diffusion of list processing techniques throughout programming practice; but it was the vehicle that held the abstraction together.
+Allen Newell and Herbert Simon, 1975 Turing Award Lecture[2], Communications of the ACM 19 (3), (March 1976): p. 118.
+Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
+Eric S. Raymond, How to Become a Hacker.
+Emacs is written in Lisp, which is the only computer language that is beautiful.
+Neal Stephenson, In the Beginning Was the Command Line.
+By policy, LISP has never really catered to mere mortals. And, of course, mere mortals have never really forgiven LISP for not catering to them.
+Larry Wall, "Programming is Hard, Let's Go Scripting...", O'Reilly: perl.com, 6 December 2007.
+APL is like a beautiful diamond - flawless, beautifully symmetrical. But you can't add anything to it. If you try to glue on another diamond, you don't get a bigger diamond. Lisp is like a ball of mud. Add more and it's still a ball of mud - it still looks like Lisp.
+Joel Moses, in Richard P. Gabriel and Guy L. Steele (1996). "The Evolution of Lisp". ACM History of programming languages—II: 233–330.
+Last night, I drifted off while reading a Lisp book. Suddenly, I was bathed in a suffusion of blue.
+At once, just like they said, I felt a great enlightenment. I saw the naked structure of Lisp code unfold before me.
+(My god. It's full of "car"s.)
+The patterns and metapatterns danced. Syntax faded, and I swam in the purity of quantified conception. Of ideas manifest.
+Truly, this was the language from which the Gods wrought the universe!
+[God replies:] "No, it's not. [...] I mean, ostensibly, yes. Honestly, we hacked most of it together with Perl."
+Randall Munroe, XKCD 224
+1958 - John McCarthy and Paul Graham invent LISP. Due to high costs caused by a post-war depletion of the strategic parentheses reserve LISP never becomes popular... Fortunately for computer science the supply of curly braces and angle brackets remains high.
+Iry James, A Brief, Incomplete, and Mostly Wrong History of Programming Languages
+1978 - John Allen in the chapter on Implications of LISP writes: "the power of high level languages is notational rather than computational". This insight is the most significant lesson that LISP teaches, and points to the possibility of going Beyond Programming in the "Age of Significance"
+John Allen: Anatomy of LISP
+Comparing Lisp to other languages
+Java was, as Gosling says in the first Java white paper, designed for average programmers. It's a perfectly legitimate goal to design a language for average programmers. (Or for that matter for small children, like Logo.) But it is also a legitimate, and very different, goal to design a language for good programmers.
+Paul Graham (2001) "Arc: An Unfinished Dialect of Lisp." paulgraham.com, November 2001.
+Greenspun's Tenth Rule: Any sufficiently complicated C or Fortran program contains an ad hoc informally-specified bug-ridden slow implementation of half of Common Lisp.
+Philip Greenspun, as quoted in Paul Graham, Hackers & Painters: Big Ideas from the Computer Age (O'Reilly: 2004), ISBN 0596006624, p. 198
+Greenspun indicates on his website that he does not recall where he originally wrote this, and laments in correspondence (2003) that this quip may be all that posterity remembers of him.
+Some may say Ruby is a bad rip-off of Lisp or Smalltalk, and I admit that. But it is nicer to ordinary people.
+Yukihiro Matsumoto, cited in: Pat Eyler (2009) "MWRC 2009 Mini-Interview: Philippe Hanrigou", on-ruby.blogspot.nl March 3, 2009.
+Pascal is for building pyramids -- imposing, breathtaking, static structures built by armies pushing heavy blocks into place. Lisp is for building organisms -- imposing, breathtaking, dynamic structures built by squads fitting fluctuating myriads of simpler organisms into place.
+Alan Perlis, as quoted in Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman with Julie Sussman.
+C is coupled with Unix in the worse-is-better scenario, and can anyone seriously propose Lisp as the right-thing alternative? Lisp, face it, is used for advanced research and development in AI and other esoteric areas. It has weird syntax, and almost all other computer languages share a non-Lispy syntax. Syntax, folks, is religion, and Lisp is the wrong one. Lisp is used by weirdos who do weirdo science.
+Richard P. Gabriel (as Nickieben Bourbaki), in Worse is Better is Worse
+Lisp was far more powerful and flexible than any other language of its day; in fact, it is still a better design than most languages of today, twenty-five years later. Lisp freed ITS's hackers to think in unusual and creative ways. It was a major factor in their successes, and remains one of hackerdom's favorite languages.
+Eric S. Raymond, in Open Sources on MIT's first OS, ITS [specific citation needed]
+You can use C++ if you want with GNOME, but we don't assume that you're going to write C++. It's to a large extent based on Scheme, which is a dialect of LISP. LISP being the most powerful and cleanest of languages, that's the language that's the GNU project always prefers.
+Richard Stallman in: "GNU's Not Linux" Network World Fusion, 01/11/99.
+The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't appreciate what a powerful language is. Once you learn Lisp you will see what is missing in most other languages.
+Richard Stallman, [How I do my computing]
+And you're right: we were not out to win over the Lisp programmers; we were after the C++ programmers. We managed to drag a lot of them about halfway to Lisp. Aren't you happy?
+Steele, Guy (2003-08-21). Re: bindings and assignments (was: Re: continuations). LL1 Mailing List.
+Lisp macros
+DOLIST is similar to Perl's foreach or Python's for. Java added a similar kind of loop construct with the "enhanced" for loop in Java 1.5, as part of JSR-201. Notice what a difference macros make. A Lisp programmer who notices a common pattern in their code can write a macro to give themselves a source-level abstraction of that pattern. A Java programmer who notices the same pattern has to convince Sun that this particular abstraction is worth adding to the language. Then Sun has to publish a JSR and convene an industry-wide "expert group" to hash everything out. That process--according to Sun--takes an average of 18 months. After that, the compiler writers all have to go upgrade their compilers to support the new feature. And even once the Java programmer's favorite compiler supports the new version of Java, they probably still can't use the new feature until they're allowed to break source compatibility with older versions of Java. So an annoyance that Common Lisp programmers can resolve for themselves within five minutes plagues Java programmers for years.
+Peter Seibel (2005) Practical Common Lisp.
+Attitude of Lisp programmers
+Common Lisp people seem to behave in a way that is akin to the Borg: they study the various new things that people do with interest and then find that it was eminently doable in Common Lisp all along and that they can use these new techniques if they think they need them.
+Erik Naggum, "Re: Query About Lisp Use", Usenet article <3211475185647471@naggum.net> (2001-10-07)
+If you want to know why Lisp doesn't win around you, find a mirror.
+Erik Naggum, "Re: Java is really convenient. Re: Sun thinks about switching Java to S-expression syntax: Lava", Usenet article <3128520463609367@naggum.no> (1999-02-20)
+In 30 years Lisp will likely be ahead of C++/Java (but behind something else)
+Peter Norvig (October 11, 1999). Lisp: Where Do We Come From? What Are We? Where Are We Going?. Retrieved on 2010-05-29. Slide 9 in presentation to Lisp Users Group.
+A Lisp programmer knows the value of everything, but the cost of nothing.
+Alan Perlis, Epigrams on Programming, ACM SIGPLAN Notices 17 (9), September 1982, pp. 7–13.
+The Largest Disservice to LISP is most frequently done whenever a LISP advocate opens his/her mouth. LISP advocates have been, in my limited and biased experience, some of the most arrogant and condescending bastards in the world. (…) I have heard more than one LISP advocate state such subjective comments as, "LISP is the most powerful and elegant programming language in the world" and expect such comments to be taken as objective truth. I have never heard a Java, C++, C, Perl, or Python advocate make the same claim about their own language of choice.
+Comment on Slashdot
+Response: "To be fair, the Java, C++, C, Perl or Python advocate wouldn't have much of a case..."
+In spite of its lack of popularity, LISP ... remains an influential language in "key algorithmic techniques such as recursion and condescension"
+James Iry, A Brief, Incomplete, and Mostly Wrong History of Programming Languages, blog entry, May 7 2009, retrieved October 3, 2017
+Parentheses
+Although my own previous enthusiasm has been for syntactically rich languages like the Algol family, I now see clearly and concretely the force of Minsky's 1970 Turing lecture, in which he argued that Lisp's uniformity of structure and power of self reference gave the programmer capabilities whose content was well worth the sacrifice of visual form.
+Robert Floyd, "The Paradigms of Programming", 1978 Turing Award Lecture, Communications of the ACM 22 (8), August 1979: pp. 455–460.
+(What the world needs (I think) is not (a Lisp (with fewer parentheses)) but (an English (with more.)))
+Brian Hayes, "The Semicolon Wars", American Scientist
+While this quote itself is accurate, note that it does not make any sense semantically; it should rather be written: (with more. (an English (but (with fewer parentheses (a Lisp (I think is not (What the world needs))))))).
+These are your father's parentheses. Elegant weapons, for a more... civilized age.
+Randall Munroe, "Lisp Cycles", XKCD 297.
+Some said the world should be in Perl,
+Some said in Lisp.
+Now, having given both a whirl,
+I held with those who favored Perl.
+But I fear we passed to men
+A disappointing founding myth.
+And should we write it all again,
+I'd end it with
+A close-paren.
+Randall Munroe, "With Apologies to Robert Frost", XKCD 312, in a parody of Robert Frost
+Lisp has all the visual appeal of oatmeal with fingernail clippings mixed in.
+Larry Wall, "Wherefore Art, Thou?", The Perl Journal 1(1); reprinted in Linux Journal, March 1, 1997.
+External links
+Wikipedia
+Wikipedia has an article about:
+Lisp (programming language)
+Categories: Uncategorized article cleanupProgramming languages
+Navigation menu
+Not logged inTalkContributionsCreate accountLog inPageDiscussionReadEditView historySearch
+Search Wikiquote
+Main Page
+Community portal
+Village pump
+Recent changes
+Random page
+Help
+Donate
+Contact Wikiquote
+Wikiquote links
+People
+Literary works
+Proverbs
+Films
+TV shows
+Themes
+Categories
+In other projects
+Wikimedia Commons
+Wikibooks
+Wikipedia
+Wikiversity
+Print/export
+Create a book
+Download as PDF
+Printable version
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Wikidata item
+Cite this page
+
+Languages
+Add links
+This page was last edited on 2 September 2019, at 20:21.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policyAbout WikiquoteDisclaimersDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki

@@ -1,0 +1,77 @@
+https://news.ycombinator.com/item?id=11994148
+
+
+	Hacker News new | past | comments | ask | show | jobs | submit	login
+lenkite on June 28, 2016 | parent | favorite | on: Simple Ways of Reducing the Cognitive Load in Code
+
+Stream based programming is a paradigm that with some training and proper code indentation is much, much faster to read than a nested for loop. Once you get used to it,you can literally fast-scan code written in this style with the confidence that you are not missing anything.
+Also, assuming you do not use mutable state, it also has the advantage of being easily parallelizable without any code changes. (As well, as easily combinable, throttlable, samplable etc)
+
+But it _definitely_ has a learning curve (like Calculus) and one needs to invest time in it to get used to this paradigm. Time must be spent in learning all the various operators and how they can be effectively leveraged. Stream-based code is certainly not something you can read off the cuff.
+
+The good news is that this is valuable time investment since all stream/observable libraries across languages have a large set of identical operators and shared API surface - the cross platform applicability is fantastic.
+
+Once you know stream based code in language A, you can automatically read stream-based code in language B, without even knowing the syntax of language B.
+
+I love observable stream libraries like RxJS. It makes async programming so easy! I could never write async JS code effectively with callbacks or even promises. Too much state to keep in my poor head.
+
+We now even have standards like ReactiveX coming out that are attempting to define a cross-language/platform spec for observable flows and standardized patterns on how to create new stream operators, etc.
+
+At risk of a terrible analogy, I consider Stream based code to be something of a mini-language like Regex. (but easier to read). No one who hasn't put in time understanding regex elements will ever follow regex patterns. Ditto for stream based stuff - you need AOT learning, but the rewards are worth it.
+
+
+
+	
+jimbokun on June 28, 2016 [-]
+
+"Stream-based code is certainly not something you can read off the cuff."
+    List<Integer> transactionsIds = 
+        transactions.stream()
+                    .filter(t -> t.getType() == Transaction.GROCERY)
+                    .sorted(comparing(Transaction::getValue).reversed())
+                    .map(Transaction::getId)
+                    .collect(toList());
+I honestly think most programmers fluent in Java 7 programming, can guess this is finding "grocery" type transactions, sorting by "value" transaction property in descending order, extracting the transaction ids, and returning the result as a list. ("map" could be confusing, as this usage is borrowed from functional programming.)
+May take a while to learn the performance and memory usage characteristics, and how to correctly write code in this style, but I'm not buying that it is difficult to "read off the cuff."
+
+
+	
+douche on June 28, 2016 [-]
+
+If you're a .NET programmer, we've been doing that kind of stuff with LINQ for years; it's all over the place.
+The only patterns that I still like to keep as old-style loops are constructs that ReSharper transforms into hairy-looking Aggregate() expressions
+
+
+	
+lenkite on June 29, 2016 [-]
+
+Err..yes, Java 8's filter, sort, map and collect are the most basic stream operators and you are correct that even folks un-used to this style can determine an understanding. But in code that uses observable stream-based programming you nearly always use more complicated operators like flatMap, merge, skipWhile, takeUntil, combineLatest etc. Without spending time learning these operators and how streams work, one is always going to scratch one's head. (Unless you possess an FP background)
+Even in Java 8 plain streams, the Collector is a powerful paradigm for grouping operations with a large amount of variations and it takes (at-least it did for me) some involved time learning how to effectively leverage this in day to day code.
+
+
+	
+pyre on June 28, 2016 [-]
+
+> ("map" could be confusing, as this usage is borrowed from functional programming.)
+On the other hand, both Python and Perl have 'map' as a built-in function. There has been spillage out of functional programming for a while.
+
+
+	
+amirouche on June 28, 2016 [-]
+
+Isn't the point of stream API a) to be able to iterate over infinite set of values b) to fiddle with the rate of "async" object generation?
+I'm not sure I understand the difference between `compose' and stream APIs.
+
+
+	
+dpritchett on June 30, 2016 [-]
+
+Haven't touched Java in a decade and that is beautiful. I like Ruby's functional idioms and LINQ though.
+
+
+
+
+
+Guidelines | FAQ | Support | API | Security | Lists | Bookmarklet | Legal | Apply to YC | Contact
+
+Search: 

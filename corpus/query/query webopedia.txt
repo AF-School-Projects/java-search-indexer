@@ -1,0 +1,129 @@
+https://www.webopedia.com/TERM/Q/query.html
+
+
+Webopedia
+Enter a term...
+Search
+Advertiser Disclosure
+MAIN
+BROWSE TERMS
+DID YOU KNOW?
+REFERENCE
+ALL CATEGORIES
+STUDY GUIDES
+BLOG
+SLIDESHOWS
+SPONSORED
+Main » TERM » Q »
+query
+
+
+By Vangie Beal
+Related Terms
+SQL - structured query language
+query language
+query string
+XMLHttpRequest
+HTTP request header
+XQuery
+ARQ - Automatic Repeat reQuest
+query by example
+SQL injection
+IRQ - interrupt request line
+(n.) A query is a request for information from a database. There are three general methods for posing queries:
+
+Choosing parameters from a menu: In this method, the database system presents a list of parameters from which you can choose. This is perhaps the easiest way to pose a query because the menus guide you, but it is also the least flexible.
+Query by example (QBE): In this method, the system presents a blank record and lets you specify the fields and values that define the query.
+Query language: Many database systems require you to make requests for information in the form of a stylized query that must be written in a special query language. This is the most complex method because it forces you to learn a specialized language, but it is also the most powerful.
+(v.) To make a request for information from a database.
+
+
+
+
+
+IT Solutions BuilderTOP IT RESOURCES TO MOVE YOUR BUSINESS FORWARD
+
+Which topic are you interested in?
+
+Mobile
+
+
+Security
+
+
+Networks/IoT
+
+
+Cloud
+
+
+Data Storage
+
+
+Applications
+
+
+Development
+
+
+IT Management
+
+
+Other
+
+
+
+PREVIOUS
+qubit
+NEXT
+query by example
+
+
+Related Links
+Introduction to the SQL Database Query
+
+WEBOPEDIA NEWS
+Stay up to date on the latest developments in Internet terminology with a free newsletter from Webopedia. Join to subscribe now.
+
+Email address
+
+LATEST ARTICLES
+Texting & Chat Abbreviations
+From A3 to ZZZ this guide lists 1,500 text message and online chat abbreviations to help you translate and understand today's texting lingo. Read More »
+
+List of Well-Known TCP Port Numbers
+Port numbers 0 to 1024 are reserved for privileged services and designated as well-known ports. This list of port numbers  are specified in... Read More »
+
+STUDY GUIDES
+Computer Architecture Study Guide
+Computer architecture provides an introduction to system design basics for most computer science students. Read More »
+
+Network Fundamentals Study Guide
+Networking fundamentals teaches the building blocks of modern network design. Learn different types of networks, concepts, architecture and... Read More »
+
+The Five Generations of Computers
+Learn about each of the five generations of computers and major technology developments that have led to the computing devices that we use... Read More »
+
+
+Browse Technology Definitions:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ_0123456789
+Webopedia
+Enter a term...
+
+Definitions:
+Browse Terms
+Previous Terms
+Recent Terms
+All Categories
+Articles:
+Blog
+Did You Know
+Quick Reference
+Study Guides
+Slideshows
+
+Site Logo
+An eWEEK Property
+Terms of Service | Licensing & Reprints | About Us | Privacy Policy | Contact Us | Advertise | Sitemap
+Copyright 2019 QuinStreet Inc. All Rights Reserved.
+Advertiser Disclosure: Some of the products that appear on this site are from companies from which QuinStreet receives compensation. This compensation may impact how and where products appear on this site including, for example, the order in which they appear. QuinStreet does not include all companies or all types of products available in the marketplace.

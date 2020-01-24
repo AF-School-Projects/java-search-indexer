@@ -1,0 +1,83 @@
+https://www.theverge.com/2019/12/2/20992602/amazon-is-now-offering-quantum-computing-as-a-service
+
+
+Skip to main content
+The Verge homepage
+Follow The Verge online:
+  
+Log in or sign up
+Site searchSearch
+The Verge main menu
+TECH 
+REVIEWS 
+SCIENCE 
+CREATORS 
+ENTERTAINMENT 
+VIDEO
+MORE 
+Search
+FILED UNDER:
+WEB
+ 
+BUSINESS
+ 
+TECH
+Amazon is now offering quantum computing as a service
+5
+It’s a “development environment,” but baby steps
+
+By Sean Hollister@StarFire2258  Dec 2, 2019, 6:20pm EST
+Share this story
+Share this on Facebook (opens in new window)
+Share this on Twitter (opens in new window)
+SHARE
+All sharing options
+
+Illustration by Alex Castro / The Verge
+Google and IBM may be battling for quantum supremacy, but Amazon is currently happy to be a middleman — today, it’s announcing and launching a preview of Amazon Braket, its attempt to turn the nascent field of quantum computing into a service you can access over the internet, a month after Microsoft did something similar. “Amazon Braket is a fully managed AWS service, with security & encryption baked in at each level,” the company explains in a blog post.
+
+For now, it sounds like a pretty limited affair, where “you” will mean Amazon’s corporate customers, and where “service” means the ability to experiment by running simulations on a set of existing quantum computers from partners D-Wave, IonQ, and Rigetti. (IonQ is also a Microsoft Azure Quantum partner.)
+
+AMAZON IS PARTNERING TO START
+“This new service is designed to let you get some hands-on experience with qubits and quantum circuits. You can build and test your circuits in a simulated environment and then run them on an actual quantum computer,” writes Amazon.
+
+But Amazon says it’s also creating the “AWS Center for Quantum Computing,” a physical lab near the California Institute of Technology (Caltech) where it may research quantum computers of its own — and more uses for quantum computers, for that matter. The company’s director of quantum computing confirmed to Wired that Amazon is working on quantum hardware.
+
+Theoretically, quantum computers could calculate far faster than traditional supercomputers thanks to the fact that their bits can exist in multiple quantum states instead of simply being on (1) or off (0), and that’s what Google recently claimed it had achieved with its 54-qubit Sycamore quantum computer. The company says its machine successfully made a calculation that would take the world’s most powerful supercomputer 10,000 years.
+
+But quantum computers are also rare and extremely expensive, so Amazon and Microsoft are each attempting to turn them into a shared, managed, and potentially scalable resource, like Amazon already does with its highly valuable AWS cloud computing platform. That invisible server empire serves as backbone for many of the internet services you use today.
+
+Update, 8:56 PM ET: I’d missed that Microsoft also announced a similar Azure Quantum service last month, and I’ve updated to mention it.
+
+NEXT UP IN TECH
+Plex launches its free movie and TV streaming service
+Why Final Fantasy became the face of Sony’s first PlayStation
+Motorola’s new One Hyper has a pop-up camera, Android 10, and a $400 price tag
+The Verge under $25 gift guide 2019
+Google’s third era
+Spotting drivers on their phone is just the tip of the iceberg for AI-enabled cameras
+GOOD DEALS
+The best Cyber Monday deals that you can still find
+Here are the best Cyber Monday deals you should check out today
+MORE IN GOOD DEALS
+Sign up for the newsletterCommand Line
+Command Line delivers daily updates from the near-future.
+
+Email (required)
+By signing up, you agree to our Privacy Policy and European users agree to the data transfer policy.
+SUBSCRIBE
+RECOMMENDED
+T-Mobile’s "nationwide" 5G network is now live
+T-Mobile’s "nationwide" 5G network is now live
+Jony Ive has left Apple
+Jony Ive has left Apple
+‘The time is now to have a federal privacy bill,’ says Tim Cook
+‘The time is now to have a federal privacy bill,’ says Tim Cook
+Recommended by
+Loading comments...
+Terms of Use Privacy Policy Cookie Policy GDPR Commitment Communications Preferences
+Contact Tip Us Community Guidelines About Ethics Statement
+All Systems OperationalCheck out our status page for more details.
+Advertise with us
+Jobs @ Vox Media
+© 2019 Vox Media, LLC. All Rights Reserved

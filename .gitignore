@@ -1,0 +1,4 @@
+.classpath
+*.class
+output.txt
+*.jar

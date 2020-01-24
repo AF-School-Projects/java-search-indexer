@@ -1,0 +1,100 @@
+https://en.wiktionary.org/wiki/algorithm
+
+
+algorithm
+Jump to navigationJump to search
+
+Contents
+1	English
+1.1	Alternative forms
+1.2	Etymology
+1.3	Pronunciation
+1.4	Noun
+1.4.1	Usage notes
+1.4.2	Hyponyms
+1.4.3	Related terms
+1.4.4	Translations
+1.4.5	See also
+1.5	Anagrams
+English
+
+English Wikipedia has an article on:
+algorithm
+Alternative forms
+algorism (obsolete)
+Etymology
+From French algorithme; from the Old French algorisme, from Medieval Latin algorismus, a transliteration of the Arabic form of the name of the Persian mathematician al-Khwārizmī (الخَوَارِزْمِيّ‎ (al-ḵawārizmiyy, “native of Khwarezm”), from Persian خوارزم‎ (xvârezm)).
+
+Pronunciation
+(Received Pronunciation) enPR: ălʹgə-rĭ-thəm, ălʹgə-rĭth-m, IPA(key): /ˈælɡəɹɪðəm/, /ˈælɡəɹɪðm̩/
+(General American) enPR: ălʹgə-rĭ'thəm, ălʹgə-rĭth'm, IPA(key): /ˈælɡəˌɹɪðəm/, /ˈælɡəˌɹɪðm̩/
+Audio (US)	
+MENU0:00
+Hyphenation UK: al‧gorithm, US: al‧go‧rithm
+Noun
+algorithm (plural algorithms)
+
+Ordered steps that solve a mathematical problem. A precise step-by-step plan for a computational procedure that possibly begins with an input value and yields an output value in a finite number of steps. 
+(archaic) Calculation with Arabic numerals; algorism.
+Usage notes
+Though some technical definitions require that an algorithm always terminate in a finite number of steps, this distinction is not generally observed in practice.
+Hyponyms
+Hypernyms and hyponyms
+Related terms
+→
+Translations
+±well-defined procedure
+See also
+data structure
+function
+program
+Anagrams
+logarithm, mithralog
+Categories: English terms derived from FrenchEnglish terms derived from Old FrenchEnglish terms derived from Medieval LatinEnglish terms derived from ArabicEnglish terms derived from PersianEnglish 4-syllable wordsEnglish terms with IPA pronunciationEnglish terms with audio linksEnglish lemmasEnglish nounsEnglish countable nounsEnglish terms with quotationsEnglish terms with archaic sensesEnglish eponymsen:Computer scienceen:Mathematics
+Navigation menu
+Not logged inTalkContributionsPreferencesCreate accountLog inEntryDiscussionCitationsReadEditHistorySearch
+Search Wiktionary
+Main Page
+Community portal
+Preferences
+Requested entries
+Recent changes
+Random entry
+Help
+Glossary
+Donations
+Contact us
+Tools
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Visibility
+Show hyponyms
+Show related terms
+Show translations
+Show quotations
+
+In other languages
+العربية
+Català
+Deutsch
+فارسی
+Français
+한국어
+Հայերեն
+Tiếng Việt
+中文
+29 more
+Print/export
+Create a book
+Download as PDF
+Printable version
+If you have time, leave us a note.
+
+This page was last edited on 4 November 2019, at 07:20.
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+Privacy policyAbout WiktionaryDisclaimersDevelopersStatisticsCookie statementMobile viewWikimedia FoundationPowered by MediaWiki

@@ -1,0 +1,215 @@
+https://www.sas.com/en_us/insights/analytics/data-mining.html
+
+SAS Logo
+ 
+ 
+ 
+ 
+ 
+ 
+SAS Insights Analytics Insights
+HistoryToday's worldHow it's usedHow it works
+Data Mining Solutions
+yellow and orange abstract art
+Data Mining
+What it is and why it matters
+Data mining is the process of finding anomalies, patterns and correlations within large data sets to predict outcomes. Using a broad range of techniques, you can use this information to increase revenues, cut costs, improve customer relationships, reduce risks and more.
+
+History     Today's World
+     Who Uses It     How It Works
+Data Mining History and Current Advances
+The process of digging through data to discover hidden connections and predict future trends has a long history. Sometimes referred to as "knowledge discovery in databases," the term "data mining" wasn’t coined until the 1990s. But its foundation comprises three intertwined scientific disciplines: statistics (the numeric study of data relationships), artificial intelligence (human-like intelligence displayed by software and/or machines) and machine learning (algorithms that can learn from data to make predictions). What was old is new again, as data mining technology keeps evolving to keep pace with the limitless potential of big data and affordable computing power.
+
+Over the last decade, advances in processing power and speed have enabled us to move beyond manual, tedious and time-consuming practices to quick, easy and automated data analysis. The more complex the data sets collected, the more potential there is to uncover relevant insights. Retailers, banks, manufacturers, telecommunications providers and insurers, among others, are using data mining to discover relationships among everything from price optimization, promotions and demographics to how the economy, risk, competition and social media are affecting their business models, revenues, operations and customer relationships.
+
+ 
+
+ 
+Dataing Mining Foundation Blocks
+Why is data mining important?
+So why is data mining important? You’ve seen the staggering numbers – the volume of data produced is doubling every two years. Unstructured data alone makes up 90 percent of the digital universe. But more information does not necessarily mean more knowledge.
+
+Data mining allows you to:
+
+Sift through all the chaotic and repetitive noise in your data.
+Understand what is relevant and then make good use of that information to assess likely outcomes.
+Accelerate the pace of making informed decisions.
+Learn more about data mining techniques in Data Mining From A to Z, a paper that shows how organizations can use predictive analytics and data mining to reveal new insights from data. 
+
+Data Mining in Today's World
+Data mining is a cornerstone of analytics, helping you develop the models that can uncover connections within millions or billions of records. Learn how data mining is shaping the world we live in.
+
+White Paper
+Demystifying data mining in oil and gas operations
+Explore how data mining – as well as predictive modeling and real-time analytics – are used in oil and gas operations. This paper explores practical approaches, workflows and techniques used.
+
+Read summary
+
+Book
+The intersection of big data and data mining
+Data mining expert Jared Dean wrote the book on data mining. He explains how to maximize your analytics program using high-performance computing and advanced analytics.
+
+Read summary
+
+gartner-logo
+Magic Quadrant for Data Science Platforms
+Gartner names SAS a Leader in the Magic Quadrant for Data Science Platforms, and the "top vendor in the data science market, in terms of total revenue and number of paying clients."
+
+
+Get full report
+
+White Paper
+Heavy Reading: Advanced Predictive Network Analytics
+Learn how service providers can optimize the network by using predictive analytics to evaluate network performance – as well as fine-tune capacity and provide more targeted marketing.
+Get full report
+
+Data Mining Enterprise Miner
+Data mining software
+Data mining software from SAS uses proven, cutting-edge algorithms designed to help you solve the biggest challenges.
+
+Learn more about data mining software from SAS
+
+Who's using it?
+Data mining is at the heart of analytics efforts across a variety of industries and disciplines.
+
+Communications
+In an overloaded market where competition is tight, the answers are often within your consumer data. Multimedia and telecommunications companies can use analytic models to make sense of mountains of customers data, helping them predict customer behavior and offer highly targeted and relevant campaigns.
+Insurance
+With analytic know-how, insurance companies can solve complex problems concerning fraud, compliance, risk management and customer attrition. Companies have used data mining techniques to price products more effectively across business lines and find new ways to offer competitive products to their existing customer base.
+Education
+With unified, data-driven views of student progress, educators can predict student performance before they set foot in the classroom – and develop intervention strategies to keep them on course. Data mining helps educators access student data, predict achievement levels and pinpoint students or groups of students in need of extra attention.
+Manufacturing
+Aligning supply plans with demand forecasts is essential, as is early detection of problems, quality assurance and investment in brand equity. Manufacturers can predict wear of production assets and anticipate maintenance, which can maximize uptime and keep the production line on schedule.
+Banking
+Automated algorithms help banks understand their customer base as well as the billions of transactions at the heart of the financial system. Data mining helps financial services companies get a better view of market risks, detect fraud faster, manage regulatory compliance obligations and get optimal returns on their marketing investments.
+Retail
+Large customer databases hold hidden customer insight that can help you improve relationships, optimize marketing campaigns and forecast sales. Through more accurate data models, retail companies can offer more targeted campaigns – and find the offer that makes the biggest impact on the customer.
+Learn More About Industries Using This Technology
+Select industry
+When [data mining and] predictive analytics are done right, the analyses aren’t a means to a predictive end; rather, the desired predictions become a means to analytical insight and discovery. We do a better job  of analyzing what we really need to analyze and predicting what we really want to predict.
+Michael Schrage in Predictive Analytics in Practice , a Harvard Business Review Insight Center Report
+
+Data Mining Enterprise Miner
+Data mining software
+SAS data mining software uses proven, cutting-edge algorithms designed to help you solve your biggest challenges.
+
+Learn more about data mining software from SAS
+
+How It Works
+Data mining, as a composite discipline, represents a variety of methods or techniques used in different analytic capabilities that address a gamut of organizational needs, ask different types of questions and use varying levels of human input or rules to arrive at a decision.
+ 
+
+Descriptive Modeling: It uncovers shared similarities or groupings in historical data to determine reasons behind success or failure, such as categorizing customers by product preferences or sentiment. Sample techniques include:
+
+Clustering
+Grouping similar records together.
+Anomaly detection
+Identifying multidimensional outliers.
+Association rule learning
+Detecting relationships between records.
+Principal component analysis
+Detecting relationships between variables.
+Affinity grouping
+Grouping people with common interests or similar goals (e.g., people who buy X often buy Y and possibly Z).
+ 
+
+Predictive Modeling: This modeling goes deeper to classify events in the future or estimate unknown outcomes – for example, using credit scoring to determine an individual's likelihood of repaying a loan. Predictive modeling also helps uncover insights for things like customer churn, campaign response or credit defaults. Sample techniques include:
+
+Regression
+A measure of the strength of the relationship between one dependent variable and a series of independent variables.
+Neural networks
+Computer programs that detect patterns, make predictions and learn.
+Decision trees
+Tree-shaped diagrams in which each branch represents a probable occurrence.
+Support vector machines
+Supervised learning models with associated learning algorithms.
+
+Prescriptive Modeling: With the growth in unstructured data from the web, comment fields, books, email, PDFs, audio and other text sources, the adoption of text mining as a related discipline to data mining has also grown significantly. You need the ability to successfully parse, filter and transform unstructured data in order to include it in predictive models for improved prediction accuracy.
+
+In the end, you should not look at data mining as a separate, standalone entity because pre-processing (data preparation, data exploration) and post-processing (model validation, scoring, model performance monitoring) are equally essential. Prescriptive modelling looks at internal and external variables and constraints to recommend one or more courses of action – for example, determining the best marketing offer to send to each customer. Sample techniques include:
+
+Predictive analytics plus rules
+Developing if/then rules from patterns and predicting outcomes.
+Marketing optimization
+Simulating the most advantageous media mix in real time for the highest possible ROI.
+Read More About This Topic
+Machine learning and artificial intelligence in a brave new world
+Machine learning and artificial intelligence in a brave new world
+What is the interplay between man and machine in a brave new world with AI?
+Super-charge your fraud detection techniques
+Super-charge your fraud detection techniques
+Preview a white paper by the International Institute for Analytics on how to evolve the fraud function from a set of fraud detection techniques to a cohesive, continuously improving system.
+Machine learning for beginners and beyond
+Machine learning for beginners and beyond
+Whether you’re an experienced data scientist or a machine learning beginner, you’ll appreciate these 10 tips for getting started with machine learning.
+ Stopping the Zika virus: The potential of big data, analytics
+Stopping the Zika virus: The potential of big data, analytics
+How do you stop global outbreaks? The answer may be in the data about the disease and how it spreads.
+Getting Started with SAS
+
+ 
+Contact Us & General Questions
+ 
+Pricing, Licensing & Price Requests
+ 
+Request a Sales Demo
+ 
+Free Software Trials
+ 
+Training Resources
+ 
+Free How-To Tutorials
+ 
+Student & Educator Resources
+Customer Support
+
+ 
+Accessibility
+ 
+Certification
+ 
+Knowledge Base
+ 
+Documentation
+ 
+SAS Books
+ 
+Training
+ 
+User Groups
+Insights & Trends
+
+ 
+Analytics
+ 
+AI
+ 
+Big Data & IoT
+ 
+Data Management
+ 
+Fraud & Security
+ 
+Marketing
+ 
+Risk Management
+Quick Links
+
+ 
+Blogs
+ 
+Careers
+ 
+Communities
+ 
+Customer Stories
+ 
+Webinars
+ 
+White Papers
+ 
+Videos
+Facebook Twitter LinkedIn YouTube RSS
+Privacy Statement | Terms of Use | © 2019 SAS Institute Inc. All Rights Reserved.
+Feedback
+Back to TopLeave a message

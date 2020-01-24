@@ -1,0 +1,133 @@
+Skip to main content
+edX Online
+CoursesCourses menuPrograms & DegreesPrograms & Degrees menuSchools & PartnersedX for Business
+Search:
+Catalog
+Computer Science Courses
+Advanced C++
+This course is an advanced dive into some of the more complex topics of C++ software development.
+Microsoft Logo
+32,712 already enrolled!
+Enroll
+Starts Nov 28
+
+I would like to receive email from Microsoft and learn about other offerings related to Advanced C++.
+Advanced C++
+Length:
+4 Weeks
+Effort:
+2–4 hours per week
+Price:
+FREE
+Add a Verified Certificate for $99 USD
+
+Institution
+Microsoft
+Subject:
+Computer Science
+Level:
+Advanced
+Language:
+English
+Video Transcript:
+English
+Share this course
+Share this course on facebook
+Share this course on twitter
+Share this course on linkedin
+Share this course via email
+Prerequisites
+Understanding of pointers, memory allocation, file processing, and general OOP concepts
+It is highly recommended that students complete both the “Introduction to C++” and “Intermediate C++” courses 
+Interested in this course for your Business or Team?
+
+Train your employees in the most in-demand topics, with edX for Business.
+
+Purchase now
+|
+Request Information
+About this course
+Skip About this course
+Advanced C++ is the third course in the Microsoft Learning C++ series. Students will learn about a vide variety of high-level C++ software development techniques.
+
+It is highly recommended that students complete both the “Introduction to C++” and “Intermediate C++” courses before attempting this one. However, with a solid understanding of the prerequisites, it is not absolutely necessary to take these courses. Prerequisites include an understanding of pointers, memory allocation, file processing, and general OOP concepts.
+
+This course will cover the following concepts: Exceptions, C++ templates, Iterators and advanced Class mechanics, and design patterns.
+More about this course
+What you'll learn
+Skip What you'll learn
+Advanced C++ Mechanics
+C++ Exceptions
+C++ Object Iterators
+C++ Templates
+C++ Classes
+C++ Design Patterns
+Expand what you'll learn
+Meet your instructors
+
+Microsoft
+
+Adrian Leven
+Content Developer
+Microsoft Corporation
+Pursue a Verified Certificate to highlight the knowledge and skills you gain $99.00View a PDF of a sample edX certificate
+Official and Verified
+Receive an instructor-signed certificate with the institution's logo to verify your achievement and increase your job prospects
+
+Easily Shareable
+Add the certificate to your CV or resume, or post it directly on LinkedIn
+
+Proven Motivator
+Give yourself an additional incentive to complete the course
+
+Support our Mission
+EdX, a non-profit, relies on verified certificates to help fund free education for everyone globally
+
+More courses by Microsoft
+
+
+Microsoft Azure Security
+Services
+Schools and Partners: Microsoft
+Course
+
+
+DevOps for Mobile Apps
+Schools and Partners: Microsoft
+Course
+
+
+Application Monitoring and
+Feedback Loops
+Schools and Partners: Microsoft
+Course
+edX Logo
+Choose Language
+Apply
+edX
+About
+edX for Business
+Affiliates
+Open edX
+Careers
+News
+Legal
+Terms of Service & Honor Code
+Privacy Policy
+Accessibility Policy
+Trademark Policy
+Sitemap
+Connect
+Blog
+Contact Us
+Help Center
+Media Kit
+Donate
+Like edX on Facebook
+Follow edX on Twitter
+Follow edX on LinkedIn
+Subscribe to the edX subreddit
+Download the edX mobile app from the Apple App Store
+Download the edX mobile app from Google Play
+© 2012–2019 edX Inc.
+EdX, Open edX, and MicroMasters are registered trademarks of edX Inc. | 深圳市恒宇博科技有限公司 粤ICP备17044299号-2

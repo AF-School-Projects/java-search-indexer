@@ -1,0 +1,33 @@
+https://techterms.com/definition/algorithm
+
+ 
+Search
+Advanced Search 
+Browse Quizzes Help Dark
+Home : Software Terms : Algorithm Definition
+Algorithm
+An algorithm is a set of instructions designed to perform a specific task. This can be a simple process, such as multiplying two numbers, or a complex operation, such as playing a compressed video file. Search engines use proprietary algorithms to display the most relevant results from their search index for specific queries.
+
+In computer programming, algorithms are often created as functions. These functions serve as small programs that can be referenced by a larger program. For example, an image viewing application may include a library of functions that each use a custom algorithm to render different image file formats. An image editing program may contain algorithms designed to process image data. Examples of image processing algorithms include cropping, resizing, sharpening, blurring, red-eye reduction, and color enhancement.
+
+In many cases, there are multiple ways to perform a specific operation within a software program. Therefore, programmers usually seek to create the most efficient algorithms possible. By using highly-efficient algorithms, developers can ensure their programs run as fast as possible and use minimal system resources. Of course, not all algorithms are created perfectly the first time. Therefore, developers often improve existing algorithms and include them in future software updates. When you see a new version of a software program that has been "optimized" or has "faster performance," it most means the new version includes more efficient algorithms.
+
+Updated: August 2, 2013
+Cite this definition:
+
+APAMLAChicagoHTMLLink
+TechTerms - The Tech Terms Computer Dictionary
+This page contains a technical definition of Algorithm. It explains in computing terminology what Algorithm means and is one of many software terms in the TechTerms dictionary.
+
+All definitions on the TechTerms website are written to be technically accurate but also easy to understand. If you find this Algorithm definition to be helpful, you can reference it using the citation links above. If you think a term should be updated or added to the TechTerms dictionary, please email TechTerms!
+
+‹ Alert Box | Alpha Software ›
+Tech Factor
+
+3 / 10
+Subscribe to TechTerms
+
+email address
+Receive a daily definition and quiz question in your inbox.
+
+© 2019 Sharpened Productions  |  Terms of Use  |  Privacy Policy  |  About  |  Contact

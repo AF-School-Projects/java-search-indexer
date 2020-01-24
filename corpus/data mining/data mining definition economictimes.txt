@@ -1,0 +1,152 @@
+https://economictimes.indiatimes.com/definition/data-mining
+
+SECTIONSET APPSENGLISHE-PAPER
+ET PRIME
+SIGN-INFOLLOW US
+TimesPoints - Times Network Reward ProgramCLAIM YOUR TIMESPOINTS
+The Economic Times	
+Data Mining
+LATEST NEWSET Awards 2019: India can be the oasis of growth amid global turmoil, says Piyush Goyal
+Markets
+News
+Industry
+RISE
+Politics
+Wealth
+MF
+Tech
+Jobs
+Opinion
+NRI
+Multimedia
+Panache
+More
+ET NOW
+ET Portfolio
+
+Business News›Definitions›Analytics›Data Mining
+Search for News, Stock Quotes & NAV's
+Benchmarks 
+Sensex CLOSED
+40,793.81-336.36
+NSE Loser-Large Cap 
+Zee Ent.
+293.05-17.95
+FEATURED FUNDS
+HDFC Mid-Cap Opportunities Direct Plan-Growth
+★★★★★
+5Y RETURN
+9.83 %
+INVEST NOW
+Stock Analysis, IPO, Mutual Funds, Bonds & MoreMarket Watch
+Categories
+Search Definition
+Glossary
+Economy
+Equity
+Insurance
+Budget
+Marketing
+Mutual Fund
+Space Technology
+Testing
+Human Resource
+Finance
+Security
+Real Estate
+Commodity
+Sports
+Software Development
+Analytics
+Entertainment
+HR
+Transportation
+Astronomy
+Shipping
+Mathematics
+Retail
+Education
+Suggest a new Definition
+
+Proposed definitions will be considered for inclusion in the Economictimes.com
+
+Analytics
+PREV DEFINITION
+NEXT DEFINITION
+Definition of 'Data Mining'
+
+Definition: In simple words, data mining is defined as a process used to extract usable data from a larger set of any raw data. It implies analysing data patterns in large batches of data using one or more software. Data mining has applications in multiple fields, like science and research. As an application of data mining, businesses can learn more about their customers and develop more effective strategies related to various business functions and in turn leverage resources in a more optimal and insightful manner. This helps businesses be closer to their objective and make better decisions. Data mining involves effective data collection and warehousing as well as computer processing. For segmenting the data and evaluating the probability of future events, data mining uses sophisticated mathematical algorithms. Data mining is also known as Knowledge Discovery in Data (KDD).
+
+Description: Key features of data mining:
+
+• Automatic pattern predictions based on trend and behaviour analysis.
+
+• Prediction based on likely outcomes.
+
+• Creation of decision-oriented information.
+
+• Focus on large data sets and databases for analysis.
+
+• Clustering based on finding and visually documented groups of facts not previously known.
+
+The Data Mining Process: Technological Infrastructure Required: 1. Database Size: For creating a more powerful system more data is required to processed and maintained. 2. Query complexity: For querying or processing more complex queries and the greater the number of queries, the more powerful system is required. Uses: 1. Data mining techniques are useful in many research projects, including mathematics, cybernetics, genetics and marketing. 2. With data mining, a retailer could manage and use point-of-sale records of customer purchases to send targeted promotions based on an individual’s purchase history. The retailer could also develop products and promotions to appeal to specific customer segments based on mining demographic data from comment or warranty cards.
+
+PREV DEFINITION
+Bounce Rate
+Definition: By definition, this means the number of single-page visits by visitors of your website. Bounce rate in terms of website traffic lets you know about the visitors who arrive on your website and leave without initiating any other action or event, like visiting a second page. He came, he saw and he went somewhere else. The visitor enters the website on the entrance page or the landing page. These visitors view only that single page and exit the site on that same page. For example, around 100 visitors read a particular news story yesterday, out of which 75 went to other pages while 25 did not. The bounce rate, thus, was 25%. Bounce rates are often used for measuring the performance of e-mails, websites, advertising campaigns, and particular landing pages. Bounce rate is measured in percentage. Description: Bounce Rate Event tracking – Below are top visitor actions that can be identified as a bounce from your site and typically signal that the visitor’s expectations were not met. - Clicks the back button – The visitor landed on your website and clicked on ‘Back’ and was redirected to the previous page. Hence navigated away from your website. - Closes the browser – The visitor saw your page/website - either found or couldn’t for the information they were looking for and closed the browser. - Types a new URL – The visitor typed in a different URL from your website and was redirected to a different page. - Does nothing – The visitor chooses to stay on the site and does no further activity. Average session times out after 30min. - External link – The visitor clicks on a link to a page on an external website link. 2) Email Bounce Rate Bounce rate in terms of emails describes the percentage of email addresses in your subscriber list that didn’t receive your message. There are two types of email bounce - - Soft email bounce means that the intended email address is valid and has reached the recipient’s mail server. But it was temporarily rejected by the mail server due to reasons like - mailbox was full, a server was down etc. - Hard email bounce means that the intended email address in not valid or does not exist. And the message has been permanently rejected by the mail server.
+Read More
+NEXT DEFINITION
+Digital Fingerprinting
+Definition: Digital Fingerprinting Technology enables the content owner to exercise control on their copyrighted content by effectively identifying, tracking, monitoring and monetising it across distribution channels (web, broadcast, radio, streaming, etc.) by converting their content into a compact digital asset or impression by a known fingerprint algorithm. In a fingerprinting algorithm, a large data item (audio or video or any files) maps to a much shorter bit string, i.e. fingerprint of the file which uniquely identifies the original data for all practical purposes. Digital Fingerprints have contents’ characteristics and enough details to identify a content variant upon comparison. Description: Fingerprinting algorithm is based on a variety of content properties (frame snippets, motion and music changes, the camera cuts, brightness level, object movements) which are used for creating a digital asset reference along with content metadata and storing it in the database repository. The system is smart enough to identify whenever any part of audio/video content coming from any distribution sources is compared even in cases of content modification (compression, aspect ratio changes, re-sampling, change in color, dimensions, format, bitrates, equalization) or content degradation (distortion due to conversion, loss in quality, blurring, cropping, addition of background noise etc.) Digital Fingerprinting Workflow: The process involves content owners register their content for fingerprinting and creating reference digital representation of the content which is used for future comparisons. The steps follows are: i) Extraction of unique characteristics- fingerprint of digital content and submission to rights, registry along with metadata of the file. ii) Identification of content - By comparing against fingerprints in the database to check for infringement. iii) Result - Based on comparison take appropriate action under agreed business rules (block, delete, authorize). Common Fingerprinting Algorithms: 1) Rabin's fingerprinting algorithm. 2) Cryptographic hash functions. Example: Audible Magic, one major digital fingerprinting company, works for huge content providers like NBC Universal, Sony Music and 20th Century Fox. This company claims that its CopySense technology can identify the source of a video clip within five seconds of playback and can identify an audio file within 10 seconds. The company also claims its software can recognize a piece of media which contains recorded off a movie theatre screen with a handheld camera. The identification is based on the perceptual characteristics of audio and video as described by the company. The system can see past transformative changes to audio and video files like transcoding among file formats, equalizing of audio, cropping of an image or even blurring of a picture for analysing it.
+Read More
+Related Definitions
+Digital Fingerprinting
+Digital Fingerprinting Technology enables the content owner to exercise control on their copyrighted content by effectively identifying, tracking, monitoring and monetising it across distribution channels (web, broadcast, radio, streaming, etc.) by converting their content into a compact digital asset or impression by a known fingerprint algorithm. In a fingerprinting algorithm, a large data item
+
+Referring Sites
+Referral traffic is a Web term, used to denote incoming traffic on a website as a result of clicking on a URL on some other site, which is known as a referring site. Referring traffic always has a referrer website, from which this stream of traffic originates. Technically, any domain that originates and redirects traffic to your domain is known as a referring site. Using referral traffic, one can
+
+Entrances
+Entrances are popularly also known as Entrance points. These are the number of entries by visitors into the pages of a website. For example, if the user enters a website through the website’s home page, it is accounted as one entrance. Entrance Paths give an important insight into how the websites landing pages are performing. Description: When we look at all the website pages for a perspective
+
+Annotations
+Annotation enables anyone to comment or add notes in Google Analytics, which can refer to specific dates or events. It allows marking up specific dates on the Google Analytics page. One can make notes or annotations directly in the Google Analytics account. Annotations added onto the interface can have customised privacy options. One can either choose the note to public or shared with all Google A
+
+Data Mining
+In simple words, data mining is defined as a process used to extract usable data from a larger set of any raw data. It implies analysing data patterns in large batches of data using one or more software. Data mining has applications in multiple fields, like science and research. As an application of data mining, businesses can learn more about their customers and develop more effective strategies
+
+Bounce Rate
+By definition, this means the number of single-page visits by visitors of your website. Bounce rate in terms of website traffic lets you know about the visitors who arrive on your website and leave without initiating any other action or event, like visiting a second page. He came, he saw and he went somewhere else. The visitor enters the website on the entrance page or the landing page. These visi
+
+Utm
+UTM codes are one of the ways to track performance from any digital marketing campaign. UTM or Urchin Tracking Module is a simple code that can be attached to any URL to generate Google Analytics data for digital campaigns. Specific to Google Analytics, UTM helps track the progress of the campaign on all online platforms. Description: The data can be tracked in Google Analytics through a source
+
+Adwords
+Google AdWords is one of the services advertisers use for online promotion of their content, brand, website, etc through certain defined keywords to achieve traffic or leads. It is a form of brief advertising copy with keywords that are displayed on Google web pages and partner websites (called publishers) after matching their content with the keywords. Description: By matching relevant adverti
+
+Traffic Source
+Traffic source in the simplest form can be defined as the origin through which people found your site. Every session or visit to your website has origin or source of the hit. Whenever someone visits your website through desktop, mobile or any Internet-enabled device, the Web & Google Analytics track its source or origin, which is classified as traffic source. Description: Understanding traffic
+
+Trending Definitions: Advertising | Product | Monopoly | Cryptography | Depreciation
+Not to be Missed
+FASTag to be mandatory from December 15: All you need to know about itFASTag to be mandatory from December 15: All you need to know about itET View: Time to boost demand, forget the fiscal deficit targetET View: Time to boost demand, forget the fiscal deficit targetWedding season is here! Nykaa founder's daughter, Adwaita, marries Anubhav Gupta in a fairytale ceremonyWedding season is here! Nykaa founder's daughter, Adwaita, marries Anubhav Gupta in a fairytale ceremony7 reasons your child should study in the UK7 reasons your child should study in the UKMukesh Ambani overtakes Larry Page, Sergey Brin to become 9th richest in the worldMukesh Ambani overtakes Larry Page, Sergey Brin to become 9th richest in the world
+SUBSCRIBE TO:
+DAILY NEWSLETTER
+Your daily dose of business news, views and updates
+
+Enter your email id
+Subscribe
+Sample Newsletter
+
+Search News, Stock Quotes & NAV
+Browse Companies
+ABCDEFGHIJKLMNOPQRSTUVWXYZ|123456789
+TRENDING NOWIndian EconomyReliance JioOla LayoffsUberYes Bank share priceFD RatesYes BankSwiggyMutual FundsKBCLatest NewsBill GatesPOPULAR CATEGORIESMarkets Live !Stock ScreenerMutual Fund ScreenerSunday ETDefencePodcastNewspaper SubscriptionHOT ON WEBSensex TodayMultibagger StocksStock ScreenerRakesh JhunjhunwalaRBI PolicyStock market crashEarthquake todayGSTRupeeAadhaar CardRBIHow to save Income TaxCurrency ConverterIncome Tax CalculatorIN CASE YOU MISSED ITFastag deadline extendedHealth InsuranceZomatoGDP Q2 Announcement UpdatesYes Bank share priceDonald TrumpGDPIndian Economic SlowdownDelhi PollutionAadhaar CardVodafone IdeaP ChidambaramHome loan interest ratesNirmala SitharamanEPF transfer onlineET VERTICALSAuto NewsRetail NewHealth NewsTelecom NewsEnergy NewsIT NewsReal Estate NewsMarketing & Advertising NewsTechnology NewsCFO NewsIT Security NewsMORE FROM OUR NETWORKइकनॉमिक टाइम्सઈકોનોમિક ટાઈમ્સPune MirrorBangalore MirrorAhmedabad MirrorItsMyAscentEducation TimesBrand CapitalMumbai MirrorTimes NowIndiatimesमहाराष्ट्र टाइम्सವಿಜಯ ಕರ್ನಾಟಕGo GreenAdAge IndiaEisamayIGN IndiaIamGujaratTimes of IndiaSamayam TamilSamayam TeluguMiss KyraBombay TimesFilmipopGames AppMX PlayerNewspaper SubscriptionTimes PrimeColombiaOTHER USEFUL LINKSAbout UsSubscribe to ET PrimeBook your Newspaper SubscriptionCreate Your Own AdAdvertise with UsTerms of Use & Grievance RedressalPrivacy policyContact UsRSSSERVICESBuy carBikes in IndiaUsed CarsLongwalks App
+FOLLOW US ON
+
+DOWNLOAD ET APP
+
+SUBSCRIBE TO OUR NEWSLETTERBECOME A MEMBER
+Copyright © 2019 Bennett, Coleman & Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service
+
+-->

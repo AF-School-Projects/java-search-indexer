@@ -1,0 +1,97 @@
+What Do Software Engineers Do? Job Types, Training, and Salary
+By: Fullstack Staff
+
+Anytime you visit a webpage or use an internet-powered application, you are engaging with the end result of a software engineer’s work.
+
+Software engineers are computer science professionals who use knowledge of engineering principles and programming languages to build software products, develop computer games, and run network control systems.
+
+According to the U.S. Department of Labor, there were well over 1 million people employed as software developers in 2016.
+
+As the Internet of Things trend marches forward and more and more of us rely on smart devices, the number of software developers will only increase, with job outlook predicted to grow at 24 percent over the next eight years.
+
+To help you learn more about careers in software development, this article will cover the following topics:
+
+Get our $175
+Coding Class for Free
+Limited time offer, master coding fundamentals
+
+First name
+Email address
+GET FREE CLASS
+Types of Software Engineers
+Software Engineering Jobs and Salaries
+How to Become a Software Engineer
+Types of Software Engineers
+The software engineering field is broad. Developers have different sets of technical expertise, from building computer information systems to maintaining network security to creating customer-facing web pages.
+
+There are two primary types of software engineers: applications software developers and systems software developers.
+
+Applications Software Developers
+Applications software developers are client-focused--they design software for the end-user to interact with. The applications they develop could be for iOS, Android, Windows, Linux, or other operating systems.
+
+Applications software developers are either given a list of project requirements or must conduct their own requirements analysis with a beta test group, and then they follow a certain set of engineering principles and standards to build a software product to fit those requirements.
+
+Rapid innovation in the IT industry and constantly changing user demands mean software development is usually an iterative process, with developers tweaking software and releasing updates regularly. Most computer programming teams adopt the Agile Development process to adapt quickly to change and deliver the most up-to-date software to the customer.
+
+Applications developers may perform front-end tasks, back-end tasks, or both. In front-end engineering, software developers primarily use JavaScript, HTML, and CSS to bring the user experience to life. Back-end developers, for their part, focus on connecting the user interface with the database so that the application effectively saves and delivers information to the user. To do this, back-end developers use server-side programming languages such as Python, Java, PHP, and Ruby.
+
+Applications software developers may liaise with other team members including graphic designers, project managers, marketers, and customer success staff to deliver a product that meets all the requirements.    
+
+Systems Software Developers
+Systems software development is more associated with back-end engineering. As the job title suggests, these developers build the actual operating systems and networks that user-facing applications need to function.
+
+Depending on each company’s work environment, systems developers may have a more wide-ranging role. Oftentimes, they serve as general IT managers or system architects, meaning they are responsible for both the hardware and software needs of the organization.
+
+Rather than considering the needs of the end-user directly, systems developers consider what the software applications themselves need in order to run effectively. Their work could include writing code for new software programs, integrating disparate software products onto one platform, designing and enforcing IT standards, maintaining IT documentation, and updating to new technologies.
+
+Because systems developers are responsible for providing technical direction and optimizing IT operations, they may work closely with data science professionals, senior systems architects, development teams, and senior management.
+
+
+
+Software Engineering Jobs and Salaries
+Thanks to strong industry demand and their own technical expertise, skilled software engineers on both the applications and the systems sides are compensated well for the value they deliver. The Bureau of Labor Statistics lists the median annual salary for applications developers at $101,790 and at $107,600 for systems developers.
+
+Of course, applications and systems developer jobs are not the only two positions available in the field of software engineering. Here are some other common roles and their corresponding salaries for people trained in computer programming.
+
+Mobile Developer: $134,666
+
+Mobile developers build applications primarily for iOS and Android and must be proficient in at least one the programming languages--Java, Objective-C, C, or Swift--used for those operating systems. Mobile developers have to design and debug software and make sure applications work effectively across devices and platforms. Historically, iOS developers have earned more than Android devs, thanks to the higher profitability of Apple apps and the ease of their development processes.
+
+Applications Architect: $112,105
+
+An applications architect might lead a team of mobile developers, and can oversee any type of software project. It is their job to coordinate between front-end developers, back-end developers, data scientists, and other relevant team members. They ensure that user requirements are designed into the software, enforce coding standards, and document the project.
+
+Quality Assurance Analyst: $58,208
+
+Quality assurance analysts are responsible for catching bugs and code errors, and for identifying any issues with the software development process. These IT professionals work closely with software engineers to set the scope of testing, run those tests, and correct any errors.
+
+Database Administrators: $83,985
+
+Database administrators design, organize, and maintain databases that send, receive, and store information. Their duties include defining data so it can be queried, establishing access control protocols, troubleshooting, and recovering data. Proper database function is necessary for any web application, and database administrators will have the opportunity to collaborate with the many team members who each play a role in the organization’s software and IT operations.     
+
+How to Become a Software Engineer  
+Completing a two- or four-year computer science degree has until recently been the only path to successfully launching a career as a software engineer. Other math- and science-related degrees in fields like information systems, electronics, and civil engineering, or even one-off courses via community colleges have also enabled folks to transition to a career in software development.
+
+
+But a formal degree or some college coursework are no longer the only paths to becoming a web developer. Coding bootcamps are an increasingly popular option for those who want to transition to software engineering in the near term.
+
+Coding bootcamps are intensive eight- to 14-week programs that focus on practical, language-specific programming skills, but also typically cover information technology fundamentals. Most bootcamps are designed to prepare students to enter the IT job market ASAP, and focus on the skills most in-demand within a certain geography. Before you choose a camp, consider which type of job you are gunning for and which language you should therefore learn.
+
+Based in New York? Check out these 10 Free Coding Classes in NYC!
+
+Regardless of the educational path you choose, by the time you finish your training--which could be eight to 14 weeks with a bootcamp or up to four years with a degree program--you should have acquired the following skills:
+
+Basic concepts of information technology and computer systems
+A knack for technical problem solving
+Technical and non-technical communication skills
+Standards and norms of the development process
+Ability to conduct software requirements analysis
+Basic procedures for code review and testing
+Expertise in one or more programming language
+Ability to adapt to new teams, technical environments, and project requirements
+Once your training is complete, you’ll need to build up your portfolio and touch up your software engineer resume.  
+
+Every Industry Needs Software
+With the proper qualifications, a software engineer can work in almost any industry with any type of organization. While IT firms lead the pack in hiring software developers, government agencies, nonprofit organizations, healthcare facilities, transit and logistics companies, and every other business under the sun needs software.
+
+Curious about which programming language to learn this year? Here are the 9 best programming languages for 2018.

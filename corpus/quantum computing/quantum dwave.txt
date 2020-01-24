@@ -1,0 +1,86 @@
+httpswww.dwavesys.comquantum-computing
+
+
+Jump to navigation
+SEARCH FORM
+Search D-Wave
+D-WAVE SYSTEMS
+UTILITY MENU
+ CAREERS CONTACT 
+OURCOMPANY
+D-WAVETECHNOLOGY
+QUANTUMCOMPUTING
+OVERVIEW
+INDUSTRIES
+APPLICATIONS
+D-WAVERESOURCES
+D-WAVENEWS
+INTRODUCINGLEAP
+Quantum Computing
+How D-Wave Systems Work
+To speed computation, quantum computers tap directly into an unimaginably vast fabric of reality—the strange and counterintuitive world of quantum mechanics.
+
+ 
+
+​Quantum Computation
+Rather than store information using bits represented by 0s or 1s as conventional digital computers do, quantum computers use quantum bits, or qubits, to encode information as 0s, 1s, or both at the same time. This superposition of states—along with the other quantum mechanical phenomena of entanglement and tunneling—enables quantum computers to manipulate enormous combinations of states at once.
+
+How D-Wave Systems Work
+D-Wave systems use a process called quantum annealing to search for solutions to a problem.
+
+In nature, physical systems tend to evolve toward their lowest energy state: objects slide down hills, hot things cool down, and so on. This behavior also applies to quantum systems. To imagine this, think of a traveler looking for the best solution by finding the lowest valley in the energy landscape that represents the problem. 
+
+
+
+Classical algorithms seek the lowest valley by placing the traveler at some point in the landscape and allowing that traveler to move based on local variations.  While it is generally most efficient to move downhill and avoid climbing hills that are too high, such classical algorithms are prone to leading the traveler into nearby valleys that may not be the global minimum. Numerous trials are typically required, with many travelers beginning their journeys from different points.  
+
+In contrast, quantum annealing begins with the traveler simultaneously occupying many coordinates thanks to the quantum phenomenon of superposition. The probability of being at any given coordinate smoothly evolves as annealing progresses, with the probability increasing around the coordinates of deep valleys. Quantum tunneling allows the traveller to pass through hills—rather than be forced to climb them—reducing the chance of becoming trapped in valleys that are not the global minimum. Quantum entanglement further improves the outcome by allowing the traveler to discover correlations between the coordinates that lead to deep valleys.
+
+Programming a D-Wave System
+To program the system, a user maps a problem into a search for the “lowest point in a vast landscape,” corresponding to the best possible outcome. The quantum processing unit considers all the possibilities simultaneously to determine the lowest energy required to form those relationships. The solutions are values that correspond to the optimal configurations of qubits found, or the lowest points in the energy landscape. These values are returned to the user program over the network.
+
+Because a quantum computer is probabilistic rather than deterministic, the computer returns many very good answers in a short amount of time—thousands of samples in one second. This provides not only the best solution found but also other very good alternatives from which to choose. 
+
+Application development is facilitated by D-Wave’s open-source Ocean software development kit (SDK), available on GitHub and in Leap, which has built-in templates for algorithms, as well as the ability to develop new code with the familiar programming language Python.  
+
+
+
+Computational Control
+Computation is performed by initializing the quantum processing unit (QPU) into a ground state of a known problem and annealing the system toward the problem to be solved such that it remains in a low energy state throughout the process. At the end of the computation, each qubit ends up as either a 0 or 1. This final state is the optimal or near-optimal solution to the problem to be solved.
+
+The D-Wave 2000Q system also gives users important control over the quantum computation, with advanced features such as:
+
+Virtual graphs: Many optimization and machine learning algorithms are commonly described as graph problems. D-Wave’s virtual graphs feature improves accuracy in the upgraded system, by allowing control over the interaction of groups of qubits, to model a node or link in a complex graph. This feature has improved success rates by 5 times over earlier D-Wave 2000Q systems, for common hard optimization problems and machine learning models.
+Pause and Quench: In the standard application of quantum annealing in D-Wave systems, qubits evolve according to a predetermined anneal schedule. Some types of problems may benefit from fine-grained adjustments to the default schedule. In these cases, you can change the shape of the energy waveform by introducing a pause or quench (i.e., abrupt termination). This level of control helps investigate what is happening partway through the annealing process.
+Reverse annealing: This lets users program the system in an entirely new way, harnessing powerful heuristic search algorithms for optimization and machine learning, and applications such as cybersecurity and drug discovery. Reverse annealing allows users to specify the problem they wish to solve along with a predicted solution in order to narrow the search space for the computation. Using reverse annealing, D-Wave researchers observed a 150 times speedup over the current D-Wave 2000Q system.
+Anneal offsets: Certain problems benefit when some qubits anneal slightly before or after others. The anneal offsets feature lets users advance or delay anneal paths to enhance application performance. Algorithms using this feature have shown performance improvements of up to 1000 times for some problem types.
+Download the Technology Overview
+
+Learn More about Quantum Computing
+Read the Tutorials
+
+DW 2000Q OVERVIEW
+
+
+E&T: HOW QUANTUM COMPUTERS ARE TRANSFORMING TRAVEL
+
+COMMUNICATIONS OF ACM: WORLD’S LARGEST QUANTUM COMPUTER DOUBLES DOWN
+
+THE D-WAVE 2000Q™ SYSTEM
+CANADA
+
+3033 BETA AVENUE
+BURNABY, BRITISH COLUMBIA,
+CANADA V5G 4M9
+MAP
+
+TEL: +1 604-630-1428
+FAX: +1 604-630-1434US
+
+PALO ALTO, CA
+HANOVER, MD
+CONTACT D-WAVE
+
+Copyright © D-Wave Systems Inc.Terms Careers Press MediaPatent NoticeContact
+
+   

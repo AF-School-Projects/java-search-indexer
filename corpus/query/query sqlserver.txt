@@ -1,0 +1,117 @@
+https://searchsqlserver.techtarget.com/definition/query
+
+
+TechTargetSearch the TechTarget Network
+Search the TechTarget Network
+
+LOGIN REGISTER
+TECHTARGET NETWORKNEWSFEATURESTIPSMORE CONTENT
+SearchSQLServer
+TOPIC
+SQL Server Administration
+SUBTOPIC
+T-SQL
+Follow: 
+Home T-SQL Database management query
+DEFINITION
+query
+
+Posted by: Margaret Rouse
+WhatIs.com
+  
+Contributor(s): Adam Hughes
+A query is a question, often expressed in a formal way. A database query can be either a select query or an action query. A select query is a data retrieval query, while an action query asks for additional operations on the data, such as insertion, updating or deletion.
+
+Query language
+Query languages are used to make queries in a database, and Microsoft Structured Query Language (SQL) is the standard. Under the SQL query umbrella, there are several extensions of the language, including MySQL, Oracle SQL and NuoDB. Query languages for other types of databases, such as NoSQL databases and graph databases, include Cassandra Query Language (CQL), Neo4j's Cypher, Data Mining Extensions (DMX) and XQuery.
+
+Queries can accomplish a few different tasks. Primarily, queries are used to find specific data by filtering specific criteria. Queries can also calculate or summarize data, as well as automate data management tasks. Other queries include parameter, totals, crosstab, make table, append, update and delete. For example, a parameter query runs variations of a particular query, which prompts a user to insert a field value, and then it uses that value to create the criteria, while totals queries allow users to group and summarize data.
+
+SQL query example
+An example of SQL query
+In a relational database, which contains records or rows of information, the SQL SELECT statement query allows the user to choose data and return it from the database to an application. The resulting query is stored in a result-table, which is called the result-set. The SELECT statement can be broken down into other categories, such as FROM, WHERE and ORDER BY. The SQL SELECT query also can group and aggregate data, such as summarize or analyze.
+
+Web search query
+The text typed into search engines, such as Bing, Google or Yahoo, is called a query. Search-engine queries provide information that is much different from SQL languages because they don't require keyword or positional parameters. A search-engine query is a request for information on a particular topic, and the request is made once a user selects 'Enter.'
+
+Once the request is made, the search engine uses an algorithm to determine the best results, which are sorted based on significance according to the search engine -- details of which are not revealed publicly.
+
+Types of search queries include navigational, informational and transactional. Navigational searches are intended to find a particular website, such as ESPN.com; informational searches are designed to cover a broad topic, such a comparison between a new iPhone and Android device; and transactional searches seek to complete a transaction, such as the purchase of a new sweater on Amazon.com.
+
+
+This was last updated in March 2017
+Continue Reading About query
+SQL SELECT examples
+Master SELECT in SQL
+What happens when a SQL query goes bad?
+Schedule queries in SQL Server
+Writing a Transact-SQL statement
+Related Terms
+Azure Data Studio (formerly SQL Operations Studio)
+Azure Data Studio is a Microsoft tool, originally named SQL Operations Studio, for managing SQL Server databases and cloud-based ... See complete definition
+Microsoft SQL Server
+Microsoft SQL Server is a relational database management system, or RDBMS, that supports a wide variety of transaction processing... See complete definition
+T-SQL (Transact-SQL)
+T-SQL (Transact-SQL) is a set of programming extensions from Sybase and Microsoft that add several features to the Structured ... See complete definition
+Dig Deeper on SQL-Transact SQL (T-SQL)
+
+Log Parser Studio provides flexibility for Exchange troubleshooting
+
+Tune database query performance with Redis cache
+
+SPARQL shines as RDF's query language
+
+LINQ (Language Integrated Query)
+
+Tricks to increase SQL Server query performance
+
+Beginning LINQ development, Part 2
+Sponsored News
+Looking to Improve Database Performance? With the Right Solution, You Can Now ...
+–IBM
+Removing Barriers to Moving Mission-Critical Apps to Public Cloud
+–IBM
+See More
+Vendor Resources
+Query Optimization: Tips & Tricks From the Experts
+–SentryOne LLC
+Couchbase Under the Hood: An Architectural Overview
+–Couchbase
+Join the conversation 3 comments
+
+ Send me notifications when other members comment.
+Add My Comment
+Oldest 
+[-] Margaret Rouse - 5 Apr 2005 12:14 PM
+Which query language do you use most often?
+ 
+[-] tdempewolf - 20 Dec 2018 9:10 AM
+It is hard to accept the veracity of your article which contains the erroneous statement "Microsoft Structured Query Language (SQL) is the standard".  SQL was developed in the early1970s at IBM and first commercialized by Oracle in the late 1970s.  Microsoft was a relatively late entrant into RDBMS and SQL.
+ 
+[-] EAOPE27990 - 29 Jul 2019 4:31 AM
+I AM NEW CUSTOMER HAVING CODE NO 27990. I HAVE SOME SHARE CERTIFICATES .ABOUT THE CERTIFICATES I WANT SOME HELP FOR RECTIFICATION IN MY NAME .WHO CAN HELP ME.
+ 
+File Extensions and File Formats
+ABCDEFGHIJKLMNOPQRSTUVWXYZ#
+Latest TechTarget
+resources
+BUSINESS ANALYTICS
+DATA CENTER
+DATA MANAGEMENT
+AWS
+ORACLE
+CONTENT MANAGEMENT
+WINDOWS SERVER
+SearchBusinessAnalytics
+Sisense analytics platform update features AI, data prep tool
+Augmented intelligence features and an in-warehouse data prep tool highlight Sisense's latest update, its first since acquiring ...
+
+Operation Fistula uses data to treat childbirth injuries
+Aided by an analytics stack developed by Exasol, nonprofit Operation Fistula is working to end obstetric fistula in targeted ...
+
+Automated tools broaden the future scope of data science
+Automated data science tools may make their way into the data science process, but are unlikely to ever be able to do everything ...
+
+About UsMeet The EditorsContact UsPrivacy PolicyAdvertisersBusiness PartnersMedia KitCorporate SiteContributorsReprintsArchiveSite MapAnswersDefinitionsE-ProductsEventsFeaturesGuidesOpinionsPhoto StoriesQuizzesTipsTutorialsVideos
+All Rights Reserved, Copyright 2005 - 2019, TechTarget
+

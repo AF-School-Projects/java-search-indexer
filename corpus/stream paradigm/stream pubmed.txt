@@ -1,0 +1,122 @@
+https://www.ncbi.nlm.nih.gov/pubmed/19733749
+
+
+NCBINCBI Logo
+Skip to main content
+Skip to navigation
+Resources
+How To
+About NCBI Accesskeys
+
+PubMed
+US National Library of Medicine National Institutes of Health
+Search databaseSearch term
+Search
+AdvancedHelp
+Result Filters
+Format: AbstractSend to
+Prog Brain Res. 2009;176:47-63. doi: 10.1016/S0079-6123(09)17604-5.
+Visual streams and shifting attention.
+Brown JM1.
+Author information
+1
+Department of Psychology, University of Georgia, Athens, GA, USA. jmbrown@uga.edu
+Abstract
+Understanding the relationship between bottom-up and top-down processing in visual perception and attention is challenging. An important part of that challenge is studying the roles the parvocellular (P) and magnocellular (M) retino-geniculo-cortical pathways play in visual processing and attention. The P pathway provides the dominant initial input to the ventral stream which plays an important role in object processing and is assumed to be relatively more involved in object-based attention. The faster responding M pathway provides the dominant initial input to the dorsal stream which plays an important role in processing movement and spatial location information and is assumed to be relatively more involved in space-based attention. To gain insight into the relationship between M/dorsal and P/ventral activity and deploying visual attention, we used a covert cuing paradigm to manipulate attention while bottom-up and top-down perceptual stimulus variables created M/dorsal and P/ventral-biased conditions. One study examined the object advantage, where responses are faster for within-relative to equidistant between-object shifts of attention. Visual stream contributions to object- and spaced-based attention were revealed using psychophysically equiluminant conditions expected to reduce M/dorsal activity. Other studies investigating visual stream contributions to location-based inhibition of return (IOR) used IOR magnitude as an indicator of the ease or difficulty of deploying spatial attention. Greater IOR was found under P/ventral-biased conditions. Less IOR was found under M/dorsal-biased conditions. The results support the use of M/dorsal and P/ventral-biased conditions as a valuable strategy for studying the relationship between visual stream activity and shifting attention.
+
+PMID: 19733749 DOI: 10.1016/S0079-6123(09)17604-5
+[Indexed for MEDLINE]
+Share on FacebookShare on TwitterShare on Google+
+Publication type, MeSH terms
+LinkOut - more resources
+Supplemental Content
+Full text links
+Icon for Elsevier Science
+Save items
+View more options
+Similar articles
+Attending to multiple visual streams: interactions between location-based and category-based attentional selection.
+[J Cogn Neurosci. 2009]
+Magnocellular and parvocellular pathway influences on location-based inhibition-of-return.
+[Perception. 2012]
+Neural correlates of visual form and visual spatial processing.
+[Hum Brain Mapp. 1999]
+Review The advantage in being magnocellular: a few more remarks on attention and the magnocellular system.
+[Neurosci Biobehav Rev. 2008]
+Review Visual saliency and spike timing in the ventral visual pathway.
+[J Physiol Paris. 2003]
+See reviews...
+See all...
+Cited by 5 PubMed Central articles
+Young Women do it Better: Sexual Dimorphism in Temporal Discrimination.
+[Front Neurol. 2015]
+Neurophysiological correlates of various mental perspectives.
+[Front Hum Neurosci. 2014]
+Enhanced dimension-specific visual working memory in grapheme-color synesthesia.
+[Cognition. 2013]
+See all...
+Related information
+Cited in PMC
+Recent Activity
+ClearTurn Off
+Visual streams and shifting attention.
+PubMed
+An introduction to information retrieval: applications in genomics
+See more...
+You are here: NCBI > Literature > PubMedSupport Center
+Simple NCBI Directory
+GETTING STARTED
+NCBI Education
+NCBI Help Manual
+NCBI Handbook
+Training & Tutorials
+Submit Data
+RESOURCES
+Chemicals & Bioassays
+Data & Software
+DNA & RNA
+Domains & Structures
+Genes & Expression
+Genetics & Medicine
+Genomes & Maps
+Homology
+Literature
+Proteins
+Sequence Analysis
+Taxonomy
+Variation
+POPULAR
+PubMed
+Bookshelf
+PubMed Central
+BLAST
+Nucleotide
+Genome
+SNP
+Gene
+Protein
+PubChem
+FEATURED
+Genetic Testing Registry
+GenBank
+Reference Sequences
+Gene Expression Omnibus
+Genome Data Viewer
+Human Genome
+Mouse Genome
+Influenza Virus
+Primer-BLAST
+Sequence Read Archive
+NCBI INFORMATION
+About NCBI
+Research at NCBI
+NCBI News & Blog
+NCBI FTP Site
+NCBI on Facebook
+NCBI on Twitter
+NCBI on YouTube
+Privacy Policy
+NLMNIHDHHSUSA.gov
+National Center for Biotechnology Information, U.S. National Library of Medicine
+8600 Rockville Pike, Bethesda MD, 20894 USA
+Policies and Guidelines | Contact

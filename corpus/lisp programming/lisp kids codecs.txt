@@ -1,0 +1,222 @@
+https://www.kidscodecs.com/lisp/
+
+
+Skip to content
+Home
+Current Issue
+Sections
+Resources
+Subscribe
+Search
+
+
+Give a Gift or Subscribe!
+beanz is a bi-monthly magazine to explore computer science, software programming, and how we use technology
+Lisp
+BY TIM SLAVIN / LANGUAGE OF THE MONTH / APRIL 2014 ISSUE 
+
+TECHCOCKTAIL ON FLICKR
+
+An ancient language from 1958 lives on and is used to solve modern problems in programming and computer science.
+
+In the mid to late 1950s, John McCarthy at Massachusetts Institute of Technology (MIT) had a problem to solve. As part of an artificial intelligence project, he needed a programming language that could process lists of data. Sentences structured in a formal way would represent information about the world. The computer would navigate and process lists of sentences to mimic human reasoning, for example, the ability to answer a question by comparing possible sentences organized into lists.
+
+In simplistic English, if you are a computer and your program asks you what to do if you are cold and hungry, you take a list of possible outcomes then navigate the list to find a reasonable result. If you are cold, for example, your processing would gravitate towards sentences related to warmth and avoid sentences related to cold.
+
+The problem for McCarthy? No suitable software language to work with lists existed. McCarthy had to create his own language.
+
+But a funny thing happened next. McCarthy created his language which he called Lisp, shorthand for List Processing. And, as Paul Graham put it, McCarthy did for programming what Euclid did for Geometry. He built a programming language from simple operators and a notation system for functions. But the parts of the language he thought most important, the m-expressions for handling math syntax, turned out to be least important to people who used Lisp. And one of the lesser parts of McCarthy’s language, s-expressions used to describe data, went on to influence a number of programming languages for fifty years and counting.
+
+Even more interesting, Stephen Russell turned the theoretical eval function in Lisp into real machine code. Lisp could now interprete Lisp s-expression statements used to describe data and run Lisp programs. In 1962, the first software to compile Lisp into code mixed evaluated code (processed when the code ran) and compiled code (processed before the code ran). In the 1970s, Daniel Edwards at MIT added garbage collection to Lisp, the ability to free unused memory to make the language more efficient.
+
+What started as an elegant minimalist solution to a problem — processing lists as part of an artifical intelligence project — held the seeds of a full programming language with innovative ideas to influence dozens of languages. For example, McCarthy created the now common if-then-else conditional statements so Lisp could process lists in a tightly structured way. Paul Graham also believes Lisp represents a second way to think about software programming problems. FORTRAN and C are another more familiar way to program software.
+
+What Makes Lisp Special?
+While debates about which programming language is best often get heated, arguments for Lisp as best language are especially strong, perhaps due to its longevity. Many intelligent and creative people have worked on Lisp to refine and optimize the language.
+
+It’s also true Lisp has always been an unusual and insightful solution to programming and computer science problems. For one, Lisp has always gravitated towards simple flexible solutions where other languages have added complexity (for good reasons). McCarthy’s hunch was that a simpler language would provide more flexibility over time.
+
+However, there is no right or wrong, best or worst with software languages. Only what language works best for a given situation. Lisp was the first language to offer an alternative to FORTRAN and its successor languages while not straying too far from the familiar.
+
+One of the unusual parts of Lisp are macros. If you don’t know, macros are code that write to code or manipulate other programs. Think of a repetitive computing task, perhaps adding numbers, and put the code into a block then call the block instead of retyping the code used to add numbers. If you have used Word macros, you get the idea. Macros extend the power of a programming language.
+
+With Lisp, however, macros also allow programmers to embed domain-specific languages within Lisp. Macros have direct access to the parser contained in the language. Plus the parser is simple. It takes lists apart, walks through lists, and puts lists back together.
+
+With Lisp, the code is data (lists) and data can be code. It is a programmable software language. Functions can pass like variables and processed elsewhere in the code or processed directly like functions.
+
+Another feature of Lisp is the use of parentheses to organize data into lists. The syntax or elements used in Lisp are the atom and the list. Atoms are numbers, letters, and non-alphanumeric characters. Lists are a sequence of atoms or other lists. Blank spaces separate atoms and lists, like this:
+
+(1 2 3 4)
+
+In this example, the atoms 1, 2, 3, and 4 are atoms in a list marked off with parentheses.
+
+(1 (2 3 4 (5 6)))
+
+In this example, the first list is the atom 1 and a list made of 2, 3, 4, and its own list made of 5 and 6.
+
+How is Lisp Used?
+Because of its use of macros, and the simplicity of its parser, Lisp is heavily used for domain specific languages, for example, for artificial intelligence projects.
+
+How Lisp works also lends itself to dozens of dialects. The more recent programming language Clojure, for example, works in the Lisp fashion but solves modern problems such as handling multiple requests at the same time and minimizing collisions between processes that need the same resources or need to happen in a specific order. These are problems different from McCarthy’s problems of creating a language to manage lists of sentences for artificial intelligence and a simple mathematical notation system.
+
+The Lisp language has evolved into Common Lisp and Scheme, as well as a variety of dialects. They all work in a similar fashion to the original language specification. In some cases, they differ in naming and elements used. However, they all use the same Lisp concepts, including macros.
+
+It is not a stretch to say understanding Lisp is similar to the inscrutable process of becoming a Jedi in Star Wars and being given a light saber. The power of Lisp is most evident when you have learned at least one other language then move to Lisp. Where other languages set the basic rules about how the language operates, for example, Lisp often lets the coder set the rules. Where other languages may offer lots of features to complete a large number of tasks, Lisp often can do the same tasks with less features. Understanding how to use the Force in Stars Wars makes little sense until you learn how. The same dynamic applies to Lisp.
+
+Learn More
+LISP
+http://www-formal.stanford.edu/jmc/history/lisp/lisp.html
+http://www-formal.stanford.edu/jmc/recursive/recursive.html
+http://www.softwarepreservation.org/projects/LISP
+http://en.wikipedia.org/wiki/Lisp_%28programming_language%29
+
+COMMON LISP
+http://en.wikipedia.org/wiki/Common_Lisp
+http://common-lisp.net/
+
+SCHEME
+http://en.wikipedia.org/wiki/Scheme_%28programming_language%29
+http://en.wikibooks.org/wiki/Scheme
+
+JOHN MCCARTHY
+http://www-formal.stanford.edu/jmc/
+
+WHAT MAKES LISP SPECIAL?
+http://www.paulgraham.com/rootsoflisp.html
+http://fare.livejournal.com/77480.html
+http://john.freml.in/lisp-features
+http://programmers.stackexchange.com/questions/210274/does-lisp-still-have-any-special-feature-which-has-not-been-adopted-by-other-pro
+http://letoverlambda.com/index.cl/guest/chap1.html
+http://adam.gomaa.us/blog/2007/may/11/lisp-envy/
+http://www.norvig.com/paip-preface.html
+
+SUCCESSFUL LISP, A BOOK BY DAVID LAMKINS
+http://psg.com/~dlamkins/sl/contents.html
+http://psg.com/~dlamkins/sl/
+
+LEARNING LISP (SIMON FRASER UNIVERSITY COURSE)
+http://www.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/
+
+CASTING SPELLS IN LISP (TUTORIALS WITH COMICS)
+http://www.lisperati.com/casting.html
+
+LISP COMPILERS/TOOLS
+http://franz.com/products/allegro-common-lisp/
+http://trac.common-lisp.net/cmucl
+http://www.clisp.org/
+http://www.sbcl.org/
+http://stackoverflow.com/questions/913671/are-there-lisp-native-code-compilers
+
+PAUL GRAHAM LISP PAGES
+http://www.paulgraham.com/lisp.html
+
+LISP FAQ
+http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/lang/lisp/faq/0.html
+
+LISP EXAMPLES
+http://www.cs.unm.edu/~luger/ai-final2/LISP/CH%2011_S-expressions,%20The%20Syntax%20of%20Lisp.pdf
+http://www.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/1/tutorial1.html
+
+
+LISP MACROS
+http://stackoverflow.com/questions/267862/what-makes-lisp-macros-so-special
+
+
+LELISP
+http://www.softwarepreservation.org/projects/LISP/le_lisp
+
+About the Author
+
+Tim Slavin
+Tim is an award-winning writer and technologist who enjoys teaching tech to non-technical people. He has many years experience with web sites and applications in business, technical, and creative roles. He and his wife have two kids, now teenagers, who are mad about video games.
+
+Also In The April 2014 Issue
+
+PROJECTS AND PUZZLES
+How to Make a Twitter Bot
+READ ARTICLE
+
+
+CONCEPTS
+What is an Algorithm?
+READ ARTICLE
+
+
+PROJECTS AND PUZZLES
+How to Build Example Bot
+READ ARTICLE
+
+
+PEOPLE
+Bot Makers
+READ ARTICLE
+
+
+NOTEBOOK
+File Extensions
+READ ARTICLE
+
+
+CONCEPTS
+Traceroute
+READ ARTICLE
+
+
+LANGUAGE OF THE MONTH
+Lisp
+READ ARTICLE
+
+
+PROJECTS AND PUZZLES
+How to Build a Slightly Complicated Website
+READ ARTICLE
+
+
+CONCEPTS
+What is an API?
+READ ARTICLE
+
+
+NEWS WIRE
+April 2014 News Wire
+READ ARTICLE
+
+
+CODE SNIPPETS
+Objects
+READ ARTICLE
+
+
+LEARN MORE LINKS
+April 2014 Learn More Links
+READ ARTICLE
+
+BEANZ MAGAZINE
+A bi-monthly magazine published 6 times a year, the magazine explores computer science and software programming. It's for kids, parents, teachers, and adults who want to learn and have fun with technology.
+
+Learn More
+Awards
+Legal and Privacy
+
+About the name change from Kids, Code, and Computer Science
+
+   
+SUBSCRIBE TODAY!
+US Subscriptions
+
+Give a Gift!
+
+Canadian Subscriptions
+
+International Subscriptions
+
+About Subscriptions
+
+You can buy single copies of past print issues of the magazine, based on availability. Community and school libraries can request a printed sample. Or download a sample issue.
+
+EMAIL NEWSLETTER
+An email announcement of new issues sent every two months. We do not sell or trade your email address.
+
+type your email address
+ 
+© 2013-2019 Owl Hill Media, LLC / ISSN: 2573-3966 (online) ISSN: 2573-3958 (print)

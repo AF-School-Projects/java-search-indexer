@@ -1,0 +1,68 @@
+Skip to main content
+About Us
+English
+Courses / Programming Courses / CPP: Advanced Programming in C++
+Programming
+CPP: Advanced Programming in C++
+By Cisco Networking Academy in collaboration with OpenEDG C++ Institute
+
+
+Part two – round out your C++ skills
+Here's the chance to build on what you know and become more proficient in the C++ language. This second course, in the 2-course series, is designed for students who already possess an understanding of C++. You'll work with templates and the Standard Template Library, read and understand template functions and classes, and properly use template classes and methods including third-party templates. The course will round out your technology skills, set you apart in the job market, plus, prepare you for the vendor-neutral C++ Certified Professional Programmer Certification (CPP). Prerequisite CPA: Essentials in Programming C++ or equivalent knowledge is required.
+
+If you are already a student, contact your academy.
+Length Icon Length: 
+70 hours
+Cost Icon Cost: 
+Determined by Institution
+Level Icon
+Level: Advanced
+Learning type icon
+Learning Type: Instructor-led
+Language icon
+Languages: English
+You'll learn these core skills
+Learn the C++ template mechanism and write your own C++ programs.
+Understand and use elements of the C++ STL library.
+Solve programming problems with STL-predefined classes and methods.
+Prepare for the C++ Certified Professional Programmer Certification (CPP).
+Programming figure
+Accelerate your career with Networking Academy
+Cisco Networking Academy is an IT skills and career building program for learning institutions and individuals worldwide. Self-paced courses are designed to take at your own pace, at any point in your career journey. More than 9 million people have joined Networking Academy and become a force for change in the global economy since 1997.
+IBM logo
+verizon logo
+ingram micro logo
+Red River logo
+CDW logo
+"Don't be intimidated if you lack networking experience. Academy courses teach from the ground up. It's not easy, but when you come out, you have real-life skills that you can take directly to employers."
+Kyle Thoms, NetAcad Alum
+Coursework icon
+Coursework
+Coursework may take place in our online learning environment, in the classroom—or both. Once you enroll, you'll be asked to create an account, then taken to your learning dashboard. Course materials and tests may be accessed from there.
+
+Help from peers icon
+Help from your peers
+Once enrolled, you have access to student forums where you can ask questions and interact with instructors and peers. Also use our Facebook community, which has more than a million members available for support.
+
+Certificate of completion icon
+Certificate of completion
+Get a certificate of completion when you complete the course. Then add your coursework to LinkedIn so that hiring recruiters can find you for potential job opportunities.
+
+Courses
+About Us
+Find an Academy
+Teach with us
+Hire with us
+Partner with us
+
+
+Follow us
+
+ 
+ 
+ 
+ 
+ 
+Cisco Networking Academy, a Cisco Corporate Social Responsibility program, is an IT skills and career building program available to learning institutions and individuals worldwide.
+
+Terms and Conditions Privacy Statement Cookie Policy Data Protection Accessibility Trademarks

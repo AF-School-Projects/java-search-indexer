@@ -1,0 +1,327 @@
+By continuing to use this site you agree to our Cookie Policy.
+Got it
+Developers
+
+Engineering
+What are you looking for?
+BACK-END
+9 MINUTE READ
+How to Learn the C and C++ Languages: The Ultimate List
+THE TOPTAL RESEARCH TEAM
+The Toptal Research Team includes some of our most experienced professionals.
+464SHARES
+The C programming language was originally developed for and implemented on the UNIX operating system by Dennis Ritchie. The C language, which is quite simple, is not tied to any particular hardware or system. This makes it easier for a user to write programs that will run without many (or any) changes on practically all machines.
+
+The C language is often called a middle-level computer language as it combines the elements of high-level languages with the functionalism of assembly language. C programming allows the manipulation of bits, bytes, and addresses—giving the programmer more control over exactly how the program will behave and more direct access to the mechanics of the underlying hardware.
+
+C was created, influenced, and field-tested by working programmers. The end result is that C gives the programmer what the programmer wants.
+
+C++ is an enhanced version of the C language. C++ includes everything that’s part of C and adds support for object-oriented programming (OOP). In addition, C++ also contains many improvements and features that make it a “better C,” independent of object oriented programming.
+
+The C++ language is actually extensible since we can define new types in such a way that they act just like the predefined types which are part of the standard language.
+
+If you just use C++ as a better C, you will not be using all of its power. Like any quality tool, C++ must be used the way it was designed to be used to exploit its richness. Some of the new features include encapsulation, inline function calls, overloading operators, inheritance, and polymorphism.
+
+Why would I want to learn C or C++?
+C and C++ are still two of the most popular programming languages out there. The syntax and concepts of C, especially, has stood the test of time, and you can see them being carried on to other popular programming languages, even the modern ones, such as Go.
+
+Even if you are going to build web applications or fancy web front-end components for the rest of your life, learning C will help you understand how software and hardware actually interact.
+
+Besides, C and C++ are everywhere.
+
+C in particular powers a lot more technology than we give it credit for.
+
+On the other hand, some of your favorite software - possibly even the web browser you are reading this article on—is built on C++. Knowing C is a good base, but in many cases, software development will require you to learn C++ and its paradigms.
+
+If you want to develop software that needs to make the most out of a computer’s performance and capabilities—high-end desktop games, sophisticated productivity tools, or complex computationally intensive programs, for instance—or if you just want a programming language that lets you interact with a computer’s hardware directly, C and C++ are the languages for you.
+
+So, why would you not want to learn C++ or C? It’s not like 25 years ago, when you might have had to invest in a proprietary compiler to get started—today you can certainly learn C++ free.
+
+How can I get started with C and C++?
+To get started with C or C++, what you’ll want in most cases, at the very least, is a compiler—although nowadays you can also learn C online by experimenting a bit with “hello world” C projects in-browser.
+
+Compilers are programs that can be run through command-line interfaces (CLIs). They read the entire program and convert it into object code, which is a translation of the program source code into a form that the computer can execute directly.
+
+To make life easier, you can go for full-fledged IDEs that can make your experience with C or C++ even more pleasant.
+
+Windows
+There are a lot of good compilers available on Windows.
+
+On Windows, Visual Studio provides a C++ compiler.
+
+The compiler can also build C programs.
+
+Visual Studio comes with its own powerful, feature-rich IDE, making it a neat choice for anyone getting started with C or C++ or someone primarily targeting the Windows platform.
+
+If you are looking for something more standard compliant, GCC (MinGW) might be what you need. The Codeblocks IDE works exceptionally well in this setup.
+
+Clang, too, is now a formidable choice on Windows—it’s even used to build Google Chrome nowadays.
+
+Other cross-platform IDEs exist, such as Eclipse CDT, Jetbrains CLion, and Netbeans, that provide fully functional C and C++ development environments. Lately, however, these are being eclipsed (pardon the irony) by Visual Studio Code, which is also available for Linux and Mac environments.
+
+Linux
+If you are on Linux, you probably have GCC installed as a part of your distribution already. If not, installing it should be just a matter of a single command:
+
+# Ubuntu
+sudo apt-get install build-essential
+
+# Fedora
+sudo yum install gcc gcc-c++
+
+# Arch Linux
+sudo pacman -S base-devel
+The Codeblocks IDE and Eclipse CDT work equally well on Linux as they do on Windows.
+
+Mac / Mac OS X / OS X / macOS
+On a Mac you can use Clang or GCC—both are available for free. While GCC has support for a wider range of C and C++ standards, Clang will work fine for most cases.
+
+Clang should already be installed.
+
+You can install GCC using Homebrew:
+
+brew install gcc
+You can use XCode, a great IDE that is a part of the Mac OS developer tools.
+
+What are some good tutorials for learning C and C++?
+Tutorials are a great way to get started with a new programming language. Even if you are not very familiar with programming itself. The following tutorials will teach you the most important concepts.
+
+C Programming at LearnVern
+This comprehensive C programming online course is great for beginners, who do not necessarily have previous programming experience. It starts from the very basics of C and programming in general and covers advanced topics, such as dynamic memory allocation, file management, etc.
+
+C++ For C Programmers at Coursera
+If you are already familiar with C and want to dip your toes in C++, then this two-part course is perfect for you. This course truly highlights the differences between these two languages and shows you how to make the most out of C++.
+
+C++ Fundamentals at Pluralsight
+On the other hand, if you want to start from the basics of C++ and learn it from ground-up, PluralSight has just the tutorial for you. It’s aimed at those who want to be more efficient with C++.
+
+C Programming For Beginners at Udemy
+This C programming online course is beginner-friendly and perfect for anyone who wants to get started with C on any of the three popular platforms (Windows, Linux, and Mac OS X).
+
+C++ Tutorial for Complete Beginners at Udemy
+This course is aimed for anyone who has basic computer knowledge but now wants to get into the realm of programming. Arguably, it’s the best way to learn C++ as your first language. Also, if you find game development interesting, this is the course you want to start with.
+
+Advanced C++ Programming Training Course at Udemy
+Once you are content with your basic C++ programming skills and ready to move on to the real deal, you’ll want an advanced tutorial, like this one. The tutorial covers polymorphism, templates, exception handling, streams, containers, algorithms, stacks, and much more.
+
+comp.lang.c Frequently Asked Questions
+Sometimes all you need is a rich list of questions and answers that you can quickly look up to get your problems addressed. This isn’t a tutorial per se, but rather a structured set of frequently asked questions.
+
+C++ Annotations (Version 10.9.2) by Frank Brokken
+This web-based tutorial is intended for advanced C programmers (or Perl or Java programmers—anything considered to have a “C-like grammar”) who want to transition to C++. It continues where the C programming language ends—such as at pointers, memory allocation, and compound types—which makes it a very good C++ programming guide.
+
+Google C++ Style Guide
+As you write more elaborate programs while you learn C++ programming, you may quickly run into maintainability issues. This is where style guides from veteran C++ programmers come in handy. This style guide is maintained by Google.
+
+If the above C/C++ tutorials aren’t enough for you, there are good community-moderated lists of tutorials for learning C and for learning C++.
+
+Can I learn C and C++ by reading books?
+Books are a great way learn in-depth about a programming language. With a lot of great explanation of how intricate functionalities of a programming language work, knowledge from a good book on C or C++ can give you the upper edge while using these languages for your projects.
+
+C in a Nutshell: The Definitive Reference (2nd Edition) by Peter Prinz and Tony Crawford
+While this book does include a small introduction to the C programming language, it’s better suited as a second book if you want to learn to code C. This book provides tips, techniques, examples, and practical advice that will allow advanced developers to maximize their capabilities.
+
+The book is divided into three parts.
+
+The first describes the C language in the strict sense of the term; the second describes the standard library, and the third describes the process of compiling and testing programs with the tools in the popular GNU software collection.
+
+C in a Nutshell is the perfect companion to The C Programming Language by Brian W. Kernighan & Dennis Ritchie (also known as K&R) and destined to be the most reached-for reference book on your desk.
+
+The C Programming Language by Brian W. Kernighan and Dennis Ritchie
+This is the second edition of the original Kernighan & Ritchie text.
+
+It’s commonly referred to as the New Testament as it includes the modifications incorporated by the ANSI standard while retaining the nature of the first edition.
+
+The book assumes that the reader has some basic programming knowledge. So if you’re just starting to program, and C is the first language, this might not be the ideal book for you. However, you might find these condensed notes on it worthwhile.
+
+This is one of the best ways to get an introduction to C programming, and a must-have—especially if you’re starting your own collection of programming books.
+
+The C++ Programming Language (4th Edition) by Bjarne Stroustrup
+Bjarne Stroustrup is the designer of C++ and has written many great books on the topic.
+
+This book is divided into three parts.
+
+The first part provides a tutorial introduction to C++ programming.
+
+The second part presents a discussion of design and software development issues arising in connection with the use of C++, and the third part is a complete reference manual.
+
+With the popularity of C++, several independent distributors of C++ have come forward, but the book discusses ‘pure C++;’ that is, no implementation-dependent extensions are used.
+
+One of the best ways to learn a programming language is by writing small programs relevant to the item you study. There are exercises at the end of each chapter to apply your newly learned knowledge.
+
+Effective C++: 55 Specific Ways to Improve Your Programs and Designs by Scott Meyers
+Building large software with C++ takes design and discipline. If you are serious about C++, this book is a must-read.
+
+It’s an expert’s guide for design of effective classes, functions, templates, and inheritance hierarchies. The book also discusses how C++ is different from other languages and how to do things “the C++ way”.
+
+C++ Primer (5th Edition) by Stanley B. Lippman
+The C++ Primer is a great book and will make learning C++ fun. It really is one of the best C++ books out there, but it assumes a lot of familiarity with programming concepts and a proficiency in C.
+
+The latest edition of this book is excellent for programmers who want to get the most out of new and advanced features.
+
+C++ FAQs(2nd Edition) by Marshall P. Cline
+This is a phenomenal book that contains answers to around 500 questions on programming, design, analysis, and testing. It’s not for beginners, but for programmers who have figured out the syntax of the language want to implement them.
+
+If you have questions like “What is a class invariant?”, “How should I use exceptions?”, “What happens when a destructor is executed?”, then this is the book for you.
+
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 by Scott Meyers
+If you’re already experienced with C++, but want to test drive the more recent standards of it, read this book. You will be surprised how much C++ has evolved through these new standards. The book discusses how to make the most effective use of the newer capabilities in C++. (Even though the C++ standard is now up to C++17, C++14 is still cutting-edge in many of project contexts.)
+
+Effective STL: 50 Specific Ways to Improve Your Use of the Standard Template Library by Scott Meyers
+One of the most amazing aspects of C++ is its Standard Template Library (STL). It’s one of the most powerful features, but it can be quite complex. This book provides 50 awesome tips and 100+ STL algorithms that explore different areas of the STL, making it more approachable for developers just getting started with C++.
+
+Related: Top 10 Most Common C++ Mistakes That Developers Make
+UNDERSTANDING THE BASICS
+What is C programming?
+C programming is using the language known as C to write source code, which is then compiled into programs that you can run. C is an older and still very popular language for software development in various contexts.
+
+How can I learn the C language?
+Everyone's learning style is different, but some amount of "learning by doing" is probably wise. Nowadays, you can even get started by trying out simple C programs from within your web browser. There are also numerous video courses, free tutorials, books, and communities to help you learn how you learn best.
+
+What is the difference between C and Java?
+There are many differences (and similarities, too.) C is older. Java compiles to "bytecode" meant to be read by a virtual machine on any platform, rather than to native machine code like C (yet both are portable in some sense.) Java is object-oriented and garbage-collected. C is lower-level than Java.
+
+Which programming language is easy to learn?
+C and C++ are both somewhat difficult to learn to program well. However, in many respects, they share many similarities with many other popular languages. In that sense they're just as easy (or as difficult) to learn, at first, as anything other programming language.
+
+Which is the best programming language to learn?
+If you ask this of ten programmers, you'll get at least ten answers. It depends on your background and your goals. However, C/C++ have been around a very long time, and continue to be among of the top languages in use, year after year. "Best" claims notwithstanding, it's definitely worthwhile to learn C or C++.
+
+What is the main difference between C and C++?
+The biggest difference is that C++ supports object-oriented programming.
+
+Who developed C++?
+Bjarne Stroustrup of Bell Labs started on it in 1979, but it wasn't until 1998 that it was formally standardized by ISO. ISO continues to release standards, the latest of which is C++17. The next planned standard is C++20.
+
+What is the use of the C programming language?
+
+TAGS
+
+C++
+LearnToProgram
+CLanguage
+The Toptal Research Team
+
+Research
+
+ABOUT THE AUTHOR
+
+The Toptal Research Team includes some of our most experienced professionals.
+
+
+World-class articles, delivered weekly.
+
+Enter your email
+Get great content
+Subscription implies consent to our privacy policy
+
+
+
+TRENDING ARTICLES
+ENGINEERINGTECHNOLOGY
+Haxe Review: Haxe 4 Features and Strengths
+ENGINEERINGWEB FRONT-END
+Optimizing Website Performance and Critical Rendering Path
+ENGINEERINGBACK-END
+Choosing a Tech Stack Alternative - The Ups and Downs
+ENGINEERINGTECHNOLOGY
+Maintain Control: A Guide to Webpack and React, Pt. 1
+SEE OUR RELATED TALENTS
+
+C
+C++
+ABOUT THE AUTHOR
+
+The Toptal Research Team
+
+Research
+
+READ NEXT
+ENGINEERINGWEB FRONT-END
+WebVR Part 2: Web Workers and Browser Edge Computing
+World-class articles, delivered weekly.
+
+Enter your email
+Sign Me Up
+Subscription implies consent to our privacy policy
+
+
+
+World-class articles, delivered weekly.
+
+Enter your email
+Sign Me Up
+Subscription implies consent to our privacy policy
+
+
+
+
+Toptal Developers
+Android Developers
+AngularJS Developers
+Back-End Developers
+C++ Developers
+Data Analysts
+Data Engineers
+Data Scientists
+DevOps Engineers
+Ember.js Developers
+Freelance Developers
+Front-End Developers
+Full-Stack Developers
+HTML5 Developers
+iOS Developers
+Java Developers
+JavaScript Developers
+Machine Learning Engineers
+Magento Developers
+Mixed Reality Developers
+Mobile App Developers
+.NET Developers
+Node.js Developers
+PHP Developers
+Python Developers
+React.js Developers
+Ruby Developers
+Ruby on Rails Developers
+Salesforce Developers
+Scala Developers
+Software Architects
+Software Developers
+Unity or Unity3D Developers
+Virtual Reality Developers
+Web Developers
+WordPress Developers
+View more
+Join the Toptal® community.
+
+Hire a Developer
+OR
+Apply as a Developer
+MOST IN-DEMAND TALENT
+iOS Developers
+Front-End Developers
+UX Designers
+UI Designers
+Financial Modeling Consultants
+Interim CFOs
+Digital Project Managers
+ABOUT
+Top 3%
+Clients
+Freelance Developers
+Freelance Designers
+Freelance Finance Experts
+Freelance Project Managers
+Freelance Product Managers
+Specialized Services
+About Us
+CONTACT
+Contact Us
+Press Center
+Careers
+FAQ
+SOCIAL
+Hire the top 3% of freelance talent
+Copyright 2010 - 2019 Toptal, LLC
+Privacy Policy
+Website Terms

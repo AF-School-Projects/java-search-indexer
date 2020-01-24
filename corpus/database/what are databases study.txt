@@ -1,0 +1,188 @@
+https://study.com/academy/lesson/what-are-databases-examples-types-quiz.html
+
+for Teachers for Schools for Working Scholars for College Credit
+Study.com
+1	Log in	
+Search Courses & Lessons
+
+Plans
+Courses
+Credit
+Degrees
+Schools
+ Information Systems: Help and Review  /  Business CoursesNext Lesson 
+What are Databases? - Examples & Types
+Chapter 11 /  Lesson 12   Transcript
+Video 
+Quiz 
+Course
+ Save  Timeline Autoplay  Speed Normal Audio mode 490K views
+Qamar C.
+Teacher
+New Jersey, United States
+03/01/2018
+I love that I am able to find a lesson for almost anything I am searching forI also love how effective (and animated) the teachers are with explaining the lessons
+Recommended Lessons and Courses for You
+Related LessonsRelated Courses
+Flat File Database: Definition & Example
+Flat File Database: Definition & Example
+Medical Terminology for Tissues, Organs & Glands
+Medical Terminology for Tissues, Organs & Glands
+What is a Relational Database? - Elements, Design & Advantages
+What is a Relational Database? - Elements, Design & Advantages
+Database Concepts and Structures: The Elements That Make Up a Database
+Database Concepts and Structures: The Elements That Make Up a Database
+Lesson Transcript
+Instructor: Szymon Machajewski
+Szymon has a PhD in Education, an MS in Information Management and a BS in Computer Science. He has taught Computer Science at a number of Higher Education institutions.
+
+In this lesson, we'll be looking at databases, which are computer mechanisms for storing and retrieving data. Test your knowledge following the lesson with a quiz.
+Defining Databases
+Databases are basically containers for data. Because a public library stores books, we could also say that a library is a database of books. But strictly defined, databases are computer structures that save, organize, protect, and deliver data. A system that contains databases is called a database management system, or DBM. The typical diagram representation for a database is a cylinder.
+
+Types of Databases
+The simplest form of databases is a text database. When data is organized in a text file in rows and columns, it can be used to store, organize, protect, and retrieve data. Saving a list of names in a file, starting with first name and followed by last name, would be a simple database. Each row of the file represents a record. You can update records by changing specific names, you can remove rows by deleting lines, and you can add new rows by adding new lines.
+
+Desktop database programs are another type of database that's more complex than a text database but intended for a single user. A Microsoft Excel spreadsheet or Microsoft Access are good examples of desktop database programs. These programs allow users to enter data, store it, protect it, and retrieve it when needed. The benefit of desktop database programs over text databases is the speed of changing data, and the ability to store large amounts of data while keeping performance of the system manageable.
+
+Relational databases are the most common database systems. They include databases like SQL Server, Oracle Database, Sybase, Informix, and MySQL. The relational database management systems (RDMS) feature much better performance for managing data over desktop database programs. For example, they allow multiple users (even thousands!) to work with the data at the same time, creating advanced security for access to the data. RDBMS systems store data in columns and rows, which in turn make up tables. A table in RDBMS is like a spreadsheet. A set of tables makes up a schema. A number of schemas create a database. Many databases can be created on a single server.
+
+The most innovative structures for storing data today are NoSQL and object-oriented databases. These do not follow the table/row/column approach of RDBMS. Instead, they build bookshelves of elements and allow access per bookshelf. So, instead of tracking individual words in books, NoSQL and object-oriented databases narrow down the data you are looking for by pointing you to the bookshelf, then a mechanical assistant works with the books to identify the exact word you are looking for. NoSQL specifically attempts to simplify bookshelves by storing data in a denormalized way; this means storing it in large chunks.
+
+Normalization is a database business process to break up data into the smallest possible parts. Instead of storing first and last name in one bucket, or field, normalization requires that you store the first name separately from the last name. This is helpful if you want to sort the data by last name or by first name. RDBMS systems require that data is normalized.
+
+Databases Categorized by Local Design
+Depending on how databases are designed, they can be divided into operational databases and database warehouses. When databases store everyday data with fast updates, they're transactional or operational. These are most common. For example, inventory databases and product databases are all operational. Such databases require high speed of writing and high speed of reading. This makes them special and very sensitive to performance.
+
+ To unlock this lesson you must be a Study.com Member. Create your account
+
+Register to view this lesson
+Are you a student or a teacher?
+ 
+ You are viewing lesson 12 in chapter 11 of the course:
+Information Systems: Help and Review
+19 chapters | 388 lessons | 4 flashcard sets
+
+Ch 1. Introduction to Computers: Help and...
+Ch 2. Information Systems in...
+Ch 3. Hardware and Systems Technology:...
+Ch 4. Systems Software and Application...
+Ch 5. Internet, Intranet, and Extranet:...
+Ch 6. Network Systems Technology: Help...
+Ch 7. Remote Connections: Help and...
+Ch 8. Enterprise Business Systems: Help...
+Ch 9. Decision Support & Specialized...
+Ch 10. Systems Development: Help and...
+Ch 11. Data Management: Help and Review
+What is Database Management? - How Databases Help Organizations7:09
+Database Concepts and Structures: The Elements That Make Up a Database6:24
+What is a Database Management System? - Purpose and Function10:03
+Models of Database Management Systems (DBMS)10:03
+What is a Relational Database? - Elements, Design & Advantages10:19
+Types of Data: Text, Numbers & Multimedia11:43
+Structured Query Language: Manipulating Databases Using SQL8:06
+Data Warehousing and Data Mining: Information for Business Intelligence6:46
+Database Administration and Security: Definition and Purpose6:23
+Cloud Computing and Databases: Technology to Improve Database Management5:55
+What is a Data Flow Diagram?
+What are Databases? - Examples & Types7:37
+5:17
+Next Lesson
+
+Arithmetic Logic Unit (ALU): Definition, Design & FunctionArithmetic Logic Unit (ALU): Definition, Design & Function
+What is a Number Sentence? - Definition & Examples3:05
+What is Data Consolidation? - Definition & Overview4:44
+What Is Memory Management? - Requirements, Errors & Techniques
+Associative Memory in Computer Architecture3:05
+Naive Bayes Classifier: Algorithm & Examples
+Abstract Data Models
+Go toData Management: Help and Review
+Ch 12. Ethical, Social & Business Issues...
+Information Technology: Impact on the Economy7:40
+Impact of Technology on Privacy10:43
+Intellectual Property and Open Source Software: Issues and Concerns12:54
+Impact of e-Commerce and m-Commerce on Consumer Privacy and Fraud13:52
+Ergonomics, Telecommuting, Virtual Teams & Job Design: Technology Effects on Careers7:56
+Globalization, Outsourcing & Insourcing: Impact of Technology on Careers7:06
+Computer Security & Threat Prevention for Individuals & Organizations10:01
+What is an Electronic Funds Transfer? - Definition, Process & Benefits6:56
+Virtual Communities: Definition, Types & Examples6:52
+What Are Collaboration Tools? - Definition & Types3:49
+What is a Privacy Policy? - Definition & Examples3:41
+What Is a Virtual Meeting? - Technology & Strategies3:54
+What Is a Webinar? - Definition & Tools
+What is a Worm Virus? - Definition, Examples & Removal Tools5:10
+What is Adware? - Definition, Protection & Removal Tools5:03
+What is ANSI? - Standards & Regulations
+Go toEthical, Social & Business Issues in IT: Help & Review
+Ch 13. Introduction to Programming: Help...
+Ch 14. Learning Computer...
+Ch 15. Business, Social & Ethical...
+Ch 16. Working with Java
+Ch 17. Java Programming...
+Ch 18. Java Programming...
+Ch 19. Java Programming...
+What are Databases? - Examples & Types Related Study Materials
+RelatedRecently UpdatedPopularExplore Subjects
+Browse by Courses
+Business Courses
+Computer Science Courses
+Information Systems Courses
+Tech Skills Courses
+Information Technology Courses
+PHR-CA/SPHR-CA Certification Exam: Practice & Study Guide
+Business 113: Business Communication
+PARCC ELA - Grade 11: Test Prep & Practice
+Improving Customer Experience
+Critical Thinking, Problem Solving & Decision Making
+Improving Customer Service Leadership
+Building a Customer Service Team
+Building & Launching a Successful Team
+Providing High Quality Customer Service
+Accounting 301: Applied Managerial Accounting
+Business 308: Globalization & International Management
+MTTC Mathematics (Elementary) (089): Practice & Study Guide
+Business 306: Strategic Human Resources Management
+Browse by Lessons
+How Ideas Are Connected in a Text
+Remarks to the Senate in Support of a Declaration of Conscience
+Identifying Multiple Themes & Theme Hierarchy
+Using Key Information to Identify Different Types of Novels
+Short Stories: Types & Examples
+Quiz & Worksheet - Team Effectiveness in Organizations
+Quiz & Worksheet - Types of Communication Strategies
+Quiz & Worksheet - Collaboration in Businesses
+Quiz & Worksheet - Efficient Communication
+Quiz & Worksheet - Business Report Writing
+PARCC ELA - Grade 10: Reflective & Research Writing
+PARCC ELA - Grade 10: Organizing Ideas in an Essay
+PARCC ELA - Grade 10: Types of Essays
+PARCC ELA - Grade 10: Writing Successful Essays
+PARCC ELA - Grade 10: Language Facility
+Create an account to start this course today
+Try it risk-free for 30 days!
+Explore our library of over 79,000 lessons
+Search
+Search Courses & Lessons
+BrowseBrowse by subject
+Plans
+Student Solutions
+Teacher Solutions
+Study.com for Schools
+Working Scholars Solutions
+About Us
+Blog
+Careers
+Get Your School Listed
+Teach For Us
+Press Center
+Support
+Contact Support
+FAQ
+Site Feedback
+Download the app
+Get it on Google PlayGet it on the App Store  
+Working ScholarsWorking Scholars Bringing Tuition-Free College to the Community
+© copyright 2003-2019 Study.com. All other trademarks and copyrights are the property of their respective owners. All rights reserved.
+Terms of Use   Privacy Policy   DMCA Notice   ADA Compliance   Honor Code For Students
+Support

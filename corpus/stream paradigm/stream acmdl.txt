@@ -1,0 +1,65 @@
+https://dl.acm.org/citation.cfm?id=3225120
+
+
+
+Help Design Your New ACM Digital Library
+We're upgrading the ACM DL, and would like your input.  Please sign up to review new features, functionality and page designs.
+Leave an email address: 
+submit email addressor or[Not interested]
+ACM DL	
+SIGN IN   SIGN UP
+
+  Search
+ACM DL Logo Preview Check out the beta version of the next ACM DL
+Dual-Paradigm Stream Processing
+Full Text:	PDFPDF Get this ArticleGet this Article
+Authors:	Song Wu	SCTS/CGCL, Huazhong University of Science and Technology, Wuhan, China
+Zhiyi Liu	SCTS/CGCL, Huazhong University of Science and Technology, Wuhan, China
+Shadi Ibrahim	Inria, IMT Atlantique, Nantes, France
+Lin Gu	SCTS/CGCL, Huazhong University of Science and Technology, Wuhan, China
+Hai Jin	SCTS/CGCL, Huazhong University of Science and Technology, Wuhan, China
+Fei Chen	SCTS/CGCL, Huazhong University of Science and Technology, Wuhan, China
+Dual-Paradigm Stream Processing	Published by ACM 2018 Article
+Research
+Refereed limited
+Bibliometrics Data  Bibliometrics
+· Citation Count: 1
+· Downloads (cumulative): 119
+· Downloads (12 Months): 97
+· Downloads (6 Weeks): 3
+
+Published in:
+Cover Image
+ 
+· Proceeding
+ICPP 2018 Proceedings of the 47th International Conference on Parallel Processing
+Article No. 83
+
+Eugene, OR, USA — August 13 - 16, 2018
+ACM New York, NY, USA ©2018
+table of contents ISBN: 978-1-4503-6510-9 doi>10.1145/3225058.3225120
+
+Tools and Resources
+Buy this Article
+Recommend the ACM DL
+to your organization
+Request Permissions
+TOC Service: Spacer Image reserves space for checkmark when TOC Service is updated
+Toc Alert via EmailEmail Toc Alert via EmailRSS
+Save to Binder
+Export Formats:
+BibTeX EndNote ACM Ref
+Upcoming Conference:
+ADCS '19
+Share:
+
+|
+Author Tags Expand Author Tags
+Contact The DL Team Contact Us | Switch to single page view (no tabs)
+Existing stream processing frameworks operate either under data stream paradigm processing data record by record to favor low latency, or under operation stream paradigm processing data in micro-batches to desire high throughput. For complex and mutable data processing requirements, this dilemma brings the selection and deployment of stream processing frameworks into an embarrassing situation. Moreover, current data stream or operation stream paradigms cannot handle data burst efficiently, which probably results in noticeable performance degradation. This paper introduces a dual-paradigm stream processing, called DO (Data and Operation) that can adapt to stream data volatility. It enables data to be processed in micro-batches (i.e., operation stream) when data burst occurs to achieve high throughput, while data is processed record by record (i.e., data stream) in the remaining time to sustain low latency. DO embraces a method to detect data bursts, identify the main operations affected by the data burst and switch paradigms accordingly. Our insight behind DO's design is that the trade-off between latency and throughput of stream processing frameworks can be dynamically achieved according to data communication among operations in a fine-grained manner (i.e., operation level) instead of framework level. We implement a prototype stream processing framework that adopts DO. Our experimental results show that our framework with DO can achieve 5x speedup over operation stream under low data stream sizes, and outperforms data stream on throughput by 2.1x to 3.2x under data burst.
+
+Powered by The ACM Guide to Computing Literature
+
+
+The ACM Digital Library is published by the Association for Computing Machinery. Copyright © 2019 ACM, Inc.
+Terms of Usage   Privacy Policy   Code of Ethics   Contact Us

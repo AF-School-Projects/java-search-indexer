@@ -1,0 +1,93 @@
+https://www.ibm.com/quantum-computing/learn/what-is-quantum-computing/
+
+
+IBM home icon
+IBM Q
+
+Network
+
+Technology
+
+Resources
+
+Launch IBM Q Experience
+
+What is quantum computing?
+Quantum computers could spur the development of new breakthroughs in science, medications to save lives, machine learning methods to diagnose illnesses sooner, materials to make more efficient devices and structures, financial strategies to live well in retirement, and algorithms to quickly direct resources such as ambulances.
+
+But what exactly is quantum computing, and what does it take to achieve these quantum breakthroughs? Here’s what you need to know.
+
+Watch an introductory video
+
+
+A new kind of computing
+We experience the benefits of classical computing every day. However, there are challenges that today’s systems will never be able to solve. For problems above a certain size and complexity, we don’t have enough computational power on Earth to tackle them.
+
+To stand a chance at solving some of these problems, we need a new kind of computing. Universal quantum computers leverage the quantum mechanical phenomena of superposition and entanglement to create states that scale exponentially with number of qubits, or quantum bits.
+
+Learn more about one of the first, most promising application areas of quantum computing:
+
+Quantum chemistry
+
+Quantum computing fundamentals
+All computing systems rely on a fundamental ability to store and manipulate information. Current computers manipulate individual bits, which store information as binary 0 and 1 states. Quantum computers leverage quantum mechanical phenomena to manipulate information. To do this, they rely on quantum bits, or qubits.
+
+Here, learn about the quantum properties leveraged by qubits, how they're used to compute, and how quantum systems scale.
+
+
+Learn more about quantum computing fundamentals
+01
+Quantum properties
+
+02
+Quantum computation
+
+03
+Scaling quantum systems
+
+Inside a quantum
+computer
+There are a few different ways to create a qubit. One method uses superconductivity to create and maintain a quantum state. To work with these superconducting qubits for extended periods of time, they must be kept very cold. Any heat in the system can introduce error, which is why quantum computers operate at temperatures close to absolute zero, colder than the vacuum of space.
+
+Take a look at how a quantum computer’s dilution refrigerator, made from more than 2,000 components, creates such a cold environment for the qubits inside.
+
+Look inside a quantum computer
+
+How did we get
+here?
+Today, real quantum processors are used by researchers from all over the world to test out algorithms for applications in a variety of fields. But it was only a few decades ago that quantum computing was a purely theoretical subject.
+
+Start exploring the timeline
+
+1 of 19
+Image not found
+Intro 
+1927 
+1970 
+1981 
+1994 
+1995 
+Dig deeper
+You've learned the basics. Now build on your understanding of quantum computing with the resources below.
+
+Quantum computing at IBM
+Learn about quantum computing research, technology and development at IBM Q
+
+
+
+Learn about the IBM Q Network
+Explore how organizations are working with IBM to advance quantum computing
+
+
+
+Get started with the IBM Q Experience
+Sign in to learn how to program quantum computers with a simple graphical interface
+
+
+
+Develop with Qiskit
+Qiskit is an open source programming framework that uses python to interface with quantum computers
+
+
+
+Contact IBM Privacy Terms of use Accessibility

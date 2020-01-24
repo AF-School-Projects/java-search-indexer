@@ -1,0 +1,210 @@
+ THE LATEST Class Central: 8 Years in the Making Read
+Close
+Class Central
+Subjects
+MOOC Report
+
+Search online courses
+ 
+
+Sign in or Register
+Class Central is learner-supported. When you buy through links on our site, we may earn an affiliate commission.
+
+Home  Subjects  Programming  Programming Languages  C++
+Online Course
+Advanced C++
+Microsoft via edX
+     (7)
+
+137
+Add to list
+
+Found in C++, Programming Languages
+Go to class
+PROVIDER
+edX
+COST
+Free Online Course (Audit)
+SESSION
+Self Paced
+LANGUAGE
+English
+CERTIFICATE
+$99 Certificate Available
+EFFORT
+2-4 hours a week
+START DATE
+
+DURATION
+4 weeks long
+Learn more about MOOCs
+Taken this course? Share your experience with other students.
+Write review
+
+Become a Data Scientist
+datacamp.com
+Learn Python & R at your own pace. Start now for free!
+AD
+Custom Lists Banner
+Class Central Custom Lists
+Build and share your own catalog of courses with Class Central's custom lists.
+
+Sign up
+Overview
+Advanced C++ is the third course in the Microsoft Learning C++ series. Students will learn about a vide variety of high-level C++ software development techniques.
+
+It is highly recommended that students complete both the “Introduction to C++” and “Intermediate C++” courses before attempting this one. However, with a solid understanding of the prerequisites, it is not absolutely necessary to take these courses. Prerequisites include an understanding of pointers, memory allocation, file processing, and general OOP concepts.
+
+This course will cover the following concepts: Exceptions, C++ templates, Iterators and advanced Class mechanics, and design patterns.
+Taught by
+Adrian Leven
+Tags
+c plus plus core
+Help Center
+Most commonly asked questions about EdX
+
+What is edX?
+How do edX courses work?
+How to sign up for edX courses?
+Browse More EdX Articles
+Highest Rated Courses
+Stanford University
+Machine Learning
+via Coursera
+University of California, San Diego
+Learning How to Learn: Powerful mental tools to help you master tough subjects
+via Coursera
+Harvard University
+CS50's Introduction to Computer Science
+via edX
+University of Michigan
+Programming for Everybody (Python)
+via Coursera
+University of Alberta
+Dino 101: Dinosaur Paleobiology
+via Coursera
+Browse More C++ courses
+Reviews
+for edX's Advanced C++
+    
+Based on 7 reviews
+5 star
+0%
+4 star
+0%
+3 star
+0%
+2 stars
+29%
+1 stars
+71%
+Did you take this course? Share your experience with other students.
+
+Write a review
+1
+Anonymous
+     a year ago
+Anonymous completed this course.
+Short answer: Skip this class. There are so many things wrong. If I didn't suspect better, it almost looks like the class was deliberately constructed to turn people off to C++. I don't mean to sound too negative, but most of this class is just unnecessarily painful to go through. I've done a lot of programming and what little okay material is offered here is buried in a mass of poor presentation, nutty quiz questions, old (really old) content, and just plain bad C++. It's a shame.
+Was this review helpful to you?
+Yes
+Anonymous
+     a year ago
+Anonymous completed this course.
+The course is merely an introduction to some advanced topics. The course material is of poor quality, the videos are useless, the texts are erroneous , the quiz question are not clear and sometimes "correct" answers are the wrong ones.
+Was this review helpful to you?
+Yes
+Anonymous
+     a year ago
+Anonymous completed this course.
+Want to code like it's 1998? Want to learn poor C++ with examples that haven't been tested and videos that are barely readable and often inaudible? Want to learn 'advanced' features which are no longer used in practice? I want my money back for Edx on this one.
+Was this review helpful to you?
+Yes
+Anonymous
+     a year ago
+Anonymous is taking this course right now.
+Terrible class. Instructor responds to people doubt with bad quiz
+
+question with "I'll need to talk to the person who did the class"
+
+and then said quiz was correct even though many people
+
+in the class have explained why question and 'correct' answer are
+
+wrong. Dropped.
+Was this review helpful to you?
+Yes
+Anonymous
+     a year ago
+Anonymous completed this course.
+Just finished and the class is as bad as other reviewers have mentioned. I got help from a coworker and she was astounded at how bad the material and presentation were (especially the quizzes). It's truly sad to see classes like this on Edx.
+
+Was this review helpful to you?
+Yes
+Anonymous
+     4 months ago
+Anonymous is taking this course right now.
+The Advanced C++ course by Microsoft via edX is a huge disappointment for the following three reasons:
+
+1. Tutorial videos are barely readable and often inaudible (check module 2 templates for example). The instructor has done a poor job explaining the concepts.
+
+2. The text has many typos and does not meet even the minimum quality standards. Some of the quiz questions and examples are wrong.
+
+3. The text is merely an introduction to the advanced topics and does not go in depth in explaining them. It does not cover any new features added in C++11 and later (i.e. Modern C++).
+
+The only positive point about this course is that some of the most important topics are covered (particularly templates and iterators) in the course.
+Was this review helpful to you?
+Yes
+Anonymous
+     10 months ago
+Anonymous is taking this course right now.
+The first two courses of the series were great with the first one easily being the best as the video lectures were clear, detailed and to the point.
+
+This third course is a huge disappointment. The videos have terrible quality. You can hardly hear what the lecturer is saying as if he's on some kind of medication throughout the lectures. He's practically just mumbling the entire time.
+
+I can recommend the first two courses but not this one.
+Was this review helpful to you?
+Yes
+1
+Class Central
+Get personalized course recommendations, track subjects and courses with reminders, and more.
+
+Sign up for free
+Browse online courses
+and MOOCs By
+Providers
+Universities
+Institutions
+Subjects
+Careers
+Languages
+Quick Links
+100 Best Free Online Course of All-Time
+75 Free Writing Online Courses
+35+ Legit Online Master's Degrees
+Swayam MOOCs (2019)
+edX
+Coursera
+Stanford
+Harvard
+MIT
+Google
+Class Central Newsletter
+Never miss a course.
+
+Your email
+Subscribe
+No spam. Unsubscribe at any time.
+
+About Class Central
+Class Central is a search engine and reviews site for free online courses popularly known as MOOCs or Massive Open Online Courses.
+
+About Us Join us MOOC Report Help Center Contact Us
+Class Central © 2011-2019 Privacy Policy
+Close
+Close
+Never stop learningNever Stop Learning!
+Get personalized course recommendations, track subjects and courses with reminders, and more.
+
+Sign up for free
+

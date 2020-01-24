@@ -1,0 +1,242 @@
+https://www.upsolver.com/blog/streaming-data-architecture-key-components
+
+
+upsolver-logo-white-on-purple
+PRODUCT SOLUTIONS DEEP DIVE SUPPORT CUSTOMERS SCHEDULE A DEMO
+4 Key Components of a Streaming Data Architecture (with Examples)
+ Sep 11, 2019 3:42:06 PM / by Eran Levy
+
+Streaming data is becoming a core component of enterprise data architecture due to the explosive growth of data from non-traditional sources such as IoT sensors, security logs and web applications.
+
+ 
+
+Streaming technologies are not new, but they have considerably matured in recent years. The industry is moving from painstaking integration of open-source Spark/Hadoop frameworks, towards full stack solutions that provide an end-to-end streaming data architecture built on the scalability of cloud data lakes.
+
+ 
+
+Want to see how leading organizations design their big data infrastructure?‌‌ Check out these 4 real-life examples of streaming architectures.
+
+ In this article you will learn:
+
+What is Streaming Data and Streaming Data Architecture 
+Benefits of stream processing
+Components in a traditional vs. modern streaming architecture
+Design patterns of modern streaming architecture
+What is Streaming Data and Streaming data Architecture?
+Streaming data refers to data that is continuously generated. typically in high volumes and at high velocity. A streaming data source would typically consist of a stream of logs that record events as they happen - such as a user clicking on a link in a webpage, or a sensor reporting the current temperature.
+
+ 
+
+Common examples of streaming data include:
+
+IoT sensors
+Server and security logs
+Real-time advertising
+Click-stream data from apps and websites
+In all of these cases we have end devices that are continuously generating thousands or millions of records, forming a data stream that needs to be processed, parsed and structured for analytics.
+
+ 
+
+A streaming data architecture is a framework of software components built to ingest and process large volumes of streaming data from multiple sources. While traditional data solutions focused on writing and reading data in batches, a streaming data architecture consumes data immediately as it is generated, persists it to storage, and may perform real-time processing, data manipulation and analytics.
+
+ 
+
+Streaming architectures need to be able to account for the unique characteristics of data streams, which tend to generate massive amounts of data (terabytes to petabytes) that it is at best semi-structured and requires significant pre-processing and ETL to become useful.
+
+ 
+
+Why Streaming Data Architecture? Benefits of Stream Processing
+Stream processing used to be a 'niche' technology used only by a small subset of companies. However, with the rapid growth of SaaS, IoT and machine learning, organizations across industries are now dipping their feet into streaming analytics. It's difficult to find a modern company that doesn't have an app or a website; as traffic to these digital assets grows, and with increasing appetite for complex and real-time analytics, the need to adopt modern data infrastructure is quickly becoming mainstream.
+
+ 
+
+While traditional batch architectures can be sufficient at smaller scales, stream processing provides several benefits that other data platforms cannot:
+
+Able to deal with never-ending streams of events—some data is naturally structured this way. Traditional batch processing tools require stopping the stream of events, capturing batches of data and combining the batches to draw overall conclusions. In stream processing, while it is challenging to combine and capture data from multiple streams, it lets you derive immediate insights from large volumes of streaming data.
+Real-time or near-real-time processing—most organizations adopt stream processing to enable real time data analytics. While real time analytics is also possible with high performance database systems, often the data lends itself to a stream processing model.
+Detecting patterns in time-series data—detecting patterns over time, for example looking for trends in website traffic data, requires data to be continuously processed and analyzed. Batch processing makes this more difficult because it breaks data into batches, meaning some events are broken across two or more batches.
+Easy data scalability—growing data volumes can break a batch processing system, requiring you to provision more resources or modify the architecture. Modern stream processing infrastructure is hyper-scalable, able to deal with Gigabytes of data per second with a single stream processor. This allows you to easily deal with growing data volumes without infrastructure changes.
+To learn more, you can read our previous article on stream vs batch processing.
+
+The Components of a Streaming Architecture
+Most streaming stacks are still built on an assembly line of open-source and proprietary solutions to specific problems such as stream processing, storage, data integration and real-time analytics. At Upsolver we've developed a modern platform that combines most building blocks and offers a seamless way to transform streams into analytics-ready datasets. You can check out our technical white paper for the details.
+
+ 
+
+Whether you go with a modern data lake platform or a traditional patchwork of tools, your streaming architecture must include these four key building blocks:
+
+1. The Message Broker / Stream Processor 
+This is the element that takes data from a source, called a producer, translates it into a standard message format, and streams it on an ongoing basis. Other components can then listen in and consume the messages passed on by the broker.
+
+ 
+The first generation of message brokers, such as RabbitMQ and Apache ActiveMQ, relied on the Message Oriented Middleware (MOM) paradigm. Later, hyper-performant messaging platforms (often called stream processors) emerged which are more suitable for a streaming paradigm. Two popular stream processing tools are Apache Kafka and Amazon Kinesis Data Streams.
+
+ 
+
+
+Unlike the old MoM brokers, streaming brokers support very high performance with persistence, have massive capacity of a Gigabyte per second or more of message traffic, and are tightly focused on streaming with little support for data transformations or task scheduling (although Confluent's KSQL offers the ability to perform basic ETL in real-time while storing data in Kafka).
+
+ 
+
+You can learn more about message brokers in our article on analyzing Apache Kafka data, as well as this comparison between Kafka and RabbitMQ.
+
+ 
+
+2. Batch and Real-time ETL tools
+Data streams from one or more message brokers need to be aggregated, transformed and structured before data can be analyzed with SQL-based analytics tools. ETL platforms receives queries from users, fetches events from message queues and applies the query, to generate a result - often performing additional joins, transformations on aggregations on the data. The result may be an API call, an action, a visualization, an alert, or in some cases a new data stream.
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+Image Source: InfoQ
+
+ 
+
+A few examples of open-source ETL tools for streaming data are Apache Storm, Spark Streaming and WSO2 Stream Processor. While these frameworks work in different ways, they are all capable of listening to message streams, processing the data and saving it to storage. 
+
+ 
+
+Some stream processors, including Spark and WSO2, provide a SQL syntax for querying and manipulating the data; however, for most operations you would need complex code to write code in Java or Scala. Upsolver's data lake ETL is built to provide a self-service solution for transforming streaming data using only SQL and a visual interface, without the complexity of orchestrating and managing ETL jobs in Spark. You can start a free trial here.
+
+ 
+
+3. Data Analytics / Serverless Query Engine
+After streaming data is prepared for consumption by the stream processor, it must be analyzed to provide value. There are many different approaches to streaming data analytics. Here are some of the tools most commonly used for streaming data analytics.
+
+ 
+
+Analytics Tool
+
+Streaming Use Case
+
+Example Setup
+
+Amazon Athena
+
+Distributed SQL engine
+
+Streaming data is saved to S3. You can setup ad hoc SQL queries via the AWS Management Console, Athena runs them as serverless functions and returns results.
+
+Amazon Redshift
+
+Data warehouse
+
+Amazon Kinesis Streaming Data Firehose can be used to save streaming data to Redshift. This enables near real-time analytics with BI tools and dashboard you have already integrated with Redshift.
+
+Elasticsearch
+
+Text search
+
+Kafka Connect can be used to stream topics directly into Elasticsearch. If you use the Avro data format and a schema registry, Elasticsearch mappings with correct datatypes are created automatically. You can then perform rapid text search or analytics within Elasticsearch.
+
+Cassandra
+
+Low latency serving of streaming events to apps
+
+Kafka streams can be processed and persisted to a Cassandra cluster. You can implement another Kafka instance that receives a stream of changes from Cassandra and serves them to applications for real time decision making.
+
+ 
+
+4. Streaming Data Storage
+With the advent of low cost storage technologies, most organizations today are storing their streaming event data. Here are several options for storing streaming data, and their pros and cons.
+
+ comparison of streaming data storage options
+
+A data lake is the most flexible and inexpensive option for storing event data, but it is often very technically involved to build and maintain one. To learn more about the challenges of building a data lake, check out our previous article on data lakes and data lake platforms.
+
+ 
+
+Upsolver's data lake ETL platform reduces time-to-value for data lake projects by automating stream ingestion, schema-on-read, and metadata extraction. This allows data consumers to easily prepare data for analytics tools and real time analytics.
+
+ 
+
+To learn more, you can check out our Product page.
+
+ 
+
+Modern Streaming Architecture
+In modern streaming data deployments, many organizations are adopting a full stack approach. Vendors are providing technology solutions, most of them based on Kafka, which can take streaming data and perform the entire process, from message ingestion through ETL, storage management and preparing data for analytics.
+
+ 
+
+Modern streaming data architecture based on Upsolver on AWS
+
+ 
+
+Benefits of a modern streaming architecture:
+
+Can eliminate the need for large data engineering projects
+Performance, high availability and fault tolerance built in
+Newer platforms are cloud-based and can be deployed very quickly with no upfront investment
+Flexibility and support for multiple use cases
+Here's how you would use Upsolver's streaming data tool to analyze click-stream data in Amazon Athena:
+
+ 
+
+
+Examples of modern streaming architectures on AWS 
+To learn how companies are operationalizing Kafka/Kinesis streams in the Amazon cloud, you can check out some of the following case studies:
+
+Sisense unlocks new analytical insights from 70bn events
+Bigabid's real-time data architecture for RTB
+Meta Networks transitions its streaming infrastructure from DW to data lake
+The Future of Streaming Data in 2019 and Beyond
+Streaming data architecture is in constant flux. Three trends we believe will be significant in 2019 and beyond:
+
+Fast adoption of platforms that decouple storage and compute—streaming data growth is making traditional data warehouse platforms too expensive and cumbersome to manage. Data lakes are increasingly used, both as a cheap persistence option for storing large volumes of event data, and as a flexible integration point, allowing tools outside the streaming ecosystem to access streaming data.
+From table modeling to schemaless development—data consumers don’t always know the questions they will ask in advance. They want to run an interactive, iterative process with as little initial setup as possible. Lengthy table modeling, schema detection and metadata extraction are a burden.
+Automation of data plumbing—organizations are becoming reluctant to spend precious data engineering time on data plumbing, instead of activities that add value, such as data cleansing or enrichment. Increasingly, data teams prefer full stack platforms that reduce time-to-value, over tailored home-grown solutions.
+ You can read more of our predictions for streaming data trends here.
+
+ 
+
+Want to build or scale up your streaming architecture? Upsolver is a streaming data platform that processes event data and ingests it into data lakes, data warehouses, serverless platforms, Elasticsearch and more, making SQL-based analytics instantly available IUpsolver also enables real time analytics, using low-latency consumers that read from a Kafka stream in parallel. It is a fully integrated solution that can be set up in hours.
+
+ 
+
+Upsolver gives you the best of all worlds—low cost storage on a data lake, easy transformation to tabular formats, and real time support. Start a free trial and build your next-gen streaming data architecture, or watch the webinar to learn how it’s done.
+
+ 
+
+ 
+
+
+Eran Levy
+Written by Eran Levy
+Director of Marketing at Upsolver
+
+
+Upsolver
+About Us
+Why Upsolver
+Customers
+Leadership
+Careers
+Support
+Contact
+Product
+Product Overview
+Data Ingestion
+Integrations
+Deployment
+Pricing
+Upsolver vs Alternatives
+Schedule a Demo
+Resources
+Tutorials
+Documentation
+Blog
+AWS Partner Network
+FOLLOW US
+LinkedIn facebook facebook
+AVAILABLE ON
+
+
+© 2018 Upsolver All Rights Reserved.    Terms  |  Privacy     Login    Free Trial    Call: +1 (646) 217-4670
+

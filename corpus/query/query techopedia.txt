@@ -1,0 +1,122 @@
+https://www.techopedia.com/definition/5736/query
+
+
+
+Techopedia - Where IT and Business MeetTOPICSWEBINARSDOWNLOADSDICTIONARYTUTORIALSQ & ARESOURCES
+TRENDING:
+VIRTUALIZATIONMACHINE LEARNINGBIG DATAENTERPRISEDEVELOPMENTMORE
+Search...
+
+
+Topics
+Webinars
+Downloads
+Dictionary
+Tutorials
+Q & A
+Resources
+Trending
+More
+Home  Dictionary  Tags  Enterprise  Databases 
+Query
+Definition - What does Query mean?
+A query is a request for data or information from a database table or combination of tables. This data may be generated as results returned by Structured Query Language (SQL) or as pictorials, graphs or complex results, e.g., trend analyses from data-mining tools.
+
+One of several different query languages may be used to perform a range of simple to complex database queries. SQL, the most well-known and widely-used query language, is familiar to most database administrators (DBAs).
+
+Techopedia explains Query
+The query database feature is equal in necessity to data storage capability. Thus, a number of query languages have been developed for different database engines and purposes, but SQL is by far the most ubiquitous and well-known. In fact, rookie database administrators often are surprised when they learn about the existence of other query languages, somewhat akin to how native English-speaking children are perplexed when hearing a foreign language for the first time. The element of surprise in both scenarios leads to a better understanding of other languages.
+
+Query languages generate different data types according to function. For example, SQL returns data in neat rows and columns and is very similar to Microsoft Excel in appearance.
+Other query languages generate data as graphs or other complex data manipulations, e.g., data mining, which is the deep analysis of information that uncovers previously-unknown trends and relationships between distinct or divergent data. For example, a SQL manufacturing company query may reveal that monthly sales peak in June and July, or that female sales representatives continually outperform male counterparts during holiday months.
+
+Share this:  
+Related Terms
+Structured Query Language (SQL)
+Data Mining
+Transact-SQL (T-SQL)
+Query By Example (QBE)
+Query Analysis
+Ad Hoc Query
+Query Plan Monitoring
+Data Modeling
+Comma-Separated Values File (CSV)
+Zope
+Techopedia - Where IT and Business Meet	
+Tech moves fast! Stay ahead of the curve with Techopedia!
+Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+
+Enter your email address...
+Recommended Resources
+Related Articles
+The Truth About Cybersecurity 
+The Truth About Cybersecurity
+How to Keep from Getting Phished in 2020 
+How to Keep from Getting Phished in 2020
+Understanding Biometric Security: The Growing Threats and How to Beat Them 
+Understanding Biometric Security: The Growing Threats and How to Beat Them
+Neurotechnology Vs. Neural Networks: What’s the Difference? 
+Neurotechnology Vs. Neural Networks: What’s the Difference?
+The Growing Cybersecurity War on the Healthcare Industry 
+The Growing Cybersecurity War on the Healthcare Industry
+IoT in 2020: What's Next? 
+IoT in 2020: What's Next?
+Related Tutorials
+Introduction to Databases 
+Introduction to Databases
+Featured Q&A
+What is the difference between a mobile OS and a computer OS?
+What is the difference between security architecture and security design?
+How can passwords be stored securely in a database?
+More of your questions answered by our Experts
+Related Tags
+DatabasesData ManagementEnterpriseProgramming LanguagesData
+RESOURCES
+The Ultimate Guide to Applying AI in Business	The Ultimate Guide to Applying AI in Business:
+Free Download: Machine Learning and Why It Matters	Free Download: Machine Learning and Why It Matters:
+FREE DOWNLOAD: AI and ML in the Oil and Gas Industry	FREE DOWNLOAD: AI and ML in the Oil and Gas Industry:
+AI in the Insurance Industry: 26 Real-World Use Cases	AI in the Insurance Industry: 26 Real-World Use Cases:
+FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?	FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?:
+LATEST ARTICLES
+The Truth About Cybersecurity 	
+The Truth About Cybersecurity
+How to Keep from Getting Phished in 2020 	
+How to Keep from Getting Phished in 2020
+Understanding Biometric Security: The Growing Threats and How to Beat Them 	
+Understanding Biometric Security: The Growing Threats and How to Beat Them
+Neurotechnology Vs. Neural Networks: What’s the Difference? 	
+Neurotechnology Vs. Neural Networks: What’s the Difference?
+The Growing Cybersecurity War on the Healthcare Industry 	
+The Growing Cybersecurity War on the Healthcare Industry
+ABOUT
+About
+Advertising Info
+Contact Us
+Write for Us
+CONTENT
+Topics
+Dictionary
+Q&A
+Tutorials
+TOPICS
+Cloud Computing
+Security
+Big Data
+Online Privacy
+Machine Learning
+IT Business
+Data Management
+All Topics
+CONNECT
+ Facebook
+ Twitter
+ LinkedIn
+ Feed
+MORE
+Webinars
+Downloads
+Newsletters
+Techopedia Terms:    #    A    B    C    D    E    F    G    H    I    J    K    L    M    N    O    P    Q    R    S    T    U    V    W    X    Y    Z   
+
+Copyright © 2019 Techopedia Inc. - Terms of Use - Privacy Policy
+

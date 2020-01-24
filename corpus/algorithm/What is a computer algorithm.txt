@@ -1,0 +1,110 @@
+https://computer.howstuffworks.com/what-is-a-computer-algorithm.htm
+
+    
+Search
+Tech
+Computer Hardware
+Internet
+Computer Software
+Computer Security
+Computer Peripherals
+ HowStuffWorks  Tech  Computer  Computer Software  Programming
+What is a computer algorithm?
+   
+To make a computer do anything, you have to write a computer program. To write a computer program, you have to tell the computer, step by step, exactly what you want it to do. The computer then "executes" the program, following each step mechanically, to accomplish the end goal.
+
+When you are telling the computer what to do, you also get to choose how it's going to do it. That's where computer algorithms come in. The algorithm is the basic technique used to get the job done. Let's follow an example to help get an understanding of the algorithm concept.
+
+Let's say that you have a friend arriving at the airport, and your friend needs to get from the airport to your house. Here are four different algorithms that you might give your friend for getting to your home:
+
+The taxi algorithm:
+
+Go to the taxi stand.
+Get in a taxi.
+Give the driver my address.
+The call-me algorithm:
+
+When your plane arrives, call my cell phone.
+Meet me outside baggage claim.
+The rent-a-car algorithm:
+
+Take the shuttle to the rental car place.
+Rent a car.
+Follow the directions to get to my house.
+The bus algorithm:
+
+Outside baggage claim, catch bus number 70.
+Transfer to bus 14 on Main Street.
+Get off on Elm street.
+Walk two blocks north to my house.
+All four of these algorithms accomplish exactly the same goal, but each algorithm does it in completely different way. Each algorithm also has a different cost and a different travel time. Taking a taxi, for example, is probably the fastest way, but also the most expensive. Taking the bus is definitely less expensive, but a whole lot slower. You choose the algorithm based on the circumstances.
+
+In computer programming, there are often many different ways -- algorithms -- to accomplish any given task. Each algorithm has advantages and disadvantages in different situations. Sorting is one place where a lot of research has been done, because computers spend a lot of time sorting lists. Here are five different algorithms that are used in sorting:
+
+Bin sort
+Merge sort
+Bubble sort
+Shell sort
+Quicksort
+If you have a million integer values between 1 and 10 and you need to sort them, the bin sort is the right algorithm to use. If you have a million book titles, the quicksort might be the best algorithm. By knowing the strengths and weaknesses of the different algorithms, you pick the best one for the task at hand.
+
+Here are some interesting links:
+
+whatis.com: Algorithm
+How Java Works
+How C Programming Works
+How PCs Work
+How Encryption Works
+How File Compression Works
+ 
+
+Print | Citation & Date | Reprint
+
+   
+
+Newsletter
+Get the best of HowStuffWorks by email, keep up to date on:
+Latest Buzz | Stuff Shows & Podcasts | Tour | Weird & Wacky
+Sign Up Now!
+
+Newsletter Policy & Terms
+RELATED
+
+How to Uninstall Programs in Windows
+
+
+How does JavaScript work and how can I build simple calculators with it?
+
+
+How C Programming Works
+
+RECOMMENDED
+HowStuffWorks
+What's the Difference? Quiz
+The Ultimate Downsize: Living in a Shipping Container Home
+If at First You Don't Succeed, Try Tripe Again
+Why You Should Stop Raking Fall Leaves, Stat!
+by Taboola
+HowStuffWorks
+About
+Podcasts
+Privacy Policy
+Ad Choices
+Terms
+Careers
+Contact Us
+Help
+Reprints
+Newsletter
+Get the best of HowStuffWorks by email!
+
+Keep up to date on: Latest Buzz · Stuff Shows & Podcasts · Tours · Weird & Wacky
+
+Copyright © 2019 HowStuffWorks, a division of InfoSpace Holdings, LLC, a System1 Company
+
+What's the Difference Between Whiskey and Bourbon?
+Read Next Story
+What's the Difference? Quiz
+Read Next Story
+The Ultimate Downsize: Living in a Shipping Container Home
+Read Next Story

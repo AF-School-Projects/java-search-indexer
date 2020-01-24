@@ -1,0 +1,192 @@
+https://techcrunch.com/2019/11/15/d-wave-sticks-with-its-approach-to-quantum-computing/
+
+
+Login
+Search
+Disrupt Berlin 2019
+Gift Guide
+Startups
+Apps
+Gadgets
+Videos
+Audio
+Newsletters
+Extra Crunch
+Advertise
+Events
+—
+Crunchbase
+More
+Gift Guide 2019
+Apple
+Enterprise
+Transportation
+
+Extra Crunch
+D-Wave sticks with its approach to quantum computing
+Frederic Lardinois@fredericl / 4:00 pm EST • November 15, 2019
+d wave 2000q
+Earlier this month, at the WebSummit conference in Lisbon, D-Wave and Volkswagen teamed up to manage a fleet of buses using a new system that, among other things, used D-Wave’s  quantum technology to help generate the most efficient routes. While D-Wave’s 2000Q only played a small part in this process, it’s nevertheless a sign that quantum computing is slowly getting ready for production use and that D-Wave’s approach, somewhat controversial in its early days, is paying off.
+
+Unlike other players in the quantum computing market, D-Wave always bet on quantum annealing as its core technology. This technology lends itself perfectly to optimization problems like the kind of routing problem the company tackled with VW, as well as sampling problems, which, in the context of quantum computing, are useful for improving machine learning models, for example. Depending on their complexity, some of these problems are nearly impossible to solve with classical computers (at least in a reasonable time).
+
+Grossly simplified, with quantum annealing, you are building a system that almost naturally optimizes itself for the lowest energy state, which then represents the solution to your problem.
+
+Microsoft, IBM, Rigetti and others are mostly focused on building gate-model quantum computers and they are starting to see results (with the exception of Microsoft, which doesn’t have a working computer just yet and is hence betting on partnerships for the time being). But this is also a far more complex problem. And while you can’t really compare these technologies qubit to qubit, it’s telling that D-Wave’s latest machines, the Advantage, will feature 5,000 qubits — while the state of the art among the gate-model proponents is just over 50. Scaling these machines up is hard, though, especially given that the industry is still trying to figure out how to manage the noise issues.
+
+D-Wave remains the only major player that’s betting on annealing, but the company’s CEO Vern Brownell remains optimistic that this is the right approach. “We feel more strongly about our decision to do quantum annealing now that there are a few companies that actually have quantum computers that people can access,” he said in an interview earlier this month.
+
+“We have customers, Volkswagen included, that have run problems against those other computers and seeing what they can actually do and it’s vastly different. Our capability is many orders of magnitude faster for most problems than what you can do with other quantum computers. And that is because of the choice of quantum annealing. And that is because quantum healing is more robust to errors.” Error correction, he argues, remains the fundamental problem, and will hamper the performance of these systems for the foreseeable future. “And in order to move into the enterprise or any kind of practical application, that error correction needs to be wrestled with,” he noted.
+
+
+Sign up for Newsletters
+See all newsletters(opens in a new window)
+
+The Daily Crunch
+Week in Review
+Extra Crunch Roundup
+Startups Weekly
+The Station
+Max Q (coming soon) - A newsletter about space
+Event Updates
+Sponsorship Insider
+Crunchbase Daily
+
+Email
+Subscribe
+(opens in a new window)(opens in a new window)(opens in a new window)(opens in a new window)
+https://tcrn.ch/33RrBJj
+Copy
+Tags
+ScienceTCarticlesceoD WaveEmerging-Technologiesquantum computing(opens in a new window)Quantum Mechanics
+Extra Crunch
+D-Wave sticks with its approach to quantum computing
+Frederic Lardinois
+4:00 pm EST • November 15, 2019
+Earlier this month, at the WebSummit conference in Lisbon, D-Wave and Volkswagen teamed up to manage a fleet of buses using a new system that, among other things, used D-Wave’s quantum techno...
+
+d wave 2000q
+Reddit’s monthly active user base grew 30% to reach 430M in 2019
+Sarah Perez
+10:52 am EST • December 4, 2019
+In a year-end retrospective released this morning, Reddit says its user base grew 30% this year to reach 430 million monthly active users, as of the end of October. Its users also contributed 199 m...
+
+reddit app icon ios
+Dataiku is now worth $1.4 billion following secondary round
+Romain Dillet
+10:37 am EST • December 4, 2019
+Enterprise AI company Dataiku has announced some changes in its capitalization table. CapitalG (formerly Google Capital), Alphabet’s growth equity investment fund, is investing in the startup by bu...
+
+
+Toyota leads $50 million investment in autonomous shuttle startup May Mobility
+Kirsten Korosec
+10:12 am EST • December 4, 2019
+May Mobility, a Michigan-based startup that is operating autonomous shuttle services in three U.S. cities, has has raised $50 million in a Series B round led by Toyota Motor Corp. The funding, whic...
+
+
+Kustomer raises $60M for its omnichannel-based CRM platform
+Ingrid Lunden
+9:29 am EST • December 4, 2019
+Kustomer, a CRM startup that’s taking on the likes of Zendesk, Salesforce, and many other bigger and older providers, has closed yet another round of funding — no less than its third fu...
+
+GettyImages 1165734855
+Delphia wants to turn your data into investment capital through collective action
+Darrell Etherington
+9:27 am EST • December 4, 2019
+A lot of companies talk about the value of your data, and about helping you get more control over the information you share, but Toronto-based Delphia is unique in aiming to build a viable, sustain...
+
+
+Plex launches a free, ad-supported streaming service in over 200 countries
+Sarah Perez
+9:00 am EST • December 4, 2019
+Plex today is launching its own ad-supported streaming service, a rival to The Roku Channel, Tubi, Crackle, Vudu’s Movies on Us, and others that offer a way to stream movies and TV for free w...
+
+
+Pandora’s revamped, more personalized app rolls out to all users
+Sarah Perez
+9:00 am EST • December 4, 2019
+Pandora’s redesigned mobile app experience is today available to all users, following a limited rollout that began in October. The update expands on Pandora’s personalization capabiliti...
+
+pandora app icon ios
+Flow raises $37M to simplify international e-commerce
+Anthony Ha
+9:00 am EST • December 4, 2019
+Flow, a startup that helps brands and retailers build a cross-border e-commerce business, has raised $37 million in Series B funding. CEO Rob Keve said that thanks to the magic of social media and ...
+
+Flow founders
+Android’s ‘Focus Mode’ exits beta, adds new scheduling features
+Sarah Perez
+9:00 am EST • December 4, 2019
+Google is expanding its suite of “Digital Wellbeing” tools for Android devices with a new feature, Focus Mode, launching today. This feature allows users to turn off distractions —...
+
+
+Watch SpaceX launch a twice-flown Dragon capsule to the ISS live
+Darrell Etherington
+7:56 am EST • December 4, 2019
+SpaceX is set to launch its 19th Commercial Resupply Mission (CRS) for the International Space Station today, with a liftoff time scheduled for 12:51 PM EST (9:51 AM EST). The launch will take off ...
+
+
+Extra Crunch
+Lessons from M-Pesa for Africa’s new VC-rich fintech startups
+Jake Bright
+7:42 am EST • December 4, 2019
+Over the least decade, Africa has been in the midst of a startup boom accompanied by big growth in VC and improvements in internet and mobile penetration.
+
+
+Disrupt Berlin 2019 opens in just one week
+Leslie Hitchcock
+5:08 am EST • December 4, 2019
+Synchronize your watches, dust off your passports and pack your bags, startuppers. Disrupt Berlin 2019 kicks off in just seven short days. Thousands of you — representing more than 50 countries — w...
+
+
+Prolific wants to challenge Amazon’s Mechanical Turk in the online research space
+Steve O'Hear
+4:00 am EST • December 4, 2019
+Prolific, a U.K.-based startup that wants to make it easier to conduct online research, has raised $1.2 million in seed funding. The round is co-led by Silicon Valley-based Pioneer Fund, and Altair...
+
+
+Otta picks up £850,000 seed to match you to relevant jobs
+Steve O'Hear
+4:00 am EST • December 4, 2019
+Otta, one of the latest startups aiming to fix what it sees as a broken job search and recruitment market, has picked up £850,000 in seed funding. Backing the young London company is LocalGlobe, al...
+
+
+Meet Europe’s top VCs at Disrupt Berlin
+Kate Clark
+1:11 am EST • December 4, 2019
+Learn from top European and U.S. venture capitalists at Disrupt Berlin next week.
+
+
+In a first, Amazon launches a battery-powered portable Echo speaker in India
+Manish Singh
+12:11 am EST • December 4, 2019
+After launching nearly a dozen Echo speaker models in India in two years, Amazon said on Wednesday it is adding a new variant to the mix that addresses one of the most requested features from custo...
+
+
+Carbon dioxide emissions are set to hit a record high this year (it’s not fine, but not hopeless)
+Jonathan Shieber
+10:21 pm EST • December 3, 2019
+Carbon dioxide emissions, one of the main contributors to the climate changes bringing extreme weather, rising oceans, and more frequent fires that have killed hundreds of Americans and cost the U....
+
+
+AWS launches discounted spot capacity for its Fargate container platform
+Frederic Lardinois
+7:58 pm EST • December 3, 2019
+AWS today quietly brought spot capacity to Fargate, its serverless compute engine for containers that supports both the company’s Elastic Container Service and, now, its Elastic Kubernetes se...
+
+aws re:invent logo
+Extra Crunch
+Progressive VCs and private equity are using tech and analytics to revolutionize investing
+David Teten
+7:34 pm EST • December 3, 2019
+Private equity and venture capital investors are copying our counterparts in the hedge fund world: we’re trying to automate more of our job.
+
+vc technology investor
+This 16-game arcade for AIs tests their playing prowess
+Devin Coldewey
+7:24 pm EST • December 3, 2019
+Figuring out just what an AI is good at is one of the hardest thing about understanding them. To help determine this, OpenAI has designed a set of games that can help researchers tell whether their...
+
+
+TechCrunchPrivacy PolicyDo Not Sell My Personal InformationAbout Our AdsCode of ConductTerms of Service
+© 2013-2019 Verizon Media. All rights reserved. Powered by WordPress VIP(opens in a new window). Fonts by TypeKit(opens in a new window).

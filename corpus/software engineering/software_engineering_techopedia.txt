@@ -1,0 +1,115 @@
+
+Techopedia - Where IT and Business MeetTOPICSWEBINARSDOWNLOADSDICTIONARYTUTORIALSQ & ARESOURCES
+TRENDING:
+VIRTUALIZATIONMACHINE LEARNINGBIG DATAENTERPRISEDEVELOPMENTMORE
+Search...
+
+Topics
+Webinars
+Downloads
+Dictionary
+Tutorials
+Q & A
+Resources
+Trending
+More
+Home  Dictionary  Tags  Development 
+Software Engineering
+Definition - What does Software Engineering mean?
+Software engineering is the process of analyzing user needs and designing, constructing, and testing end user applications that will satisfy these needs through the use of software programming languages. It is the application of engineering principles to software development. In contrast to simple programming, software engineering is used for larger and more complex software systems, which are used as critical systems for businesses and organizations.
+
+Techopedia explains Software Engineering
+A software engineer takes the software needs of end users into account and consequently develops or designs new applications. Furthermore, software engineering may involve the process of analyzing existing software and modifying it to meet current application needs.
+
+As computer hardware becomes cheaper, the focus transfers to software systems. Large software systems may be more complex than the hardware used to run them, so there is great demand for best practices and engineering processes that can be applied to software development. There must be discipline and control during software engineering, much like any complex engineering endeavor.
+In modern consumer electronics, devices in direct competition often have similar hardware and processing power, but the user experience will vary greatly depending on the software being used.
+
+Share this:  
+Related Terms
+Software Development Process
+Agile Software Development
+Cloud Testing
+Design Reuse
+Skunkworks
+Component-Based Development (CBD)
+Margaret Hamilton
+Commit
+Access Modifiers
+Acyclic
+Techopedia - Where IT and Business Meet	
+Tech moves fast! Stay ahead of the curve with Techopedia!
+Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+
+Enter your email address...
+Recommended Resources
+Related Articles
+5 Steps to Creating a Successful API 
+5 Steps to Creating a Successful API
+The Laws of Computing 
+The Laws of Computing
+Agile Software Development 101 
+Agile Software Development 101
+Malicious Software: Worms, Trojans and Bots, Oh My! 
+Malicious Software: Worms, Trojans and Bots, Oh My!
+Remember IRC? It's Still Around - And It's Still Worth Using 
+Remember IRC? It's Still Around - And It's Still Worth Using
+An Introduction to Application Software 
+An Introduction to Application Software
++ View More Articles
+Featured Q&A
+What is the difference between a mobile OS and a computer OS?
+What is the difference between alpha testing and beta testing?
+What components make up an IT infrastructure, and how do they work together?
+More of your questions answered by our Experts
+Related Tags
+DevelopmentSoftware
+RESOURCES
+The Ultimate Guide to Applying AI in Business	The Ultimate Guide to Applying AI in Business:
+Free Download: Machine Learning and Why It Matters	Free Download: Machine Learning and Why It Matters:
+FREE DOWNLOAD: AI and ML in the Oil and Gas Industry	FREE DOWNLOAD: AI and ML in the Oil and Gas Industry:
+AI in the Insurance Industry: 26 Real-World Use Cases	AI in the Insurance Industry: 26 Real-World Use Cases:
+FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?	FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?:
+LATEST ARTICLES
+IoT in 2020: What's Next? 	
+IoT in 2020: What's Next?
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game 	
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game
+National Entrepreneurs' Day: 5 Ways You Can Avoid AI Startup Failure 	
+National Entrepreneurs' Day: 5 Ways You Can Avoid AI Startup Failure
+How IoT Can Compromise Your Home's Safety and Security 	
+How IoT Can Compromise Your Home's Safety and Security
+How IoT Can Make Your Home Safer and More Secure 	
+How IoT Can Make Your Home Safer and More Secure
+ABOUT
+About
+Advertising Info
+Contact Us
+Write for Us
+CONTENT
+Topics
+Dictionary
+Q&A
+Tutorials
+TOPICS
+Cloud Computing
+Security
+Big Data
+Online Privacy
+Machine Learning
+IT Business
+Data Management
+All Topics
+CONNECT
+ Facebook
+ Twitter
+ LinkedIn
+ Feed
+MORE
+Webinars
+Downloads
+Newsletters
+Techopedia Terms:    #    A    B    C    D    E    F    G    H    I    J    K    L    M    N    O    P    Q    R    S    T    U    V    W    X    Y    Z   
+
+Copyright © 2019 Techopedia Inc. - Terms of Use - Privacy Policy
+
+Notifications Powered By 

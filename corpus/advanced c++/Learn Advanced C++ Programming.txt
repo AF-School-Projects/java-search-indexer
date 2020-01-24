@@ -1,0 +1,360 @@
+Udemy
+ Categories
+Search for anything
+Search for anything
+Udemy for Business
+Teach on Udemy
+Shoplist
+Development
+Web Development Data Science Mobile Apps Programming Languages Game Development Databases Software Testing Software Engineering Development Tools E-Commerce
+Business
+Finance Entrepreneurship Communications Management Sales Strategy Operations Project Management Business Law Data & Analytics Home Business Human Resources Industry Media Real Estate Other
+Finance & Accounting
+Accounting & Bookkeeping Compliance Cryptocurrency & Blockchain Economics Finance Finance Cert & Exam Prep Financial Modeling & Analysis Investing & Trading Money Management Tools Taxes Other Finance & Economics
+IT & Software
+IT Certification Network & Security Hardware Operating Systems Other
+Office Productivity
+Microsoft Apple Google SAP Oracle Other
+Personal Development
+Personal Transformation Productivity Leadership Personal Finance Career Development Parenting & Relationships Happiness Religion & Spirituality Personal Brand Building Creativity Influence Self Esteem Stress Management Memory & Study Skills Motivation Other
+Design
+Web Design Graphic Design Design Tools User Experience Game Design Design Thinking 3D & Animation Fashion Architectural Design Interior Design Other
+Marketing
+Digital Marketing Search Engine Optimization Social Media Marketing Branding Marketing Fundamentals Analytics & Automation Public Relations Advertising Video & Mobile Marketing Content Marketing Growth Hacking Affiliate Marketing Product Marketing Other
+Lifestyle
+Arts & Crafts Food & Beverage Beauty & Makeup Travel Gaming Home Improvement Pet Care & Training Other
+Photography
+Digital Photography Photography Fundamentals Portraits Photography Tools Commercial Photography Video Design Other
+Health & Fitness
+Fitness General Health Sports Nutrition Yoga Mental Health Dieting Self Defense Safety & First Aid Dance Meditation Other
+Music
+Instruments Production Music Fundamentals Vocal Music Techniques Music Software Other
+Teaching & Academics
+Engineering Humanities Math Science Online Education Social Science Language Teacher Training Test Prep Other Teaching & Academics
+Financial Analysis Investing Finance Fundamentals Stock Trading Forex Financial Modeling Accounting Excel Python
+AWS Certification AWS Certified Solutions Architect - Associate Cisco CCNA CompTIA A+ AWS Certified Developer - Associate CompTIA Security+ AWS Certified Cloud Practitioner CompTIA Network+ AWS Certified Solutions Architect - Professional
+Photoshop Graphic Design Adobe Illustrator Drawing InDesign Digital Painting Figure Drawing Logo Design Character Design
+Reiki Life Coaching Neuro-Linguistic Programming Energy Healing Neuroscience Meditation Mindfulness Personal Transformation Chakra
+Web Development JavaScript React Angular CSS Node.Js PHP Vue JS Django
+Android Development iOS Development Google Flutter Swift React Native Dart Programming Language Mobile Development Ionic Kotlin
+Digital Marketing Google Ads (Adwords) Google Ads (AdWords) Certification Social Media Marketing Marketing Strategy YouTube Marketing Facebook Marketing Google Analytics Email Marketing
+SQL Microsoft Power BI Tableau Business Analysis Business Intelligence MySQL Data Analysis Hadoop Big Data
+Business Fundamentals Amazon FBA Dropshipping Entrepreneurship Fundamentals Business Plan Business Strategy Startup Blogging Mug Printing
+Unity Game Development Fundamentals C# Unreal Engine 3D Game Development C++ 2D Game Development Unreal Engine Blueprints Mobile Game Development
+IT & Software
+Other
+C++
+Gift This Course
+Learn Advanced C++ Programming
+Discover intermediate to advanced C++, including C++ 11's fantastic additions to the C++ standard.
+BESTSELLER
+4.4 (4,657 ratings)
+30,422 students enrolled
+Created by John Purcell
+Last updated 10/2017
+ English
+ English, Portuguese [Auto-generated], 1 more
+Preview this course
+
+Current price$9.99
+Original Price$34.99
+Discount71% off
+2 days left at this price!
+30-Day Money-Back Guarantee
+This course includes
+15 hours on-demand video
+2 articles
+2 downloadable resources
+Full lifetime access
+Access on mobile and TV
+Certificate of Completion
+Training 5 or more people?
+Get your team access to 3,500+ top Udemy courses anytime, anywhere.
+
+Try Udemy for Business
+What you'll learn
+Develop complex C++ applications
+Understand C++ 11
+Be in a position to apply for jobs requiring good C++ knowledge
+Requirements
+You will need a grasp of basic C++, together with a C++ compiler.
+Description
+This course will take you from a basic knowledge of C++ to using more advanced features of the language. This course is for you if you want to deepen your basic knowledge of C++, you want to learn C++ 11 features, or you've taken my free beginners' C++ course and you're looking for the next step.
+
+We'll start with a look at C++ file handling and move through STL, template classes, operator overloading, lambda expressions, move constructors and much more besides.
+
+At the end of the course I'll show you how to create a program that generates fractal images, using a a few of the language features we've seen in the course and giving you a great work out with smart pointers and arrays.
+
+I'll give you exercises throughout the course, ranging from easy near the start, to quite tricky (but optional!) near the end of the course.
+
+Who this course is for:
+This course is for anyone with a basic knowledge of C++ who wants to increase their knowledege
+Suitable for anyone who knows C++ 98 and wants to learn C++ 11 features
+Featured review
+Marian Pekár
+Marian Pekár ( 37 courses, 26 reviews )
+11 months ago
+I'm once again amazed with this course, maybe even more, as I was with the previous free course for beginners. Everything is so well, easy but deeply explained and the final Fractal project is absolutely stunning. If you're thinking about to start with C++ I say go for it, take C++ For Complete Beginners by John first and then this one, you won't regret it.
+Was this review helpful?Report
+Thank you! You have successfully submitted feedback for this review.
+Students also bought
+Learn C++ for Game Development12.5 hours
+Learn C++ for Game Development
+Updated 8/2018
+4.7
+2,038
+Current price$9.99
+Original Price$199.99
+BESTSELLERQt Core Advanced with C++12 hours
+Qt Core Advanced with C++
+Updated 6/2019
+4.3
+916
+Current price$9.99
+Original Price$19.99
+Design Patterns in Modern C++12.5 hours
+Design Patterns in Modern C++
+Updated 11/2019
+4.4
+11,162
+Current price$9.99
+Original Price$99.99
+BESTSELLERComputer Graphics with Modern OpenGL and C++21.5 hours
+Computer Graphics with Modern OpenGL and C++
+Updated 7/2019
+4.6
+7,244
+Current price$9.99
+Original Price$199.99
+Mastering C++ Standard Library Features6 hours
+Mastering C++ Standard Library Features
+Updated 1/2018
+4.5
+1,886
+Current price$9.99
+Original Price$124.99
+Course content
+Expand all 105 lectures
+15:11:01
+–
+Introduction
+04:22
+Introduction
+Preview
+03:15
+Source Code 
+Preview
+01:07
++
+Exceptions
+4 lectures
+36:06
++
+Files
+5 lectures
+46:59
++
+The Standard Template Library
+12 lectures
+02:21:22
++
+Operator Overloading
+6 lectures
+01:09:53
++
+Template Classes and Functions
+4 lectures
+23:26
++
+Passing Functions to Functions
+5 lectures
+56:38
++
+C++ 11's Amazing New Features
+31 lectures
+04:20:41
++
+About GUI Programming in C++
+1 lecture
+11:16
++
+A Project: Drawing Fractal Images
+34 lectures
+04:14:06
+1 more section
+Frequently Bought Together
+105 lectures
+15 hours video
+John Purcell
+Learn Advanced C++ Programming
+BESTSELLER
+John Purcell
+4.4(4,657)
+Current price$9.99
+Original Price$34.99
+72 lectures
+15 hours video
+Arkadiusz Włodarczyk
+C++: From Beginner to Expert
+Arkadiusz Włodarczyk
+4.4(6,831)
+Current price$9.99
+Original Price$169.99
+Total:
+Current price$19.98
+Original Price$204.98
+John Purcell
+4.3 Instructor Rating
+137,689 Reviews
+1,722,924 Students
+13 Courses
+John Purcell
+Software Development Trainer
+  After working as a software developer and contractor for over 14 years for a whole bunch of companies including CSC, Proquest, SPSS and AT&T in the UK and Netherlands, I decided to work full-time as a private software trainer. After spending four years in the beautiful city of Budapest, Hungary and a year in Berlin, I now live in my home town of Derby, UK.
+
+Student feedback
+4.4
+Course Rating
+
+Rating: 5 out of 548%
+
+Rating: 4 out of 538%
+
+Rating: 3 out of 511%
+
+Rating: 2 out of 52%
+
+Rating: 1 out of 51%
+Reviews Search reviews
+Search reviews
+ 
+Loved the course. Everything was well thought out and, above all else, easy to understand and follow.
+
+PG
+Paul Christopher Gloumeau
+a month ago
+Was this review helpful?Report
+Thank you! You have successfully submitted feedback for this review.
+Hello,
+
+The course structure is very good.
+
+Thank you very much for all information!
+
+Have a nice day!
+
+SR
+Simina Rosioru
+2 months ago
+Was this review helpful?Report
+Thank you! You have successfully submitted feedback for this review.
+So far, I already know the material, but it is good to go over it again. I am a Visual Studio guy, however, I used eclipse so my projects would be identical to those in the course. eclipse is very labor intensive and counter intuitive in it's user interface. I recreated all the projects up until the Fractal project. It became too much for me to follow when each video created a new project with a different name for each additional video adding functionality. About halfway through it, I decided to just watch the remaining videos without creating the projects myself which I had done up to that point. Had I figured out how he was presenting the course earlier, I would have created just one project and modified that same project for succeeding videos. I plan on going back through the project and completing it myself, this time in Visual Studio. Any more courses I take, I will try to use Visual Studio. I really have a hard time with eclipse.
+
+I think the course covered most topics an advanced course would, though it is a little dated in some places. I would have liked the new threading model to have been covered. I have programmed for 26 years, mostly in C++, so I was already acquainted with all the topics presented.
+
+Overall, I am glad I took the course and hope there is a newer version soon.
+
+BL
+Barney Lewis
+2 months ago
+Was this review helpful?Report
+Thank you! You have successfully submitted feedback for this review.
+I like this C++ programming course very much. instead of explaining only C++ syntax, it is better if you cover how the compiler understand the new syntax and internal details
+
+VP
+Venkata Krishna Reddy Pilli
+2 months ago
+Was this review helpful?Report
+Thank you! You have successfully submitted feedback for this review.
+The sound quality isn't great and there aren't any exercises throughout the course. The project at the end is just watching the presenter type in code. I think it would have been better to present the problem so people can go ahead and develop it themselves. I personally don't learn programming through copying someone.
+
+JP
+Jennifer Parak
+3 months ago
+Was this review helpful?Report
+Thank you! You have successfully submitted feedback for this review.
+Great course (especially coupled with beginner's course). Not only gets you up and writing programs, but really helps with understanding concepts and principles of the language. Looking to find more courses on Udemy, and especially any more by Mr. Purcell!
+
+T
+Tn
+2 months ago
+Was this review helpful?Report
+Thank you! You have successfully submitted feedback for this review.
+Great course!
+
+The final project is a bit complicated, but with some research on google and rewatching the videos several times, the algorithm starts to make sense!
+
+Thanks a lot for this great course!
+
+Gor Hakobyan
+Gor Hakobyan
+2 months ago
+Was this review helpful?Report
+Thank you! You have successfully submitted feedback for this review.
+I greatly enjoyed this course, having followed it through most of the fractal generation section. John explains everything carefully and cogently, injecting a bit of fun in random places. You can tell each lesson has a goal and structure, but he knows the material well enough that he's comfortable showing us how he builds programs steps by steps, warts and all, so we can see how he deals with compile and runtime errors in real time. I think this helps me learn much more than just watching a "perfect" video where the teacher makes no mistakes whatsoever, especially for coding where 99% of the time is spent fixing our own mistakes.
+
+If I had any constructive criticism it is that prior to the fractal generation section it can seem like the video topics are somewhat disconnected in that we move from skill to skill without a clear pattern. However in the fractal section it all comes together, so hang in there. Sometimes things that seem unmotivated or less important to learn at first later on become crucial to my coding approach and knowledge base.
+
+So thanks John and James the TA (who answers questions kindly, promptly, and completely) for a great course!
+
+JG
+Joseph Gennaro
+2 months ago
+Was this review helpful?Report
+Thank you! You have successfully submitted feedback for this review.
+The Instructor is very knowledgeable and has a clear frame of thought and that helps. A lot!!!
+
+Thanks a lot John for getting out there!
+
+SB
+Siddharth Bhaskara Venkata
+2 months ago
+Was this review helpful?Report
+Thank you! You have successfully submitted feedback for this review.
+This course was great for clarification and review of things I learned in my CS degree! Plus there are more than a few things that were mentioned but not covered in school that get a much deeper dive here. I had multiple questions during the course that were all answered within just a few hours. Great job and thanks for putting together a great course for a great learning experience.
+
+MM
+Mark Moore
+5 months ago
+Was this review helpful?Report
+Thank you! You have successfully submitted feedback for this review.
+More Courses by John Purcell
+136 lectures
+18.5 hours video
+John Purcell
+MySQL, SQL and Stored Procedures from Beginner to Advanced
+John Purcell
+4.3(1,782)
+Current price$9.99
+Original Price$29.99
+67 lectures
+14 hours video
+John Purcell
+Learn Perl 5 By Doing It
+John Purcell
+4.3(1,325)
+Current price$9.99
+Original Price$24.99
+93 lectures
+14 hours video
+John Purcell
+Java Swing (GUI) Programming: From Beginner to Expert
+John Purcell
+4.4(1,616)
+Current price$9.99
+Original Price$34.99
+ Report abuse
+Udemy for Business
+Teach on Udemy
+Udemy app
+About us
+Careers
+Blog
+Help and Support
+Affiliate
+Sitemap
+Featured courses
+Top companies choose Udemy for Business to build in-demand career skills.
+LyftPinterestadidasEventbriteSurveyMonkeyBooking.com
+Udemy Copyright © 2019 Udemy, Inc.
+Terms Privacy Policy and Cookie Policy

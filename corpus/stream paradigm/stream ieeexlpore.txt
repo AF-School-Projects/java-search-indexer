@@ -1,0 +1,106 @@
+https://ieeexplore.ieee.org/document/6111024
+
+
+IEEE websites place cookies on your device to give you the best user experience. By using our websites, you agree to the placement of these cookies. To learn more, read our Privacy Policy.
+Accept & Close
+Skip to Main Content
+
+IEEE.org IEEE Xplore Digital Library IEEE-SA IEEE Spectrum More Sites
+Cart (0) Create Account  Personal Sign In
+Institutional Sign In
+Browse
+My Settings
+Get Help
+Subscribe
+
+
+Enter keywords or phrases (Note: Searches metadata only by default. A search for 'smart grid' = 'smart AND grid')
+Advanced Search
+Other Search Options
+Conferences > 2011 5th International Confer... 
+Parallel bubble sort using stream programming paradigm
+Publisher: IEEE
+3
+Author(s)
+Rahim Rashidy ; Saeid Yousefpour ; Mohamad Koohi
+View All Authors
+
+1
+Paper
+Citation
+
+348
+Full
+Text Views
+Abstract
+Document Sections
+I
+Introduction
+II
+A REVIEW ON JSTREAM LIBRARY
+III
+Sequential Bubble Sort Algorithm
+IV
+Bubble Sort with Stream Programming Model
+V
+Conclusion
+Authors
+Figures
+References
+Citations
+Keywords
+Metrics
+Abstract:
+Parallel computing has become the dominant paradigm in computer science, mainly in the form of multi core processors. One software approach for parallel programming, is writing programs in streaming model. A stream program is type of computer program such that the input data is stream of data. In this paper we have used stream programming model, and developed the parallel version of bubble sort algorithm. Our source codes are simple java code and used JStream java library. Our algorithm doesn't have any loop statement, witch is increases the time complexity of algorithms. We have chosen bubble sort, because it is the oldest and slowest sorting algorithm with time complexity level of O(n 2 ). In this paper we have shown that our algorithm has lower time complexity. Also our code shows that writing parallel programs in streaming model would be very simple.
+Published in: 2011 5th International Conference on Application of Information and Communication Technologies (AICT)
+Date of Conference: 12-14 Oct. 2011
+Date Added to IEEE Xplore: 22 December 2011
+ ISBN Information:
+INSPEC Accession Number: 12460384
+DOI: 10.1109/ICAICT.2011.6111024
+Publisher: IEEE
+Conference Location: Baku, Azerbaijan
+I Introduction
+Parallel computing is a form of computation in witch many calculations are carried simultaneously [1]. It is now well established that parallel computing is moving into the mainstream with a rapid increase in the adoption of multi core processors. Unlike previous generations of mainstream hardware evolution, this shift will have a major impact on existing and future software [2] [3].
+
+Sign in to Continue Reading
+Authors
+Figures
+References
+Citations
+Keywords
+Metrics
+More Like This
+An Implementation of Sorting Algorithm Based on Java Multi-thread Technology
+2012 International Conference on Computer Science and Electronics Engineering
+
+Published: 2012
+
+A Java Framework for High Level Parallel Programming Using Powerlists
+2017 18th International Conference on Parallel and Distributed Computing, Applications and Technologies (PDCAT)
+
+Published: 2017
+
+View More
+Top Organizations with Patents on Technologies Mentioned in This Article
+
+IEEE Personal Account
+CHANGE USERNAME/PASSWORD
+Purchase Details
+PAYMENT OPTIONS
+VIEW PURCHASED DOCUMENTS
+Profile Information
+COMMUNICATIONS PREFERENCES
+PROFESSION AND EDUCATION
+TECHNICAL INTERESTS
+Need Help?
+US & CANADA: +1 800 678 4333
+WORLDWIDE: +1 732 981 0060
+CONTACT & SUPPORT
+Follow
+About IEEE Xplore | Contact Us | Help | Accessibility | Terms of Use | Nondiscrimination Policy | Sitemap | Privacy & Opting Out of Cookies
+
+A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+
+© Copyright 2019 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions.
+

@@ -1,0 +1,163 @@
+https://www.pcmag.com/encyclopedia/term/50064/query
+
+
+REVIEWS
+BEST PICKS
+HOW-TO
+NEWS
+SMART HOME
+BUSINESS
+SHOP
+What are you looking for?
+Search
+Subscribe:
+Subscribe
+Email
+BestTechof2019
+Snapdragon
+GivingTuesday
+HolidayGiftGuide
+DecadesBiggestFlops
+Encyclopedia
+
+SEARCH ENCYCLOPEDIA
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+0-9
+MISC
+Definition of: query
+query
+
+To search for data. In addition to obtaining lists of records that match the search criteria, queries to a database allow for counting items and summing amounts. A query to a search engine such as Google or Bing yields a summary of the contents of Web pages and is more often called a "search."
+
+For years, query and report programs have been the primary applications that produce output from information systems. A query implies an online request as required (look up that record), while a report implies a more elaborate printout with page headings and numbers that is typically produced at regular intervals such as end of month. See report writer.
+
+Simple or Complex
+Defining a query for a relational database can be extremely simple or very complex. If the query is based on one matching condition, such as "retrieve all customers who owe us more than $10,000," it is usually easy to define in a query language or program. However, "retrieve all customers who owe us more than $10,000 from purchasing toasters" is not easy. It requires several steps to determine how many toaster orders are in the balance due.
+
+Tables Must Be Joined
+Relational databases are designed to eliminate redundancy. The goal is to store a data item in one table and not have it duplicated in others. For example, an order record will contain the product number ordered, but often not its description. The description is stored in a product table. Thus, any printout of products ordered and their descriptions requires that the order table be linked to the product table for that query or report. Linking customer, order and product tables is a common example of "joining" tables to satisfy a query.
+
+Contents of a Query
+Most queries require at least the following conditions to be stated. First, which table or tables is the data coming from. If from two or more tables, what is the link between (typically account number or name). Next, define the selection criteria, which is the matching condition or filter. Lastly, define which fields in the tables are to be displayed or printed in the result. See SQL.
+
+
+Encyclopedia Banner
+
+
+The Query Statement
+This diagram depicts the typical conditions that have to be stated when querying a relational database.
+
+∧Top
+THIS DEFINITION IS FOR PERSONAL USE ONLY.
+All other reproduction requires permission.
+Copyright © 1981- 2019
+The Computer Language Co Inc.
+All rights reserved.
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+0-9
+MISC
+
+SEARCH ENCYCLOPEDIA
+GET OUR BEST STORIES!
+Subscribe to What's New Now
+
+Enter Your Email Address
+Sign Up
+This newsletter may contain advertising, deals, or affiliate links. Subscribing to a newsletter indicates your consent to our Terms of Use and Privacy Policy. You may unsubscribe from the newsletters at any time.
+
+MOST POPULAR STORIES
+BOTY 2019 Top art
+The Best Tech Products of 2019
+The Biggest Tech Product Flops of the 2010s
+The Biggest Tech Product Flops of the 2010s
+The Most Iconic Tech Innovations of the 2010s
+The Most Iconic Tech Innovations of the 2010s
+10 Ways to Boost Your Wi-Fi Signal
+10 Ways to Boost Your Wi-Fi Signal
+The Ultimate Cord Cutter's Guide
+The Ultimate Cord Cutter's Guide
+Robocall generic
+How to Block Robocalls and Spam Calls
+See More
+DISCOVER
+How to Download YouTube Videos
+How to Download YouTube Videos
+Best Gifts Under $50
+29 Must-Have Tech Gifts Under $50
+Amazon's Echo Lineup: What's the Difference?
+Amazon's Echo Lineup: What's the Difference?
+See More
+logo
+FACEBOOK
+ 
+TWITTER
+ 
+INSTAGRAM
+ 
+PINTEREST
+ 
+LINKEDIN
+ 
+YOUTUBE
+ 
+GOOGLE NEWS
+ 
+FLIPBOARD
+ABOUT US PCMAG DIGITAL EDITION NEWSLETTERS ENCYCLOPEDIA RSS FEED
+MORE FROM ZIFF DAVIS: MASHABLE EXTREMETECH GEEK ASKMEN BESTGIFTS.COM EVERYDAY HEALTH IGN OFFERS.COM SPEEDTEST.NET TECHBARGAINS TOOLBOX WHAT TO EXPECT
+RSS FEEDS SITE MAP CONTACT US PRIVACY POLICY TERMS OF USE ADVERTISE ACCESSIBILITY STATEMENT
+logo
+© 1996-2019 Ziff Davis, LLC. PCMag Digital Group
+PC Magazine and PC PCMag.com are among the federally registered trademarks of
+Ziff Davis, LLC and may not be used by third parties without explicit permission.
+

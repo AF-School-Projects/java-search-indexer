@@ -1,0 +1,227 @@
+https://www.merriam-webster.com/dictionary/algorithm
+
+Merriam-Webster Logo
+SINCE 1828
+GAMES
+BROWSE THESAURUS
+WORD OF THE DAY
+WORDS AT PLAY
+LOG IN
+REGISTER
+SAVED WORDS
+algorithm
+DICTIONARY
+THESAURUS
+Login
+or
+Register
+GAMES
+BROWSE THESAURUS
+WORD OF THE DAY
+WORDS AT PLAY
+SAVED WORDS
+algorithm noun
+Save Word
+To save this word, you'll need to log in. 
+
+Log In
+al·​go·​rithm | \ ˈal-gə-ˌri-t͟həm  \
+Definition of algorithm
+: a procedure for solving a mathematical problem (as of finding the greatest common divisor) in a finite number of steps that frequently involves repetition of an operation
+broadly : a step-by-step procedure for solving a problem or accomplishing some end
+There are several search engines, with Google, Yahoo and Bing being the biggest players. Each search engine has its own proprietary computation (called an "algorithm") that ranks websites for each keyword or combination of keywords.
+— Julie Brinton
+… sometimes you solve a problem by coming up with an algorithm of some kind. But sometimes you solve a problem in a very ad hoc sort of way.
+— William H. Huggins
+Other Words from algorithm
+What Does algorithm Mean?
+More Example Sentences
+Learn More about algorithm
+Other Words from algorithm
+algorithmic \ ˌal-​gə-​ˈrit͟h-​mik  \ adjective
+algorithmically \ ˌal-​gə-​ˈrit͟h-​mi-​k(ə-​)lē  \ adverb
+What Does algorithm Mean?
+The current term of choice for a problem-solving procedure, algorithm, is commonly used nowadays for the set of rules a machine (and especially a computer) follows to achieve a particular goal. It does not always apply to computer-mediated activity, however. The term may as accurately be used of the steps followed in making a pizza or solving a Rubik’s Cube as for computer-powered data analysis.
+
+Algorithm is often paired with words specifying the activity for which a set of rules have been designed. A search algorithm, for example, is a procedure that determines what kind of information is retrieved from a large mass of data. An encryption algorithm is a set of rules by which information or messages are encoded so that unauthorized persons cannot read them.
+
+Though first attested in the early 20th century (and, until recently, used strictly as a term of mathematics and computing), algorithm has a surprisingly deep history. It was formed from algorism “the system of Arabic numerals,” a word that goes back to Middle English and ultimately stems from the name of a 9th-century Persian mathematician, abu-Jaʽfar Mohammed ibn-Mūsa al-Khuwārizmi, who did important work in the fields of algebra and numeric systems.
+
+Examples of algorithm in a Sentence
+Recent Examples on the Web
+Machine learning experts often design their algorithms to guard against certain unintended consequences.
+— Wired, "Researchers Want Guardrails to Help Prevent Bias in AI," 21 Nov. 2019
+With their alignment algorithm, Gross’s team was able to use 100 mirrors on a pilot thermal plant that produced 250 kW of thermal power.
+— Akshat Rathi, Quartz, "Harnessing the sun’s heat for industry could cut 10% of global carbon emissions," 20 Nov. 2019
+These example sentences are selected automatically from various online news sources to reflect current usage of the word 'algorithm.' Views expressed in the examples do not represent the opinion of Merriam-Webster or its editors. Send us feedback.
+
+See More
+First Known Use of algorithm
+1926, in the meaning defined above
+
+History and Etymology for algorithm
+alteration of Middle English algorisme, from Old French & Medieval Latin; Old French, from Medieval Latin algorismus, from Arabic al-khuwārizmi, from al-Khwārizmī flourished a.d. 825 Islamic mathematician
+
+Learn More about algorithm
+Share algorithm
+Post the Definition of algorithm to FacebookShare the Definition of algorithm on Twitter
+Time Traveler for algorithm
+
+The first known use of algorithm was in 1926
+See more words from the same year
+
+From the Editors at Merriam-Webster
+cat using abacus for arithmetic
+We Told You There'd Be No Math. (We Lied.)
+Grab your protractor.
+
+Dictionary Entries near algorithm
+algophagous
+
+algorism
+
+algorist
+
+algorithm
+
+algorithmics
+
+algous
+
+algraphy
+
+See More Nearby Entries 
+Statistics for algorithm
+Last Updated
+
+25 Nov 2019
+
+Look-up Popularity
+
+Top 20% of words
+
+Cite this Entry
+
+“Algorithm.” The Merriam-Webster.com Dictionary, Merriam-Webster Inc., https://www.merriam-webster.com/dictionary/algorithm. Accessed 27 November 2019.
+
+
+More Definitions for algorithm
+algorithm noun
+English Language Learners Definition of algorithm
+technical : a set of steps that are followed in order to solve a mathematical problem or to complete a computer process
+See the full definition for algorithm in the English Language Learners Dictionary
+
+More from Merriam-Webster on algorithm
+Spanish Central: Translation of algorithm
+
+Nglish: Translation of algorithm for Spanish Speakers
+
+Britannica English: Translation of algorithm for Arabic Speakers
+
+Britannica.com: Encyclopedia article about algorithm
+
+Comments on algorithm
+What made you want to look up algorithm? Please tell us where you read or heard it (including the quote, if possible).
+
+Show Comments 
+WORD OF THE DAY
+fawn
+to seek favor by groveling
+
+Get Word of the Day daily email!
+
+Your email address
+TEST YOUR VOCABULARY
+A Thanksgiving Word Quiz
+
+a traditional thanksgiving dinner
+November comes from a word for which of the following numbers?
+11
+9
+10
+12
+Spell It
+Can you spell these 10 commonly misspelled words?
+
+TAKE THE QUIZ
+Bee Cubed
+Test Your Knowledge - and learn some interesting things along the way.
+
+TAKE THE QUIZ
+Love words? Need even more definitions?
+Subscribe to America's largest dictionary and get thousands more definitions and advanced search—ad free!
+
+MERRIAM-WEBSTER UNABRIDGED
+WORDS AT PLAY
+kids-eating-at-table
+Kids' Table: A Table with a Mess of Names
+It's a question for the adult table.
+semicolon-image
+A Guide to Using Semicolons
+You too can become a semicolon master!
+alt-5dd7fb4de906c
+The Good, The Bad, & The Semantically Imprecise - 11/22/19
+Words from the week of 11/22/2019
+alt 5a2ee7b975e2d
+Is 'Positively' Positively Legal?
+When there's 'positively' none of something
+
+ASK THE EDITORS
+hanger-hangar-illustrations
+Is It 'Hanger' or 'Hangar'?
+How to remember which is which
+alt-5db61f2bd1cc5
+How Do You Pronounce 'Groceries'?
+Is there one standard way?
+video literally
+Literally
+How to use a word that (literally) drives some people nuts.
+video his or her
+Is Singular 'They' a Better Choice?
+The awkward case of 'his or her'
+
+WORD GAMES
+a traditional thanksgiving dinner
+A Thanksgiving Word Quiz
+We are thankful for obscure words.
+
+TAKE THE QUIZ
+name that food
+Name that Food Quiz
+Test your knowledge of food and food words.
+
+TAKE THE QUIZ
+Spell It
+Spell It
+Can you spell these 10 commonly misspelled words?
+
+TAKE THE QUIZ
+Bee Cubed
+Bee Cubed
+Listen to the words and spell through all three levels.
+
+PLAY THE GAME
+Merriam Webster
+Learn a new word every day. Delivered to your inbox!
+
+Your email address
+OTHER MERRIAM-WEBSTER DICTIONARIES
+
+SPANISH CENTRAL
+LEARNER'S ESL DICTIONARY
+WORDCENTRAL FOR KIDS
+VISUAL DICTIONARY
+SCRABBLE® WORD FINDER
+MERRIAM-WEBSTER'S UNABRIDGED DICTIONARY
+BRITANNICA ENGLISH - ARABIC TRANSLATION
+NGLISH - SPANISH-ENGLISH TRANSLATION
+FOLLOW US
+
+Facebook
+Twitter
+YouTube
+Instagram
+Browse the Dictionary:ABCDEFGHIJKLMNOPQRSTUVWXYZ0-9
+Home Help Apps About Us Shop Advertising Info Dictionary API Contact Us Join MWU Video Word of the Year Law Dictionary Medical Dictionary Privacy Policy Terms of Use
+Browse the Thesaurus Browse the Medical DictionaryBrowse the Legal DictionaryBrowse the Spanish-English Dictionary
+© 2019 Merriam-Webster, Incorporated

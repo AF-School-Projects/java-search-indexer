@@ -1,0 +1,46 @@
+http://www.lispworks.com/products/lisp-overview.html
+
+
+
+Products
+Success Stories
+Support
+Documentation
+LispWorks
+Common Lisp
+Common SQL tutorial
+Papers and books
+Search
+BUY
+DOWNLOAD
+You are here: Home > Products > Lisp Overview 
+
+Common Lisp Language Overview
+Common Lisp has long been the leading language for software research and advanced development projects. Its ability to tackle the biggest problems is unmatched.
+
+Common Lisp is rich in data types, supported by a high-level language model and garbage collection. In Common Lisp, all data are represented as objects. There are no out-of-language errors. This model encourages a high-level view of programs and an exploratory programming process that make Lisp programmers among the most productive in the world. Evidence for this is presented in Erann Gat's paper Lisp as an Alternative to Java
+
+Common Lisp has grown and evolved over time, acquiring features and supporting paradigms as they've entered the world of computer science. It is now supported by an ANSI standard (ANSI X3.226:1994). This standard includes the Common Lisp Object System (CLOS); features like multimethods and dynamic class redefinition make CLOS among the most advanced object systems in the world.
+
+Among the most important features of Common Lisp are:
+
+Machine-independent language model. All operations are performed in terms of program objects, not raw bits.
+Iterative design process. Common Lisp supports exploratory programming, making programmers more productive.
+Dynamic patching. Common Lisp programs can be updated while they are running. The ability to install field patches without interrupting service is important for many mission-critical applications.
+High-level debugging. All debugging is performed within the language model, preventing system crashes and other out-of-language errors.
+Common Lisp Object System (CLOS). Common Lisp provides advanced object-oriented programming, including multiple inheritance, multimethods, class redefinition in running programs, and dynamic type creation. No other language provides an object system so rich in features.
+First class functions and classes. First class higher-order functions provide control systems that are elegant and powerful.
+First class classes let you manipulate the object system in running programs, giving you finer degrees of control.
+Extensive data types. Objects, structures, lists, vectors, adjustable arrays, hash-tables, and symbols are just a few of Common Lisp's myriad data types.
+Advanced numeric types. The Common Lisp arithmetic package includes unlimited size integers, fractions, complex numbers, and a complete floating point library. Conversion between numeric types occurs automatically.
+Complete IO library. Common Lisp includes a portable interface for streams, the file system, and other IO facilities.
+Extensive control structures. Complex looping, guard expressions, non-local transfer of control and lexical closures are among the control structures offered by Common Lisp.
+Condition system. The Common Lisp condition system is object-based, and supports recovery as well as escape from errors and other exceptional situations.
+Consistent syntax. Common Lisp uses a simple consistent syntax that is easy to learn and easy to use from day one.
+Macros. A convenient macro system lets Common Lisp programmers create embedded languages, essentially turning their Lisp environment into a domain-specific problem solving tool.
+Programs as data. Common Lisp is a fully reflective language, supporting genetic algorithms, evolutionary programming, and other self-referential programming techniques.
+Late-bound types. By leaving type declarations to the programmer's discretion, programs can be simpler and prototyping faster.
+For more information on Common Lisp, see our external resources page.
+
+ProductsLispWorksLispWorks Personal EditionLispWorks for Mobile Runtime New!FeaturesRuntimesLispWorks ORBKnowledgeWorksTechnologiesCompany     Contact     Privacy Policy     Terms of Use
+Copyright © 2001-19 LispWorks Ltd. All rights reserved.

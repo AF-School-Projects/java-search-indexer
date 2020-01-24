@@ -1,0 +1,114 @@
+https://exercism.io/tracks/common-lisp
+
+
+ExercismSign up Log in
+Home Language tracks Common Lisp Track
+Track Common Lisp
+Common Lisp
+A programmable programming language.
+Track mentors
+5 Mentors
+Our mentors are friendly, experienced Common Lisp developers who will help teach you new techniques and tricks.
+Track students
+1,268 Students
+Join hundreds of students who have enjoyed learning and improving their skills by taking this track.
+Track exercises
+42 Exercises
+Hundreds of hours have gone into making these exercises fun, useful, and challenging to help you enjoy learning.
+About Common Lisp
+(defun distance (str1 str2
+                 &key (test #'char=))
+  "Number of positional differences in
+   two equal length strings."
+  (when (= (length str1) (length str2))
+    (count nil
+           (map 'list test str1 str2))))
+Common Lisp is an offshoot of the long-running family of Lisp programming languages. It's a multi-paradigm programming language that allows you to choose the approach and paradigm according to your application domain.
+
+Common Lisp has fast prototyping capabilities, and exceptional support for object oriented programming. It also boasts a macro system which allows you to adapt the language to your needs, and a run-time environment which allows modification of running applications.
+
+To learn more about Common Lisp, take a look at the Common Lisp homepage.
+
+
+Exercism is a great website
+Exercism is a great website where I was able to have some very interesting challenges.
+
+Bud Chirica, Scotland
+Relaxed. Encouraging. Supportive.
+Meet the Common Lisp Track mentors 
+Once you join the Common Lisp language track, you will receive support and feedback from our team of mentors. Here are the bios of a few of the mentors of this track.
+
+Avatar of Tim Hawes
+Tim Hawes https://github.com/timotheosh
+I love Lisp, functional programming, and the nostalgia behind Common Lisp.
+Avatar of Brooks J Rady
+Brooks J Rady thelostlambda.xyz
+Lover of functional programming, writing code that writes code for me, and (evidently) parentheses.
+Avatar of Mark Simpson
+Mark Simpson https://github.com/verdammelt
+I have always been interested in Lisps since taking the SICP course in college. I love the expressiveness and conciseness of the simple syntax, and the ability to build the language upward to meet the domain.
+Avatar of Tushar Tyagi
+Tushar Tyagi https://github.com/tushartyagi
+I dabble with Common Lisp and find it interesting because of minimal syntax and the amazing functionalities which the syntax brings.
+Avatar of Pierre Thierry
+Pierre Thierry https://github.com/kephas
+I fell in love with Common Lisp for its interactivity, metaprogramming and uniform syntax. If I have any say, it's usually my language of choice for both professional and personal projects.
+Fun. Challenging. Interesting
+Community-sourced Common Lisp exercises
+These are a few of the 42 exercises on the Common Lisp track. You can see all the exercises here.
+
+ETL
+EASY
+control flow loops maps transforming
+Crypto Square
+EASY
+arrays control flow conditionals control flow loops strings transforming
+Two Fer
+EASY
+strings optional values text formatting
+Hello World
+EASY
+strings
+Meetup
+EASY
+control flow conditionals dates filtering
+Anagram
+EASY
+equality filtering strings
+Passionate. Knowledgeable. Creative.
+Meet the Common Lisp Track maintainers 
+The Common Lisp Maintainers are the brains behind the Common Lisp Track. They spend their spare time creating interesting and challenging exercises that we can all learn from. We are incredibly grateful for their hard work. Here are the bios of a few of the maintainers of this track.
+
+Avatar of Mark Simpson
+Mark Simpson Code and Cocktails
+I have always been interested in Lisps since taking the SICP course in college. I love the expressiveness and conciseness of the simple syntax, and the ability to build the language upward to meet the domain.
+Get started with the Common Lisp track. As with everything on Exercism, it's 100% free!
+About
+Exercism: Personal Edition
+Exercism: Teams Edition
+About Exercism
+Our values
+Our team
+Help
+FAQs
+Getting started
+Installing the CLI
+Interactive CLI walkthrough
+Get involved
+Contribute
+Become a mentor
+Become a maintainer
+Exercism's roadmap
+Legal & Privacy
+Terms
+Privacy
+Code of conduct
+Keep in touch
+Exercism's Blog
+Newsletter
+Discuss on GitHub
+Contact us
+Report abuse
+Follow
+  
+© 2019 ExercismMade with  and  by Katrina Owen, Thalamus and 1,801 wonderful volunteers.

@@ -1,0 +1,98 @@
+https://www.britannica.com/technology/data-mining
+
+250 thistle logo
+ENCYCLOPÆDIA BRITANNICA
+250 thistle logo
+SUBSCRIBE
+LOG IN · JOIN
+DEMYSTIFIED QUIZZES #WTFACT LISTS ON THIS DAY BIOGRAPHIES EXPLORE
+SEARCH BRITANNICA
+Search
+Search Britannica...
+CLICK HERE TO SEARCH
+Fact-checked results at the top of your browser search. Chrome store logo Britannica Insights
+
+Contents
+Data mining
+COMPUTER SCIENCE
+ ARTICLE
+
+INFO
+
+PRINT
+PRINT
+Please select which sections you would like to print:
+Table Of Contents
+Introduction
+Origins and early applications
+Modeling and data-mining approaches
+Privacy concerns and future directions
+
+CITE
+
+FEEDBACK
+FEEDBACK
+Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+Select feedback type: 
+SUBMIT FEEDBACK
+
+SHARE
+SHARE
+Introduction
+Origins and early applications
+Modeling and data-mining approaches
+Model creation
+Data-mining techniques
+Predictive modeling
+Descriptive modeling
+Pattern mining
+Anomaly detection
+Privacy concerns and future directions
+Data mining
+COMPUTER SCIENCE
+WRITTEN BY: Christopher Clifton
+See Article History
+Alternative Title: knowledge discovery in databases
+Data mining, also called knowledge discovery in databases, in computer science, the process of discovering interesting and useful patterns and relationships in large volumes of data. The field combines tools from statistics and artificial intelligence (such as neural networks and machine learning) with database management to analyze large digital collections, known as data sets. Data mining is widely used in business (insurance, banking, retail), science research (astronomy, medicine), and government security (detection of criminals and terrorists).
+
+The proliferation of numerous large, and sometimes connected, government and private databases has led to regulations to ensure that individual records are accurate and secure from unauthorized viewing or tampering. Most types of data mining are targeted toward ascertaining general knowledge about a group rather than knowledge about specific individuals—a supermarket is less concerned about selling one more item to one person than about selling many items to many people—though pattern analysis also may be used to discern anomalous individual behaviour such as fraud or other criminal activity.
+
+Origins And Early Applications
+As computer storage capacities increased during the 1980s, many companies began to store more transactional data. The resulting record collections, often called data warehouses, were too large to be analyzed with traditional statistical approaches. Several computer science conferences and workshops were held to consider how recent advances in the field of artificial intelligence (AI)—such as discoveries from expert systems, genetic algorithms, machine learning, and neural networks—could be adapted for knowledge discovery (the preferred term in the computer science community). The process led in 1995 to the First International Conference on Knowledge Discovery and Data Mining, held in Montreal, and the launch in 1997 of the journal Data Mining and Knowledge Discovery. This was also the period when many early data-mining companies were formed and products were introduced.
+
+One of the earliest successful applications of data mining, perhaps second only to marketing research, was credit-card-fraud detection. By studying a consumer’s purchasing behaviour, a typical pattern usually becomes apparent; purchases made outside this pattern can then be flagged for later investigation or to deny a transaction. However, the wide variety of normal behaviours makes this challenging; no single distinction between normal and fraudulent behaviour works for everyone or all the time. Every individual is likely to make some purchases that differ from the types he has made before, so relying on what is normal for a single individual is likely to give too many false alarms. One approach to improving reliability is first to group individuals that have similar purchasing patterns, since group models are less sensitive to minor anomalies. For example, a “frequent business travelers” group will likely have a pattern that includes unprecedented purchases in diverse locations, but members of this group might be flagged for other transactions, such as catalog purchases, that do not fit that group’s profile.
+
+Facts Matter. Support the truth and unlock all of Britannica’s content.
+Subscribe Today
+Modeling And Data-Mining Approaches
+Model creation
+The complete data-mining process involves multiple steps, from understanding the goals of a project and what data are available to implementing process changes based on the final analysis. The three key computational steps are the model-learning process, model evaluation, and use of the model. This division is clearest with classification of data. Model learning occurs when one algorithm is applied to data about which the group (or class) attribute is known in order to produce a classifier, or an algorithm learned from the data. The classifier is then tested with an independent evaluation set that contains data with known attributes. The extent to which the model’s classifications agree with the known class for the target attribute can then be used to determine the expected accuracy of the model. If the model is sufficiently accurate, it can be used to classify data for which the target attribute is unknown.
+
+Data-mining techniques
+There are many types of data mining, typically divided by the kind of information (attributes) known and the type of knowledge sought from the data-mining model.
+
+Predictive modeling
+Predictive modeling is used when the goal is to estimate the value of a particular target attribute and there exist sample training data for which values of that attribute are known. An example is classification, which takes a set of data already divided into predefined groups and searches for patterns in the data that differentiate those groups. These discovered patterns then can be used to classify other data where the right group designation for the target attribute is unknown (though other attributes may be known). For instance, a manufacturer could develop a predictive model that distinguishes parts that fail under extreme heat, extreme cold, or other conditions based on their manufacturing environment, and this model may then be used to determine appropriate applications for each part. Another technique employed in predictive modeling is regression analysis, which can be used when the target attribute is a numeric value and the goal is to predict that value for new data.
+
+Descriptive modeling
+Descriptive modeling, or clustering, also divides data into groups. With clustering, however, the proper groups are not known in advance; the patterns discovered by analyzing the data are used to determine the groups. For example, an advertiser could analyze a general population in order to classify potential customers into different clusters and then develop separate advertising campaigns targeted to each group. Fraud detection also makes use of clustering to identify groups of individuals with similar purchasing patterns.
+
+SpaceNext50
+Data mining
+QUICK FACTS
+RELATED TOPICS
+Data
+LOAD NEXT PAGE
+Inspire your inbox – Sign up for daily fun facts about this day in history, updates, and special offers.
+Enter your email
+SUBSCRIBE
+By signing up for this email, you are agreeing to news, offers, and information from Encyclopaedia Britannica.
+Click here to view our Privacy Notice. Easy unsubscribe links are provided in every email.
+STAY CONNECTED
+
+About Us About Our Ads Partner Program Contact Us Privacy Notice Terms of Use
+
+©2019 Encyclopædia Britannica, Inc.
+close
+Are we living through a mass extinction?
+The 6th Mass Extinction

@@ -1,0 +1,102 @@
+https://www.webopedia.com/TERM/A/algorithm.html
+
+Webopedia
+Enter a term...
+Search
+Advertiser Disclosure
+MAIN
+BROWSE TERMS
+DID YOU KNOW?
+REFERENCE
+ALL CATEGORIES
+STUDY GUIDES
+BLOG
+SLIDESHOWS
+SPONSORED
+Main » TERM » A »
+algorithm
+
+
+By Vangie Beal
+Related Terms
+Luhn formula
+formula
+instruction
+Formula Bar
+array formula
+instruction cycle
+instruction set
+encryption algorithm
+FORTRAN - formula translator
+Instruction-Level Parallelism
+(al´g&-rith-&m) (n.) An algorithm is a formula or set of steps for solving a particular problem. To be an algorithm, a set of rules must be unambiguous and have a clear stopping point. Algorithms can be expressed in any language, from natural languages like English or French to programming languages like FORTRAN.
+
+Examples of Algorithms
+We use algorithms every day. For example, a recipe for baking a cake is an algorithm. Most programs, with the exception of some artificial intelligence applications, consist of algorithms. Inventing elegant algorithms -- algorithms that are simple and require the fewest steps possible -- is one of the principal challenges in programming.
+
+computer algorithms 
+
+ 
+
+ 
+
+
+
+
+
+
+
+PREVIOUS
+Algae
+NEXT
+ALI
+
+
+Related Links
+Graphics algorithm FAQ
+
+WEBOPEDIA NEWS
+Stay up to date on the latest developments in Internet terminology with a free newsletter from Webopedia. Join to subscribe now.
+
+Email address
+
+LATEST ARTICLES
+Texting & Chat Abbreviations
+From A3 to ZZZ this guide lists 1,500 text message and online chat abbreviations to help you translate and understand today's texting lingo. Read More »
+
+List of Well-Known TCP Port Numbers
+Port numbers 0 to 1024 are reserved for privileged services and designated as well-known ports. This list of port numbers  are specified in... Read More »
+
+STUDY GUIDES
+Computer Architecture Study Guide
+Computer architecture provides an introduction to system design basics for most computer science students. Read More »
+
+Network Fundamentals Study Guide
+Networking fundamentals teaches the building blocks of modern network design. Learn different types of networks, concepts, architecture and... Read More »
+
+The Five Generations of Computers
+Learn about each of the five generations of computers and major technology developments that have led to the computing devices that we use... Read More »
+
+
+Browse Technology Definitions:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ_0123456789
+Webopedia
+Enter a term...
+
+Definitions:
+Browse Terms
+Previous Terms
+Recent Terms
+All Categories
+Articles:
+Blog
+Did You Know
+Quick Reference
+Study Guides
+Slideshows
+
+Site Logo
+An eWEEK Property
+Terms of Service | Licensing & Reprints | About Us | Privacy Policy | Contact Us | Advertise | Sitemap
+Copyright 2019 QuinStreet Inc. All Rights Reserved.
+Advertiser Disclosure: Some of the products that appear on this site are from companies from which QuinStreet receives compensation. This compensation may impact how and where products appear on this site including, for example, the order in which they appear. QuinStreet does not include all companies or all types of products available in the marketplace.

@@ -1,0 +1,126 @@
+https://www.techopedia.com/definition/3739/algorithm
+
+This website uses cookies
+We and our partners use technology such as cookies on our site to personalize content and ads, provide social media features, and analyze our traffic. By clicking “OK”, you consent to the storing on your device of all the technologies described in our Cookie Policy. Your current cookie settings can be changed at any time by clicking “Cookie Preferences”. We also urge you to read our Terms and Conditions and Privacy Policy to better understand how we maintain our site, and how we may collect and use visitor data.
+OK NecessaryPreferencesStatisticsMarketing	Show details 
+Techopedia - Where IT and Business MeetTOPICSWEBINARSDOWNLOADSDICTIONARYTUTORIALSQ & ARESOURCES
+TRENDING:
+VIRTUALIZATIONMACHINE LEARNINGBIG DATAENTERPRISEDEVELOPMENTMORE
+Search...
+
+Topics
+Webinars
+Downloads
+Dictionary
+Tutorials
+Q & A
+Resources
+Trending
+More
+Home  Dictionary  Tags  Development  Programming Languages 
+Algorithm
+Definition - What does Algorithm mean?
+An algorithm is a step by step method of solving a problem. It is commonly used for data processing, calculation and other related computer and mathematical operations.
+
+An algorithm is also used to manipulate data in various ways, such as inserting a new data item, searching for a particular item or sorting an item.
+
+
+
+Techopedia explains Algorithm
+An algorithm is a detailed series of instructions for carrying out an operation or solving a problem. In a non-technical approach, we use algorithms in everyday tasks, such as a recipe to bake a cake or a do-it-yourself handbook.
+
+Technically, computers use algorithms to list the detailed instructions for carrying out an operation. For example, to compute an employee’s paycheck, the computer uses an algorithm. To accomplish this task, appropriate data must be entered into the system.
+In terms of efficiency, various algorithms are able to accomplish operations or problem solving easily and quickly.
+
+[Master Algorithmic Programming Techniques. Learn algorithms through programming and advance your software engineering or data science career today with Coursera]
+
+Share this:  
+Related Terms
+Encryption Algorithm
+Automatic Identification and Data Capture (AIDC)
+Heuristic
+Pseudo Random Number Generator (PRNG)
+Information Dispersal Algorithms
+Space Complexity
+Learning Algorithm
+Machine Learning
+Commit
+Access Modifiers
+Techopedia - Where IT and Business Meet	
+Tech moves fast! Stay ahead of the curve with Techopedia!
+Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+
+Enter your email address...
+Recommended Resources
+Related Articles
+Are Social Media Algorithms Getting Out of Hand? 
+Are Social Media Algorithms Getting Out of Hand?
+Conquering Algorithms: 4 Online Courses to Master the Heart of Computer Science 
+Conquering Algorithms: 4 Online Courses to Master the Heart of Computer Science
+Neurotechnology Vs. Neural Networks: What’s the Difference? 
+Neurotechnology Vs. Neural Networks: What’s the Difference?
+The Growing Cybersecurity War on the Healthcare Industry 
+The Growing Cybersecurity War on the Healthcare Industry
+IoT in 2020: What's Next? 
+IoT in 2020: What's Next?
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game 
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game
+Featured Q&A
+What is the difference between a mobile OS and a computer OS?
+What is the difference between security architecture and security design?
+How can you securely erase an SSD?
+More of your questions answered by our Experts
+Related Tags
+DevelopmentData ManagementArtificial Intelligence (AI)Programming LanguagesDataMachine Learning
+Misspellings:
+Algorithim
+RESOURCES
+The Ultimate Guide to Applying AI in Business	The Ultimate Guide to Applying AI in Business:
+Free Download: Machine Learning and Why It Matters	Free Download: Machine Learning and Why It Matters:
+FREE DOWNLOAD: AI and ML in the Oil and Gas Industry	FREE DOWNLOAD: AI and ML in the Oil and Gas Industry:
+AI in the Insurance Industry: 26 Real-World Use Cases	AI in the Insurance Industry: 26 Real-World Use Cases:
+FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?	FREE WEBINAR | Managing Multiple Database Roles: How Many Hats Do You Wear?:
+LATEST ARTICLES
+Neurotechnology Vs. Neural Networks: What’s the Difference? 	
+Neurotechnology Vs. Neural Networks: What’s the Difference?
+The Growing Cybersecurity War on the Healthcare Industry 	
+The Growing Cybersecurity War on the Healthcare Industry
+IoT in 2020: What's Next? 	
+IoT in 2020: What's Next?
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game 	
+Immersive Graphical Displays of Information: How Mixed Reality Technology is Changing the Game
+National Entrepreneurs' Day: 5 Ways You Can Avoid AI Startup Failure 	
+National Entrepreneurs' Day: 5 Ways You Can Avoid AI Startup Failure
+ABOUT
+About
+Advertising Info
+Contact Us
+Write for Us
+CONTENT
+Topics
+Dictionary
+Q&A
+Tutorials
+TOPICS
+Cloud Computing
+Security
+Big Data
+Online Privacy
+Machine Learning
+IT Business
+Data Management
+All Topics
+CONNECT
+ Facebook
+ Twitter
+ LinkedIn
+ Feed
+MORE
+Webinars
+Downloads
+Newsletters
+Techopedia Terms:    #    A    B    C    D    E    F    G    H    I    J    K    L    M    N    O    P    Q    R    S    T    U    V    W    X    Y    Z   
+
+Copyright © 2019 Techopedia Inc. - Terms of Use - Privacy Policy
+
+Notifications Powered By 

@@ -1,0 +1,35 @@
+CS11 Advanced C++ - Winter 2018-2019
+Track Info
+We will not be holding meetings for the CS11 Advanced C++ track. All necessary course material is available below.
+
+Contact-info and office hours for this track is as follows:
+
+Donnie Pinkston (donnie AT cms) - by appointment, in 111 Annenberg
+Please ask for help if you get stuck on any issue for more than 30 minutes to an hour! Also, if you have a question and you don't want to wait for office hours, feel free to email any or all of us for help.
+Assignments
+Assignments are generally due one week after they are given. Assignments should be submitted via the csman website. If you need a csman account, or if you need to be added to the Advanced C++ course on csman, email Donnie.
+
+Once I have reviewed your assignment, I will post a review of your submitted code on csman for you to access. If your assignment requires any rework then I will indicate exactly what needs to be fixed. Please complete your rework within one week of receiving feedback.
+
+All of your grades for the term are available on the csman website.
+
+Collaboration Policy
+General discussion about assignments is encouraged, but you must write all of your own code. Some assignments build on source-files that I will give you, but other than that, all other files that you work with and/or submit should be entirely your own work.
+
+High-level discussions of implementations (e.g. drawing diagrams of data-structures, or pseudocode sketches of algorithms) are acceptable, but verbatim or near-verbatim copying of implementations is unacceptable, and will be considered an Honor Code violation.
+
+Lecture Notes:
+Lecture 1 (Intro C++ Lecture 6): PDF
+Lecture 2 (Intro C++ Lecture 7): PDF
+Lecture 3 (Adv C++ Lecture 1): PDF
+Lecture 4 (Adv C++ Lecture 2): PDF
+Lab Assignments:
+Lab 1 (Intro C++ Lab 6): Integer Matrix (due Wednesday, April 17, 12:00 noon)
+Lab 2 (Intro C++ Lab 7): Integer Matrix II (due Wednesday, May 1, 12:00 noon)
+Lab 3 (Adv C++ Lab 1): TreeSet I (due Wednesday, May 29, 12:00 noon)
+Lab 4 (Adv C++ Lab 2): TreeSet II (due Wednesday, June 5, 12:00 noon)
+References
+The C++ Reference - includes STL, Streams, etc.
+GNU make manual
+Doxygen website
+The Pro Git Book

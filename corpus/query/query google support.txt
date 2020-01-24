@@ -1,0 +1,85 @@
+https://support.google.com/docs/answer/3093343?hl=en
+
+
+
+Help CenterCommunity
+Docs Editors
+Google SheetsUse functions & formulasQUERY function
+QUERY function
+Runs a Google Visualization API Query Language query across data.
+
+Sample Usage
+QUERY(A2:E6,"select avg(A) pivot B")
+
+QUERY(A2:E6,F2,FALSE)
+
+Syntax
+QUERY(data, query, [headers])
+
+data - The range of cells to perform the query on.
+
+Each column of data can only hold boolean, numeric (including date/time types) or string values.
+
+In case of mixed data types in a single column, the majority data type determines the data type of the column for query purposes. Minority data types are considered null values.
+
+query - The query to perform, written in the Google Visualization API Query Language.
+
+The value for query must either be enclosed in quotation marks or be a reference to a cell containing the appropriate text.
+
+See https://developers.google.com/chart/interactive/docs/querylanguage for further details on the query language.
+
+headers - [ OPTIONAL ] - The number of header rows at the top of data. If omitted or set to -1, the value is guessed based on the content of data.
+
+Examples
+Make a copy
+
+Note: Each example is in its own tab.
+Sample data
+
+ 
+
+Select & where
+Returns rows that match the specified condition using Select and Where clauses.
+
+
+ 
+
+Group by
+Aggregates Salary values across rows using Select and Group by clauses.
+
+
+ 
+
+Pivot
+Transforms distinct values in columns into new columns.
+
+
+ 
+
+Order by
+Aggregates Dept values across rows and sorts by the maximum value of Salary.
+
+
+ 
+
+Headers
+Specifies the number of header rows in the input range, which enables transformation of multi-header rows range input to be transformed to a single row header input.
+
+
+Was this helpful?YesNo
+Use functions & formulas
+Google Sheets function list
+Add formulas & functions
+See the sum & average
+IF function
+QUERY function
+COUNTIF
+VLOOKUP
+
+Visit the Learning Center
+Using Google products, like Google Docs, at work or school? Try powerful tips, tutorials, and templates. Learn to work on Office files without installing Office, create dynamic project plans and team calendars, auto-organize your inbox, and more.
+
+©2019 Google  Privacy Policy  Terms of Service 
+
+ Send feedback about our Help Center
+Send feedback on...

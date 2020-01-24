@@ -1,0 +1,108 @@
+https://www.webopedia.com/TERM/D/database.html
+
+Webopedia
+Enter a term...
+Search
+Advertiser Disclosure
+MAIN
+BROWSE TERMS
+DID YOU KNOW?
+REFERENCE
+ALL CATEGORIES
+STUDY GUIDES
+BLOG
+SLIDESHOWS
+SPONSORED
+Main » TERM » D »
+database
+
+
+By Vangie Beal
+Related Terms
+DB2 - Database 2
+OLE DB
+database administrator (DBA)
+configuration management database
+DBMS - database management system
+database software
+database engine
+database server
+distributed database
+RDBMS - relational database management system
+A database, often abbreviated as DB, is a collection of information organized in such a way that a computer program can quickly select desired pieces of data.
+
+Fields, Records and Files
+You can think of a traditional database as an electronic filing system, organized by fields, records, and files. A field is a single piece of information; a record is one complete set of fields; and a file is a collection of records. For example, a telephone book is analogous to a file. It contains a list of records, each of which consists of three fields: name, address, and telephone number.
+
+An alternative concept in database design is known as Hypertext. In a Hypertext database, any object, whether it be a piece of text, a picture, or a film, can be linked to any other object. Hypertext databases are particularly useful for organizing large amounts of disparate information, but they are not designed for numerical analysis.
+
+To access information from a database, you need a database management system (DBMS). This is a collection of programs that enables you to enter, organize, and select data in a database.
+
+Database
+
+Increasingly, the term database is used as shorthand for database management system. There are many different types of DBMSs, ranging from small systems that run on personal computers to huge systems that run on mainframes.
+
+
+
+
+
+
+
+PREVIOUS
+data warehouse
+NEXT
+database administrator (DBA)
+
+
+Related Links
+Database Journal
+ASP Data Access for Beginners
+Enterprise Database (white paper)
+Benchmarking Top NoSQL Databases (white paper)
+Top Enterprise Databases to Consider
+
+WEBOPEDIA NEWS
+Stay up to date on the latest developments in Internet terminology with a free newsletter from Webopedia. Join to subscribe now.
+
+Email address
+
+LATEST ARTICLES
+Texting & Chat Abbreviations
+From A3 to ZZZ this guide lists 1,500 text message and online chat abbreviations to help you translate and understand today's texting lingo. Read More »
+
+List of Well-Known TCP Port Numbers
+Port numbers 0 to 1024 are reserved for privileged services and designated as well-known ports. This list of port numbers  are specified in... Read More »
+
+STUDY GUIDES
+Computer Architecture Study Guide
+Computer architecture provides an introduction to system design basics for most computer science students. Read More »
+
+Network Fundamentals Study Guide
+Networking fundamentals teaches the building blocks of modern network design. Learn different types of networks, concepts, architecture and... Read More »
+
+The Five Generations of Computers
+Learn about each of the five generations of computers and major technology developments that have led to the computing devices that we use... Read More »
+
+
+Browse Technology Definitions:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ_0123456789
+Webopedia
+Enter a term...
+
+Definitions:
+Browse Terms
+Previous Terms
+Recent Terms
+All Categories
+Articles:
+Blog
+Did You Know
+Quick Reference
+Study Guides
+Slideshows
+
+Site Logo
+An eWEEK Property
+Terms of Service | Licensing & Reprints | About Us | Privacy Policy | Contact Us | Advertise | Sitemap
+Copyright 2019 QuinStreet Inc. All Rights Reserved.
+Advertiser Disclosure: Some of the products that appear on this site are from companies from which QuinStreet receives compensation. This compensation may impact how and where products appear on this site including, for example, the order in which they appear. QuinStreet does not include all companies or all types of products available in the marketplace.

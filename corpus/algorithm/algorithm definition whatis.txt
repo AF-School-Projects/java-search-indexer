@@ -1,0 +1,132 @@
+https://whatis.techtarget.com/definition/algorithm
+
+TechTargetSearch Thousands of Tech Definitions
+Search Thousands of Tech Definitions
+
+Browse Definitions :
+ABCDEFGHIJKLMNOPQRSTUVWXYZ#
+LOGIN REGISTER
+TECHTARGET NETWORKFILE EXTENSIONSWRITING FOR BUSINESSRSS
+WhatIs.com
+BROWSE DEFINITIONS
+Mathematics
+QUICK STUDYResourcesFollow: 
+Home Topics AppDev Programming algorithm
+DEFINITION
+algorithm
+
+Posted by: Margaret Rouse
+WhatIs.com
+  
+Contributor(s): Fouad Tawfiq and Ali
+An algorithm (pronounced AL-go-rith-um) is a procedure or formula for solving a problem, based on conducting a sequence of specified actions. A computer program can be viewed as an elaborate algorithm. In mathematics and computer science, an algorithm usually means a small procedure that solves a recurrent problem.
+
+Algorithms are widely used throughout all areas of IT (information technology). A search engine algorithm, for example, takes search strings of keywords and operators as input, searches its associated database for relevant web pages, and returns results.
+
+An encryption algorithm transforms data according to specified actions to protect it. A secret key algorithm such as the U.S. Department of Defense's Data Encryption Standard (DES), for example, uses the same key to encrypt and decrypt data. As long as the algorithm is sufficiently sophisticated, no one lacking the key can decrypt the data.
+
+The word algorithm derives from the name of the mathematician, Mohammed ibn-Musa al-Khwarizmi, who was part of the royal court in Baghdad and who lived from about 780 to 850. Al-Khwarizmi's work is the likely source for the word algebra as well.
+
+Khan Academy provides an introductory tutorial on algorithms:
+
+
+
+
+This was last updated in March 2019
+Continue Reading About algorithm
+SearchSecurity.com has an article on the two basic types of encryption algorithms.
+Comprehensive software testing and complex algorithms
+How algorithms rule the world
+Can work allocation algorithms play fair?
+Related Terms
+data analytics (DA)
+Data analytics (DA) is the science of examining raw data with the purpose of drawing conclusions about that information. See complete definition
+independent variable
+An independent variable is a variable that is manipulated to determine the value of a dependent variable. See complete definition
+unique identifier (UID)
+A unique identifier (UID) is a numeric or alphanumeric string that is associated with a single entity within a given system. See complete definition
+Word of the Day
+corporate activism
+Corporate activism is a public stance taken by a large enterprise to positively impact social change or legislation. According to some estimates, corporate activism through "cause marketing" will contribute more than $1.5 billion to charitable organizations this year.
+
+Word of the Day Archive
+20 Newest and Updated Terms
+Platform as a Service (PaaS)
+TCP (Transmission Control Protocol)
+team collaboration tools
+CloudOps (cloud operations)
+finite element analysis (FEA)
+remote wipe
+application containerization (app containerization)
+DMZ (networking)
+quantum supremacy
+augmented learning
+cost per engagement (CPE)
+asset turnover ratio
+Microsoft Power Platform
+days sales outstanding (DSO)
+virtual desktop infrastructure (VDI)
+IT operations
+Jenkins
+Agile Software Development
+Australian Assistance and Access Bill
+dependency injection
+Join the conversation 5 comments
+
+ Send me notifications when other members comment.
+Add My Comment
+Oldest 
+[-] AnonymousUser - 9 Apr 2014 1:02 AM
+An algorithm (pronounced AL-go-rith-um) is a procedure or formula for solving a problem.
+ 
+[-] AlemuBeyene - 3 May 2017 4:30 AM
+How can I get a GIS algorithms?
+ 
+[-] sigmus50 - 22 May 2017 6:40 AM
+Algorithms: It is a step by step procedure of solving a problem.
+E.g. 1
+Consider a problem of multiplying two numbers
+Solution
+Step 1: Input the numbers as a and b
+Step 2: Find the product of a x b
+Step 3: Print the result
+
+E.g. 2
+To add two numbers
+Solution
+Step 1: Input the numbers as x, y
+Step 2: Sum=x+y
+Step 3: Print Sum
+
+Note: The pictorial representation of algorithm is called Flow Chart.
+
+ 
+[-] godwintony - 26 Jun 2019 12:58 PM
+what is algorithm?
+ 
+[-] zohaibkhan2017 - 9 Oct 2019 4:08 PM
+Please everyone person I have suggest which algorithm used in Management Information System for example (school management system,bank management system) and the work for data secure
+ 
+File Extensions and File Formats
+ABCDEFGHIJKLMNOPQRSTUVWXYZ#
+Latest TechTarget
+resources
+COMPLIANCE
+SECURITY
+HEALTH IT
+DISASTER RECOVERY
+STORAGE
+SearchCompliance
+risk management
+Risk management is the process of identifying, assessing and controlling threats to an organization's capital and earnings.
+
+compliance as a service (CaaS)
+Compliance as a Service (CaaS) is a cloud service service level agreement (SLA) that specified how a managed service provider (...
+
+data protection impact assessment (DPIA)
+A data protection impact assessment (DPIA) is a process designed to help organizations determine how data processing systems, ...
+
+Browse by Topic Browse Resources File Extensions
+About Us Contact Us Privacy Policy Advertisers Business Partners Events Media Kit Corporate Site Reprints Site Map Archive
+All Rights Reserved, Copyright 1999 - 2019, TechTarget
+

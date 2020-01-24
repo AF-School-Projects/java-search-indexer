@@ -1,0 +1,159 @@
+https://link.springer.com/chapter/10.1007/978-0-387-47534-9_2
+
+
+
+Skip to main content
+SpringerLink
+Search 
+Home
+ 
+Log in
+Data Streams
+Data Streams pp 9-38| Cite as
+
+On Clustering Massive Data Streams: A Summarization Paradigm
+Authors
+Authors and affiliations
+Charu C. AggarwalJiawei HanJianyong WangPhilip S. Yu
+1.
+2.
+Chapter
+10
+Citations 
+54
+Readers 
+2.2k
+Downloads
+Part of the Advances in Database Systems book series (ADBS, volume 31)
+Abstract
+In recent years, data streams have become ubiquitous because of the large number of applications which generate huge volumes of data in an automated way. Many existing data mining methods cannot be applied directly on data streams because of the fact that the data needs to be mined in one pass. Furthermore, data streams show a considerable amount of temporal locality because of which a direct application of the existing methods may lead to misleading results. In this paper, we develop an efficient and effective approach for mining fast evolving data streams, which integrates the micro-clustering technique with the high-level data mining process, and discovers data evolution regularities as well. Our analysis and experiments demonstrate two important data mining problems, namely stream clustering and stream classification, can be performed effectively using this approach, with high quality mining results. We discuss the use of micro-clustering as a general summarization technology to solve data mining problems on streams. Our discussion illustrates the importance of our approach for a variety of mining problems in the data stream domain.
+
+Keywords
+Data Stream Clock Time Stream Mining Stream Cluster Stream Classification 
+These keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves.
+This is a preview of subscription content, log in to check access.
+Preview
+
+References
+[1]
+Aggarwal C., Procopiuc C., Wolf J., Yu P., Park J.-S. (1999). Fast algorithms for projected clustering. ACM SIGMOD Conference.
+Google Scholar
+[2]
+Aggarwal C., Yu P. (2000). Finding Generalized Projected Clusters in High Dimensional Spaces, ACM SIGMOD Conference.
+Google Scholar
+[3]
+Aggarwal C., Yu P., (2004). A Condensation Approach to Privacy Preserving Data Mining. EDBT Conference.
+Google Scholar
+[4]
+Agrawal R., Gehrke J., Gunopulos D., Raghavan P (1998). Automatic Sub-space Clustering of High Dimensional Data for Data Mining Applications. ACM SIGMOD Conference.
+Google Scholar
+[5]
+Aggarwal C (2003). A Framework for Diagnosing Changes in Evolving Data Streams. ACM SIGMOD Conference.
+Google Scholar
+[6]
+Aggarwal C., Han J., Wang J., Yu P (2003). A Framework for Clustering Evolving Data Streams. VLDB Conference.
+Google Scholar
+[7]
+Aggarwal C, Han J., Wang J., Yu P. (2004). On-Demand Classification of Evolving Data Streams. ACM KDD Conference.
+Google Scholar
+[8]
+Aggarwal C., Han J., Wang J., Yu P. (2004). A Framework for Projected Clustering of High Dimensional Data Streams. VLDB Conference.
+Google Scholar
+[9]
+Aggarwal C. (2006) on Futuristic Query Processing in Data Streams. EDBT Conference.
+Google Scholar
+[10]
+Ankerst M., Breunig M., Kriegel H.-P., Sander J. (1999). OPTICS: Ordering Points To Identify the Clustering Structure. ACM SIGMOD Conference.
+Google Scholar
+[11]
+Babcock B., Babu S., Datar M., Motwani R., Widom J. (2002). Models and Issues in Data Stream Systems, ACM PODS Conference.
+Google Scholar
+[12]
+Bradley P., Fayyad U., Reina C. (1998) Scaling Clustering Algorithms to Large Databases. SIGKDD Conference.
+Google Scholar
+[13]
+Cortes C, Fisher K., Pregibon D., Rogers A., Smith F. (2000). Hancock: A Language for Extracting Signatures from Data Streams. ACM SIGKDD Conference.
+Google Scholar
+[14]
+Domingos P., Hulten G. (2000). Mining High-Speed Data Streams. ACM SIGKDD Conference.
+Google Scholar
+[15]
+Duda R., Hart P (1973). Pattern Classification and Scene Analysis, Wiley, New York.
+zbMATHGoogle Scholar
+[16]
+Farnstrom F,, Lewis J., Elkan C. (2000). Scalability for Clustering Algorithms Revisited. SIGKDD Explorations, 2(1):pp. 51–57.
+CrossRefGoogle Scholar
+[17]
+Guha S., Mishra N., Motwani R., O’Callaghan L. (2000). Clustering Data Streams. IEEE FOCS Conference.
+Google Scholar
+[18]
+Guha S., Rastogi R., Shim K. (1998). CURE: An Efficient Clustering Algorithm for Large Databases. ACM SIGMOD Conference.
+Google Scholar
+[19]
+Hulten G., Spencer L., Domingos P. (2001). Mining Time Changing Data Streams. ACM KDD Conference.
+Google Scholar
+[20]
+Jain A., Dubes R. (1998). Algorithms for Clustering Data, Prentice Hall, New Jersey.
+Google Scholar
+[21]
+Kaufman L., Rousseuw P. (1990). Finding Groups in Data-An Introduction to Cluster Analysis. Wiley Series in Probability and Math Sciences.
+Google Scholar
+[22]
+Ng R., Han J (1994). Efficient and Effective Clustering Methods for Spatial Data Mining. Very Large Data Bases Conference.
+Google Scholar
+[23]
+O’Callaghan L., Mishra N., Meyerson A., Guha S., Motwani R (2002). Streaming-Data Algorithms For High-Quality Clustering. ICDE Conference.
+Google Scholar
+[24]
+Zhang T., Ramakrishnan R., and Livny M (1996). BIRCH: An Efficient Data Clustering Method for Very Large Databases. ACM SIGMOD Conference.
+Google Scholar
+Copyright information
+© Springer Science+Business Media, LLC 2007
+About this chapter
+Cite this chapter as:
+Aggarwal C.C., Han J., Wang J., Yu P.S. (2007) On Clustering Massive Data Streams: A Summarization Paradigm. In: Aggarwal C.C. (eds) Data Streams. Advances in Database Systems, vol 31. Springer, Boston, MA
+DOI
+https://doi.org/10.1007/978-0-387-47534-9_2
+ Publisher Name
+Springer, Boston, MA
+ Print ISBN
+978-0-387-28759-1
+ Online ISBN
+978-0-387-47534-9
+ eBook Packages
+Computer Science
+Buy this book on publisher's site
+Reprints and Permissions
+Actions
+Log in to check access
+Buy eBook
+USD 129.00
+Buy chapter (PDF)
+USD 29.95
+Instant download
+Readable on all devices
+Own it forever
+Local sales tax included if applicable
+Learn about institutional subscriptions
+
+Cite chapter
+How to cite?
+.RIS
+Papers
+Reference Manager
+RefWorks
+Zotero
+.ENW
+EndNote
+.BIB
+BibTeX
+JabRef
+Mendeley
+Over 10 million scientific documents at your fingertips
+Academic Edition
+Corporate Edition
+Home Impressum Legal information Privacy statement How we use cookies Cookie settings Accessibility Contact us
+Springer Nature
+© 2019 Springer Nature Switzerland AG. Part of Springer Nature.
+
+Not logged in Not affiliated 68.192.104.157

@@ -1,0 +1,106 @@
+https://www.britannica.com/technology/database
+
+250 thistle logo
+ENCYCLOPÆDIA BRITANNICA
+250 thistle logo
+LOG IN · JOIN
+DEMYSTIFIED QUIZZES #WTFACT LISTS ON THIS DAY BIOGRAPHIES EXPLORE
+SEARCH BRITANNICA
+Search
+Search Britannica...
+CLICK HERE TO SEARCH
+Fact-checked results at the top of your browser search. Chrome store logo Britannica Insights
+You have reached Britannica's public website.
+Click here for ad-free access to your Britannica School or Library account.
+Database
+COMPUTER SCIENCE
+ ARTICLE
+ MEDIA
+
+INFO
+PRINT
+
+CITE
+
+FEEDBACK
+FEEDBACK
+Corrections? Updates? Omissions? Let us know if you have suggestions to improve this article (requires login).
+Select feedback type: 
+SUBMIT FEEDBACK
+
+SHARE
+SHARE
+Database
+COMPUTER SCIENCE
+WRITTEN BY: The Editors of Encyclopaedia Britannica
+See Article History
+Alternative Titles: data base, electronic database
+Database, also called electronic database, any collection of data, or information, that is specially organized for rapid search and retrieval by a computer. Databases are structured to facilitate the storage, retrieval, modification, and deletion of data in conjunction with various data-processing operations. A database management system (DBMS) extracts information from the database in response to queries.
+
+Structure of an information system.
+READ MORE ON THIS TOPIC
+information processing: Databases
+The emergence of digital technology in the mid-20th century has affected humankind’s inventory of recorded information dramatically. During…
+A brief treatment of databases follows. For full treatment, see computer science: Information systems and databases; information processing.
+
+A database is stored as a file or a set of files on magnetic disk or tape, optical disk, or some other secondary storage device. The information in these files may be broken down into records, each of which consists of one or more fields. Fields are the basic units of data storage, and each field typically contains information pertaining to one aspect or attribute of the entity described by the database. Records are also organized into tables that include information about relationships between its various fields. Although database is applied loosely to any collection of information in computer files, a database in the strict sense provides cross-referencing capabilities. Using keywords and various sorting commands, users can rapidly search, rearrange, group, and select the fields in many records to retrieve or create reports on particular aggregates of data.
+
+Database records and files must be organized to allow retrieval of the information. Queries are the main way users retrieve database information. The power of a DBMS comes from its ability to define new relationships from the basic ones given by the tables and to use them to get responses to queries. Typically, the user provides a string of characters, and the computer searches the database for a corresponding sequence and provides the source materials in which those characters appear; a user can request, for example, all records in which the contents of the field for a person’s last name is the word Smith.
+
+The many users of a large database must be able to manipulate the information within it quickly at any given time. Moreover, large business and other organizations tend to build up many independent files containing related and even overlapping data, and their data-processing activities often require the linking of data from several files. Several different types of DBMS have been developed to support these requirements: flat, hierarchical, network, relational, and object-oriented.
+
+Early systems were arranged sequentially (i.e., alphabetically, numerically, or chronologically); the development of direct-access storage devices made possible random access to data via indexes. In flat databases, records are organized according to a simple list of entities; many simple databases for personal computers are flat in structure. The records in hierarchical databases are organized in a treelike structure, with each level of records branching off into a set of smaller categories. Unlike hierarchical databases, which provide single links between sets of records at different levels, network databases create multiple linkages between sets by placing links, or pointers, to one set of records in another; the speed and versatility of network databases have led to their wide use within businesses and in e-commerce. Relational databases are used where associations between files or records cannot be expressed by links; a simple flat list becomes one row of a table, or “relation,” and multiple relations can be mathematically associated to yield desired information. Various iterations of SQL (Structured Query Language) are widely employed in DBMS for relational databases. Object-oriented databases store and manipulate more complex data structures, called “objects,” which are organized into hierarchical classes that may inherit properties from classes higher in the chain; this database structure is the most flexible and adaptable.
+
+The information in many databases consists of natural-language texts of documents; number-oriented databases primarily contain information such as statistics, tables, financial data, and raw scientific and technical data. Small databases can be maintained on personal-computer systems and may be used by individuals at home. These and larger databases have become increasingly important in business life, in part because they are now commonly designed to be integrated with other office software, including spreadsheet programs.
+
+Typical commercial database applications include airline reservations, production management functions, medical records in hospitals, and legal records of insurance companies. The largest databases are usually maintained by governmental agencies, business organizations, and universities. These databases may contain texts of such materials as abstracts, reports, legal statutes, wire services, newspapers and journals, encyclopaedias, and catalogs of various kinds. Reference databases contain bibliographies or indexes that serve as guides to the location of information in books, periodicals, and other published literature. Thousands of these publicly accessible databases now exist, covering topics ranging from law, medicine, and engineering to news and current events, games, classified advertisements, and instructional courses.
+
+Increasingly, formerly separate databases are being combined electronically into larger collections known as data warehouses. Businesses and government agencies then employ “data mining” software to analyze multiple aspects of the data for various patterns. For example, a government agency might flag for human investigation a company or individual that purchased a suspicious quantity of certain equipment or materials, even though the purchases were spread around the country or through various subsidiaries.
+
+The Editors of Encyclopaedia Britannica
+This article was most recently revised and updated by Adam Augustyn, Managing Editor.
+LEARN MORE in these related Britannica articles:
+laptop computer
+computer science
+Computer science, the study of computers and computing, including their theoretical and algorithmic foundations, hardware and software, and their uses for processing information. The discipline of computer science includes the study of algorithms and data structures, computer and network design, modeling data and information processes, and artificial intelligence. Computer science…
+Structure of an information system.
+information processing: Databases
+The emergence of digital technology in the mid-20th century has affected humankind’s inventory of recorded information dramatically. During the early 1960s computers were used to digitize text for the first time; the purpose was to reduce the cost and time required to publish two…
+Structure of organizational information systemsInformation systems consist of three layers: operational support, support of knowledge work, and management support. Operational support forms the base of an information system and contains various transaction processing systems for designing, marketing, producing, and delivering products and services. Support of knowledge work forms the middle layer; it contains subsystems for sharing information within an organization. Management support, forming the top layer, contains subsystems for managing and evaluating an organization's resources and goals.
+information system: Databases and data warehouses
+Many information systems are primarily delivery vehicles for data stored in databases. A database is a collection of interrelated data organized so that individual records or groups of records can be retrieved to satisfy various criteria. Typical examples of databases include…
+newsletter icon
+HISTORY AT YOUR FINGERTIPS
+Sign up here to see what happened On This Day, every day in your inbox!
+Email address
+By signing up, you agree to our Privacy Notice.
+SpaceNext50
+Database
+QUICK FACTS
+KEY PEOPLE
+Larry Ellison
+James Nicholas Gray
+Charles Bachman
+Michael Stonebraker
+RELATED TOPICS
+Information system
+Hypertext
+Data
+Record
+File
+Multidatabase
+Hypermedia
+LOAD NEXT ARTICLE
+Inspire your inbox – Sign up for daily fun facts about this day in history, updates, and special offers.
+Enter your email
+SUBSCRIBE
+By signing up for this email, you are agreeing to news, offers, and information from Encyclopaedia Britannica.
+Click here to view our Privacy Notice. Easy unsubscribe links are provided in every email.
+STAY CONNECTED
+
+About Us About Our Ads Partner Program Contact Us Privacy Notice Terms of Use
+
+©2019 Encyclopædia Britannica, Inc.
+close
+Are we living through a mass extinction?
+The 6th Mass Extinction

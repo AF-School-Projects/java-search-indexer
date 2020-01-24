@@ -1,0 +1,362 @@
+https://techcrunch.com/2019/10/26/quantum-computings-hello-world-moment/
+
+
+Login
+Search
+Disrupt Berlin 2019
+Gift Guide
+Startups
+Apps
+Gadgets
+Videos
+Audio
+Newsletters
+Extra Crunch
+Advertise
+Events
+—
+Crunchbase
+More
+Gift Guide 2019
+Apple
+Enterprise
+Transportation
+
+Quantum computing’s ‘Hello World’ moment
+Certainty principle
+Devin Coldewey@techcrunch / 10:15 am EDT • October 26, 2019
+ Comment
+qubit halo2
+Image Credits: Bryce Durbin / TechCrunch
+Does quantum computing really exist? It’s fitting that for decades this field has been haunted by the fundamental uncertainty of whether it would, eventually, prove to be a wild goose chase. But Google has collapsed this nagging superposition with research not just demonstrating what’s called “quantum supremacy,” but more importantly showing that this also is only the very beginning of what quantum computers will eventually be capable of.
+
+This is by all indications an important point in computing, but it is also very esoteric and technical in many ways. Consider, however, that in the 60s, the decision to build computers with electronic transistors rather than analog technologies must have seemed rather an esoteric point as well. Yet history shows that was in a way the catalyst for the entire Information Age.
+
+Very few were lucky enough to be involved with that decision or to understand why it was important at the time. But we are lucky enough to be here now — but understanding takes a bit of explanation. The best place to start is perhaps with computing and physics pioneers Alan Turing and Richard Feynman.
+
+‘Because nature isn’t classical, dammit’
+The universal computing machine envisioned by Turing and others of his generation was brought to fruition during and after World War II, progressing from vacuum tubes to hand-built transistors to the densely packed chips we have today. With it evolved an idea of computing that essentially said: If it can be represented by numbers, we can simulate it.
+
+That meant that cloud formation, object recognition, voice synthesis, 3D geometry, complex mathematics — all that and more could, with enough computing power, be accomplished on the standard processor-RAM-storage machines (the “Von Neumann” architecture, named after that equally influential thinker) that had become the standard.
+
+But there were exceptions. And although some were obscure things like mathematical paradoxes, it became clear as the field of quantum physics evolved that it may be one of them. It was Feynman who proposed in the early 80s that if you want to simulate a quantum system, you’ll need a quantum system to do it with.
+
+“I’m not happy with all the analyses that go with just the classical theory, because nature isn’t classical, dammit, and if you want to make a simulation of nature, you’d better make it quantum mechanical,” he concluded, in his inimitable way. Classical computers, as he deemed what everyone else just called computers, were insufficient to the task.
+
+GettyImages feynman
+Richard Feynman made the right call, it turns out.
+
+
+The problem? There was no such thing then as a quantum computer, and no one had the slightest idea how to build one. But the gauntlet had been thrown, and it was like catnip to theorists and computer scientists (including Feynman himself), who since then have vied over the idea.
+
+Could it be that with enough ordinary computing power, power on a scale Feynman could hardly imagine — data centers with yottabytes of storage and exaflops of processing — we can in fact simulate nature down to its smallest, spookiest levels?
+
+Or could it be that with some types of problems you hit a wall, and that you can put every computer on Earth to a task and the progress bar will only tick forward a percentage point in a million years, if that?
+
+And, if that’s the case, is it even possible to create a working computer that can solve that problem in a reasonable amount of time?
+
+In order to prove Feynman correct, you would have to answer all of these questions. You’d have to show that there exists a problem that is not merely difficult for ordinary computers, but that is effectively impossible for them to solve even at incredible levels of power. And you would have to not just theorize but create a new computer that not just can but does solve that same problem.
+
+By doing so you would not just prove a theory, you would open up an entirely new class of problem-solving, of theories that can be tested. It would be a moment when an entirely new field of computing first successfully printed “hello world” and was opened up for everyone in the world to use. And that is what the researchers at Google  and NASA claim to have accomplished.
+
+In which we skip over how it all actually works
+google quantum team
+One of the quantum computers in question. I talked with that fellow in the shorts about microwave amps and attenuators for a while.
+
+
+Much has already been written on how quantum computing differs from traditional computing, and I’ll be publishing another story soon detailing Google’s approach. But some basics bear mentioning here.
+
+Classical computers are built around transistors that, by holding or vacating a charge, signify either a 1 or a 0. By linking these transistors together into more complex formations they can represent data, or transform and combine it through logic gates like AND and NOR. With a complex language specific to digital computers that has evolved for decades, we can make them do all kinds of interesting things.
+
+Quantum computers are actually quite similar in that they have a base unit that they perform logic on to perform various tasks. The difference is that the unit is more complex: a qubit, which represents a value in a higher mathematical space than simply “on” or “off.” Their state may be thought of as a location on a sphere, a point in 3D space. The logic is also more complicated, but still relatively basic (and helpfully still called gates): That point can be adjusted, flipped, and so on. Yet the qubit when observed is also digital, providing what amounts to either a 0 or 1 value.
+
+By virtue of representing a value in a richer mathematical space, these qubits and manipulations thereof can perform new and interesting tasks, including some which, as Google shows, we had no ability to do before.
+
+A quantum of contrivance
+In order to accomplish the tripartite task summarized above, first the team had to find a problem that classical computers found difficult but that should be relatively easy for a quantum computer to do. The problem they settled on is in a way laughably contrived: Being a quantum computer.
+
+In a way it makes you want to just stop reading, right? Of course a quantum computer is going to be better at being itself than an ordinary computer will be. But it’s not actually that simple.
+
+Think of a cool old piece of electronics — an Atari 800. Sure, it’s very good at being itself and running its programs and so on. But any modern computer can simulate an Atari 800 so well that it could run those programs in orders of magnitude less time. For that matter, a modern computer can be simulated by a supercomputer in much the same way.
+
+Furthermore, there are already ways of simulating quantum computers — they were developed in tandem with real quantum hardware so performance could be compared to theory. These simulators and the hardware they simulate differ widely, and have been greatly improved in recent years as quantum computing became more than a hobby for major companies and research institutions.
+
+qubit lattice
+This shows the “lattice” of qubits as they were connected during the experiment (colored by the amount of error they contributed, which you don’t need to know about.)
+
+
+To be specific, the problem was simulating the output of a random sequence of gates and qubits in a quantum computer. Briefly stated, when a circuit of qubits does something, the result is, like other computers, a sequence of 0s and 1s. Those sequences, due to the noise-prone nature of qubits and quantum gates, will exhibit randomness — but crucially, they are “random” in a very specific, predictable way.
+
+Think of a pachinko ball falling through its gauntlet of pins, holes and ramps. The path it takes is random in a way, but if you drop 10,000 balls from the exact same position into the exact same maze, patterns will emerge in where they come out at the bottom — a spread of probabilities, perhaps more at the center and less at the edges. If you were to simulate that pachinko machine on a computer, you could test whether your simulation is accurate by comparing the output of 10,000 virtual drops with 10,000 real ones.
+
+It’s the same with simulating a quantum computer, though of course rather more complex. Ultimately however the computer is doing the same thing: simulating a physical process and predicting the results. And like the pachinko simulator, its accuracy can be tested by running the real thing and comparing those results.
+
+But just as it is easier to simulate a simple pachinko machine than a complex one, it’s easier to simulate a handful of qubits than a lot of them. After all, qubits are already complex. And when you get into questions of interference, slight errors and which direction they’d go, etc. — there are, in fact, so many factors, and such mysterious ones, that Feynman made the call that at some point you wouldn’t be able to account for them all. And at that point you would have entered the realm where only a quantum computer can provide those results — the realm of “quantum supremacy.”
+
+Exponential please, and make it a double
+After 1,400 words, there’s the phrase everyone else put right in the headline. Why? Because quantum supremacy may sound grand, but it’s only a small part of what was accomplished, and in fact this result in particular may not last forever as an example of having reached those lofty heights. But to continue.
+
+Google’s setup was simple, as quantum computing goes. Set up randomly created circuits of qubits, both in its quantum computer and in the software-based simulator. Start simple with a few qubits doing a handful of operational cycles and compare the time it takes each to produce results.
+
+Bear in mind that the simulator is not running on a laptop next to the fridge-sized quantum computer, but on Summit — a supercomputer at Oak Ridge National Lab currently rated as the most powerful single processing system in the world, and not by a little. It has 2.4 million processing cores, a little under 3 petabytes of memory, and hits about 150 petaflops.
+
+At these early stages, the simulator and the quantum computer happily agreed — the numbers they spat out, the probability spreads, were the same, over millions of trials.
+
+But as more qubits and more complexity got added to the system, the time the simulator took to produce its prediction increased. That’s to be expected, just like a bigger pachinko machine. At first the times for actually executing the calculation and simulating it may have been comparable — a matter of seconds or minutes. But those numbers soon grew hour by hour as they worked their way up to 54 qubits.
+
+When it got to the point where it took the simulator five hours to verify the quantum computer’s result, Google changed its tack. Because more qubits isn’t the only way quantum computing gets more complex (and besides, they couldn’t add any more to their current hardware). Instead, they started performing more rounds of operations with a given circuit, which adds all kinds of complexity to the simulation for a lot of reasons that I couldn’t possibly explain.
+
+For the quantum computer, doing another round of calculations just takes another fraction of a second, and even multiplied by thousands of times to get the required number of runs to produce usable probability numbers, it only ended up taking the machine several extra seconds.
+
+schroed feyn chart
+You know it’s real because there’s a chart. The dotted line (added by me) is the approximate path the team took, first adding qubits (x-axis) and then complexity (y-axis).
+
+
+For the simulator, however, verifying these results took a week — a week, on the most powerful computer in the world.
+
+At that point the team had to stop doing the actual simulator testing, since it was so time-consuming and expensive. Yet even so, no one really claimed that they had achieved “quantum supremacy.” After all, it may have taken the biggest classical computer ever created thousands of times longer, but it was still getting done.
+
+So they cranked the dial up another couple notches. 54 qubits, doing 25 cycles, took Google’s Sycamore system 200 seconds. Extrapolating from its earlier results, the team estimated that it would take Summit 10,000 years.
+
+What happened is what the team called double exponential increase. It turns out that adding qubits and cycles to a quantum computer adds a few microseconds or seconds every time — a linear increase. But every qubit you add to a simulated system makes that simulation exponentially more costly to run, and it’s the same story with cycles.
+
+Imagine if you had to do whatever number of push-ups I did, squared, then squared again. If I did 1, you would do 1. If I did 2, you’d do 16. So far no problem. But by the time I get to 10, I’d be waiting for weeks while you finish your 10,000 push-ups. It’s not exactly analogous to Sycamore and Summit, since adding qubits and cycles had different and varying exponential difficulty increases, but you get the idea. At some point you can have to call it. And Google called it when the most powerful computer in the world would still be working on something when in all likelihood this planet will be a smoking ruin.
+
+It’s worth mentioning here that this result does in a way depend on the current state of supercomputers and simulation techniques, which could very well improve. In fact IBM published a paper just before Google’s announcement suggesting that theoretically it could reduce the time necessary for the task described significantly. But it seems unlikely that they’re going to improve by multiple orders of magnitude and threaten quantum supremacy again. After all, if Google and NASA were to add a few more qubits or cycles, the problem gets multiple orders of magnitude harder again. Even so, advances on the classical front are both welcome and necessary for further quantum development.
+
+‘Sputnik didn’t do much, either’
+So the quantum computer beat the classical one soundly on the most contrived, lopsided task imaginable, like pitting an apple versus an orange in a “best citrus” competition. So what?
+
+Well, as founder of Google’s Quantum AI lab Hartmut Neven pointed out, “Sputnik didn’t do much either. It just circled the Earth and beeped.” And yet we always talk about an industry having its “Sputnik moment” — because that was when something went from theory to reality, and began the long march from reality to banality.
+
+2019 SB Google 0781
+The ritual passing of the quantum computing core.
+
+
+That seemed to be the attitude of the others on the team I talked with at Google’s quantum computing ground zero near Santa Barbara. Demonstrating quantum superiority is nice, they said, but it’s what they learned in the process that mattered, by confirming that what they were doing wasn’t pointless.
+
+It turns out it’s possible that a result like theirs could be achieved whether or not quantum computing really has a future. Pointing to one of the dozens of nearly incomprehensible graphs and diagrams I was treated to that day, hardware lead and longtime quantum theorist John Martines explained one crucial result: The quantum computer wasn’t doing anything weird and unexpected.
+
+This is very important when doing something completely new. It was entirely possible that in the process of connecting dozens of qubits and forcing them to dance to the tune of the control systems, flipping, entangling, disengaging, and so on — well, something might happen.
+
+Maybe it would turn out that systems with more than 14 entangled qubits in the circuit produce a large amount of interference that breaks the operation. Maybe some unknown force would cause sequential qubit photons to affect one another. Maybe sequential gates of certain types would cause the qubit to decohere and break the circuit. It’s these unknown unknowns that have caused so much doubt over whether, as asked at the beginning, quantum computing really exists as anything more than a parlor trick.
+
+Imagine if they discovered that in digital computers, if you linked too many transistors together, they all spontaneously lost their charge and went to 0. That would put a huge limitation on what a transistor-based digital computer was capable of doing. Until now, no one knew if such a limitation existed for quantum computers. These were the kind of unknown unknowns the team was half-expecting to encounter. But everything worked.
+
+“There’s no new physics out there that will cause this to fail. That’s a big takeaway,” said Martines. “We see the same errors whether we have a simple circuit or complex one, meaning the errors are not dependent on computational complexity or entanglement — which means the complex quantum computing going on doesn’t have fragility to it because you’re doing a complex computation.”
+
+They operated a quantum computer at complexities higher than ever before, and nothing weird happened. And based on their observations and tests, they found that there’s no reason to believe they couldn’t take this same scheme up to, say, a thousand qubits and even greater complexity.
+
+Hello world
+That is the true accomplishment of the work the research team did. They found out, in the process of achieving the rather overhyped milestone of quantum superiority, that quantum computers are something that can continue to get better and to achieve more than simply an interesting experimental results.
+
+This was by no means a given — like everything else in the world, quantum or classical, it’s all theoretical until you test it.
+
+It means that sometime soonish, though no one can really say when, quantum computers will be something people will use to accomplish real tasks. From here on out, it’s a matter of getting better, not proving the possibility; of writing code, not theorizing whether code can be executed.
+
+It’s going from Feynman’s proposal that a quantum computer will be needed to using a quantum computer for whatever you need it for. It’s the “hello world” moment for quantum computing.
+
+Feynman, by the way, would probably not be surprised. He knew he was right.
+
+Google’s paper describing their work was published in the journal Nature. You can read it here.
+
+Conversation(15)
+Sort byBest
+Add a comment...
+
+
+Amazing web alot good informations ! Special Hello from Brazil !!
+
+
+
+I come here as a visitor n now i am a diary reader here !
+
+...See more
+Reply
+Share
+Quantum of Non Solace, let alone Supremacy, to paraphrase the Bond movie title is more accurate.  Singularity is already here though, in the automation of ears and tongues, with any voice, anywhere, any dialect or languages, with high accuarcy, in real time, at lowest cost, fully scalsble, already in global use, independently reviewed on August 6th, 2019, at cmsvoice.com, on award winning  SPEECH MORPHING "Eradicating IlliteracyTM)"
+Reply
+Share
+"Event Horizon"  is an appropriate term, as in BLACK HOLE.
+Reply
+Share
+Spelling corrected, thank you for pointing that out. In an interview conducted with a Google spin doctor two evenings ago, when pressed, he admitted QS is at least one decade away, if ever. His interview sounded very similar DeepMind promises and little delivery some 11 years ago.
+Reply
+Share
+"Event Horizon ", yes another fake news headline, or BLACK HOLE,  by Google, to hide DeepMind failures.
+Reply
+Share
+The first phone did not make bs claims.
+Reply
+Share
+See above, show RESULTS.
+Reply
+Share
+"EXPERIMENT"
+
+
+
+Last night heard a cogent interview with a Google spin doctor,  on this quantum supremacy claim ... when pressed,  he admitted "it's at least ten years away, IF  they get there".   Sounds exactly like the sane lines  used hyping DeepMind spin 11 years ago, that did not and will not get there.  Want  real SINGULARITY?  Already done in automation of ears and tongues,  in any voice, and any languages, at lowest cost highest accurscy,  in real time, robustly patented and fully scalable, already in global use,  lindependently reviewed on August 6th, 2019 at cmsvoice.com. 
+
+ 
+
+...See more
+Reply
+Share
+Spelling edited, dyslexia, it’s a bitch. I hypothesize, but have yet to prove, there maybe an inverse correlation to spelling and rational cognition. At least that's what Uncle Dick use to quip.
+Reply
+Share
+They addressed this. All Sputnik did was beep…but now, up there…we have communication satellites, GPS, weather stations and a whole host of other real, cost-effective, applied uses. In 50 years, quantum computing may let us take various economic data, input it, and it will spew out results so fast, we can tweak ideas until we get the best case scenario…in terms of tax rates, retirement ages, minimum wage, what the price of milk should be, etc…all the way to one day telling us what the best mix of energy sources would be in each area to change the climate or how to decrease pollutants in our air, water, and food supplies to minimize cancer rates while maintaining other standards of living. You don’t seem to have any vision. The first phone communicated to the same building.
+Reply
+Share
+TermsPrivacyAdd Spot.IM to your site
+Sign up for Newsletters
+See all newsletters(opens in a new window)
+
+The Daily Crunch
+Week in Review
+Extra Crunch Roundup
+Startups Weekly
+The Station
+Max Q (coming soon) - A newsletter about space
+Event Updates
+Sponsorship Insider
+Crunchbase Daily
+
+Email
+Subscribe
+(opens in a new window)(opens in a new window)(opens in a new window)(opens in a new window)
+https://tcrn.ch/2MN0d9i
+Copy
+Tags
+GadgetsHardwareScienceTCGoogle(opens in a new window)Quantum Computersquantum computing(opens in a new window)
+qubit halo2
+Quantum computing’s ‘Hello World’ moment
+Does quantum computing really exist? It’s fitting that for decades this field has been haun...
+
+Devin Coldewey
+10:15 am EDT • October 26, 2019
+Reddit’s monthly active user base grew 30% to reach 430M in 2019
+Sarah Perez
+10:52 am EST • December 4, 2019
+In a year-end retrospective released this morning, Reddit says its user base grew 30% this year to reach 430 million monthly active users, as of the end of October. Its users also contributed 199 m...
+
+reddit app icon ios
+Dataiku is now worth $1.4 billion following secondary round
+Romain Dillet
+10:37 am EST • December 4, 2019
+Enterprise AI company Dataiku has announced some changes in its capitalization table. CapitalG (formerly Google Capital), Alphabet’s growth equity investment fund, is investing in the startup by bu...
+
+
+Toyota leads $50 million investment in autonomous shuttle startup May Mobility
+Kirsten Korosec
+10:12 am EST • December 4, 2019
+May Mobility, a Michigan-based startup that is operating autonomous shuttle services in three U.S. cities, has has raised $50 million in a Series B round led by Toyota Motor Corp. The funding, whic...
+
+
+Kustomer raises $60M for its omnichannel-based CRM platform
+Ingrid Lunden
+9:29 am EST • December 4, 2019
+Kustomer, a CRM startup that’s taking on the likes of Zendesk, Salesforce, and many other bigger and older providers, has closed yet another round of funding — no less than its third fu...
+
+GettyImages 1165734855
+Delphia wants to turn your data into investment capital through collective action
+Darrell Etherington
+9:27 am EST • December 4, 2019
+A lot of companies talk about the value of your data, and about helping you get more control over the information you share, but Toronto-based Delphia is unique in aiming to build a viable, sustain...
+
+
+Plex launches a free, ad-supported streaming service in over 200 countries
+Sarah Perez
+9:00 am EST • December 4, 2019
+Plex today is launching its own ad-supported streaming service, a rival to The Roku Channel, Tubi, Crackle, Vudu’s Movies on Us, and others that offer a way to stream movies and TV for free w...
+
+
+Pandora’s revamped, more personalized app rolls out to all users
+Sarah Perez
+9:00 am EST • December 4, 2019
+Pandora’s redesigned mobile app experience is today available to all users, following a limited rollout that began in October. The update expands on Pandora’s personalization capabiliti...
+
+pandora app icon ios
+Flow raises $37M to simplify international e-commerce
+Anthony Ha
+9:00 am EST • December 4, 2019
+Flow, a startup that helps brands and retailers build a cross-border e-commerce business, has raised $37 million in Series B funding. CEO Rob Keve said that thanks to the magic of social media and ...
+
+Flow founders
+Android’s ‘Focus Mode’ exits beta, adds new scheduling features
+Sarah Perez
+9:00 am EST • December 4, 2019
+Google is expanding its suite of “Digital Wellbeing” tools for Android devices with a new feature, Focus Mode, launching today. This feature allows users to turn off distractions —...
+
+
+Watch SpaceX launch a twice-flown Dragon capsule to the ISS live
+Darrell Etherington
+7:56 am EST • December 4, 2019
+SpaceX is set to launch its 19th Commercial Resupply Mission (CRS) for the International Space Station today, with a liftoff time scheduled for 12:51 PM EST (9:51 AM EST). The launch will take off ...
+
+
+Extra Crunch
+Lessons from M-Pesa for Africa’s new VC-rich fintech startups
+Jake Bright
+7:42 am EST • December 4, 2019
+Over the least decade, Africa has been in the midst of a startup boom accompanied by big growth in VC and improvements in internet and mobile penetration.
+
+
+Disrupt Berlin 2019 opens in just one week
+Leslie Hitchcock
+5:08 am EST • December 4, 2019
+Synchronize your watches, dust off your passports and pack your bags, startuppers. Disrupt Berlin 2019 kicks off in just seven short days. Thousands of you — representing more than 50 countries — w...
+
+
+Prolific wants to challenge Amazon’s Mechanical Turk in the online research space
+Steve O'Hear
+4:00 am EST • December 4, 2019
+Prolific, a U.K.-based startup that wants to make it easier to conduct online research, has raised $1.2 million in seed funding. The round is co-led by Silicon Valley-based Pioneer Fund, and Altair...
+
+
+Otta picks up £850,000 seed to match you to relevant jobs
+Steve O'Hear
+4:00 am EST • December 4, 2019
+Otta, one of the latest startups aiming to fix what it sees as a broken job search and recruitment market, has picked up £850,000 in seed funding. Backing the young London company is LocalGlobe, al...
+
+
+Meet Europe’s top VCs at Disrupt Berlin
+Kate Clark
+1:11 am EST • December 4, 2019
+Learn from top European and U.S. venture capitalists at Disrupt Berlin next week.
+
+
+In a first, Amazon launches a battery-powered portable Echo speaker in India
+Manish Singh
+12:11 am EST • December 4, 2019
+After launching nearly a dozen Echo speaker models in India in two years, Amazon said on Wednesday it is adding a new variant to the mix that addresses one of the most requested features from custo...
+
+
+Carbon dioxide emissions are set to hit a record high this year (it’s not fine, but not hopeless)
+Jonathan Shieber
+10:21 pm EST • December 3, 2019
+Carbon dioxide emissions, one of the main contributors to the climate changes bringing extreme weather, rising oceans, and more frequent fires that have killed hundreds of Americans and cost the U....
+
+
+AWS launches discounted spot capacity for its Fargate container platform
+Frederic Lardinois
+7:58 pm EST • December 3, 2019
+AWS today quietly brought spot capacity to Fargate, its serverless compute engine for containers that supports both the company’s Elastic Container Service and, now, its Elastic Kubernetes se...
+
+aws re:invent logo
+Extra Crunch
+Progressive VCs and private equity are using tech and analytics to revolutionize investing
+David Teten
+7:34 pm EST • December 3, 2019
+Private equity and venture capital investors are copying our counterparts in the hedge fund world: we’re trying to automate more of our job.
+
+vc technology investor
+This 16-game arcade for AIs tests their playing prowess
+Devin Coldewey
+7:24 pm EST • December 3, 2019
+Figuring out just what an AI is good at is one of the hardest thing about understanding them. To help determine this, OpenAI has designed a set of games that can help researchers tell whether their...
+
+
+TechCrunchPrivacy PolicyDo Not Sell My Personal InformationAbout Our AdsCode of ConductTerms of Service
+© 2013-2019 Verizon Media. All rights reserved. Powered by WordPress VIP(opens in a new window). Fonts by TypeKit(opens in a new window).

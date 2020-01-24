@@ -1,0 +1,125 @@
+https://slate.com/technology/2016/02/whats-the-deal-with-algorithms.html
+
+Skip to the content
+Thanksgiving
+Impeachment
+Abortion
+Pete Buttigieg
+Dog Primary
+The Two Popes
+CBD
+ 
+Search for
+
+Sign In
+News & Politics
+Culture
+Technology
+Business
+Human Interest
+WILL EDUCATE AND ALSO INFLAME READERS
+FOLLOW US
+Future Tense
+What’s the Deal With Algorithms?
+Your 101 guide to the computer codes that are shaping the ways we live.
+By JACOB BROGAN
+
+FEB 02, 201610:29 AM
+160111226
+iStock
+Can I level with you? I’m not always sure I know what people are talking about when they say algorithm?
+
+You’re not alone: Honestly, I haven’t always been sure what I meant when I said it either. But here’s the absolute simplest definition: An algorithm is a set of guidelines that describe how to perform a task. (Click here for a cheat sheet.)
+
+Come on. That’s it?
+
+Yup. As UCLA’s John Villasenor has pointed out, this means that even something as innocuous as a recipe or a list of directions to a friend’s house can be understood as an algorithm. Things are a bit more complicated in the computer science context where the term most often comes up, but only ever so slightly. In his book The Master Algorithm, Pedro Domingos offers a masterfully simple definition: “An algorithm is,” Domingos writes, “a sequence of instructions telling a computer what to do.” As Domingos goes on to explain, algorithms are reducible to three logical operations: AND, OR, and NOT. While these operations can chain together in extraordinarily complex ways, at core algorithms are built out of simple rational associations.
+
+It’s starting to sound like we’re just talking about computer code here.
+
+You’re not wrong. Silicon Valley marketers love the term algorithm, since it makes the features they’re selling seem a little more mysterious, and hence, perhaps, a little more enticing. The fact of the matter is that most of us don’t have a strong grasp of how our computers (or our phones, or our watches) work, but we tend to have at least a general sense of what code is. Because it’s less familiar, algorithm tends to emphasize our uncertainty.
+
+Then what makes algorithms special?
+
+Generally speaking, when people talk about algorithms these days, they’re talking about something more specific, like the operations that power our social media news feeds. In one way or another, most of these systems are examples of a technology called machine learning. Instead of repeatedly processing a stable set of instructions, systems based on machine learning rewrite themselves as they work. It’s this that frightens some people, since it makes algorithms sound like they’re alive, possibly even sentient. (To be clear, they are neither.)
+
+In an article on Domingos’ Master Algorithm, Slate’s David Auerbach notes that “even within computer science, machine learning is notably opaque.” But it’s also increasingly central to the ways that we live, making it all the more important to disperse that fog. Part of the issue, though, is that machine-learning algorithms are effectively programming themselves, meaning that they can sometimes be unpredictable, or even slightly alien. Their operations are sometimes obscure even to those who originally created them!
+
+What can you do with these algorithms?
+
+So many things! They’re used these days for a host of purposes, such as automating stock market trading or serving ads to website visitors. One of the earliest applications of this technology—one that we’re still working on—was so-called machine vision, in which computers try to identify the various elements of a picture. It’s the kind of system that can tell you (or claim to) how hot you look in a picture or identify the most inventive paintings of all time.
+
+Machine vision is an important example, since it also demonstrates the way algorithms often learn how to do their jobs better by messing them up, sometimes very publicly. Those errors can be silly, as when Wolfram Alpha mistakes a cute baby goat for a dog, but they can also be downright ugly, as when Google Photos misidentified two black people as gorillas. No one consciously taught the system to form racist conclusions, but the parameters that the programmers set up may have primed it to arrive there. Relying on machine learning is risky because these are systems that learn to get things right by repeatedly getting them wrong. Working with them therefore entails accepting almost inevitable errors and screw-ups.
+
+Surely it’s not just about teaching computers to see …
+
+Of course not. In fact, the most promising—and most troubling!—property of some algorithms may be their ability to decide what we see and how we see it. When you ask a digital assistant, like Siri or Cortana, a question, algorithmic operations inform both its sense of what you’ve asked and the information it provides in response. Machine learning likewise helps Google Maps determine the best route from one location to another. And there’s a virtually unlimited array of other functions that algorithms can serve: Some of the earliest commercial applications of algorithms involved automating tasks such as payroll management, but with the rise of contemporary machine learning, they’re used for much more sophisticated tasks. Algorithms determine who should receive government benefits, contribute to predictive policing, help anticipate health crises, reschedule airline flights, and much more.
+
+There are still plenty of things that algorithms can’t do. For example, while algorithms are pretty good at booking travel, airlines have found that they can’t dispense with human reservation agents. While the algorithms are good at guaranteeing efficiency, they’re not great at simulating compassion and other human characteristics.
+
+So are humans and algorithms mutually exclusive then?
+
+Not necessarily! Consider that for many of us, the most familiar example of a machine-learning algorithm is probably the Facebook news feed. In this sense, algorithms can do plenty of good: Surely most of us have had the experience of reconnecting with long-lost acquaintances through Facebook’s suggested friends lists. That’s an algorithmic operation, one that brings us closer instead of driving us apart. As Slate’s Will Oremus has shown, the company constantly fiddles with the way its news feed works. Facebook’s not just monitoring how long you spend looking at each post; it’s also carefully evaluating what we actually want to see, focusing on us, and not just on the underlying math. Similarly, music services such as Pandora use our listening habits to recommend new songs and artists that we might not have discovered otherwise, sometimes pushing us out of our comfort zones in the process. Critics complain that algorithms are making our worlds smaller, cutting us off from one another. But these operations suggest that they can actually help us connect with the unfamiliar—and the long forgotten.         
+
+Let’s get back to the question of opacity. What’s that all about?
+
+To carry out all the cool stuff they do, algorithms have to create complex pictures of us. The problem is that algorithms know so much about us while we know so little about them. Auerbach has argued that the operations of sophisticated machine learning algorithms are often almost as obscure to those who create them as they are to the rest of us. That’s a consequence of the size of companies like Google, but it also stems from the complexity of the programs themselves. He suggests that we shouldn’t always assume companies have acted maliciously when a computer does something bad, because its ostensible masters might have no idea that it was inclined to act that way.
+
+Still, that doesn’t mean algorithms aren’t racist when they, say, serve ads about arrests records at higher frequency to people whose names are associated with black populations—they absolutely are. And if anything, all of this may mean that we really have given algorithms too much power, since we can’t even begin to comprehend—let alone regulate—much of what they do.
+
+Does everyone agree with that?
+
+Not everyone. Security researcher Adam Elkus, for one, has defended algorithms, arguing that most of the issues we identify with them are social rather than computational. The problem isn’t that algorithms are opaque black boxes, but that our entire system is bureaucratic. He argues that algorithms are only as invasive, restrictive, or otherwise troublesome as the social context that they support. The philosopher Michel Foucault described power as a sort of distributed force, one that derives from the way we internalize norms and expectations rather than from the dictates of presidents and kings. When we talk about the power of algorithms, we’re arguably identifying a similar operation—not the power of an individual actor who knows too much, but the power of a system to which we’ve already submitted. 
+
+So it’s society’s fault? Do we have to let algorithms off the hook?
+
+Even if what Elkus says is true, some might suggest that algorithms can complicate existing prejudices and other issues. The Federal Trade Commission has identified some problems with big data analysis that are directly intertwined with the obscurity of the algorithms companies plug that data into. If we unknowingly incorporate a prejudice into a data collection model, the FTC warns, we can end up with even more prejudiced algorithms in the process.
+
+Similar issues are already coming to a head in so-called predictive policing. While algorithms are never going to let us read the future, some argue that they can help law enforcement agencies better allocate resources. But according to University of Michigan computer science professor H.V. Jagadish, those algorithms may end up enforcing the patterns they’re designed to oppose. Similar concerns preoccupy legal scholars such as Frank Pasquale, who warns in his book The Black Box Society that the obscurity of our algorithms may intensify the problematic assumptions, social structures, and so on that we incorporate into them.
+
+Are algorithms going to control everything?
+
+Not necessarily! Many of the most familiar, and seemingly most powerful, algorithms rely more heavily on human input than you might realize. As Oremus learned when he looked into the Facebook algorithm, the company has actually relied on groups of very real “power users” to help it fine-tune its tools. And Spotify’s vaunted Discover Weekly playlist works by identifying users whose recent listening habits resemble yours and then building a playlist for you from their playlists. Ask one of the feature’s developers and they’ll admit as much, probably telling you, as Spotify’s Matthew Ogle has said to me and others, that it’s “Humans all the way down.”
+
+Of course, that “all the way down” business paraphrases a famously silly figure of speech, one that’s all about ignoring the real complexity of the universe. And where the universe keeps unlocking its secrets to us, algorithms are only growing more obscure as we get better at making them—and as they learn to remake themselves. If anything, that increases our obligation to try and make sense of them. That’s why Futurography will be spending the rest of February on this topic. And we want your help! What questions should we try to answer? And what’s your take?
+
+This article is part of the algorithms installment of Futurography, a series in which Future Tense introduces readers to the technologies that will define tomorrow. Each month from January through May 2016, we’ll choose a new technology and break it down. Read more from Futurography on algorithms:
+
+“Your Algorithms Cheat Sheet”
+“The Ethical Data Scientist”
+“How to Teach Yourself About Algorithms”
+“How to Hold Governments Accountable for the Algorithms They Use”
+“How Algorithms Are Changing the Way We Argue”
+“Which Government Algorithm to Cut Fraud Works Best—the One Targeting the Poor or the Rich?”
+“Algorithms Can Make Good Co-Workers”
+“Algorithms Aren’t Like Spock—They’re Like Capt. Kirk”
+“What Do We Not Want Algorithms to Do for Us?”
+Future Tense is a collaboration among Arizona State University, New America, and Slate. To get the latest from Futurography in your inbox, sign up for the weekly Future Tense newsletter.
+
+ 
+ 
+Algorithms Futurography
+Reprints
+Advertise: Site / Podcasts
+Commenting
+Podcast FAQs
+Contact / Feedback
+Pitch guidelines
+Corrections
+About us
+Work with us
+Send us tips
+User agreement
+Privacy policy
+AdChoices
+Slate Shop
+FOLLOW US
+Facebook
+Twitter
+Instagram
+RSS Feed
+Slate is published by The Slate Group, a Graham Holdings Company.
+All contents © 2019 The Slate Group LLC. All rights reserved.
+
+
+

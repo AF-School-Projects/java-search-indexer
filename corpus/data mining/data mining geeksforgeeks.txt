@@ -1,0 +1,180 @@
+https://www.geeksforgeeks.org/data-mining/
+
+We use cookies to ensure you have the best browsing experience on our website. By using our site, you acknowledge that you have read and understood our Cookie Policy & Privacy Policy
+Got it!
+GeeksforGeeks
+Skip to content
+Tutorialskeyboard_arrow_down Studentskeyboard_arrow_down Courses
+Custom Search
+
+Login
+Hire with us!
+Data Mining
+Data Warehousing
+Data Mining
+Difference between Soft Computing and Hard Computing
+Python | Speech recognition on large audio files
+ML | Training Image Classifier using Tensorflow Object Detection API
+TensorFlow 2.0
+Extendible Hashing (Dynamic approach to DBMS)
+Data Mining | Set 2
+Python | Mean Squared Error
+Data Normalization in Data Mining
+Van Emde Boas Tree | Set 1 | Basics and Construction
+Data Integration in Data Mining
+AI Model For Neurodegenerative Diseases
+Cyber Security in Cloud computing
+Blockchain to Secure IoT Data
+Numerosity Reduction in Data Mining
+Age of AI-based recruitment... What to expect?
+r-Nearest neighbors
+Pattern Recognition | Phases and Activities
+Matlab | Edge Detection of an image without using in-built function
+Weiler Atherton - Polygon Clipping Algorithm
+Web Mining
+Matlab | Dilation of an Image
+Difference between Fuzzification and Defuzzification
+Pattern Recognition | Basics and Design Principles
+Proto Van Emde Boas Tree | Set 3 | Insertion and isMember Query
+Proto Van Emde Boas Trees | Set 4 | Deletion
+Filter Color with OpenCV
+OpenCV | Saving an Image
+
+perm_identity
+Data Mining
+In general terms, “Mining” is the process of extraction of some valuable material from the earth e.g. coal mining, diamond mining etc. In the context of computer science, “Data Mining” refers to the extraction of useful information from a bulk of data or data warehouses. One can see that the term itself is a little bit confusing. In case of coal or diamond mining, the result of extraction process is coal or diamond. But in case of Data Mining, the result of extraction process is not data!! Instead, the result of data mining is the patterns and knowledge that we gain at the end of the extraction process. In that sense, Data Mining is also known as Knowledge Discovery or Knowledge Extraction.
+
+Gregory Piatetsky-Shapiro coined the term “Knowledge Discovery in Databases” in 1989. However, the term ‘data mining’ became more popular in the business and press communities. Currently, Data Mining and Knowledge Discovery are used interchangeably.
+
+Now a days, data mining is used in almost all the places where a large amount of data is stored and processed. For example, banks typically use ‘data mining’ to find out their prospective customers who could be interested in credit cards, personal loans or insurances as well. Since banks have the transaction details and detailed profiles of their customers, they analyze all this data and try to find out patterns which help them predict that certain customers could be interested in personal loans etc.
+
+Main Purpose of Data Mining
+Basically, the information gathered from Data Mining helps to predict hidden patterns, future trends and behaviors and allowing businesses to take decisions.
+
+Technically, data mining is the computational process of analyzing data from different perspective, dimensions, angles and categorizing/summarizing it into meaningful information.
+Data Mining can be applied to any type of data e.g. Data Warehouses, Transactional Databases, Relational Databases, Multimedia Databases, Spatial Databases, Time-series Databases, World Wide Web.
+
+
+
+Data Mining as a whole process
+The whole process of Data Mining comprises of three main phases:
+1. Data Pre-processing – Data cleaning, integration, selection and transformation takes place
+2. Data Extraction – Occurrence of exact data mining
+3. Data Evaluation and Presentation – Analyzing and presenting results
+
+datamining
+
+In future articles, we will cover the details of each of these phase.
+
+Applications of Data Mining
+1. Financial Analysis
+2. Biological Analysis
+3. Scientific Analysis
+4. Intrusion Detection
+5. Fraud Detection
+6. Research Analysis
+
+Real life example of Data Mining – Market Basket Analysis
+Market Basket Analysis is a technique which gives the careful study of purchases done by a customer in a super market. The concept is basically applied to identify the items that are bought together by a customer. Say, if a person buys bread, what are the chances that he/she will also purchase butter. This analysis helps in promoting offers and deals by the companies. The same is done with the help of data mining.
+
+This article is contributed by Sheena Kohli. If you like GeeksforGeeks and would like to contribute, you can also write an article using contribute.geeksforgeeks.org or mail your article to contribute@geeksforgeeks.org. See your article appearing on the GeeksforGeeks main page and help other Geeks.
+
+Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above.
+
+
+
+Recommended Posts:
+Difference between Data Warehousing and Data Mining
+Types of Sources of Data in Data Mining
+Data Mining | Set 2
+Data Preprocessing in Data Mining
+Data Normalization in Data Mining
+Data Integration in Data Mining
+Challenges of Data Mining
+KDD Process in Data Mining
+Numerosity Reduction in Data Mining
+Redundancy and Correlation in Data Mining
+Basic Concept of Classification (Data Mining)
+Relationship between Data Mining and Machine Learning
+Attribute Subset Selection in Data Mining
+Frequent Item set in Data set (Association Rule Mining)
+Web Mining
+
+
+Article Tags : 
+Advanced Computer Subject
+DBMS
+data mining
+Practice Tags : 
+DBMS
+
+thumb_up
+7
+
+
+ 
+2.2
+
+Based on 9 vote(s)
+Feedback/ Suggest ImprovementAdd NotesImprove Article  
+Please write to us at contribute@geeksforgeeks.org to report any issue with the above content.
+Post navigation
+Previous
+first_page Buffer Overflow Attack with Example
+Next
+last_pageData Warehousing
+
+
+
+
+Writing code in comment? Please use ide.geeksforgeeks.org, generate link and share the link here.
+
+
+Load Comments
+
+auto
+Most popular in Advanced Computer Subject
+Proto Van Emde Boas Tree | Set 5 | Queries: Minimum, Maximum
+Proto Van Emde Boas Tree | Set 6 | Query : Successor and Predecessor
+Python | Positional Index
+Spelling Correction using K-Gram Overlap
+OpenCV | Loading Video
+
+Most visited in DBMS
+MySQL | Database Files
+Neo4j Installation
+Concurrency problems in DBMS Transactions
+Neo4j Create Index
+Neo4j Create Node
+
+
+✍
+Write a Testimonial
+⇣
+GeeksforGeeks
+5th Floor, A-118,
+Sector-136, Noida, Uttar Pradesh - 201305
+feedback@geeksforgeeks.org
+COMPANY
+About Us
+Careers
+Privacy Policy
+Contact Us
+LEARN
+Algorithms
+Data Structures
+Languages
+CS Subjects
+Video Tutorials
+PRACTICE
+Courses
+Company-wise
+Topic-wise
+How to begin?
+CONTRIBUTE
+Write an Article
+Write Interview Experience
+Internships
+Videos
+    
+@geeksforgeeks, Some rights reserved
